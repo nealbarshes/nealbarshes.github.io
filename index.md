@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Neal R. Barshes, M.D., M.P.H.
 
-You can use the [editor on GitHub](https://github.com/nealbarshes/nealbarshes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+As an academic vascular surgeon, I work to develop cost-effective, resilient and equitable strategies to prevent leg amputations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page serves as a repository for resources I am sharing to help others with research- and policy-/outreach-related efforts to reduce leg amputations.
 
-### Markdown
+### <i>Guard your Feet</i> patient educational brochures
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with:
+1. Understanding how diabetes can lead to foot ulcers and infections.
+2. Quantifying amputation risk
+3. Actions that reduce amputation risk
+4. Recognizing foot infection
+5. Developing an contingency plan for treatment
 
-```markdown
-Syntax highlighted code block
+This brochure is written at the 8th grade level with minimal technical language. Fantastic people here in Houston have helped translate it into 9 other languages. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[Link](url)
 
-1. Numbered
-2. List
+### Research Publications and Other Resources
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nealbarshes/nealbarshes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
