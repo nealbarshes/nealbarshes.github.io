@@ -1,8 +1,10 @@
 ## Neal R. Barshes, M.D., M.P.H.
 
+![Image](https://www.bcm.edu/sites/default/files/profile_photos/nbarshes.jpeg)
+
 As an academic vascular surgeon, I work to develop cost-effective, resilient and equitable strategies to prevent leg amputations.
 
-This page serves as a repository for resources I am sharing to help others with research- and policy-/outreach-related efforts to reduce leg amputations.
+This contains a portfolio of resources I am sharing to help others with research, policy ad outreach efforts intended to reduce leg amputations.
 
 ### <i>Guard your Feet</i> patient educational brochures
 
@@ -30,6 +32,5 @@ This brochure is written at the 8th grade level with minimal technical language.
 ### Research Publications and Other Resources
 
 
-![Image](https://www.bcm.edu/sites/default/files/profile_photos/nbarshes.jpeg)
 ```
 
