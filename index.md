@@ -15,6 +15,7 @@ This page serves as a repository for resources I am sharing to help others with 
 
 This brochure is written at the 8th grade level with minimal technical language. Fantastic people here in Houston have helped translate it into 9 other languages. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients.
 
+1. [Guard your Feet, English](01 Guard your Feet [ENGLISH].pdf)
 
 [Link](url)
 
