@@ -29,9 +29,7 @@ This brochure is written at the 8th grade level with minimal technical language.
 
 ### Research Publications and Other Resources
 
-logo: [https://www.bcm.edu/sites/default/files/profile_photos/nbarshes.jpeg]
 
-
-[Link](url) and ![Image](src)
+![Image](https://www.bcm.edu/sites/default/files/profile_photos/nbarshes.jpeg)
 ```
 
