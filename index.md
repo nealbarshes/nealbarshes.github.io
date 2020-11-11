@@ -1,17 +1,12 @@
 As an academic vascular surgeon, I work to develop cost-effective, resilient and equitable strategies to prevent leg amputations.
 
-This contains a portfolio of resources I am sharing to help others with research, policy ad outreach efforts intended to reduce leg amputations.
+This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations.
 
 ### Patient education brochures
 
-<i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with:
-1. Understanding how diabetes can lead to foot ulcers and infections.
-2. Quantifying amputation risk
-3. Actions that reduce amputation risk
-4. Recognizing foot infection
-5. Developing an contingency plan for treatment
+<i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with understanding how diabetes can lead to foot ulcers and infections and quantifying amputation risk. It helps people reduce their amputation risk, recognize a foot infection, and develop a contingency plan if infection does develop.
 
-This brochure is written at the 8th grade level with minimal technical language. Fantastic people here in Houston have helped translate it into 9 other languages. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients.
+This brochure is written at the 8th grade level with minimal technical language and has been reviewed by patients. Fantastic colleagues here in Houston have helped translate it from English into nine other languages. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients.
 
 1.  [Guard your Feet, English](https://github.com/nealbarshes/AmputationPrevention/blob/main/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
 2.  [Protega los Pies, Spanish](https://github.com/nealbarshes/AmputationPrevention/blob/main/02%20Protega%20los%20Pies%20%5BSpanish%5D.pdf)
