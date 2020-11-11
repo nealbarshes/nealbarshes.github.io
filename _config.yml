@@ -2,6 +2,6 @@ title: Neal R. Barshes, M.D., M.P.H.
 title_image: /assets/img/title-image.png
 logo: /assets/img/logo.png
 description: Resources for amputation prevention.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
