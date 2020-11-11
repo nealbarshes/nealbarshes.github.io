@@ -1,12 +1,8 @@
-## Neal R. Barshes, M.D., M.P.H.
-
-![Image](https://www.bcm.edu/sites/default/files/profile_photos/nbarshes.jpeg)
-
 As an academic vascular surgeon, I work to develop cost-effective, resilient and equitable strategies to prevent leg amputations.
 
 This contains a portfolio of resources I am sharing to help others with research, policy ad outreach efforts intended to reduce leg amputations.
 
-### <i>Guard your Feet</i> patient educational brochures
+### Patient education brochures
 
 <i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with:
 1. Understanding how diabetes can lead to foot ulcers and infections.
