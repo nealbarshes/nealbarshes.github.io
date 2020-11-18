@@ -1,6 +1,11 @@
 As an academic vascular surgeon, I work to develop cost-effective, resilient and equitable strategies to prevent leg amputations.
 
-This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations.
+This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations. 
+
+This two-page [health policy brief](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/UTMB%20CEHB%20brief%201602%2C%20amputation%20disparities.pdf) (written with the [University of Texas Medical Branch's Center to Eliminate Health Disparities](https://www.utmb.edu/hpla/health-disparities/health-disparities)) summarizes the problems caused by leg amputations and suggests some steps forward. 
+
+Health professionals interested in getting overview of the spectrum of care to avoid leg amputations can read our 2013 ["System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) or our 2011 ["framework" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf). This 2019 ["Advances in PAD" paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%20%26%20Grant%2C%20PAD%20advances%202019.pdf) describes state-of-the-art developments in management.
+
 
 ### Patient education brochures
 
@@ -20,7 +25,15 @@ This brochure is written at the 8th grade level with minimal technical language 
 10. [护理您的脚, Mandarin Chinese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
 
 
-### Research Publications and Other Resources
+### Additional 
+
+Prevention of foot ulcers clearly represents to best opportunity for cost savings: reduced amputation rates + lower cost than current care [Journal] 
+
+All patients with large or infected foot ulcers merit objective testing to identify peripheral artery disease [JVS 2019]
+
+It can be cost-effective to offer revascularization and limb salvage efforts to elderly, functionally-marginal patients, 
+
+2. 
 
 
 ```
