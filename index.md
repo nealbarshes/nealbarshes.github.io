@@ -32,9 +32,3 @@ This brochure is written at the 8th grade level with minimal technical language 
 3. Even with risk adjustment, people categorized as Black and people categorized as Hispanic undergo [b]more leg amputations[/b] than people categorized as White. [Tex Publ Health J 2018](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf).
 4. It can be cost-effective to offer revascularization and limb salvage efforts to elderly, functionally-marginal patients. [Ann Vasc Surg 2014](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20marginal%20patient%20bypass.pdf).
 5. Foot infections in bone (osteomyelitis) with E. coli or Pseudomonas are associated with worse foot infection outcomes [Int J Lower Extrem Wounds 2016](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFO%20treatment%20failure.pdf); infections with methicillin-sensitive Staphylococcus aureus are not. [Surg Infections 2017](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). 
-
-
-
-
-```
-
