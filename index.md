@@ -2,7 +2,7 @@ As an academic vascular surgeon, I work to develop cost-effective, resilient and
 
 This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations. 
 
-This two-page [health policy brief](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/UTMB%20CEHB%20brief%201602%2C%20amputation%20disparities.pdf) (written with the University of Texas Medical Branch's Center to Eliminate Health Disparities) summarizes the problems caused by leg amputations and suggests some steps forward. 
+This two-page [health policy brief](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/UTMB%20CEHB%20brief%201602%2C%20amputation%20disparities.pdf), written with the University of Texas Medical Branch's Center to Eliminate Health Disparities, summarizes the problems caused by leg amputations and suggests some steps forward. 
 
 Health professionals interested in getting overview of the spectrum of care to avoid leg amputations can read our 2013 ["System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) or our 2011 ["framework" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf). This 2019 ["Advances in PAD" paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%20%26%20Grant%2C%20PAD%20advances%202019.pdf) describes state-of-the-art developments in management.
 
@@ -27,13 +27,13 @@ This brochure is written at the 8th grade level with minimal technical language 
 
 ### Additional 
 
-Prevention of foot ulcers clearly represents to best opportunity for cost savings: reduced amputation rates + lower cost than current care [Journal] 
+1. The [b]prevention[/b] of foot ulcers clearly represents to best opportunity for cost savings: reduced amputation rates + lower cost than current care. [J Diabetes Complications 2017](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFU%20prevention%20cost-savings.pdf). 
+2. All patients with large or infected foot ulcers merit [b]objective testing[/b] (toe pressures, skin perfusion pressures, or angiogram) to identify peripheral artery disease. [J Vasc Surg 2016].
+3. Even with risk adjustment, people categorized as Black and people categorized as Hispanic undergo [b]more leg amputations[/b] than people categorized as White. [Tex Publ Health J 2018](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf).
+4. It can be cost-effective to offer revascularization and limb salvage efforts to elderly, functionally-marginal patients. [Ann Vasc Surg 2014](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20marginal%20patient%20bypass.pdf).
+5. Foot infections in bone (osteomyelitis) with [i]E. coli[/i] or [i]Pseudomonas[/i] are associated with worse foot infection outcomes [Int J Lower Extrem Wounds 2016](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFO%20treatment%20failure.pdf); infections with methicillin-sensitive [i]Staphylococcus aureus[/i] are not. [Surg Infections 2017](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). 
 
-All patients with large or infected foot ulcers merit objective testing to identify peripheral artery disease [JVS 2019]
 
-It can be cost-effective to offer revascularization and limb salvage efforts to elderly, functionally-marginal patients, 
-
-2. 
 
 
 ```
