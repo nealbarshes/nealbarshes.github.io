@@ -25,7 +25,7 @@ This brochure is written at the 8th grade level with minimal technical language 
 10. [护理您的脚, Mandarin Chinese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
 
 
-### Additional 
+### Peer-Reviewed Manuscripts
 
 1. [Foot ulcer prevention](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFU%20prevention%20cost-savings.pdf) clearly represents to best opportunity for cost savings: reduced amputation rates + lower cost than current care. 
 2. All patients with large or infected foot ulcers merit [objective testing (toe pressures, skin perfusion pressures, or angiogram) to identify peripheral artery disease](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20PAD%20identification%20strategies.pdf).
