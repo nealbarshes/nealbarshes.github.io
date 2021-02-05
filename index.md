@@ -25,10 +25,14 @@ This brochure is written at the 8th grade level with minimal technical language 
 10. [护理您的脚, Mandarin Chinese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
 
 
-### Peer-Reviewed Manuscripts
+### Our Manuscripts Relevant to Clinical Care 
 
 1. [Foot ulcer prevention](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFU%20prevention%20cost-savings.pdf) clearly represents to best opportunity for cost savings: reduced amputation rates + lower cost than current care. 
 2. All patients with large or infected foot ulcers merit [objective testing (toe pressures, skin perfusion pressures, or angiogram) to identify peripheral artery disease](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20PAD%20identification%20strategies.pdf).
 3. Significant [racial and ethnic disparities persist](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas, as people categorized as Black and people categorized as Hispanic undergo higher risk-adjusted rates of leg amputations than people categorized as White.
 4. It can be cost-effective to offer revascularization and limb salvage efforts to [elderly, functionally-marginal patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20marginal%20patient%20bypass.pdf).
 5. Foot infections in bone (osteomyelitis) with [E. coli or Pseudomonas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFO%20treatment%20failure.pdf) are associated with worse outcomes; infections with methicillin-sensitive [Staphylococcus aureus](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). 
+
+### For Texas Health Care Providers 
+
+1. [Foot ulcer prevention](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFU%20prevention%20cost-savings.pdf) clearly represents to best opportunity for cost savings: reduced amputation rates + lower cost than current care. 
