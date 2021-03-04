@@ -25,7 +25,7 @@ This brochure is written at the 8th grade level with minimal technical language 
 10. [护理您的脚, Mandarin Chinese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
 
 
-#### Tenets of Treatment:
+### Tenets of Treatment:
 1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
 2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
 3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
