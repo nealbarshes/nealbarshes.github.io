@@ -94,15 +94,8 @@ Situation 4: <b>severe hyperglycemia (glucose 300-499)</b>
 2. Consult infectious disease.
 3. Order outpatient wound care supplies.
 4. Counsel on smoking cessation (if applicable). Provide resources.
-5. Optional: Diabetes education (room 3C-123 0800-1530 M-F, pager 1022)
+5. Optional: Diabetes education.
  
-### Post-op dressings
-component	Use 21st century management:	Don’t use 19th century tactic :
-directly on the wound	cadexomer iodine gel (Iodosorb)	wet Kerlix
-absorbant layer	2x2 or 4x4 gauze 	dry  Kerlix
-to hold it in place	if small: medium Tegaderm 
-if large: cast padding (Webril)+ ACE wrap, held in place with 2” paper tape folded to create a “quick release tab	more and more Kerlix, then circumferential 1” silk tape 
-  
 ### Day #2: Preparing for discharge.
 1. Consult home health for home wound care.
 2. Consult infectious disease.
@@ -111,8 +104,8 @@ if large: cast padding (Webril)+ ACE wrap, held in place with 2” paper tape fo
 5. Optional: Diabetes education (room 3C-123 0800-1530 M-F, pager 1022)
 
 ### Day #3: Transition to outpatient care 
-[]	Check final culture results
-[]	Renal adjustments of IV antibiotics (goal vancomycin trough 10-20 mcg/dL)
+1.	Check final culture results
+2.	Renal adjustments of IV antibiotics (goal vancomycin trough 10-20 mcg/dL)
 3.	Discuss smoking cessation.
 
 ### Discharge checklist: “ABC DEF”
@@ -124,7 +117,5 @@ C= | Consultant follow-up (ECL wound care or Podiatry +/- Infectious Disease)
 D= | Discharge Disposition
 E= | Equipment: active dressings +/- wound VAC
 F= | Footwear (DH walker, or “fracture boot”) + Four point walker; both from prosthetics department
-
-
 
 
