@@ -4,6 +4,9 @@
 Foot infections are a common precursor to the decision for leg amputation. 
 Infection can cause systemic illness (including acute kidney injury and acute coronary syndrome). 
 
+![Foot infections: put out the fire!](/assets/WildfireColor.jpg "Foot infections: put out the fire!")
+
+
 Suspect deep soft tissue infection in any of the following situations:
 
 ### Inpatient Management: Operative Treatment of Infection
@@ -54,7 +57,7 @@ B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 Continue all home meds except metformin, Coumadin, other anticoagulants
 
 
-![alt text for screen readers](/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg "Text to show on mouseover")
+
 
 
 ### Special circumstances: 
