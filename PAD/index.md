@@ -45,16 +45,22 @@ In the clinic before the operation, consider: vein mapping (NOT done in vascular
 
 Before the case, consider: (1) indication; (2) hemoglobin; (3) eGFR; (4) planned conduit, (5) baseline anti platelet / anticoagulation meds. I will mark vein course using ultrasound BEFORE the patient gets to the room.
 
-On the field: 4-0 silk ties; 7-0 Prolene. magnet pad, Ioban x3. Supine, left arm tucked (unless arm vein harvest) drape above the umbilicus; isolation bag if tibial/pedal target, stockinette otherwise. If foot wound: gets prep’ed with chlorhexidine.
+On the field: 4-0 silk ties; 7-0 Prolene. magnet pad, Ioban x3. Supine, left arm tucked (unless arm vein harvest) drape above the umbilicus; isolation bag if tibial/pedal target, stockinette otherwise. If foot wound: gets prep’ed with chlorhexidine. Do a full five-minute hand scrub.
 
-Do a full five-minute hand scrub.
+Five steps: 1) vein harvest; 2&3) distal & proximal exposures; 4) tunneling + anastomoses; 5) closure.
 
-Five steps: 1) vein harvest; 2&3) distal & proximal exposures; 4) tunneling + anastomoses; 5) “clean closure” (change gown and gloves, use clean instruments); interrupted 2-0 Vicryl (NO running closure); 4-0 monocryl for skin.
+The bundle we've employed to [reduce surgical site infections by 67%](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/ZamaniSSIreduction.pdf):
+1. minimize pre-admission
+2. methicillin-sensitive <i>Staphylococcus aureus</i> decontamination protocol with mupirocin nasal ointment, chlorhexidine wipes or shower
+3. vancomycin in wound ONLY if re-do case AND no vein in the field
+4. interrupted 2-0 Vicryl to close dead space
+5. subcuticular skin closure with  4-0 Monocryl
+6. negative pressure wound therapy (transparent dressing “window panes”, Adaptec, black sponge, more transparent dressings).
 
-Post-op: to SICU overnight. NS @ ~0.5mL/kg/hr x12 hours. Start prophylactic anticoagulation (see “elements”) and multimodal pain regimen. Clear liquids. Labs and full breakfast for AM. Write text orders for out of bed to cardiac chair in AM, to not manipulate leg wrap, and to keep overhead lights on and curtains open during daytime hours (7A-9PM). Ignore SICU template orders that don't apply (ex. extubation parameters). Orders for AM chemistry & hemoglobin; add baseline brain naturetic peptide (BNP) if known CHF.
+<b>Post-op: to SICU overnight. NS @ ~0.5mL/kg/hr x12 hours. Start prophylactic anticoagulation (see “elements”) and multimodal pain regimen. Clear liquids. Labs and full breakfast for AM. Write text orders for out of bed to cardiac chair in AM, to not manipulate leg wrap, and to keep overhead lights on and curtains open during daytime hours (7A-9PM). Ignore SICU template orders that don't apply (ex. extubation parameters). Orders for AM chemistry & hemoglobin; add baseline brain naturetic peptide (BNP) if known CHF.
 
-POD#1: Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs.
+<b>POD#1:</b> Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs.
 
-POD#2: Out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4. Order AM hematocrit +/- repeat BNP. BMP only if ESRD.
+<b>POD#2:</b> Out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4. Order AM hematocrit +/- repeat BNP. BMP only if ESRD.
 
-POD#3: Start Eliquis is spliced vein and HAS-BLED < or =3, cilostazol if single segment vein. Start Plavix if PTFE. Discharge with 30 tabs tramadol OR 20 tabs Tylenol #3.
+<b>POD#3:</b> Start Eliquis is spliced vein and HAS-BLED < or =3, cilostazol if single segment vein. Start Plavix if PTFE. Discharge with 30 tabs tramadol OR 20 tabs Tylenol #3.
