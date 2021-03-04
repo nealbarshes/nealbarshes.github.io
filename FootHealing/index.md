@@ -4,6 +4,11 @@ ALL patients with a non-healing foot ulcer should have radiographic imaging to e
 
 Magnetic resonance imaging or percutaneus image-guided bone biopsy (with specimens for both pathology and microbiology) should be requested in the following situations: (1) wound probes to bone; (2) x-ray changes suggestive of osteomyelitis in an area contiguous with the ulcer; (3) erythrocyte sedimentation rate >55 mm/hr, C-reactive protein >44mg/mL, procalcitonin >0.33ng/mL  without clinical signs of soft tissue infection; (4) continued non-healing despite adequate arterial circulation, offloading, and wound care.
 
+| item  | image  | recommentation  |
+|---|---|
+| offloading boot<br><i>(exs. DH Walker, CAM boot)</i>  |   |
+|   |   |
+| cast shoe  | ![cast shoe!](/assets/CastShoe.jpg) | discouraged |
 
 
 3. Provide proper OFFLOADING FOOTWEAR to ALL PATIENTS; consider surgical offloading for some.
@@ -58,6 +63,7 @@ b)
 c)	
 
 
+![Foot infections: put out the fire!](/assets/WildfireColor.jpg "Foot infections: put out the fire!")
 
 
 DO NOT: 
