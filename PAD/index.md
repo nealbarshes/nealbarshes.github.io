@@ -5,13 +5,10 @@ If PAD is untreated or unrecognized, 1-year limb salvage rates are 50-60%.
 Thus, identification and treatment of PAD may be the single most influential factor in amputation prevention.
 
 Based on a formal decision analysis, the two most sensitive strategies to identify PAD in patients with foot ulcers are:
+![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
 
 
-
-In addition, consider angiography if any of the following specific situations are present:
-
-
-| <b>consider angiography if any of the following conditions are present:</b>  |
+| In addition, <b>consider angiography if any of the following specific situations are present:</b>  |
 |---|
 | pedal pulses weak or absent  |
 | continuous wave Doppler signal is monophasic |
