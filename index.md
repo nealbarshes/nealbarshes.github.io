@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YPLVGC5FDP');
+</script>
+
 As an academic vascular surgeon, I work to develop cost-effective, resilient and equitable strategies to prevent leg amputations.
 
 This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations. 
