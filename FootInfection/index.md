@@ -10,7 +10,7 @@ Surgery is often an important component to the treatment of infection.
 Foot infection should be assumed present unless proven otherwise in all patients with the following findings.<br> Absence of any of these findings does <i>NOT</i> rule infection.
 
 |  <b>finding </b> |
-| --- |
+|  ---  |
 |  nausea  |
 |  anorexia  |
 |  subjective chills or sweats  |
