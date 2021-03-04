@@ -27,7 +27,7 @@ Based on a [formal decision analysis](https://github.com/nealbarshes/nealbarshes
 ### Infrainguinal endovascular interventions
 
 In the clinic, consider: (1) indication; (2) bilateral femoral pulses, ipsilat. popliteal and pedal pulses; (3) bedside vein mapping. 
-Plan for pre- and post-admission if eGFR<60mL/min: NS@0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
+Plan for pre- and post-admission if eGFR<60mL/min: normal saline at 0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
 
 In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) previous imaging (if it exists).
 
