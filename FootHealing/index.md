@@ -1,5 +1,7 @@
 # Reconstruct, Reestablishing an Intact Epithelium over the Entire Extremity
 
+Thank you to Dr. Aimee Garcia, Dr. Delma Jara, Dr. Ana Macias, Dr. Cezarina Mindru, Dr. Maria Rodriguez-Barradas, and Dr. David Green for input on this local consensus approach to foot ulcer healing.
+
 ### Provide proper OFFLOADING to ALL patients:
 
 All patients should receive offloading footwear: 
