@@ -29,8 +29,7 @@ Continue all home meds except metformin, Coumadin, other anticoagulants
 4. CRP,  procalcitonin, and brain naturetic peptide (BNP)
 5. PT/PTT/INR only if on anticoagulation
 
-![](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg)
-![alt text for screen readers](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg "Text to show on mouseover")
+![alt text for screen readers](/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg "Text to show on mouseover")
 
 
 ### Special circumstances: 
