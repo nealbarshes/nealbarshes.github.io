@@ -52,54 +52,41 @@ Continue all home meds except metformin, Coumadin, other anticoagulants
 
 
 ### Atypical presentations: 
-<ul>
-<li>Situation 1: <b>hypotension</b> (systolic blood pressure <90mmHg): 
+Situation 1: <b>hypotension</b> (systolic blood pressure <90mmHg): 
 <ul>
 <li>treat like SIRS as above along with: SICU admission LR 30mL/kg (~2L) influsion over 3 hours</li>
 <li>intravenous vancomycin + cefipime</li>
 <li>norepinephrine if not responding</li>
 </ul>
 
-</li>
-<li>Situation 2: either <b>tachycardia alone</b> or <b>SIRS syndrome</b> (2+ of temperature >100.5&deg;F or 38&deg;C, pulse >90/minute, respiratory rate >20/minute, PaCO2<32, white blood cell count >12K/mL or 10% bands):
+Situation 2: either <b>tachycardia alone</b> or <b>SIRS syndrome</b> (2+ of temperature >100.5&deg;F or 38&deg;C, pulse >90/minute, respiratory rate >20/minute, PaCO2<32, white blood cell count >12K/mL or 10% bands):
 <ul>
 <li>get blood cultures, serum lactate, ECG, brain naturetic peptide (BNP), CK/CKMB/troponins at admission.</li>
 <li>Repeat EKG and BNP following day.</li>
  <li>Consult cardiology or vascular medicine if any are abnormal.</li>
 </ul>
-</li>
-</ul>
 
-</li>
-<li>Situation 3: <b>hyperosmolar hyperglycemic syndrome (HHS)</b>: [serum osmolality](https://www.mdcalc.com/serum-osmolality-osmolarity) >320 mOsm/kg. You can presume this is present if glucose >600 + sodium >140 or glucose >500 + sodium >145:
+Situation 3: <b>hyperosmolar hyperglycemic syndrome (HHS)</b>: [serum osmolality](https://www.mdcalc.com/serum-osmolality-osmolarity) >320 mOsm/kg. You can presume this is present if glucose >600 + sodium >140 or glucose >500 + sodium >145:
 <ul>
 <li>Admit to ICU.</li>
 <li>Get serum ketones and q6h metabolic panels.</li>
 <li>Give  0.5-1L NS and start insulin drip.</li>
- <li>Work with medicine team to replace potassium.</li>
-</ul>
-</li>
+<li>Work with medicine team to replace potassium.</li>
 </ul>
 
-</li>
-<li>Situation 4: <b>severe hyperglycemia (glucose 300-499)</b>
+Situation 4: <b>severe hyperglycemia (glucose 300-499)</b>
 <ul>
 <li>admit to stepdown for insulin drip.</li>
 <li>give 500mL NS over 24 hours. .</li>
 </ul>
-</li>
-</ul>
-
 
 
 ### Day #1: Boot, Blood flow, wound care.
 1. Prosthetics consults for DH walker + 4-point rollator walker + shower bench + wheelchair.
 2. Text order for wheelchair + escort to prosthetics department (2B-400)
 3. Change dressing, using either cadexomer iodine gel (Iodosorb)
- 
 1. Continued empiric IV antibiotic dosing. Vanc trough (if applicable)
 2. Order POD #2 labs: BMP, CBC with diff, CRP, procalcitonin
-
 6. If palpable pedal pulses → vascular lab consult for ABIs, toe pressures; if NOT palpable →. vascular surgery consult to schedule angiogram +/- intervention.
 7. Tell patient to anticipate discharge home in 48 hours. 
 
@@ -117,7 +104,6 @@ directly on the wound	cadexomer iodine gel (Iodosorb)	wet Kerlix
 absorbant layer	2x2 or 4x4 gauze 	dry  Kerlix
 to hold it in place	if small: medium Tegaderm 
 if large: cast padding (Webril)+ ACE wrap, held in place with 2” paper tape folded to create a “quick release tab	more and more Kerlix, then circumferential 1” silk tape 
-
   
 ### Day #2: Preparing for discharge.
 1. Consult home health for home wound care.
@@ -126,21 +112,21 @@ if large: cast padding (Webril)+ ACE wrap, held in place with 2” paper tape fo
 4. Counsel on smoking cessation (if applicable). Provide resources.
 5. Optional: Diabetes education (room 3C-123 0800-1530 M-F, pager 1022)
 
-Day #3: Transition to outpatient care 
-1.	Check final culture results
-2.	
-3.	Renal adjustments of IV antibiotics (goal vancomycin trough 10-20 mcg/dL)
-4.	Discuss smoking cessation.
+### Day #3: Transition to outpatient care 
+[]	Check final culture results
+[]	Renal adjustments of IV antibiotics (goal vancomycin trough 10-20 mcg/dL)
+3.	Discuss smoking cessation.
 
 ### Discharge checklist: “ABC DEF”
-A=Antibiotic plan
-B=Blood flow testing (either toe pressures or angiogram)
-C=Consultant follow-up (ECL wound care or Podiatry +/- Infectious Disease)
-D=Discharge Disposition
-E=Equipment: active dressings +/- wound VAC
-F=Footwear (DH walker, or “fracture boot”) + Four point walker; both from prosthetics department
-Valid indications for extended post-operative hospitalization beyond POD #3:
--	Bacteremia on admission (needs 7 days IV antibiotics; consult ID team)
+Letter | Item
+------------ | -------------
+A= | Antibiotic plan
+B= | Blood flow testing (either toe pressures or angiogram)
+C= | Consultant follow-up (ECL wound care or Podiatry +/- Infectious Disease)
+D= | Discharge Disposition
+E= | Equipment: active dressings +/- wound VAC
+F= | Footwear (DH walker, or “fracture boot”) + Four point walker; both from prosthetics department
+
 
 
 
