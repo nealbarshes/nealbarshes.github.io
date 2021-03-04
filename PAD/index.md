@@ -17,7 +17,7 @@ Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcer
 
 ![PAD and limb loss](/assets/VennDiagram.jpg "PAD and limb loss")<br>
 
-(Image from our [2013 "System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf))
+<i>(Venn diagram from our [2013 "System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf))</i>
 
 <br>
 <br>
