@@ -30,6 +30,7 @@ A [formal decision analysis](https://github.com/nealbarshes/nealbarshes.github.i
 Reserving non-invasive testing for patients with weak or absent pedal pulses, then doing angiography only if this is abnormal is associated with a <b>low</b> sensitivity rate in finding PAD.
 <p>
 <p>
+<br>
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
 <br>
 <br>
