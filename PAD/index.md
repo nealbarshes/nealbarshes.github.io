@@ -1,15 +1,17 @@
-test here
+# Ensure or Establish Adequate Arterial Inflow
+
+With revascularization, 1-year limb salvage rates among patients with peripheral artery disease (PAD) and a foot ulcer, foot infection, or foot gangrene with is 90%. 
+If PAD is untreated or unrecognized, 1-year limb salvage rates are 50-60%.
+Thus, identification and treatment of PAD may be the single most influential factor in amputation prevention.
+
+Based on a formal decision analysis, the two most sensitive strategies to identify PAD in patients with foot ulcers are:
 
 
 
-# | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+In addition, consider angiography if any of the following specific situations are present:
 
 
-
-| consider angiography if any of the following conditions are present:  |
+| <b>consider angiography if any of the following conditions are present:</b>  |
 |---|
 | pedal pulses weak or absent  |
 | continuous wave Doppler signal is monophasic |
