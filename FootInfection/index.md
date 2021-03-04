@@ -50,7 +50,6 @@ B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 Continue all home meds except metformin, Coumadin, other anticoagulants
 
 
-
 ### Atypical presentations: 
 Situation 1: <b>hypotension</b> (systolic blood pressure <90mmHg): 
 <ul>
@@ -83,14 +82,13 @@ Situation 4: <b>severe hyperglycemia (glucose 300-499)</b>
 
 ### Day #1: Boot, Blood flow, wound care.
 1. Prosthetics consults for DH walker + 4-point rollator walker + shower bench + wheelchair.
-2. Text order for wheelchair + escort to prosthetics department (2B-400)
-3. Change dressing, using either cadexomer iodine gel (Iodosorb)
-1. Continued empiric IV antibiotic dosing. Vanc trough (if applicable)
-2. Order POD #2 labs: BMP, CBC with diff, CRP, procalcitonin
+2. Text order for wheelchair + escort to prosthetics department.
+3. Change dressing using either cadexomer iodine gel or Acticoat Flex-3.
+1. Continued empiric IV antibiotic dosing. Vanc trough (if applicable).
+2. Order POD #2 labs: BMP, CBC with diff, CRP, procalcitonin.
 6. If palpable pedal pulses → vascular lab consult for ABIs, toe pressures; if NOT palpable →. vascular surgery consult to schedule angiogram +/- intervention.
 7. Tell patient to anticipate discharge home in 48 hours. 
 
- 
 ### Day #1: Boot, Blood flow, wound care.
 1. Consult home health for home wound care.
 2. Consult infectious disease.
@@ -98,7 +96,7 @@ Situation 4: <b>severe hyperglycemia (glucose 300-499)</b>
 4. Counsel on smoking cessation (if applicable). Provide resources.
 5. Optional: Diabetes education (room 3C-123 0800-1530 M-F, pager 1022)
  
-Post-op dressings
+### Post-op dressings
 component	Use 21st century management:	Don’t use 19th century tactic :
 directly on the wound	cadexomer iodine gel (Iodosorb)	wet Kerlix
 absorbant layer	2x2 or 4x4 gauze 	dry  Kerlix
