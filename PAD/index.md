@@ -15,8 +15,9 @@ A [formal decision analysis](https://github.com/nealbarshes/nealbarshes.github.i
 
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
 
->Simply put, these findings suggest <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b>, either in the form of an <b>angiogram</b> or <b>non-invasive testing</b>."
-
+---
+><span style="color:red">Simply put, these findings suggest <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b>, either in the form of an <b>angiogram</b> or <b>non-invasive testing</b>.</span>"
+---
 
 
 | In addition, <b>consider angiography if any of the following specific situations are present:</b>  |
