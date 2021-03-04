@@ -12,8 +12,7 @@ Letter | Medication
 ------------ | -------------
 S= | Statin
 A= | Aspirin 81mg  & Antibiotic: ceftriaxone 1gm IV q24h. 
-V= | Vitamin C 500mg PO BID
- | Vancomycin only if MRSA nares swab is positive OR if  pre-op. for abscess I&D
+V= | Vitamin C 500mg PO BID <br>Vancomycin only if MRSA nares swab is positive OR if  pre-op. for abscess I&D
 E= | ”Ensure” BID (though Glucerna SR has lowest added sugar)
  | 
 T= | Tylenol for pain or temperature >100.4F
