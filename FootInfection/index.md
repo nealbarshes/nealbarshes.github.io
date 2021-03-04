@@ -9,6 +9,23 @@ Surgery is often an important component to the treatment of infection.
 
 Foot infection should be assumed present unless proven otherwise in all patients with the following findings.<br> Absence of any of these findings does <i>NOT</i> rule infection.
 
+| <b>finding:</b>  |
+|---|
+| pedal pulses weak or absent  |
+| continuous wave Doppler signal is monophasic |
+| toe-brachial index <0.7  |
+| toe pressure <60mmHg  |
+| lowest ABI (lower ankle pressure:highest brachial pressure) <0.9 |
+| ulcer size >3cm |
+| infection requiring >3cm incision for drainage  |
+| ulcers in multiple locations/angiosomes  |
+| foot ulcer in area supplied by single angiosome: heel, dorsal foot  |
+| anticipated Lisfranc amputation, rotational flap, or free flap reconstruction  |
+
+
+
+
+
 |  <b>finding </b> |
 |  ---  |
 |  nausea  |
