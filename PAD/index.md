@@ -24,3 +24,37 @@ Based on a [formal decision analysis](https://github.com/nealbarshes/nealbarshes
 | foot ulcer in area supplied by single angiosome: heel, dorsal foot  |
 | anticipated Lisfranc amputation, rotational flap, or free flap reconstruction  |
 
+### Infrainguinal endovascular interventions
+
+In the clinic, consider: (1) indication; (2) bilateral femoral pulses, ipsilat. popliteal and pedal pulses; (3) bedside vein mapping. 
+Plan for pre- and post-admission if eGFR<60mL/min: NS@0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
+
+In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) previous imaging (if it exists).
+
+Procedure in basic steps: Bentson (NB & NH) or stiff angled GlideWire (JC) to get 5Fr sheath in; Contra/Omni to the aorta. JC: aortogram. Up-and-over: floppy Glidewire (NB & NH) or stiff Glidewire. JC & NH: start at femoral head. NB: try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross for the angiogram. 
+
+Ultimately, seven DSA runs for extremity of interest: (a) femoral at 15 degrees ipsiAO, 5/s for 5mL; (b) AP thigh, 5x5; (c) popliteal at 20 ipsiAO, 5x5; (d & e) upper and lower calf w tib-fib separated, 5x5-10; (e) CC foot shot magnifiedx1, 4x12; (f) lateral foot shot magnified x1, 4x12. Power injector with aforementioned volumes/rates (NB) vs. hand injections: 2-6mL except for foot shot (JC & NH). 
+
+If intervention: long Amplatz wire (NB) or stiff Glidewire (NH & JC) through Quickcross + 45cm 6Fr (if SFA/pop) or 55/70cm 5Fr (if tibial). Cross, shoot DSA, PTA, consider stent.
+
+After the case: bedrest x six hours. Obs. again if needed for hydration, renal protection. Discharge without outpatient narcotics (Tylenol only), Plavix bolus if intervention. Consider cilostazol otherwise. 
+
+### Infrainguinal Bypasses
+
+In the clinic before the operation, consider: vein mapping (NOT done in vascular lab) if not already done during previous hospital stay. Pre-admitted is discouraged, regardless of eGFR/creatinine.
+
+Before the case, consider: (1) indication; (2) hemoglobin; (3) eGFR; (4) planned conduit, (5) baseline anti platelet / anticoagulation meds. I will mark vein course using ultrasound BEFORE the patient gets to the room.
+
+On the field: 4-0 silk ties; 7-0 Prolene. magnet pad, Ioban x3. Supine, left arm tucked (unless arm vein harvest) drape above the umbilicus; isolation bag if tibial/pedal target, stockinette otherwise. If foot wound: gets prep’ed with chlorhexidine.
+
+Do a full five-minute hand scrub.
+
+Five steps: 1) vein harvest; 2&3) distal & proximal exposures; 4) tunneling + anastomoses; 5) “clean closure” (change gown and gloves, use clean instruments); interrupted 2-0 Vicryl (NO running closure); 4-0 monocryl for skin.
+
+Post-op: to SICU overnight. NS @ ~0.5mL/kg/hr x12 hours. Start prophylactic anticoagulation (see “elements”) and multimodal pain regimen. Clear liquids. Labs and full breakfast for AM. Write text orders for out of bed to cardiac chair in AM, to not manipulate leg wrap, and to keep overhead lights on and curtains open during daytime hours (7A-9PM). Ignore SICU template orders that don't apply (ex. extubation parameters). Orders for AM chemistry & hemoglobin; add baseline brain naturetic peptide (BNP) if known CHF.
+
+POD#1: Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs.
+
+POD#2: Out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4. Order AM hematocrit +/- repeat BNP. BMP only if ESRD.
+
+POD#3: Start Eliquis is spliced vein and HAS-BLED < or =3, cilostazol if single segment vein. Start Plavix if PTFE. Discharge with 30 tabs tramadol OR 20 tabs Tylenol #3.
