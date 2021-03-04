@@ -55,6 +55,7 @@ B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 
 Continue all home meds except metformin, Coumadin, other anticoagulants
 
+Do not empirically treat for <i>Pseudomonas</i>, as this organism represents [only 3% of isolates at our hospital](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFO%20treatment%20failure.pdf). Similarly, do not empirically treat for methicillin-sensitive <i>Staphylococcus aureus</i> (MRSA). For those with no abscess and negative MRSA nasal swab testing is negative, MRSA has been found in foot microbiology in only [5% of our patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). This increases to [22% with either abscess or MRSA nasal swab findings and to 58% with both](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). 
 
 
 ### Inpatient Management: Operative Treatment of Infection
@@ -103,42 +104,15 @@ Situation 4: <b>severe hyperglycemia (glucose 300-499)</b>
 </ul>
 
 
-### Day #1: Boot, Blood flow, wound care.
-1. Prosthetics consults for DH walker + 4-point rollator walker + shower bench + wheelchair.
-2. Text order for wheelchair + escort to prosthetics department.
-3. Change dressing using either cadexomer iodine gel or Acticoat Flex-3.
-1. Continued empiric IV antibiotic dosing. Vanc trough (if applicable).
-2. Order POD #2 labs: BMP, CBC with diff, CRP, procalcitonin.
-6. If palpable pedal pulses → vascular lab consult for ABIs, toe pressures; if NOT palpable →. vascular surgery consult to schedule angiogram +/- intervention.
-7. Tell patient to anticipate discharge home in 48 hours. 
 
-### Day #1: Boot, Blood flow, wound care.
-1. Consult home health for home wound care.
-2. Consult infectious disease.
-3. Order outpatient wound care supplies.
-4. Counsel on smoking cessation (if applicable). Provide resources.
-5. Optional: Diabetes education.
- 
-### Day #2: Preparing for discharge.
-1. Consult home health for home wound care.
-2. Consult infectious disease.
-3. Order outpatient wound care supplies.
-4. Counsel on smoking cessation (if applicable). Provide resources.
-5. Optional: Diabetes education (room 3C-123 0800-1530 M-F, pager 1022)
-
-### Day #3: Transition to outpatient care 
-1.	Check final culture results
-2.	Renal adjustments of IV antibiotics (goal vancomycin trough 10-20 mcg/dL)
-3.	Discuss smoking cessation.
-
-### Discharge checklist: “ABC DEF”
+### Goals prior to transitioning to outpatient management: “ABC DEF”
 Letter | Item
 ------------ | -------------
 A= | Antibiotic plan
-B= | Blood flow testing (either toe pressures or angiogram)
-C= | Consultant follow-up (ECL wound care or Podiatry +/- Infectious Disease)
+B= | [Blood flow testing](https://nealbarshes.github.io/PAD/)
+C= | Consultant follow-up (ECL wound care or Podiatry ± Infectious Disease)
 D= | Discharge Disposition
-E= | Equipment: active dressings +/- wound VAC
-F= | Footwear (DH walker, or “fracture boot”) + Four point walker; both from prosthetics department
+E= | Equipment/supplies for [advanced wound care](https://nealbarshes.github.io/FootHealing/)
+F= | Footwear ([offloading boot](https://nealbarshes.github.io/FootHealing/)) and<br>Four point walker<br>(both from prosthetics department)
 
 
