@@ -11,9 +11,12 @@ Thus, the <b>identification and treatment of PAD</b> may be the <b>single most i
 (Image from our [2013 "System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf))
 
 
-Based on a [formal decision analysis](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20PAD%20identification%20strategies.pdf), the two most sensitive strategies to identify PAD in patients with foot ulcers are:
+A [formal decision analysis](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20PAD%20identification%20strategies.pdf) identified these as the two most sensitive strategies to identify PAD in patients with foot ulcers:
 
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
+
+Simply put, these findings suggest <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b>, either in the form of an <b>angiogram</b> or <b>non-invasive testing</b>."
+
 
 
 | In addition, <b>consider angiography if any of the following specific situations are present:</b>  |
