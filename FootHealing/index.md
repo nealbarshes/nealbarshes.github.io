@@ -1,3 +1,12 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-611ZLN3KHT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-611ZLN3KHT');
+</script>
 # Reconstruct, Reestablishing an Intact Epithelium over the Entire Extremity
 
 Thank you to Dr. Aimee Garcia, Dr. Delma Jara, Dr. Ana Macias, Dr. Cezarina Mindru, Dr. Maria Rodriguez-Barradas, and Dr. David Green for input on this local consensus approach to foot ulcer healing.
