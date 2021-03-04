@@ -1,3 +1,4 @@
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
 <script>
@@ -7,6 +8,7 @@
 
   gtag('config', 'G-YPLVGC5FDP');
 </script>
+</head>
 
 As an academic vascular surgeon, I work to develop cost-effective, resilient and equitable strategies to prevent leg amputations.
 
