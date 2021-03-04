@@ -13,7 +13,7 @@
 
 If PAD is <i>untreated</i> or <i>unrecognized</i>, 1-year limb salvage rates are [50-60% (see review)](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf).
 
-Thus, the <b>identification and treatment of PAD</b> may be the <b>single most influential factor in amputation prevention</b>. Revascularization is [cost-effective](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20MOVIE%20analysis.pdf) and may even provide [cost-savings in frail, elderly patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20marginal%20patient%20bypass.pdf).
+Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcers may be the <b>single most influential factor in amputation prevention</b>. Revascularization is [cost-effective](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20MOVIE%20analysis.pdf) and may even provide [cost-savings in frail, elderly patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20marginal%20patient%20bypass.pdf).
 
 ![PAD and limb loss](/assets/VennDiagram.jpg "PAD and limb loss")<br>
 
