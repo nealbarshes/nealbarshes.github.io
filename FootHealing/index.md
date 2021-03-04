@@ -39,18 +39,15 @@ Some patients should be evaluated for surgical forms of offloading. Specifically
 |   | 2” paper tape or Medipore™ tape (3M)  |
 |   | Tegaderm (3M)  |
 
-#### Recommended against: 
-<ul>
-<li>use wet-to-dry dressings, as these permit continued bacterial growth, macerate surrounding skin, and perform non-selective, low-efficacy debridement. A randomized trial has reported a -50% reduction in wound area with collagenase vs. 0.8% increase with saline-moistened gauze .</li> 
+#### Generally NOT advised: 
+<ul> <li>use wet-to-dry dressings, as these permit continued bacterial growth, macerate surrounding skin, and perform non-selective, low-efficacy debridement. A randomized trial has reported a -50% reduction in wound area with collagenase vs. 0.8% increase with saline-moistened gauze .</li> 
 <li>use undiluted Betadine solution, alcohol solution, bleach, or other cleaning materials not approved for wound care.</li>
 <li>use silk or rayon tape directly on skin or on dressings.</li>
 <li>use implants or grafts as an ulcer healing adjunct unless peripheral artery disease and osteomyelitis have been ruled out (as described above), there is no active soft tissue infection, and the area reduction of the ulcer has been documented as being less than 50% over a 4 weeks despite adequate offloading and advanced local wound care (as described above).</li> </ul>
 
-## Obtain either an X-RAY, MAGNETIC RESONANCE IMAGING or BIOPSY for ALL PATIENTS to evaluate for osteomyelitis.
+## Obtain an x-ray, magnetic resonance imaging (MRI) or biopsy for ALL PATIENTS to evaluate for osteomyelitis.
 
-ALL patients with a non-healing foot ulcer should have radiographic imaging to evaluate for osteomyelitis. This evaluation should begin with plain x-rays (ordered as toes, foot, or heel, depending on the area) done within the past 30 days. Percutaneous bone biopsy or surgery should be considered for obvious bony deformities suspicious for osteomyelitis in an area contiguous with an ulcer.
-
-Magnetic resonance imaging or percutaneus image-guided bone biopsy (with specimens for both pathology and microbiology) should be requested in the following situations: 
+ALL patients with a non-healing foot ulcer should have radiographic imaging to evaluate for osteomyelitis. This evaluation should begin with plain x-rays (ordered as toes, foot, or heel, depending on the area) done within the past 30 days. Magnetic resonance imaging, percutaneous image-guided bone biopsy or surgical biopsy should be considered in the following situations:
 <ol>
 <li>cortical or trabecular bone is visible or palpable within the ulcer</li>
 <li>x-ray changes suggestive of osteomyelitis in an area contiguous with the ulcer</li>
