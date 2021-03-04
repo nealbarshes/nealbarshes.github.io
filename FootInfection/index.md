@@ -29,6 +29,8 @@ Foot infection should be assumed present unless proven otherwise in all patients
 |  criteria for of [SIRS or septic shock](https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria)  |
 |  2+ points on [qSOFA](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis) |
 
+You can watch a [5 minute 9 second video primer on identifying foot infections here](https://youtu.be/Gpw9stEfSbM).
+
 ### Admission orders
 
 #### Laboratory studies
@@ -72,6 +74,8 @@ Objectives:
 4. Removal of all obviously-necrotic tissue. Minimize resection of viable / marginal tissue
 5. Pulsatile irrigation with saline solution.
 6. Dress with gentamicin-impregnated 4x4 gauze in deep areas, Xeroform over shallow ulcer. Wrap with 4” inch Webril + 4” ACE from forefoot to knee to control edema. 
+
+This [5 minute 4 second video primer also discusses operative treatment](https://youtu.be/HRmEiwslT4E).
 
 Post-op orders: Continue most admission orders; saline lock IV; add diabetic diet + Glucerna BID, Iodosorb (cadexomer iodine) ointment; Do NOT order labs for POD#1
 
