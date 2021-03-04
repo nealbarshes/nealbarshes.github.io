@@ -7,7 +7,7 @@ Infection can cause systemic illness (including acute kidney injury and acute co
 ![Foot infections: put out the fire!](/assets/WildfireColor.jpg "Foot infections: put out the fire!")
 
 Foot infection should be assumed present unless proven otherwise in all patients with the following findings.<br> Absence of any of these findings does <i>NOT</i> rule infection.
-|  <b>finding</b> |
+|  finding |
 |---|
 |  nausea  |
 |  anorexia  |
