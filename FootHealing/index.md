@@ -1,6 +1,6 @@
 # Reconstruct, Reestablishing an Intact Epithelium over the Entire Extremity
 
-## Provide proper OFFLOADING to ALL patients:
+### Provide proper OFFLOADING to ALL patients:
 
 All patients should receive offloading footwear: 
 
@@ -15,7 +15,7 @@ The Ossur® DH OffLoading Walker™ with customized offloading insert (or, if un
 Some patients should be evaluated for surgical forms of offloading. Specifically, gastrocnemius recession or tendon Achilles lengthening should be considered for all patients who cannot dorsiflex past neutral position (90° angle between foot and calf) or who are undergoing forefoot amputation. 
 
 
-## Provide advanced contemporary wound care to ALL patients.
+### Provide advanced contemporary wound care to ALL patients.
 
 | component  | specific item(s)  |
 |---|---|
@@ -45,7 +45,7 @@ Some patients should be evaluated for surgical forms of offloading. Specifically
 <li>use silk or rayon tape directly on skin or on dressings.</li>
 <li>use implants or grafts as an ulcer healing adjunct unless peripheral artery disease and osteomyelitis have been ruled out (as described above), there is no active soft tissue infection, and the area reduction of the ulcer has been documented as being less than 50% over a 4 weeks despite adequate offloading and advanced local wound care (as described above).</li> </ul>
 
-## Evaluate for osteomyelitis with an x-ray ± magnetic resonance imaging (MRI) or biopsy for ALL patients.
+### Evaluate for osteomyelitis with an x-ray ± magnetic resonance imaging (MRI) or biopsy for ALL patients.
 
 ALL patients with a non-healing foot ulcer should have radiographic imaging to evaluate for osteomyelitis. This evaluation should begin with plain x-rays (ordered as toes, foot, or heel, depending on the area) done within the past 30 days. Magnetic resonance imaging, percutaneous image-guided bone biopsy or surgical biopsy should be considered in the following situations:
 <ol>
@@ -56,10 +56,10 @@ ALL patients with a non-healing foot ulcer should have radiographic imaging to e
 </ol>
 
 
-## Urge complete TOBACCO ABSTINENCE in ALL PATIENTS
+### Urge complete abstinence from tobacco in ALL patients
 
 Utilize freely-available local ("Veterans Kick Butts" counseling) and national smoking cessation resources (1-800-QUIT-NOW, www.smokefree.gov).
 
-## Ensure optimal medical management in ALL PATIENTS
+### Ensure optimal medical management in ALL patients
 
 Includes diabetes management that is largely concordant with recommendations from major U.S. medical societies. This should be done in conjunction with the patient’s primary care clinician or through a specialty medical clinic.
