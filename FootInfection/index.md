@@ -32,10 +32,9 @@ Continue all home meds except metformin, Coumadin, other anticoagulants
 ### Special circumstances: 
 1. <b>hypotension</b> (systolic blood pressure <90mmHg): treat like SIRS as above along with: SICU admission; vancomycin + cefipime; LR 30mL/kg (~2L) influsion over 3 hours; norepinephrine if not responding.
 2. either <b>tachycardia alone</b> or <b>SIRS syndrome</b> (2+ of temperature >100.5&deg;F or 38&deg;C, pulse >90/minute, respiratory rate >20/minute, PaCO2<32, white blood cell count >12K/mL or 10% bands): get blood cultures, serum lactate, ECG, brain naturetic peptide (BNP), CK/CKMB/troponins at admission. Repeat EKG and BNP on day Consult cardiology or vascular medicine if any are abnormal.
-3. <b>hyperosmolar hyperglycemic syndrome (HHS)</b>: serum osmolality >320 mOsm/kg.
-(Serum Osmolality = (2 x (Na + K)) + (BUN / 2.8) + (glucose / 18) . Presumed when glucose >600 with sodium >140 or when glucose >500 with sodium >145..
+3. <b>hyperosmolar hyperglycemic syndrome (HHS)</b>: [serum osmolality](https://www.mdcalc.com/serum-osmolality-osmolarity) >320 mOsm/kg. You can presume this is present if glucose >600 + sodium >140 or glucose >500 + sodium >145.
 Admit to ICU. Get serum ketones. Give  0.5-1L NS and start insulin drip. q6h metabolic panels and replace K+. 
-4. <b>severe hyperglycemia (glucose 300-499)</b>: admit to 5A for insulin drip; give 500mL NS over 24 hours. 
+4. <b>severe hyperglycemia (glucose 300-499)</b>: admit to stepdown for insulin drip; give 500mL NS over 24 hours. 
 
 ### Day #0/1: Operative Treatment of Infection
 ICD-10 L01.91 or I70.261/262; CPTs 28002, 28003, 11043; discuss with STAFF before posting.
