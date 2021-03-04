@@ -22,7 +22,7 @@ A [formal decision analysis](https://github.com/nealbarshes/nealbarshes.github.i
 <br>
 <br>
 <br>
-Simply put, <span style="color:red">these findings suggest <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b>, either in the form of an <b>angiogram</b> or <b>non-invasive testing</b>.</span>"
+Simply put, <span style="color:red">these findings suggest <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b>, either in the form of an <b>angiogram</b> or <b>non-invasive testing</b></span>.
 <br>
 <br>
 <br>
