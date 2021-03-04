@@ -59,7 +59,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 
 <b>Post-op:</b> to SICU overnight. NS @ ~0.5mL/kg/hr x12 hours. Blood count, basic metabolic panel and PT/PTT/INR now; blood count and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF. Initiate prophylaxis against DVT and start multimodal pain regimen. Clear liquid diet, solid foot breakfast. Text orders for out of bed to cardiac chair in AM, to not manipulate leg wrap, and to keep overhead lights on and curtains open during daytime hours (7A-9PM). Ignore SICU template orders that don't apply (ex. extubation parameters).
   
-<b>multimodal pain regimen for inpatients:</b>
+Multimodal pain regimen:
 1. Tylenol 500mg PO q6h SCHEDULED.
 2. Tramadol 50mg q4h PRN for break-through pain
 3. Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  Ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60.
