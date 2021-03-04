@@ -1,5 +1,12 @@
 # Management of Foot Infections
 
+### Laboratory investigations
+1. Type and SCREEN
+2. CBC with differential
+3. Complete metabolic panel
+4. CRP,  procalcitonin, and brain naturetic peptide (BNP)
+5. PT/PTT/INR only if on anticoagulation
+
 ### Medications:
 The acronym "SAVE THe LIMB" will help you remember medications that may be important for hospitalized with foot infections:
 
@@ -19,20 +26,12 @@ B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 Continue all home meds except metformin, Coumadin, other anticoagulants
 
 
-
-### Laboratory investigations
-1. Type and SCREEN
-2. CBC with differential
-3. Complete metabolic panel
-4. CRP,  procalcitonin, and brain naturetic peptide (BNP)
-5. PT/PTT/INR only if on anticoagulation
-
 ![alt text for screen readers](/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg "Text to show on mouseover")
 
 
 ### Special circumstances: 
-1. hypotension (SBP<90): treat like SIRS as above along with: SICU admission; vancomycin + cefipime; LR 30mL/kg (~2L) influsion over 3 hours; norepinephrine if not responding.
-2. either tachycardia alone or 2+ SIRS criteria present (temp>100.5, pulse>90/min, RR>20, PaCO2<32, WBC>12K or 10% bands): get blood cultures, serum lactate, ECG, brain naturetic peptide (BNP), CK/CKMB/troponins at admission. Repeat EKG and BNP on day 2. Consult cardiology or vascular medicine if any are abnormal.
+1. <b>hypotension</b> (systolic blood pressure <90mmHg): treat like SIRS as above along with: SICU admission; vancomycin + cefipime; LR 30mL/kg (~2L) influsion over 3 hours; norepinephrine if not responding.
+2. either <b>tachycardia alone<b> or <b>SIRS syndrome</b> (2+ of temperature >100.5&deg;F or 38&deg;C, pulse >90/minute, respiratory rate >20/minute, PaCO2<32, white blood cell count >12K/mL or 10% bands): get blood cultures, serum lactate, ECG, brain naturetic peptide (BNP), CK/CKMB/troponins at admission. Repeat EKG and BNP on day Consult cardiology or vascular medicine if any are abnormal.
 3. hyperosmolar hyperglycemic syndrome (HHS): serum osmolality >320 mOsm/kg.
 (Serum Osmolality = (2 x (Na + K)) + (BUN / 2.8) + (glucose / 18) . Presumed when glucose >600 with sodium >140 or when glucose >500 with sodium >145..
 Admit to ICU. Get serum ketones. Give  0.5-1L NS and start insulin drip. q6h metabolic panels and replace K+. 
