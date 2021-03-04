@@ -21,6 +21,11 @@ B=Blood pressure meds, baseline + at least one PRN for SBP>140mmHg.
 
 Continue all home meds except metformin, Coumadin, other anticoagulants
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 ### Laboratory investigations
 1. Type and SCREEN
