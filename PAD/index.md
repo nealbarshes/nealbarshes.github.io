@@ -50,7 +50,6 @@ Simply put, <span style="color:red">these findings suggest <b><u>all</u> patient
 <br>
 <br>
 <br>
-
 | In addition, <b>consider angiography if any of the following specific situations are present:</b>  |
 |---|
 | pedal pulses weak or absent  |
