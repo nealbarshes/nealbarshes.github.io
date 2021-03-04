@@ -8,27 +8,25 @@
 
 ### Medications:
 
+Letter | Medication
+------------ | -------------
 S= | Statin
 A= | Aspirin 81mg  & Antibiotic: ceftriaxone 1gm IV q24h. 
      
 V= | Vitamin C 500mg PO BID
  | Vancomycin only if MRSA nares swab is positive OR if  pre-op. for abscess I&D
- | 
 E= | ”Ensure” BID (though Glucerna SR has lowest added sugar)
+ | 
 T= | Tylenol for pain or temperature >100.4F
 He= | Heparin subcutaneous q8h. Do not hold for OR
-
-L=Lactobacillus 2 caps PO BID
-I=Insulin: 50% of long-acting insulin home dose + sliding scale PRN
-M=Multivitamin 1 cap daily
-B=Blood pressure meds, baseline + at least one PRN for SBP>140mmHg.
+ | 
+L= | Lactobacillus 2 caps PO BID
+I= | Insulin: 50% of long-acting insulin home dose + sliding scale PRN
+M= | Multivitamin 1 cap daily
+B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg.
 
 Continue all home meds except metformin, Coumadin, other anticoagulants
 
-Letter | Medication
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
 ### Laboratory investigations
