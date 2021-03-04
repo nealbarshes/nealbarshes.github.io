@@ -1,4 +1,6 @@
-### Tenets of Treatment:
+# Management of Foot Infections
+
+
 1. Deep infections get drained/incised. 
 2. Ensure or establish adequate arterial inflow.
 3. Reconstruct, reestablishing intact epithelium over the entire extremity.
