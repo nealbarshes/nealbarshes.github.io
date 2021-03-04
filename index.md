@@ -34,7 +34,7 @@ This brochure is written at the 8th grade level with minimal technical language 
 The hyperlinked pages provide further details and support for specific recommendations.
 
 
-### Our Manuscripts Relevant to Clinical Care 
+### A Selection of Our Manuscripts Relevant to Clinical Care 
 
 1. [Foot ulcer prevention](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFU%20prevention%20cost-savings.pdf) clearly represents to best opportunity for cost savings: reduced amputation rates + lower cost than current care. 
 2. All patients with large or infected foot ulcers merit [objective testing (toe pressures, skin perfusion pressures, or angiogram) to identify peripheral artery disease](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20PAD%20identification%20strategies.pdf). [This diagram](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/PADalgorithm1.jpg) demonstrates the optimal diagnostic strategies for peripheral artery disease identification.
