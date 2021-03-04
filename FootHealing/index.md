@@ -6,8 +6,8 @@ Magnetic resonance imaging or percutaneus image-guided bone biopsy (with specime
 
 | item  | image  | recommentation  |
 |---|---|
-| offloading boot<br><i>(exs. DH Walker, CAM boot)</i>  |   |
-|   |   |
+| offloading boot<br><i>(exs. DH Walker, CAM boot)</i>  |  ![cast shoe!](/assets/CastShoe.jpg) | recommended / BEST | 
+| "healing sandal"  |  ![cast shoe!](/assets/CastShoe.jpg) | acceptable in selected situations |
 | cast shoe  | ![cast shoe!](/assets/CastShoe.jpg) | discouraged |
 
 
