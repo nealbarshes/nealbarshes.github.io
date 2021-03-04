@@ -29,6 +29,9 @@ Continue all home meds except metformin, Coumadin, other anticoagulants
 4. CRP,  procalcitonin, and brain naturetic peptide (BNP)
 5. PT/PTT/INR only if on anticoagulation
 
+![](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg)
+
+
 
 ### Special circumstances: 
 1. hypotension (SBP<90): treat like SIRS as above along with: SICU admission; vancomycin + cefipime; LR 30mL/kg (~2L) influsion over 3 hours; norepinephrine if not responding.
