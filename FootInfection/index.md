@@ -13,10 +13,9 @@ Suspect deep soft tissue infection in any of the following situations:
 L02.435/436 (abscess lower limb, right/left ), M65.171/172 (infection) or I70.261/262 (gangrene); procedure 28003 (incision and drainage) or 28820 (toe amputation).
 Hard requirements for OR requirements: Type & screen; consent. Preferred: NPO (solids x6h, clear liquids x2h).
 Objectives:
-1. Incision ± Penrose drain for all abscess tracts. 
-
-
-
+1. Probe from the instigating ulcer or gangrenous area to identify abscess tracts: 
+![probe to find the abscess tract](/assets/FootIncisionDrainage.jpg "probe to find the abscess tract")
+2. Incision ± Penrose drain for all abscess tracts
 3. Collect fluid, soft tissue or bone for microbiology in sterile container with sterile saline. Swab specimens are discouraged.
 4. Removal of all obviously-necrotic tissue. Minimize resection of viable / marginal tissue
 5. Pulsatile irrigation with saline solution.
