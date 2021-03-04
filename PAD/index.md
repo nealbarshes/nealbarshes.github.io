@@ -33,7 +33,7 @@ In planning the case, consider: (1) indication/wound location & relevant angioso
 
 Procedure in basic steps: Bentson (NB & NH) or stiff angled GlideWire (JC) to get 5Fr sheath in; Contra/Omni to the aorta. JC: aortogram. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catehter for the angiograms starting in distal leg. 
 
-Ultimately, seven digital subtraction angiography runs for extremity of interest: (a) femoral at 15 degrees ipsiAO, 5/s for 5mL; (b) AP thigh, 5x5; (c) popliteal at 20 ipsiAO, 5x5; (d & e) upper and lower calf w tib-fib separated, 5x5-10; (e) CC foot shot magnifiedx1, 4x12; (f) lateral foot shot magnified x1, 4x12. Power injector with aforementioned volumes/rates (NB) vs. hand injections: 2-6mL except for foot shot (JC & NH). 
+Ultimately, seven digital subtraction angiography runs with the following power injector settings for the affected extremity: (a) femoral at 15&deg; oblique, 5/s for 5mL; (b) AP thigh, 5x5; (c) popliteal at 20&deg; oblique, 5x5; (d & e) upper and lower calf w tibia-fibula separated, 5x5-10; (e) craniocaudal foot shot magnifiedx1, 4x12; (f) lateral foot shot magnified x1, 4x12. 
 
 If intervention: long Amplatz wire through Quickcross + 45cm 6Fr (if SFA/pop) or 55/70cm 5Fr (if tibial). Cross, shoot DSA, PTA, consider stent.
 
