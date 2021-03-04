@@ -1,4 +1,8 @@
-## Provide proper OFFLOADING FOOTWEAR to ALL PATIENTS; consider surgical offloading for some.
+# Reconstruct, reestablishing intact epithelium over the entire extremity
+
+## Provide proper OFFLOADING to ALL patients:
+
+All patients should receive offloading footwear: 
 
 | item  | image  | recommentation  |
 |---|---|---|
@@ -6,9 +10,10 @@
 | "healing sandal"  |  ![HealingSandal](/assets/HealingSandal.jpg) | acceptable in selected situations |
 | cast shoe  | ![cast shoe](/assets/CastShoe.jpg) | <b>discouraged</b> |
 
-The Ossur® DH OffLoading Walker™ with customized offloading insert (or, if unavailable, another calf-length boot that does not allow flexion or extension at the ankle) should be provided for offloading. The Darco Wound Care Shoe System™ may be substituted only if the ulcer is on the dorsum of the foot or the dorsum of the toes. An uncushioned cast shoe should NEVER be used.
+The Ossur® DH OffLoading Walker™ with customized offloading insert (or, if unavailable, another calf-length boot that does not allow flexion or extension at the ankle) should be provided for offloading. The Darco Wound Care Shoe System™ may be substituted only if the ulcer is on the dorsum of the foot or the dorsum of the toes. 
 
 Some patients should be evaluated for surgical forms of offloading. Specifically, gastrocnemius recession or tendon Achilles lengthening should be considered for all patients who cannot dorsiflex past neutral position (90° angle between foot and calf) or who are undergoing forefoot amputation. 
+
 
 ## Provide ADVANCED WOUND CARE to ALL PATIENTS.
 
@@ -34,17 +39,24 @@ Some patients should be evaluated for surgical forms of offloading. Specifically
 |   | 2” paper tape or Medipore™ tape (3M)  |
 |   | Tegaderm (3M)  |
 
-DO NOT: 
-a.	use wet-to-dry dressings, as these permit continued bacterial growth, macerate surrounding skin, and perform non-selective, low-efficacy debridement. A randomized trial has reported a -50% reduction in wound area with collagenase vs. 0.8% increase with saline-moistened gauze . 
-b.	use undiluted Betadine solution, alcohol solution, bleach, or other cleaning materials not approved for wound care. 
-c.	use silk or rayon tape directly on skin or on dressings 
-d.	use implants or grafts as an ulcer healing adjunct unless peripheral artery disease and osteomyelitis have been ruled out (as described above), there is no active soft tissue infection, and the area reduction of the ulcer has been documented as being less than 50% over a 4 weeks despite adequate offloading and advanced local wound care (as described above). 
+#### Recommended against: 
+<ul>
+<li>use wet-to-dry dressings, as these permit continued bacterial growth, macerate surrounding skin, and perform non-selective, low-efficacy debridement. A randomized trial has reported a -50% reduction in wound area with collagenase vs. 0.8% increase with saline-moistened gauze .</li> 
+<li>use undiluted Betadine solution, alcohol solution, bleach, or other cleaning materials not approved for wound care.</li>
+<li>use silk or rayon tape directly on skin or on dressings.</li>
+<li>use implants or grafts as an ulcer healing adjunct unless peripheral artery disease and osteomyelitis have been ruled out (as described above), there is no active soft tissue infection, and the area reduction of the ulcer has been documented as being less than 50% over a 4 weeks despite adequate offloading and advanced local wound care (as described above).</li> </ul>
 
 ## Obtain either an X-RAY, MAGNETIC RESONANCE IMAGING or BIOPSY for ALL PATIENTS to evaluate for osteomyelitis.
 
 ALL patients with a non-healing foot ulcer should have radiographic imaging to evaluate for osteomyelitis. This evaluation should begin with plain x-rays (ordered as toes, foot, or heel, depending on the area) done within the past 30 days. Percutaneous bone biopsy or surgery should be considered for obvious bony deformities suspicious for osteomyelitis in an area contiguous with an ulcer.
 
-Magnetic resonance imaging or percutaneus image-guided bone biopsy (with specimens for both pathology and microbiology) should be requested in the following situations: (1) wound probes to bone; (2) x-ray changes suggestive of osteomyelitis in an area contiguous with the ulcer; (3) erythrocyte sedimentation rate >55 mm/hr, C-reactive protein >44mg/mL, procalcitonin >0.33ng/mL  without clinical signs of soft tissue infection; (4) continued non-healing despite adequate arterial circulation, offloading, and wound care.
+Magnetic resonance imaging or percutaneus image-guided bone biopsy (with specimens for both pathology and microbiology) should be requested in the following situations: 
+<ol>
+<li>cortical or trabecular bone is visible or palpable within the ulcer</li>
+<li>x-ray changes suggestive of osteomyelitis in an area contiguous with the ulcer</li>
+<li>erythrocyte sedimentation rate >55 mm/hr, C-reactive protein >44mg/mL, procalcitonin >0.33ng/mL, even if no clinical signs of soft tissue infection</li>
+<li>continued non-healing despite adequate arterial circulation, offloading, and wound care.</li>
+</ol>
 
 
 ## Urge complete TOBACCO ABSTINENCE in ALL PATIENTS
