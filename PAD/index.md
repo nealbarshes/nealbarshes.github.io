@@ -15,8 +15,8 @@ If PAD is <i>untreated</i> or <i>unrecognized</i>, 1-year limb salvage rates are
 
 Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcers may be the <b>single most influential factor in amputation prevention</b>. Revascularization is [cost-effective](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20MOVIE%20analysis.pdf) and may even provide [cost-savings in frail, elderly patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20marginal%20patient%20bypass.pdf).
 
-![PAD and limb loss](/assets/VennDiagram.jpg "PAD and limb loss")<br>
-
+![PAD and limb loss](/assets/VennDiagram.jpg "PAD and limb loss")
+<br>
 <i>(Venn diagram from our [2013 "System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf))</i>
 
 <br>
@@ -31,7 +31,9 @@ Reserving non-invasive testing for patients with weak or absent pedal pulses, th
 <p>
 <p>
 <br>
+
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
+
 <br>
 <br>
 <br>
