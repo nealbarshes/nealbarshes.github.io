@@ -29,7 +29,7 @@ This brochure is written at the 8th grade level with minimal technical language 
 1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
 2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
 3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
-4. Maintain mobility through the avoidance of amputation.
+4. Maintain mobility  -- even in situations when [amputation](https://nealbarshes.github.io/LegAmputation/) is performed.
 
 The hyperlinked pages provide further details and support for specific recommendations.
 
