@@ -22,14 +22,14 @@ Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcer
 <br>
 <br>
 A [formal decision analysis](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20PAD%20identification%20strategies.pdf) identified these as the two most sensitive strategies to identify PAD in patients with foot ulcers:
-<br>
+<p>
 <b><u>strategy 1</u>:</b> non-invasive testing (esp. toe-brachial index or skin perfusion pressure) for <b>everyone</b>, angiogram to investigate abnormal results = 83% sensitivity.
-<br>
+<p>
 <b><u>strategy 2</u>:</b> pedal pulse exam first; non-invasive testing (esp. toe-brachial index or skin perfusion pressure) to corroborate adequate arterial perfusion vs. angiogram to investigate abnormal pulse exam findings = 92% sensitivity.
-<br>
+<p>
 Reserving non-invasive testing for patients with weak or absent pedal pulses, then doing angiography only if this is abnormal is associated with a <b>low</b> sensitivity rate in finding PAD.
-
-<br>
+<p>
+<p>
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
 <br>
 <br>
@@ -38,9 +38,7 @@ Reserving non-invasive testing for patients with weak or absent pedal pulses, th
 <br>
 <br>
 <br>
-<br>
 Simply put, <span style="color:red">these findings suggest <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b>, either in the form of an <b>angiogram</b> or <b>non-invasive testing</b></span>.
-<br>
 <br>
 <br>
 <br>
