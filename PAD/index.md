@@ -2,9 +2,10 @@
 
 With revascularization, 1-year limb salvage rates among patients with peripheral artery disease (PAD) and a foot ulcer, foot infection, or foot gangrene with is 90%. 
 If PAD is untreated or unrecognized, 1-year limb salvage rates are 50-60%.
-Thus, identification and treatment of PAD may be the single most influential factor in amputation prevention.
+Thus, identification and treatment of PAD may be the single most influential factor in amputation prevention. Revascularization is cost-effective.
 
-Based on a formal decision analysis, the two most sensitive strategies to identify PAD in patients with foot ulcers are:
+Based on a [formal decision analysis](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20PAD%20identification%20strategies.pdf), the two most sensitive strategies to identify PAD in patients with foot ulcers are:
+
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
 
 
