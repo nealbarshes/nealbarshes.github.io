@@ -7,14 +7,16 @@
 4. Maintain mobility through the avoidance of amputation.
 
 ### Medications:
-S=Statin
-A=Aspirin 81mg  & Antibiotic: ceftriaxone 1gm IV q24h. 
-         Vancomycin only if MRSA nares swab is positive OR if  pre-op. for abscess I&D
-V=Vitamin C 500mg PO BID
-E=”Ensure” BID (though Glucerna SR has lowest added sugar)
 
-T=Tylenol for pain or temperature >100.4F
-He=Heparin subcutaneous q8h. Do not hold for OR
+S= | Statin
+A= | Aspirin 81mg  & Antibiotic: ceftriaxone 1gm IV q24h. 
+     
+V= | Vitamin C 500mg PO BID
+ | Vancomycin only if MRSA nares swab is positive OR if  pre-op. for abscess I&D
+ | 
+E= | ”Ensure” BID (though Glucerna SR has lowest added sugar)
+T= | Tylenol for pain or temperature >100.4F
+He= | Heparin subcutaneous q8h. Do not hold for OR
 
 L=Lactobacillus 2 caps PO BID
 I=Insulin: 50% of long-acting insulin home dose + sliding scale PRN
@@ -23,7 +25,7 @@ B=Blood pressure meds, baseline + at least one PRN for SBP>140mmHg.
 
 Continue all home meds except metformin, Coumadin, other anticoagulants
 
-First Header | Second Header
+Letter | Medication
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
