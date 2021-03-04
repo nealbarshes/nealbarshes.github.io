@@ -1,27 +1,22 @@
 # Management of Foot Infections
 
-
-1. Deep infections get drained/incised. 
-2. Ensure or establish adequate arterial inflow.
-3. Reconstruct, reestablishing intact epithelium over the entire extremity.
-4. Maintain mobility through the avoidance of amputation.
-
 ### Medications:
+The acronym "SAVE THe LIMB" will help you remember medications that may be important for hospitalized with foot infections:
 
 Letter | Medication
 ------------ | -------------
-S= | Statin
-A= | Aspirin 81mg  & Antibiotic: ceftriaxone 1gm IV q24h. 
+S= | Statin medication
+A= | Aspirin 81mg <br>Antibiotic: ceftriaxone 1gm IV q24h
 V= | Vitamin C 500mg PO BID <br>Vancomycin only if MRSA nares swab is positive OR if  pre-op. for abscess I&D
 E= | ”Ensure” BID (though Glucerna SR has lowest added sugar)
  | 
-T= | Tylenol for pain or temperature >100.4F
+T= | Tylenol PRN for pain or temperature >100.4F
 He= | Heparin subcutaneous q8h. Do not hold for OR
  | 
 L= | Lactobacillus 2 caps PO BID
 I= | Insulin: 50% of long-acting insulin home dose + sliding scale PRN
 M= | Multivitamin 1 cap daily
-B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg.
+B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 
 Continue all home meds except metformin, Coumadin, other anticoagulants
 
