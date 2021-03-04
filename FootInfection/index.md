@@ -3,12 +3,13 @@
 ### First: Be vigilant in identifying soft tissue
 Foot infections are a common precursor to the decision for leg amputation. 
 Infection can cause systemic illness (including acute kidney injury and acute coronary syndrome). 
+Surgery is often an important component to the treatment of infection.
 
 ![Foot infections: put out the fire!](/assets/WildfireColor.jpg "Foot infections: put out the fire!")
 
 Foot infection should be assumed present unless proven otherwise in all patients with the following findings.<br> Absence of any of these findings does <i>NOT</i> rule infection.
 |  finding |
-|---|
+| --- |
 |  nausea  |
 |  anorexia  |
 |  subjective chills or sweats  |
