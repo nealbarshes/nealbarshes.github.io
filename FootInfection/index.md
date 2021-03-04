@@ -1,4 +1,4 @@
-# Deep Infections? Drain/Incise
+# Deep Infection? Drain/Incise
 
 ### First: Be vigilant in identifying soft tissue
 Foot infections are a common precursor to the decision for leg amputation. 
