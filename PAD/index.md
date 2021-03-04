@@ -41,9 +41,9 @@ After the case: bedrest x six hours. Obs. again if needed for hydration, renal p
 
 ### Infrainguinal Bypasses
 
-In the clinic before the operation, consider: vein mapping (NOT done in vascular lab) if not already done during previous hospital stay. Pre-admitted is discouraged, regardless of eGFR/creatinine.
+In the clinic before the operation, consider: prior operations in index extremity; angiogram results; vein mapping (NOT done in vascular lab) if not already done during previous hospital stay. Pre-admitted is discouraged, regardless of eGFR/creatinine.
 
-Before the case, consider: (1) indication; (2) hemoglobin; (3) eGFR; (4) planned conduit, (5) baseline anti platelet / anticoagulation meds. I will mark vein course using ultrasound BEFORE the patient gets to the room.
+Before the case, consider: (1) indication; (2) hemoglobin; (3) eGFR; (4) planned conduit (single-segment saphenous vein, then [spliced arm vein](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/MOVIEconduitAnalysis.pdf), then PTFE with [distal vein patch](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/DistalVeinPatches.pdf)), (5) baseline anti platelet / anticoagulation medications. I will mark vein course using ultrasound BEFORE the patient gets to the room.
 
 On the field: 4-0 silk ties; 7-0 Prolene. magnet pad, Ioban x3. Supine, left arm tucked (unless arm vein harvest) drape above the umbilicus; isolation bag if tibial/pedal target, stockinette otherwise. If foot wound: gets prep’ed with chlorhexidine. Do a full five-minute hand scrub.
 
