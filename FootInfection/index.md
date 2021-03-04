@@ -6,32 +6,38 @@ Infection can cause systemic illness (including acute kidney injury and acute co
 
 ![Foot infections: put out the fire!](/assets/WildfireColor.jpg "Foot infections: put out the fire!")
 
-Suspect deep soft tissue infection in any of the following situations:
+Foot infection should be assumed present unless proven otherwise in all patients with the following findings.<br> Absence of any of these findings does <i>NOT</i> rule infection.
+|  <b>finding</b> |
+|---|
+|  nausea  |
+|  anorexia  |
+|  subjective chills or sweats  |
+|  new onset foot pain  |
+|  altered mental status  |
+|  fever  |
+|  tachycardia  |
+|  <i>any</i> drainage (not only purulent) |
+|  foot or calf edema  |
+|  foul odor  |
+|  elevated white blood cell count |
+|  elevated serum procalcitonin |
+|  elevated c-reactive protein |
+|  acute kidney injury  |
+|  criteria for of [SIRS or septic shock](https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria)  |
+|  2+ points on [qSOFA](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis) |
 
-### Inpatient Management: Operative Treatment of Infection
-L02.435/436 (abscess lower limb, right/left ), M65.171/172 (infection) or I70.261/262 (gangrene); procedure 28003 (incision and drainage) or 28820 (toe amputation).
-Hard requirements for OR requirements: Type & screen; consent. Preferred: NPO (solids x6h, clear liquids x2h).
-Objectives:
-1. Probe from the instigating ulcer or gangrenous area to identify abscess tracts: 
-![probe to find the abscess tract](/assets/FootIncisionDrainage.jpg "probe to find the abscess tract")
-2. Incision ± Penrose drain for all abscess tracts
-3. Collect fluid, soft tissue or bone for microbiology in sterile container with sterile saline. Swab specimens are discouraged.
-4. Removal of all obviously-necrotic tissue. Minimize resection of viable / marginal tissue
-5. Pulsatile irrigation with saline solution.
-6. Dress with gentamicin-impregnated 4x4 gauze in deep areas, Xeroform over shallow ulcer. Wrap with 4” inch Webril + 4” ACE from forefoot to knee to control edema. 
+### Admission orders
 
-
-
-Post-op orders: Continue most admission orders; saline lock IV; add diabetic diet + Glucerna BID, Iodosorb (cadexomer iodine) ointment; Do NOT order labs for POD#1
-
-### Laboratory investigations
+#### Laboratory studies
 1. Type and SCREEN
 2. CBC with differential
 3. Complete metabolic panel
-4. CRP,  procalcitonin, and brain naturetic peptide (BNP)
-5. PT/PTT/INR only if on anticoagulation
+4. C-reactive protein (CRP)  
+5. procalcitonin
+6. brain naturetic peptide (BNP) if new dyspnea/orthopnea, if abnormal EKG or if history of heart failure
+7. PT/PTT/INR only if on anticoagulation
 
-### Medications:
+### Medications
 The acronym "SAVE THe LIMB" will help you remember medications that may be important for hospitalized with foot infections:
 
 Letter | Medication
@@ -48,6 +54,23 @@ M= | Multivitamin 1 cap daily
 B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 
 Continue all home meds except metformin, Coumadin, other anticoagulants
+
+
+
+### Inpatient Management: Operative Treatment of Infection
+L02.435/436 (abscess lower limb, right/left ), M65.171/172 (infection) or I70.261/262 (gangrene); procedure 28003 (incision and drainage) or 28820 (toe amputation).
+<br>
+Objectives:
+1. Probe from the instigating ulcer or gangrenous area to identify abscess tracts: 
+![probe to find the abscess tract](/assets/FootIncisionDrainage.jpg "probe to find the abscess tract")
+2. Incision ± Penrose drain for all abscess tracts
+3. Collect fluid, soft tissue or bone for microbiology in sterile container with sterile saline. Swab specimens are discouraged.
+4. Removal of all obviously-necrotic tissue. Minimize resection of viable / marginal tissue
+5. Pulsatile irrigation with saline solution.
+6. Dress with gentamicin-impregnated 4x4 gauze in deep areas, Xeroform over shallow ulcer. Wrap with 4” inch Webril + 4” ACE from forefoot to knee to control edema. 
+
+Post-op orders: Continue most admission orders; saline lock IV; add diabetic diet + Glucerna BID, Iodosorb (cadexomer iodine) ointment; Do NOT order labs for POD#1
+
 
 
 ### Atypical presentations: 
