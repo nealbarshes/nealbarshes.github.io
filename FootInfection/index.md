@@ -2,7 +2,7 @@
 
 ### First: Be vigilant in identifying soft tissue
 Foot infections are a common precursor to the decision for leg amputation. 
-Infection can cause systemic illness (including acute kidney injury and acute coronary syndrome). 
+Infection can cause systemic illness (including [acute kidney injury](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/AKIosteomyelitis.pdf) and [acute coronary syndrome](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/ACSinDFI.pdf)). 
 Surgery is often an important component to the treatment of infection.
 
 ![Foot infections: put out the fire!](/assets/WildfireColor.jpg "Foot infections: put out the fire!")
