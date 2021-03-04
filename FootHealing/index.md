@@ -6,9 +6,10 @@ Magnetic resonance imaging or percutaneus image-guided bone biopsy (with specime
 
 | item  | image  | recommentation  |
 |---|---|---|
-| offloading boot<br><i>(exs. DH Walker, CAM boot)</i>  |  ![OffloadingBoot](/OffloadingBoot.jpg) | <b>recommended / BEST</b> | 
+| offloading boot<br><i>(exs. DH Walker, CAM boot)</i>  |  ![OffloadingBoot](/assets/OffloadingBoot.jpg) | <b>recommended / BEST</b> | 
 | "healing sandal"  |  ![HealingSandal](/assets/HealingSandal.jpg) | acceptable in selected situations |
 | cast shoe  | ![cast shoe](/assets/CastShoe.jpg) | <b>discouraged</b> |
+
 
 
 3. Provide proper OFFLOADING FOOTWEAR to ALL PATIENTS; consider surgical offloading for some.
