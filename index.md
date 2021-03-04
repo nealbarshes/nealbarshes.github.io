@@ -25,6 +25,13 @@ This brochure is written at the 8th grade level with minimal technical language 
 10. [护理您的脚, Mandarin Chinese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
 
 
+### Tenets of Treatment
+1. Deep infections get drained/incised. 
+2. Ensure or establish adequate arterial inflow.
+3. Reconstruct, reestablishing intact epithelium over the entire extremity.
+4. Maintain mobility through the avoidance of amputation.
+
+
 ### Our Manuscripts Relevant to Clinical Care 
 
 1. [Foot ulcer prevention](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFU%20prevention%20cost-savings.pdf) clearly represents to best opportunity for cost savings: reduced amputation rates + lower cost than current care. 
