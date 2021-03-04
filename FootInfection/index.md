@@ -1,5 +1,33 @@
 # Management of Foot Infections
 
+### First: Be vigilant in identifying soft tissue
+Foot infections are a common precursor to the decision for leg amputation. 
+Infection can cause systemic illness (including acute kidney injury and acute coronary syndrome). 
+
+Suspect deep soft tissue infection in any of the following situations:
+
+### Inpatient Management: Operative Treatment of Infection
+L02.435/436 (abscess lower limb, right/left ), M65.171/172 (infection) or I70.261/262 (gangrene); procedure 28003 (incision and drainage) or 28820 (toe amputation).
+Hard requirements for OR requirements: Type & screen; consent. Preferred: NPO (solids x6h, clear liquids x2h).
+Objectives:
+1. Incision ± Penrose drain for all abscess tracts. 
+
+
+
+3. Collect fluid, soft tissue or bone for microbiology in sterile container with sterile saline. Swab specimens are discouraged.
+4. Removal of all obviously-necrotic tissue. Minimize resection of viable / marginal tissue
+5. Pulsatile irrigation with saline solution.
+6. Dress with gentamicin-impregnated 4x4 gauze in deep areas, Xeroform over shallow ulcer. Wrap with 4” inch Webril + 4” ACE from forefoot to knee to control edema. 
+
+
+
+
+
+Post-op orders: Continue most admission orders; saline lock IV; add diabetic diet + Glucerna BID, Iodosorb (cadexomer iodine) ointment; Do NOT order labs for POD#1
+
+
+
+
 ### Laboratory investigations
 1. Type and SCREEN
 2. CBC with differential
@@ -36,17 +64,7 @@ Continue all home meds except metformin, Coumadin, other anticoagulants
 Admit to ICU. Get serum ketones. Give  0.5-1L NS and start insulin drip. q6h metabolic panels and replace K+. 
 4. <b>severe hyperglycemia (glucose 300-499)</b>: admit to stepdown for insulin drip; give 500mL NS over 24 hours. 
 
-### Day #0/1: Operative Treatment of Infection
-ICD-10 L01.91 or I70.261/262; CPTs 28002, 28003, 11043; discuss with STAFF before posting.
-Hard requirements for OR requirements: Type & screen; consent; NPO (solids x6h, clear liquids x2h)
-Objectives:
-1. Incision ± Penrose drain for all abscess tracts. 
-2. Obtain fluid, soft tissue or bone for microbiology (NOT swabs)
-3. Removal of all necrotic tissue; minimize resection of viable / marginal tissue
-4. Irrigate with saline + cysto tubing (not pulse lavage).
-5. Dress with gentamicin-impregnated 4x4 gauze in deep areas, Xeroform over shallow ulcer. Wrap with 4” inch Webril + 4” ACE from forefoot to knee to control edema. 
 
-Post-op orders: Continue most admission orders; saline lock IV; add diabetic diet + Glucerna BID, Iodosorb (cadexomer iodine) ointment; Do NOT order labs for POD#1
 
 ### Day #1: Boot, Blood flow, wound care.
 1. Prosthetics consults for DH walker + 4-point rollator walker + shower bench + wheelchair.
