@@ -24,8 +24,6 @@ Objectives:
 
 Post-op orders: Continue most admission orders; saline lock IV; add diabetic diet + Glucerna BID, Iodosorb (cadexomer iodine) ointment; Do NOT order labs for POD#1
 
-
-
 ### Laboratory investigations
 1. Type and SCREEN
 2. CBC with differential
@@ -53,9 +51,7 @@ Continue all home meds except metformin, Coumadin, other anticoagulants
 
 
 
-
-
-### Special situations: 
+### Atypical presentations: 
 <ul>
 <li>Situation 1: <b>hypotension</b> (systolic blood pressure <90mmHg): 
 <ul>
@@ -63,22 +59,36 @@ Continue all home meds except metformin, Coumadin, other anticoagulants
 <li>intravenous vancomycin + cefipime</li>
 <li>norepinephrine if not responding</li>
 </ul>
+
 </li>
-<li>Dairy
+<li>Situation 2: either <b>tachycardia alone</b> or <b>SIRS syndrome</b> (2+ of temperature >100.5&deg;F or 38&deg;C, pulse >90/minute, respiratory rate >20/minute, PaCO2<32, white blood cell count >12K/mL or 10% bands):
 <ul>
-<li>Milk</li>
-<li>Cheese</li>
+<li>get blood cultures, serum lactate, ECG, brain naturetic peptide (BNP), CK/CKMB/troponins at admission.</li>
+<li>Repeat EKG and BNP following day.</li>
+ <li>Consult cardiology or vascular medicine if any are abnormal.</li>
 </ul>
 </li>
 </ul>
 
+</li>
+<li>Situation 3: <b>hyperosmolar hyperglycemic syndrome (HHS)</b>: [serum osmolality](https://www.mdcalc.com/serum-osmolality-osmolarity) >320 mOsm/kg. You can presume this is present if glucose >600 + sodium >140 or glucose >500 + sodium >145:
+<ul>
+<li>Admit to ICU.</li>
+<li>Get serum ketones and q6h metabolic panels.</li>
+<li>Give  0.5-1L NS and start insulin drip.</li>
+ <li>Work with medicine team to replace potassium.</li>
+</ul>
+</li>
+</ul>
 
-
-.
-2. either <b>tachycardia alone</b> or <b>SIRS syndrome</b> (2+ of temperature >100.5&deg;F or 38&deg;C, pulse >90/minute, respiratory rate >20/minute, PaCO2<32, white blood cell count >12K/mL or 10% bands): get blood cultures, serum lactate, ECG, brain naturetic peptide (BNP), CK/CKMB/troponins at admission. Repeat EKG and BNP on day Consult cardiology or vascular medicine if any are abnormal.
-3. <b>hyperosmolar hyperglycemic syndrome (HHS)</b>: [serum osmolality](https://www.mdcalc.com/serum-osmolality-osmolarity) >320 mOsm/kg. You can presume this is present if glucose >600 + sodium >140 or glucose >500 + sodium >145.
-Admit to ICU. Get serum ketones. Give  0.5-1L NS and start insulin drip. q6h metabolic panels and replace K+. 
-4. <b>severe hyperglycemia (glucose 300-499)</b>: admit to stepdown for insulin drip; give 500mL NS over 24 hours. 
+</li>
+<li>Situation 4: <b>severe hyperglycemia (glucose 300-499)</b>
+<ul>
+<li>admit to stepdown for insulin drip.</li>
+<li>give 500mL NS over 24 hours. .</li>
+</ul>
+</li>
+</ul>
 
 
 
