@@ -1,3 +1,12 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1MCN72W0FE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1MCN72W0FE');
+</script>
 # Ensure or Establish Adequate Arterial Inflow
 
 <i>With revascularization</i>, 1-year limb salvage rates among patients with peripheral artery disease (PAD) and a foot ulcer, foot infection, or foot gangrene with is [90% (see review)](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf). 
