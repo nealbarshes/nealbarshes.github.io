@@ -11,7 +11,7 @@
 </head>
 
 
-As an academic vascular surgeon, I work to develop cost-effective, resilient and equitable strategies to prevent leg amputations.
+As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations.
 
 This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations. 
 
