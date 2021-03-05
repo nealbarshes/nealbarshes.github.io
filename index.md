@@ -39,7 +39,7 @@ This brochure is written at the 8th grade level with minimal technical language 
 
 
 ### Tenets of Treatment
-Hyperlinked pages providing practical guidance with rationale/evidence/support:
+Additional ages providing practical guidance with rationale/evidence/support:
 1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
 2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
 3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
