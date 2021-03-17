@@ -104,6 +104,8 @@ On the field: 4-0 silk ties; 7-0 Prolene. magnet pad, Ioban x3. Supine, left arm
 
 Five steps: 1) vein harvest; 2&3) distal & proximal exposures; 4) tunneling + anastomoses; 5) closure.
 
+Test link for [leg bypass chapter](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EaZETgbUS39Ej_P1nh1NsqcBuokEIEbrWStGWvLsMuQEOg?e=m4FvY5)
+
 The bundle we've employed to [reduce surgical site infections by 67%](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/ZamaniSSIreduction.pdf):
 1. minimize pre-admission
 2. methicillin-sensitive <i>Staphylococcus aureus</i> decontamination protocol with mupirocin nasal ointment, chlorhexidine wipes or shower
