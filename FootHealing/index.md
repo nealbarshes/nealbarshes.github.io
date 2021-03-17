@@ -72,7 +72,7 @@ ALL patients with a non-healing foot ulcer should have radiographic imaging to e
 
 ### Urge complete abstinence from tobacco in ALL patients
 
-Utilize freely-available local ("Veterans Kick Butts" counseling) and national smoking cessation resources (1-800-QUIT-NOW, www.smokefree.gov).
+Utilize freely-available local ("Veterans Kick Butts" counseling) and national smoking cessation resources (1-800-QUIT-NOW, [www.smokefree.gov](www.smokefree.gov)).
 
 ### Ensure optimal medical management in ALL patients
 
