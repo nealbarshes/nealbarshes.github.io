@@ -9,7 +9,8 @@
 </script>
 # Reconstruct, Reestablishing an Intact Epithelium over the Entire Extremity
 
-Thank you to Dr. Aimee Garcia, Dr. Delma Jara, Dr. Ana Macias, Dr. Cezarina Mindru, Dr. Maria Rodriguez-Barradas, and Dr. David Green for input on this local consensus approach to foot ulcer healing.
+Thank you to Dr. Aimee Garcia, Dr. Delma Jara, Dr. Ana Macias, Dr. Cezarina Mindru, Dr. Maria Rodriguez-Barradas, and Dr. David Green for working together to create [our local consensus approach](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/NHFUconsensus.pdf) to foot ulcer healing.
+
 
 ### Provide proper OFFLOADING to ALL patients:
 
@@ -27,6 +28,8 @@ Some patients should be evaluated for surgical forms of offloading. Specifically
 
 
 ### Provide advanced contemporary wound care to ALL patients.
+
+I have no relationships to industry -- the producers of these or any other medical products. Items list are components of our consensus approach because of availability on our hospital formulary/inventory list.
 
 | component  | specific item(s)  |
 |---|---|
