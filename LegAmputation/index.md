@@ -7,6 +7,11 @@
 
   gtag('config', 'G-BK8G9L0WNT');
 </script>
+
+### Ensuring this is the best option
+
+Is the patient a candidate for [palliative foot care](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesPalliativeFoot.pdf)? Amputation may be best for patients who have the potential to be better off than they would be with wound palliation alone.
+
 ### Operative Details
 
 Equipment and supplies:
