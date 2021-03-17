@@ -69,6 +69,8 @@ Simply put, <span style="color:red">these findings suggest that <b><u>all</u> pa
 | foot ulcer in area supplied by single angiosome: heel, dorsal foot  |
 | anticipated Lisfranc amputation, rotational flap, or free flap reconstruction  |
 
+For some further explanation, consider these brief videos on [bedside evaluation](https://www.youtube.com/watch?v=sKwX3dn4a9U) and [non-invasive lower extremity arterial testing](https://www.youtube.com/watch?v=naiNzIrBhoo) for PAD.
+
 ### Infrainguinal endovascular interventions
 
 In the clinic, consider: (1) indication; (2) bilateral femoral pulses, ipsilat. popliteal and pedal pulses; (3) bedside vein mapping. 
