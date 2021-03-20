@@ -54,6 +54,7 @@ Day of surgery: Check laterality. Then double check it. Then triple check it.
 multimodal pain regimen:
 1. Tylenol 500mg PO q6h SCHEDULED.
 2. Tramadol 50mg q4h PRN for break-through pain
+3. Lidocaine patches near surgical site q12h
 3. Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  Ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60.
 AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines. 
 
