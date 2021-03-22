@@ -1,12 +1,14 @@
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-611ZLN3KHT"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-611ZLN3KHT');
+  gtag('config', 'G-YPLVGC5FDP');
 </script>
+</head>
 # Reconstruct, Reestablishing an Intact Epithelium over the Entire Extremity
 
 Thank you to Dr. Aimee Garcia, Dr. Delma Jara, Dr. Ana Macias, Dr. Cezarina Mindru, Dr. Maria Rodriguez-Barradas, and Dr. David Green for working together to create [our local consensus approach](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/NHFUconsensus.pdf) to foot ulcer healing.
