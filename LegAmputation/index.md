@@ -59,8 +59,10 @@ multimodal pain regimen:
 AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines. 
 
 This is the new one:
-<embed src="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt.txt">
-
+<object data="/path_to_text_file/text.txt" type="text/plain"
+width="500" style="height: 300px">
+<a href="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt.txt">No Support?</a>
+</object>
 
 
 <b>POD#1:</b> Remove Foley on AM rounds. Restart home insulin/diabetes regimen. Verbally ask RN or PCA to get the patient out of bed AND write a text order to that effect. Ensure it’s happened by PM rounds. Figure out disposition.
