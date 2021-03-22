@@ -58,6 +58,11 @@ multimodal pain regimen:
 3. Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  Ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60.
 AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines. 
 
+This is the new one:
+<embed src="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt.txt">
+
+
+
 <b>POD#1:</b> Remove Foley on AM rounds. Restart home insulin/diabetes regimen. Verbally ask RN or PCA to get the patient out of bed AND write a text order to that effect. Ensure it’s happened by PM rounds. Figure out disposition.
 
 <b>POD#2:</b> CHANGE WRAP on POD#2, replace with Webril and ACE. Text order for nurses to weigh patient and document weight in the chart.
