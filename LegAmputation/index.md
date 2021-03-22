@@ -52,22 +52,29 @@ Day of surgery: Check laterality. Then double check it. Then triple check it.
 <b>Post-op orders:</b> Solid food diet + Glucerna BID. Start DVT prophylaxis and multimodal pain regimen (see below). Write for H&H only (BMP if ESRD or pre-op electrolyte abnormalities). Consult PT/OT. 
 
 multimodal pain regimen:
-1. Tylenol 500mg PO q6h SCHEDULED.
-2. Tramadol 50mg q4h PRN for break-through pain
-3. Lidocaine patches near surgical site q12h
-3. Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  Ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60.
-AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines. 
+SCHEDULED:
+1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter
+2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).
+3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off. 
 
-This is the new one:
-<object data="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.html" type="text/plain"
-width="500" style="height: 300px">
-<a href="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt">No Support?</a>
-</object>
+Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
 
 
+AS NEEDED: 
+1. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.
+2. Tylenol #3 one tablet q6h PRN severe pain. 
 
-<object style="max-width:445px; width:100%; height:auto;" type="text/html" data="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt">
-</object>
+Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  
+Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load.
+
+AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
+
+
+BOWEL REGIMEN:
+1. Docusate 100 mg PO every 12 hours.
+2. Senna 2 mg PO every 12 hours.
+3. Polyethylene glycol 3350 17 g PO every 12 hours.
+4. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.
 
 
 <b>POD#1:</b> Remove Foley on AM rounds. Restart home insulin/diabetes regimen. Verbally ask RN or PCA to get the patient out of bed AND write a text order to that effect. Ensure it’s happened by PM rounds. Figure out disposition.
