@@ -59,9 +59,9 @@ multimodal pain regimen:
 AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines. 
 
 This is the new one:
-<object data="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt.txt" type="text/plain"
+<object data="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt" type="text/plain"
 width="500" style="height: 300px">
-<a href="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt.txt">No Support?</a>
+<a href="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt">No Support?</a>
 </object>
 
 
