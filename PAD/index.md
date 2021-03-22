@@ -117,10 +117,29 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 <b>Post-op:</b> to SICU overnight. NS @ ~0.5mL/kg/hr x12 hours. Blood count, basic metabolic panel and PT/PTT/INR now; blood count and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF. Initiate prophylaxis against DVT and start multimodal pain regimen. Clear liquid diet, solid foot breakfast. Text orders for out of bed to cardiac chair in AM, to not manipulate leg wrap, and to keep overhead lights on and curtains open during daytime hours (7A-9PM). Ignore SICU template orders that don't apply (ex. extubation parameters).
   
 Multimodal pain regimen:
-1. Tylenol 500mg PO q6h SCHEDULED.
-2. Tramadol 50mg q4h PRN for break-through pain
-3. Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  Ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60.
-AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines. 
+SCHEDULED:
+1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter
+2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).
+3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off. 
+
+Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
+
+
+AS NEEDED: 
+1. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.
+2. Tylenol #3 one tablet q6h PRN severe pain. 
+
+Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  
+Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load.
+
+AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
+
+
+BOWEL REGIMEN:
+1. Docusate 100 mg PO every 12 hours.
+2. Senna 2 mg PO every 12 hours.
+3. Polyethylene glycol 3350 17 g PO every 12 hours.
+4. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.
 
 <b>POD#1:</b> Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs.
 
