@@ -65,6 +65,11 @@ width="500" style="height: 300px">
 </object>
 
 
+
+<object style="max-width:445px; width:100%; height:auto;" type="text/html" data="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/MultimodalAnalgesia.txt">
+</object>
+
+
 <b>POD#1:</b> Remove Foley on AM rounds. Restart home insulin/diabetes regimen. Verbally ask RN or PCA to get the patient out of bed AND write a text order to that effect. Ensure it’s happened by PM rounds. Figure out disposition.
 
 <b>POD#2:</b> CHANGE WRAP on POD#2, replace with Webril and ACE. Text order for nurses to weigh patient and document weight in the chart.
