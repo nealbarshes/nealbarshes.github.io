@@ -46,6 +46,7 @@ Reserving non-invasive testing for patients with weak or absent pedal pulses, th
 <br>
 <br>
 <br>
+<blockquote style="border: 2px solid #A93226; padding: 10px; background-color: #FDEDEC;">
 Simply put, <span style="color:red">these findings suggest that <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b>, either in the form of an <b>angiogram</b> or <b>non-invasive testing</b></span>.
 <br>
 <br>
@@ -120,11 +121,11 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
   
 Multimodal pain regimen:
 SCHEDULED:
-<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt><ol>
-<li>Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.
-<li>Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).
-<li>Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.
-  </tt></ol></blockquote>
+<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br><br>
+2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br><br>
+3.Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.
+  </tt></blockquote>
 
 Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
 
