@@ -86,7 +86,7 @@ Includes diabetes management that is largely concordant with recommendations fro
 <b>open toe amputation and/or debridement only, no closure</b>
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. chlorhexidine (Hibiclens) solution for skin preparation to the ankle, <i>NOT</i> iodine-povidine solution<br> 
-  2. mini bone <i>OR</i> minor instrument set, <i><b><u>NOT</i></u></b> the leg amputation instrument set please<br>
+  2. mini bone <i>OR</i> minor instrument set, <i><b><u>NOT </i></u></b>the leg amputation instrument set please<br>
 3. methylene blue in a sterile cup, on the field<br>
 4. swabs x2 (for application of methylene blue on the field, not for microbiology specimen)<br>
 5. sterile specimen cups for microbiology specimen x1 open; another in the room<br>
@@ -103,7 +103,7 @@ Includes diabetes management that is largely concordant with recommendations fro
 <b>delayed primary closure ± toe amputation</b>
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. chlorhexidine (Hibiclens) solution for skin preparation to the ankle, <i>NOT</i> iodine-povidine solution<br>
-2. mini bone instrument set<br>
+2. mini bone instrument set<br>, <i><b><u>NOT </i></u></b>the leg amputation instrument set please<br>
 3. micro-oscillating saw with 1cm blade<br>
 4. methylene blue in a sterile cup, on the field<br>
 5. swabs x2 (for application of methylene blue on the field, not for microbiology specimen)
@@ -123,7 +123,7 @@ Includes diabetes management that is largely concordant with recommendations fro
 <b>skin grafting</b>
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. Chloraprep chlorhexidine (Hibiclens) solution (<i>NOT</i> iodine-povidine solution) for skin preparation of the entirety of the lower extremity<br>
-2. minor instrument set<br>
+2. minor instrument set<br>, <i><b><u>NOT </i></u></b>the leg amputation instrument set please<br>
 3. dermatome<br>
 4. dermatome blade<br>
 5. short plastic carrier<br>
