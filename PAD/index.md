@@ -131,9 +131,9 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 15. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
 16. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
 17. <i>Text order</i>: Out of bed to cardiac chair in AM.<br>
-18. <i>Text order</i>:: Do not manipulate leg wrap.<br>
-19. <i>Text order</i>:: Incisional wound VAC to -75 mmHg continuous suction, low intensity.<br>
-20. <i>Text order</i>:: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
+18. <i>Text order</i>: Do not manipulate leg wrap.<br>
+19. <i>Text order</i>: Incisional wound VAC to -75 mmHg continuous suction, low intensity.<br>
+20. <i>Text order</i>: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
 </tt></blockquote>
 <br>
 <br>
@@ -143,7 +143,7 @@ Do NOT use non-steroidal anti-inflammatory (NSAID) medications because of the hi
 Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load. <br><br>
 MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
 
-<b>POD#1:</b> Main goals are generally out of bed > transfer to unit.
+<b>Post-Operative Day #1:</b> Main goals are generally out of bed, possibly transfer to unit (<i>not</i> step-down unless 5A admission criteria are met).
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders:</b><br>
 1. Out of bed to cardiac chair by 9AM.<br>
@@ -155,13 +155,14 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 </tt></blockquote>
 <br>
 
-<b>POD#2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4 or work with case manager, social worker, and nurse practicioner to identify other discharge plans. 
+<b>Post-Operative Day #2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4 or work with case manager, social worker, and nurse practicioner to identify other discharge plans. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders:</b><br>
 1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.
 </tt></blockquote>
-
-<b>POD#3:</b><br> 
+<br>
+<br>
+<b>Post-Operative Day #3:</b><br> 
 Along with daily aspirin, discuss continuing or initiating one of the following:
 
 Bypass Conduit | Medication
