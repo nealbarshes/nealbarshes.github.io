@@ -53,7 +53,7 @@ Day of surgery: Check laterality. Then double check it. Then triple check it.
 4. “Clean” closure: New gloves, needle drivers and forceps. +/- myodesis, then tenodesis, tension-free with interrupted Vicryl in fascia, not muscle. Allgower-Donati (half-buried) or typical vertical mattress with nylon alternating with staples for skin.
 5. Dressing: Incision wound VAC: Mastisol and thin transparent strips on skin along the incision. Adaptec over incision, then black sponge and more transparent. 4" Webrils x2 and 4" ACE wrap x2. Soft knee immobilizer.
 
-<b>Post-op orders:</b> Solid food diet + Glucerna BID. Start DVT prophylaxis and multimodal pain regimen (see below). Write for H&H only (BMP if ESRD or pre-op electrolyte abnormalities). Consult PT/OT. 
+<b>Post-operative orders:</b>
 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b><br>
@@ -84,9 +84,9 @@ Day of surgery: Check laterality. Then double check it. Then triple check it.
 22. Solid food diet.<br>
 23. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
 24. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
-25. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
+25. Consult physical therapy, occupational therapy.
 26. <i>Text order</i>: "Out of bed to chair in AM."<br>
-27. <i>Text order</i>: "Do not manipulate leg wrap."<br>
+27. <i>Text order</i>: "Do not manipulate leg wrap. Leave knee immobilizer in place most of day."<br>
 28. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br>
 29. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br> 
 </tt></blockquote>
