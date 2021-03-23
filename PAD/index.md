@@ -123,7 +123,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 8. Tylenol #3 one tablet q6h PRN severe pain.<br>
 9. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
 10. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
-<b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients:
+  <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
 11. <i>S = S</i>tatin medication.<br>
 12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
 13. <i>V= V</i>itamin C 500mg PO BID. <br>
