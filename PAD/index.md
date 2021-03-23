@@ -130,21 +130,17 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 14. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
 15. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
 16. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
-17. Text orders: Out of bed to cardiac chair in AM.<br>
-18. Text order: Do not manipulate leg wrap.<br>
-19. Text order: Incisional wound VAC to -75 mmHg continuous suction, low intensity.<br>
-20. Text order: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
+17. <i>Text order</i>: Out of bed to cardiac chair in AM.<br>
+18. <i>Text order</i>:: Do not manipulate leg wrap.<br>
+19. <i>Text order</i>:: Incisional wound VAC to -75 mmHg continuous suction, low intensity.<br>
+20. <i>Text order</i>:: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
 </tt></blockquote>
 <br>
 <br>
-Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
+Do NOT use non-steroidal anti-inflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
 <br>
-Multimodal pain and bowel regimen, AS NEEDED medications:
-<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-
-</tt></blockquote>
 <br>
-Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load. <br>
+Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load. <br><br>
 MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
 
 <b>POD#1:</b> Main goals are generally out of bed > transfer to unit.
