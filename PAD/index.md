@@ -150,18 +150,32 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 <b>POD#1:</b> Main goals are generally out of bed > transfer to unit.
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders:</b><br>
-1. Out of bed to cardiac chair by 9AM. 
-2. Foley out, wean any O2. 
-3. Saline (<i>not</i> herparin) lock IV.
-4. Consider furosemide if edema present.
-5. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.
-6. Do NOT order AM labs for POD #2.
+1. Out of bed to cardiac chair by 9AM.<br>
+2. Foley out, wean any O2.<br>
+3. Saline (<i>not</i> herparin) lock IV.<br>
+4. Consider furosemide if edema present.<br>
+5. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
+6. Do NOT order AM labs for POD #2.<br>
 </tt></blockquote>
 <br>
 
-<b>POD#2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4. 
+<b>POD#2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4 or work with case manager, social worker, and nurse practicioner to identify other discharge plans. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders:</b><br>
-1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.<br>
+1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.
+</tt></blockquote>
 
-<b>POD#3:</b> Start Eliquis is spliced vein and HAS-BLED < or =3, cilostazol if single segment vein. Start Plavix if PTFE. Discharge with 30 tabs tramadol OR 20 tabs Tylenol #3.
+<b>POD#3:</b><br> 
+Along with daily aspirin, discuss continuing or initiating one of the following:
+
+Bypass Conduit | Medication
+------------ | -------------
+multi-segment (spliced) vein | tart Eliquis if HAS-BLED score(https://www.mdcalc.com/has-bled-score-major-bleeding-risk) < or =3
+PTFE | clopidogrel
+single segment vein | cilostazol
+
+<b>The afternoon <i>prior to</i> day of anticipated transition to outpatient care:</b> 
+<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+1. Tramadol <i>OR</i> Tylenol #3 PO q6h as needed. Dispense 20 tablets, no refills.<br>
+2. All needed wound care supplies.
+</tt></blockquote>
