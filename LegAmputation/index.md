@@ -40,7 +40,7 @@ Is the patient a candidate for [palliative foot care](https://github.com/nealbar
 </tt></blockquote>
 <br>
 <br>
-Bovie settings of 30 pure for cut, 65 spray for coagulation. Ask the circulator to scrub the ENTIRE leg: prep foot and any open areas with chlorhexidine soap, then Chloraprep for intact skin. Ask scrub tech/RN to set needle drivers x2, forceps w teeth x2 aside for “clean closure” (as in elective colorectal cases). Talk to me about the posterior-first approach. We will also utilize many of the [technical details described by Dr. Christopher Attinger](https://pubmed.ncbi.nlm.nih.gov/24510319/).
+Bovie settings of 30 pure for cut, 65 spray for coagulation. Ask the circulator to scrub the ENTIRE leg: prep foot and any open areas with chlorhexidine soap, then Chloraprep for intact skin. Ask scrub tech/RN to set needle drivers x2, forceps w teeth x2 aside for “clean closure” (as in elective colorectal cases). Talk to me about the posterior-first approach. We will also utilize many of the [principles described by orthopedic surgeon Dr. Michael Pinzur](https://pubmed.ncbi.nlm.nih.gov/21200297/) and many of the [technical details described by Dr. Christopher Attinger](https://pubmed.ncbi.nlm.nih.gov/24510319/).
 
 <b>Pre-op preparation:</b>
 Before day of surgery: x-ray of planned level of amputation (look for hardware).
