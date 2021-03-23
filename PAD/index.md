@@ -64,7 +64,7 @@ For some further explanation, consider these brief videos on [bedside evaluation
 <br>
 <br>
 <br>
-### Infrainguinal endovascular interventions
+### Infrainguinal Endovascular Procedures
 
 In the clinic, consider: (1) indication; (2) feeling for bilateral femoral pulses, ipsilateral popliteal and pedal pulses; and (3) bedside vein mapping. 
 Plan for pre- and post-admission if eGFR<60mL/min: normal saline at 0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
@@ -85,7 +85,7 @@ Ultimately, [these seven digital subtraction angiography runs](https://github.co
 If severely impaired eGFR, consider carbon dioxide angiography with [this setup](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/CO2angioSetUp.pdf).
 If intervention: long Amplatz wire through Quickcross + 45cm 6Fr (if SFA/pop) or 55/70cm 5Fr (if tibial). Cross, shoot DSA, PTA, consider stent.
 
-After the case: bedrest x six hours. Obs. again if needed for hydration, renal protection. Discharge without outpatient narcotics (Tylenol only), Plavix bolus if intervention. Consider cilostazol otherwise. 
+After the case: bedrest x six hours. Generally an outpatient procedure. Inpatient observation again only if needed for hydration, renal protection. Discharge without outpatient narcotics (Tylenol only), Plavix bolus if intervention. Consider cilostazol otherwise. 
 
 ### Infrainguinal Bypasses
 
@@ -107,25 +107,42 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 5. subcuticular skin closure with  4-0 Monocryl
 6. negative pressure wound therapy (transparent dressing “window panes”, Adaptec, black sponge, more transparent dressings).
 
-<b>Post-op:</b> to SICU overnight. NS @ ~0.5mL/kg/hr x12 hours. Blood count, basic metabolic panel and PT/PTT/INR now; blood count and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF. Initiate prophylaxis against DVT and start multimodal pain regimen. Clear liquid diet, solid foot breakfast. Text orders for out of bed to cardiac chair in AM, to not manipulate leg wrap, and to keep overhead lights on and curtains open during daytime hours (7A-9PM). Ignore SICU template orders that don't apply (ex. extubation parameters).
-  
-Multimodal pain and bowel regimen, SCHEDULED medications (adapted from UT Trauma group):
+#### Post-operative Orders following Infrainguinal Bypass
+
+<b>Immediate post-op:</b> to SICU overnight. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br><br>
-2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br><br>
-3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.
-4. Docusate 100 mg PO every 12 hours.
-5. Senna 2 mg PO every 12 hours.
+SCHEDULED components of the multimodal analgesia bundle (adapted from the [UT Houston trauma group](med.uth.edu/surgery/acute-trauma-pain-multimodal-therapy)):
+1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br>
+2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
+3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
+4. Docusate 100 mg PO every 12 hours.<br>
+5. Senna 2 mg PO every 12 hours.<br>
+<br>
+AS NEEDED components of the multimodal analgesia bundle:<br>
+7. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
+8. Tylenol #3 one tablet q6h PRN severe pain.<br>
+9. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
+10. Polyethylene glycol 3350 17 g PO every 12 hours.<br>
+<br>
+Other orders:<br>
+12. NS @ ~0.5mL/kg/hr x12 hours.<br>
+13. Solid food diet.<br>
+14. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
+15. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
+16. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
+17. Text orders: Out of bed to cardiac chair in AM.<br>
+18. Text order: Do not manipulate leg wrap.<br>
+19. Text order: Incisional wound VAC to -75 mmHg continuous suction, low intensity.<br>
+20. Text order: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
 </tt></blockquote>
+<br>
+  
 <br>
 Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
 <br>
 Multimodal pain and bowel regimen, AS NEEDED medications:
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-1. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br><br>
-2. Tylenol #3 one tablet q6h PRN severe pain.<br><br>
-3. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br><br>
-4. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
+
 </tt></blockquote>
 <br>
 Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  
@@ -133,7 +150,7 @@ Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/m
 <br>
 MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
 
-<b>POD#1:</b> Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs.
+<b>POD#1:</b> Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs. Solid food for breakfast.
 
 <b>POD#2:</b> Out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4. Order AM hematocrit +/- repeat BNP. BMP only if ESRD.
 
