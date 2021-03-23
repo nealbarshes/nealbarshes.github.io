@@ -64,7 +64,7 @@ For some further explanation, consider these brief videos on [bedside evaluation
 <br>
 <br>
 <br>
-Our hospital's vascular surgery experience began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s (K. Mattox, <i>The History of Surgery in Houston). It is currently the busiest VA vascular surgery service in the country. We serve a patient population with a more racial diversity than even the city of Houston as a whole. In total, our program's experience in limb salvage have put our surgical trainees at the 86th percentile for peripheral obstructive cases. 
+Our hospital's vascular surgery experience began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s (K. Mattox, <i>The History of Surgery in Houston</i>). We currently have the highest-volume VA vascular surgery service in the country. We serve a patient population with a more diversity than even the city of Houston as a whole. Together with other rotations, our program's experience in limb salvage have put our surgical trainees at the 86th percentile for peripheral obstructive cases. 
 <br>
 <br>
 <br>
