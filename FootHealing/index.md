@@ -79,3 +79,38 @@ Utilize freely-available local ("Veterans Kick Butts" counseling) and national s
 ### Ensure optimal medical management in ALL patients
 
 Includes diabetes management that is largely concordant with recommendations from major U.S. medical societies. This should be done in conjunction with the patient’s primary care clinician or through a specialty medical clinic.
+
+
+### Equipment and supply lists for foot reconstruction operations:
+
+<b>open toe amputation and/or debridement only, no closure</b>
+<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+1. mini bone instrument set<br>
+2. methylene blue in a sterile cup, on the field<br>
+3. Versajet device in room<br>
+5. Versajet handpiece in room<br>
+6. 3L bag of normal saline in room<br>
+7. 4x4 gauze<br>
+8. Webril (cast padding), 4-inch width<br>
+9. ACE wrap, 4-inch width<br>
+</tt></blockquote>
+<br>
+<br>
+
+
+<b>delayed primary closure ± toe amputation</b>
+<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+1. mini bone instrument set<br>
+2. micro-oscillating saw with 1cm blade<br>
+3. methylene blue in a sterile cup, on the field<br>
+4. Versajet device in room<br>
+5. Versajet handpiece in room<br>
+6. 3L bag of normal saline in room<br>
+7. two 2-0 Vicryl sutures on UR-6 needle<br>
+8. two 2-0 Vicryl sutures on CT1 needle<br>
+9. two 3-0 nylon on SH needle<br>
+10. 4x4 gauze<br>
+11. Webril (cast padding), 4-inch width<br>
+12. ACE wrap, 4-inch width<br>
+</tt></blockquote>
+
