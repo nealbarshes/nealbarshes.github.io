@@ -122,18 +122,28 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 7. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
 8. Tylenol #3 one tablet q6h PRN severe pain.<br>
 9. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
-10. Polyethylene glycol 3350 17 g PO every 12 hours.<br>
-<br>
+10. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
+<b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients:
+11. <i>S = S</i>tatin medication.<br>
+12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
+13. <i>V= V</i>itamin C 500mg PO BID <br>Vancomycin with [calculated dosage](https://clincalc.com/Vancomycin/) only if MRSA nares swab is positive OR if  pre-op. for abscess I&D.<br>
+14. <i>E= ”E</i>nsure” BID (though Glucerna SR has lowest added sugar).<br>
+15. <i>T= | T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
+16. <i>He= | H</i>eparin subcutaneous q8h. Do not hold for OR.<br>
+17. <i>L= | L</i>actobacillus 2 caps PO BID.<br>
+18. <i>I= | I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale.<br>
+19. <i>M= | M</i>ultivitamin 1 cap daily.<br>
+20. <i>B= | B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
 <b>Other orders:</b><br>
-12. NS @ ~0.5mL/kg/hr x12 hours.<br>
-13. Solid food diet.<br>
-14. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
-15. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
-16. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
-17. <i>Text order</i>: Out of bed to cardiac chair in AM.<br>
-18. <i>Text order</i>: Do not manipulate leg wrap.<br>
-19. <i>Text order</i>: Incisional wound VAC to -75 mmHg continuous suction, low intensity.<br>
-20. <i>Text order</i>: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
+21. NS @ ~0.5mL/kg/hr x12 hours.<br>
+22. Solid food diet.<br>
+23. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
+24. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
+25. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
+26. <i>Text order</i>: Out of bed to cardiac chair in AM.<br>
+27. <i>Text order</i>: Do not manipulate leg wrap.<br>
+28. <i>Text order</i>: Incisional wound VAC to -75 mmHg continuous suction, low intensity.<br>
+29. <i>Text order</i>: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
 </tt></blockquote>
 <br>
 <br>
