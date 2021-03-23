@@ -101,9 +101,9 @@ Test link for [leg bypass chapter](https://bcmedu-my.sharepoint.com/:b:/g/person
 
 The bundle we've employed to [reduce surgical site infections by 67%](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/ZamaniSSIreduction.pdf):
 1. Minimize hospital pre-admission.
-2. Methicillin-sensitive <i>Staphylococcus aureus</i> decontamination protocol with mupirocin nasal ointment, chlorhexidine wipes or shower
-3. Vancomycin in wound ONLY if re-do case AND no vein in the field
-4. Interrupted 2-0 Vicryl to close dead space. 
+2. Methicillin-sensitive <i>Staphylococcus aureus</i> decontamination protocol with mupirocin nasal ointment, chlorhexidine wipes or shower. This is routinely done through our outpatient clinic.
+3. Vancomycin in wound ONLY if re-do case AND no vein in the field.
+4. Interrupted 2-0 Vicryl to close dead space.
 5. Subcuticular skin closure with  4-0 Monocryl. Avoid staples in groin incisions.
 6. Negative pressure wound therapy (transparent dressing “window panes”, Adaptec, black sponge, more transparent dressings).
 
