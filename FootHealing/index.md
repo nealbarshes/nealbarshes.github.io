@@ -56,8 +56,8 @@ I have no relationships to industry -- the producers of these or any other medic
 |   | Tegaderm (3M)  |
 
 <br>
-<blockquote style="border: 2px solid #1E8449; font-style: normal; padding: 30px; font-size:18px; background-color: #ABEBC6;">
-A simplified version: <span style="color:red">generally <b><u>I</u>odosorb for <b><u>I</u>npatients</b> or <u>I</u>nfection</b> and <b>c<u>O</u>llagenase for <u>O</u>utpatients or <u>U</u>ninfected <u>U</u>lcers</b></span>.</blockquote>.
+<blockquote style="border: 2px solid #1E8449; font-style: normal; padding: 20px; font-size:16px; background-color: #ABEBC6;">
+A simplified version: <span style="color:red">generally <b><u>I</u>odosorb for <b><u>I</u>npatients</b> or <u>I</u>nfection</b> and <br><b>c<u>O</u>llagenase for <u>O</u>utpatients or <u>U</u>ninfected <u>U</u>lcers</b></span>.</blockquote>.
 <br>
 
 
