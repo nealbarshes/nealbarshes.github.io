@@ -187,9 +187,9 @@ Along with daily aspirin, discuss continuing or initiating one of the following:
 
 Bypass Conduit | Medication
 ------------ | -------------
+single segment vein | cilostazol
 multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3
 PTFE | clopidogrel
-single segment vein | cilostazol
 
 <b>The afternoon <i>prior to</i> day of anticipated transition to outpatient care:</b> 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
