@@ -20,11 +20,11 @@ Health professionals interested in getting overview of the spectrum of care to a
 This two-page [health policy brief](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/UTMB%20CEHB%20brief%201602%2C%20amputation%20disparities.pdf), written with the University of Texas Medical Branch's Center to Eliminate Health Disparities, summarizes the problems caused by leg amputations and suggests some steps forward. 
 
 
-### Patient Education Brochures
+### Information for Patients
 
 <i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with understanding how diabetes can lead to foot ulcers and infections and quantifying amputation risk. It helps people reduce their amputation risk, recognize a foot infection, and develop a contingency plan if infection does develop.
 
-This brochure is written at the 8th grade level with minimal technical language and has been reviewed by patients. Fantastic colleagues here in Houston have helped translate it from English into nine other languages. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients.
+This brochure is written with plain language and no undefined technical terms. We have incorporated feedback from patients who have graciously reviewed it. Fantastic colleagues here in Houston have helped translate it from English into nine other languages. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients or to learn about your condition.
 
 1.  [Guard your Feet, English](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
 2.  [Proteja los Pies, Spanish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/02%20Protega%20los%20Pies%20%5BSpanish%5D.pdf)
@@ -39,12 +39,11 @@ This brochure is written at the 8th grade level with minimal technical language 
 
 
 ### Tenets of Treatment
-Additional ages providing practical guidance with rationale/evidence/support:
+Additional pages providing practical guidance with rationale/evidence/support:
 1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
 2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
 3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
 4. Maintain mobility  -- even if [amputation](https://nealbarshes.github.io/LegAmputation/) is performed.
-
 
 
 ### A Selection of Our Manuscripts Relevant to Clinical Care 
