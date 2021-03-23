@@ -190,5 +190,5 @@ single segment vein | cilostazol
 1. Tramadol <i>OR</i> Tylenol #3 PO q6h as needed. Dispense 20 tablets, no refills.<br>
 2. A 30-day supply of all needed wound care supplies.
 </tt></blockquote>
-
+<br><br>
 <b>The <i>morning of</i> anticipated transition to outpatient care:</b> Remove incisional wound VAC (or post-operative day #5, whichever comes first).
