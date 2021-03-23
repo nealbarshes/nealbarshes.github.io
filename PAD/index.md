@@ -122,10 +122,10 @@ Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the hig
 
 Multimodal pain and bowel regimen, AS NEEDED medications:
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-1. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.
-2. Tylenol #3 one tablet q6h PRN severe pain. 
-3. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.
-4. Polyethylene glycol 3350 17 g PO every 12 hours.
+1. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br><br>
+2. Tylenol #3 one tablet q6h PRN severe pain.<br><br>
+3. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br><br>
+4. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
 </tt></blockquote>
 
 Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  
