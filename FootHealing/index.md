@@ -57,7 +57,7 @@ I have no relationships to industry -- the producers of these or any other medic
 
 <br>
 <blockquote style="border: 2px solid #1E8449; font-style: normal; text-align: center; padding: 20px; font-size:16px; background-color: #ABEBC6;">
-A simplified version for surgical trainees: generally <br><span style="color:#21618C"><b><u>I</u>odosorb </b>for <b><u>I</u>npatients</b> or <b><u>I</u>nfection</b><br></span> and <br><span style="color:#21618C"><b>c<u>O</u>llagenase </b>for <b><u>O</u>utpatients </b>or <b><u>U</u>ninfected <u>U</u>lcers</b></span>.</blockquote>.
+A simplified version for surgical trainees: generally <br><span style="color:#21618C"><b><u>I</u>odosorb </b>for <b><u>I</u>npatients</b> or <b><u>I</u>nfection</b><br></span> <i>and</i> <br><span style="color:#21618C"><b>c<u>O</u>llagenase </b>for <b><u>O</u>utpatients </b>or <b><u>U</u>ninfected <u>U</u>lcers</b></span>.</blockquote>.
 <br>
 
 
