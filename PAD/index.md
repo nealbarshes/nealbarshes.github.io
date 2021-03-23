@@ -74,7 +74,7 @@ Our hospital's vascular surgery experience began as part of the Baylor College o
 In the clinic, consider: (1) indication; (2) feeling for bilateral femoral pulses, ipsilateral popliteal and pedal pulses; and (3) bedside vein mapping. 
 Plan for pre- and post-admission if eGFR<60mL/min: normal saline at 0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
 
-In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) any previous imaging.
+In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) any previous imaging. Posting should generally use the 36247 code, NOT any procedural code beginning with a 7.
 
 Procedure in basic steps: Bentson to get 5Fr sheath in; Contra/Omni to the aorta. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catether for the angiograms starting in distal leg. Visualize more proximal segments later.
 
@@ -99,7 +99,7 @@ In the clinic before the operation, consider: prior operations in index extremit
 
 Before the case, consider: (1) indication; (2) hemoglobin; (3) eGFR; (4) planned conduit (single-segment saphenous vein, then [spliced arm vein](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/MOVIEconduitAnalysis.pdf), then PTFE with [distal vein patch](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/DistalVeinPatches.pdf)), (5) baseline anti platelet / anticoagulation medications. I will mark vein course using ultrasound BEFORE the patient gets to the room.
 
-On the field: 4-0 silk ties; 7-0 Prolene. magnet pad, Ioban x3. Supine, left arm tucked (unless left arm vein harvest is planned). Drape just above the umbilicus. Isolation bag if tibial/pedal target, stockinette otherwise. If foot wound: foot should be prepared with chlorhexidine scrub in preference to not iodine-based solutions. All members of the team should do a full five-minute hand scrub.
+On the field: 4-0 silk ties; 7-0 Prolene. magnet pad, Ioban x3. Supine, left arm tucked (unless left arm vein harvest is planned). Drape just above the umbilicus. Isolation bag if tibial/pedal target, stockinette otherwise. If foot wound: foot should be prepared with chlorhexidine scrub in preference to not iodine-based solutions. Our OR team generally knows to open 4-0 silk ties, 7-0 Prolene, vein solution and other typical accoutrements; therefore, no list is included here. All members of the team should do a full five-minute hand scrub. 
 
 Five main steps: 1) vein harvest; 2&3) distal & proximal exposures; 4) tunneling + anastomoses; 5) closure.
 
