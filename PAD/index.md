@@ -155,7 +155,7 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 
 <b>Post-Operative Day #1:</b> Main goals are generally out of bed, possibly transfer to unit (<i>not</i> step-down unless 5A admission criteria are met).
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-<b>Additional orders:</b><br>
+<b>Additional orders, post-operative day #1:</b><br>
 1. Out of bed to cardiac chair by 9AM.<br>
 2. Foley out, wean any O2.<br>
 3. Saline (<i>not</i> herparin) lock IV.<br>
@@ -167,7 +167,7 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 
 <b>Post-Operative Day #2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4 or work with case manager, social worker, and nurse practicioner to identify other discharge plans. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-<b>Additional orders:</b><br>
+<b>Additional orders, post-operative day #2:</b><br>
 1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.<br>
 2. Prosthetics consult for DH walker (if patient does not already have one). Look under "Footwear", and "Urgent Footwear".<br>
 3. <i>Text order</i>: "To 2B-300 prosthetics department via wheelchair and escort for DH walker offloading boot".<br>
@@ -186,6 +186,7 @@ single segment vein | cilostazol
 
 <b>The afternoon <i>prior to</i> day of anticipated transition to outpatient care:</b> 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+<b>Additional orders, day prior to transition to outpatient care:</b><br>
 1. Tramadol <i>OR</i> Tylenol #3 PO q6h as needed. Dispense 20 tablets, no refills.<br>
 2. A 30-day supply of all needed wound care supplies.
 </tt></blockquote>
