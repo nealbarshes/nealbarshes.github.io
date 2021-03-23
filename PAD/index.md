@@ -124,7 +124,7 @@ SCHEDULED:
 <li>Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.
 <li>Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).
 <li>Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
-  </ol></tt></blockquote>
+  </tt></blockquote>
 
 Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
 
