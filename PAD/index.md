@@ -140,10 +140,10 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 23. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
 24. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
 25. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
-26. <i>Text order</i>: Out of bed to cardiac chair in AM.<br>
-27. <i>Text order</i>: Do not manipulate leg wrap.<br>
-28. <i>Text order</i>: Incisional wound VAC to -75 mmHg continuous suction, low intensity.<br>
-29. <i>Text order</i>: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
+26. <i>Text order</i>: "Out of bed to cardiac chair in AM."<br>
+27. <i>Text order</i>: "Do not manipulate leg wrap."<br>
+28. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br>
+29. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br> 
 </tt></blockquote>
 <br>
 <br>
@@ -168,7 +168,9 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 <b>Post-Operative Day #2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4 or work with case manager, social worker, and nurse practicioner to identify other discharge plans. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders:</b><br>
-1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.
+1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.<br>
+2. Prosthetics consult for DH walker (if patient does not already have one). Look under "Footwear", and "Urgent Footwear".<br>
+3. <i>Text order</i>: "To 2B-300 prosthetics department via wheelchair and escort for DH walker offloading boot".<br>
 </tt></blockquote>
 <br>
 <br>
@@ -184,5 +186,5 @@ single segment vein | cilostazol
 <b>The afternoon <i>prior to</i> day of anticipated transition to outpatient care:</b> 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. Tramadol <i>OR</i> Tylenol #3 PO q6h as needed. Dispense 20 tablets, no refills.<br>
-2. All needed wound care supplies.
+2. A 30-day supply of all needed wound care supplies.
 </tt></blockquote>
