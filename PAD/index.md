@@ -111,20 +111,20 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 
 <b>Immediate post-op:</b> to SICU overnight. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-SCHEDULED components of the multimodal analgesia bundle (adapted from the [UT Houston trauma group](med.uth.edu/surgery/acute-trauma-pain-multimodal-therapy)):
+<b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b>
 1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br>
 2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
 3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
 4. Docusate 100 mg PO every 12 hours.<br>
 5. Senna 2 mg PO every 12 hours.<br>
 <br>
-AS NEEDED components of the multimodal analgesia bundle:<br>
+<b>AS NEEDED components of the multimodal analgesia bundle:</b><br>
 7. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
 8. Tylenol #3 one tablet q6h PRN severe pain.<br>
 9. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
 10. Polyethylene glycol 3350 17 g PO every 12 hours.<br>
 <br>
-Other orders:<br>
+<b>Other orders:</b><br>
 12. NS @ ~0.5mL/kg/hr x12 hours.<br>
 13. Solid food diet.<br>
 14. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
