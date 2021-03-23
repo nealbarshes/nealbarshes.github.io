@@ -133,7 +133,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 11. <i>S = S</i>tatin medication.<br>
 12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
 13. <i>V= V</i>itamin C 500mg PO BID. <br>
-14. <i>E= ”E</i>nsure” BID (though Glucerna SR has lowest added sugar).<br>
+14. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
 15. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
 16. <i>He= H</i>eparin subcutaneous q8h. Do not hold for OR.<br>
 17. <i>L= L</i>actobacillus 2 caps PO BID.<br>
