@@ -111,7 +111,7 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 7. Order hemoglobin for AM of POD #2 only if severe anemia was present prior to the operation.<br>
 </tt></blockquote>
 <br>
->br>
+<br>
 <b>POD#2:</b> CHANGE WRAP on POD#2, replace with Webril and ACE. Text order for nurses to weigh patient and document weight in the chart.
 
 <b>POD#3:</b> Ask anesthesiology block team to remove nerve block catheter. Start planning discharge disposition. +/- 7 day course of abx directed to operative culture results.
