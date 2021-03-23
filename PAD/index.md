@@ -41,19 +41,11 @@ Reserving non-invasive testing for patients with weak or absent pedal pulses, th
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 30px; font-size:18px; background-color: #FDEDEC;">
+<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">
 Simply put, <span style="color:red">these findings suggest that <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span></blockquote>.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
-
 
 | In addition, <b>consider angiography if any of the following specific situations are present:</b>  |
 |---|
