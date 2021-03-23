@@ -166,8 +166,9 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 2. Foley out, wean any O2.<br>
 3. Saline (<i>not</i> herparin) lock IV.<br>
 4. Consider furosemide if edema present.<br>
-5. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
-6. Do NOT order AM labs for POD #2.<br>
+5. Resume home insulin regimen.
+6. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
+7. Do NOT order AM labs for POD #2.<br>
 </tt></blockquote>
 <br>
 
