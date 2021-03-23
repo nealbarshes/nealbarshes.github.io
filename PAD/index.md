@@ -111,7 +111,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 
 <b>Immediate post-op:</b> to SICU overnight. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-<b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b>
+<b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b><br>
 1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br>
 2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
 3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
@@ -136,7 +136,6 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 20. Text order: Keep overhead lights on and curtains open during daytime hours (7A-9PM).<br> 
 </tt></blockquote>
 <br>
-  
 <br>
 Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
 <br>
@@ -145,13 +144,24 @@ Multimodal pain and bowel regimen, AS NEEDED medications:
 
 </tt></blockquote>
 <br>
-Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  
-Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load.
-<br>
+Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load. <br>
 MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
 
-<b>POD#1:</b> Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs. Solid food for breakfast.
+<b>POD#1:</b> Main goals are generally out of bed > transfer to unit.
+<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+<b>Additional orders:</b><br>
+1. Out of bed to cardiac chair by 9AM. 
+2. Foley out, wean any O2. 
+3. Saline (<i>not</i> herparin) lock IV.
+4. Consider furosemide if edema present.
+5. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.
+6. Do NOT order AM labs for POD #2.
+</tt></blockquote>
+<br>
 
-<b>POD#2:</b> Out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4. Order AM hematocrit +/- repeat BNP. BMP only if ESRD.
+<b>POD#2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4. 
+<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+<b>Additional orders:</b><br>
+1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.<br>
 
 <b>POD#3:</b> Start Eliquis is spliced vein and HAS-BLED < or =3, cilostazol if single segment vein. Start Plavix if PTFE. Discharge with 30 tabs tramadol OR 20 tabs Tylenol #3.
