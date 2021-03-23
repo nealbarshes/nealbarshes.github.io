@@ -117,9 +117,9 @@ Multimodal pain and bowel regimen, SCHEDULED medications (adapted from UT Trauma
 4. Docusate 100 mg PO every 12 hours.
 5. Senna 2 mg PO every 12 hours.
 </tt></blockquote>
- 
+<br>
 Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
-
+<br>
 Multimodal pain and bowel regimen, AS NEEDED medications:
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br><br>
@@ -127,11 +127,11 @@ Multimodal pain and bowel regimen, AS NEEDED medications:
 3. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br><br>
 4. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
 </tt></blockquote>
-
+<br>
 Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  
 Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load.
-
-AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
+<br>
+MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
 
 <b>POD#1:</b> Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs.
 
