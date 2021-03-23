@@ -12,7 +12,7 @@
 
 ### Ensuring this is the best option
 
-Is the patient a candidate for [palliative foot care](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesPalliativeFoot.pdf)? Amputation may be best for patients who have the potential to be better off than they would be with wound palliation alone.
+Is the patient a candidate for [palliative foot care](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesPalliativeFoot.pdf)? Most patients with foot ulcers, foot infections, or foot gangrene benefit from [revascularization and limb salvage efforts](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EaZETgbUS39Ej_P1nh1NsqcBuokEIEbrWStGWvLsMuQEOg?e=RD5J43). Amputation is [more costly](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20MOVIE%20analysis.pdf) and may have [higher perioperative risks](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesAmpVsBypassRisk.pdf). Nonetheless, amputation can be best for patients who have the potential to be (better off than they would be with wound palliation alone)[https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EUpMUsEJlMxJpm53IojsUcABJKiZndxMNy9ncJxunwhy5g?e=IAGKrs].  
 
 ### Operative Details
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
@@ -40,7 +40,7 @@ Is the patient a candidate for [palliative foot care](https://github.com/nealbar
 </tt></blockquote>
 <br>
 <br>
-Bovie settings of 30 pure for cut, 65 spray for coagulation. Ask the circulator to scrub the ENTIRE leg: prep foot and any open areas with chlorhexidine soap, then Chloraprep for intact skin. Ask scrub tech/RN to set needle drivers x2, forceps w teeth x2 aside for “clean closure” (as in elective colorectal cases). 
+Bovie settings of 30 pure for cut, 65 spray for coagulation. Ask the circulator to scrub the ENTIRE leg: prep foot and any open areas with chlorhexidine soap, then Chloraprep for intact skin. Ask scrub tech/RN to set needle drivers x2, forceps w teeth x2 aside for “clean closure” (as in elective colorectal cases). Talk to me about the posterior-first approach.
 
 <b>Pre-op preparation:</b>
 Before day of surgery: x-ray of planned level of amputation (look for hardware).
