@@ -166,13 +166,14 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 2. Foley out, wean any O2.<br>
 3. Saline (<i>not</i> herparin) lock IV.<br>
 4. Consider furosemide if edema present.<br>
-5. Resume home insulin regimen.
-6. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
-7. Do NOT order AM labs for POD #2.<br>
+5. Order Iodosorb (if foot infection present) or collagenase (if uninfected foot ulcer) to bedside for dressing change on post-operative day #2.<br>
+6. Resume home insulin regimen.
+7. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
+8. Do NOT order AM labs for POD #2.<br>
 </tt></blockquote>
 <br>
 
-<b>Post-Operative Day #2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours). Tell patient to make plans to get home day 4 or work with case manager, social worker, and nurse practicioner to identify other discharge plans. 
+<b>Post-Operative Day #2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours) and foot dressing, conforming to [contemporary strategies for wound healing](https://nealbarshes.github.io/FootHealing/). Tell patient to make plans to get home day 4 or work with case manager, social worker, and nurse practicioner to identify other discharge plans. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, post-operative day #2:</b><br>
 1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.<br>
@@ -182,7 +183,7 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 <br>
 <br>
 <b>Post-Operative Day #3:</b><br> 
-Discuss need for any foot debridement.<br><br>
+Discuss/plan any [foot reconstruction operation](https://nealbarshes.github.io/FootHealing/) during this hospitalization or during subsequent outpatient encounter.<br><br>
 Along with daily aspirin, discuss continuing or initiating one of the following:
 
 Bypass Conduit | Medication
