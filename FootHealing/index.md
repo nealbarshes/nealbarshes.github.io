@@ -100,7 +100,6 @@ Includes diabetes management that is largely concordant with recommendations fro
 <br>
 <br>
 
-
 <b>delayed primary closure ± toe amputation</b>
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. chlorhexidine (Hibiclens) solution for skin preparation to the ankle, <i>NOT</i> iodine-povidine solution<br>
@@ -119,7 +118,8 @@ Includes diabetes management that is largely concordant with recommendations fro
 14. Webril (cast padding), 4-inch width<br>
 15. ACE wrap, 4-inch width<br>
 </tt></blockquote>
-
+<br>
+<br>
 <b>skin grafting</b>
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. Chloraprep chlorhexidine (Hibiclens) solution (<i>NOT</i> iodine-povidine solution) for skin preparation of the entirety of the lower extremity<br>
