@@ -55,6 +55,12 @@ I have no relationships to industry -- the producers of these or any other medic
 |   | 2” paper tape or Medipore™ tape (3M)  |
 |   | Tegaderm (3M)  |
 
+<br>
+<blockquote style="border: 2px solid #1E8449; font-style: normal; padding: 30px; font-size:18px; background-color: #ABEBC6;">
+A simplified version: <span style="color:red">generally <b><u>I</u>odosorb for <b><u>I</u>npatients</b> or <u>I</u>nfection</b> and <b>c<u>O</u>llagenase for <u>O</u>utpatients or <u>U</u>ninfected <u>U</u>lcers</b></span>.</blockquote>.
+<br>
+
+
 #### Generally NOT advised: 
 <ul> <li>use wet-to-dry dressings, as these permit continued bacterial growth, macerate surrounding skin, and perform non-selective, low-efficacy debridement. A randomized trial has reported a -50% reduction in wound area with collagenase vs. 0.8% increase with saline-moistened gauze .</li> 
 <li>use undiluted Betadine solution, alcohol solution, bleach, or other cleaning materials not approved for wound care.</li>
