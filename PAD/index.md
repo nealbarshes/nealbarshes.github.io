@@ -42,7 +42,7 @@ Reserving non-invasive testing for patients with weak or absent pedal pulses, th
 <br>
 <br>
 <blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">
-Simply put, <span style="color:red">these findings suggest that <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span></blockquote>.
+Simply put, <span style="color:red">these findings suggest that <b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>.</blockquote>.
 <br>
 <br>
 <br>
@@ -61,18 +61,20 @@ Simply put, <span style="color:red">these findings suggest that <b><u>all</u> pa
 | anticipated Lisfranc amputation, rotational flap, or free flap reconstruction  |
 
 For some further explanation, consider these brief videos on [bedside evaluation](https://www.youtube.com/watch?v=sKwX3dn4a9U) and [non-invasive lower extremity arterial testing](https://www.youtube.com/watch?v=naiNzIrBhoo) for PAD.
-
+<br>
+<br>
+<br>
 ### Infrainguinal endovascular interventions
 
-In the clinic, consider: (1) indication; (2) bilateral femoral pulses, ipsilat. popliteal and pedal pulses; (3) bedside vein mapping. 
+In the clinic, consider: (1) indication; (2) feeling for bilateral femoral pulses, ipsilateral popliteal and pedal pulses; and (3) bedside vein mapping. 
 Plan for pre- and post-admission if eGFR<60mL/min: normal saline at 0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
 
-In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) previous imaging (if it exists).
+In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) any previous imaging.
 
-Procedure in basic steps: Bentson (NB & NH) or stiff angled GlideWire (JC) to get 5Fr sheath in; Contra/Omni to the aorta. JC: aortogram. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catehter for the angiograms starting in distal leg. 
+Procedure in basic steps: Bentson to get 5Fr sheath in; Contra/Omni to the aorta. JC: aortogram. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catether for the angiograms starting in distal leg. 
 
 Ultimately, [these seven digital subtraction angiography runs](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/BarshesAngiogramViews.pdf) with the following power injector settings for the affected extremity: 
-1. femoral at 15&deg; oblique, 5/s for 5mL
+1. femoral at 15&deg; oblique, 5mL/sec for 5mL.
 2. AP thigh, 5x5
 3. popliteal at 20&deg; oblique, 5x5
 4. upper calf w tibia-fibula separated, 5x5-10
@@ -107,32 +109,29 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 
 <b>Post-op:</b> to SICU overnight. NS @ ~0.5mL/kg/hr x12 hours. Blood count, basic metabolic panel and PT/PTT/INR now; blood count and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF. Initiate prophylaxis against DVT and start multimodal pain regimen. Clear liquid diet, solid foot breakfast. Text orders for out of bed to cardiac chair in AM, to not manipulate leg wrap, and to keep overhead lights on and curtains open during daytime hours (7A-9PM). Ignore SICU template orders that don't apply (ex. extubation parameters).
   
-Multimodal pain regimen:
-SCHEDULED:
+Multimodal pain and bowel regimen, SCHEDULED medications (adapted from UT Trauma group):
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br><br>
 2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br><br>
-3.Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.
-  </tt></blockquote>
-
+3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.
+4. Docusate 100 mg PO every 12 hours.
+5. Senna 2 mg PO every 12 hours.
+</tt></blockquote>
+ 
 Do NOT use non-steroidal antiinflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
 
-
-AS NEEDED: 
+Multimodal pain and bowel regimen, AS NEEDED medications:
+<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.
 2. Tylenol #3 one tablet q6h PRN severe pain. 
+3. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.
+4. Polyethylene glycol 3350 17 g PO every 12 hours.
+</tt></blockquote>
 
 Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch.  
 Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load.
 
 AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
-
-
-BOWEL REGIMEN:
-1. Docusate 100 mg PO every 12 hours.
-2. Senna 2 mg PO every 12 hours.
-3. Polyethylene glycol 3350 17 g PO every 12 hours.
-4. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.
 
 <b>POD#1:</b> Out of bed to cardiac chair by 9AM. Foley out, wean any O2. Transfer to 5E/5B in afternoon. Saline lock IV. Consider Lasix. PT consult. Don’t order labs.
 
