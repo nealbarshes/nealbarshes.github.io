@@ -128,11 +128,11 @@ Situation 4: <b>severe hyperglycemia (glucose 300-499)</b>
 
 |  Letter | Item |
 |  ------------ | ------------- |
-|  A= | Antibiotic plan  |
+|  A= | <i>A</i>ntibiotic plan  |
 |  B= | [Blood flow testing](https://nealbarshes.github.io/PAD/)  |
-|  C= | Consultant follow-up (ECL wound care or Podiatry ± Infectious Disease)  |
-|  D= | Discharge Disposition  |
-|  E= | Equipment/supplies for [advanced wound care](https://nealbarshes.github.io/FootHealing/)  |
-|  F= | Footwear ([offloading boot](https://nealbarshes.github.io/FootHealing/)) and<br>Four point walker<br>(both from prosthetics department)  |
+|  C= | <i>C</i>onsultant follow-up (ECL wound care or Podiatry ± Infectious Disease)  |
+|  D= | <i>D</i>ischarge <i>D</i>estination: home, nursing facility, inpatient rehabilitation, other  |
+|  E= | <i>E</i>quipment/supplies for [advanced wound care](https://nealbarshes.github.io/FootHealing/)  |
+|  F= | <i>F</i>ootwear ([offloading boot](https://nealbarshes.github.io/FootHealing/)) and<br><i>F</i>our point walker<br>(both from prosthetics department)  |
 
 
