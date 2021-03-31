@@ -131,7 +131,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 10. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
   <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
 11. <i>S = S</i>tatin medication.<br>
-12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
+12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic:systemic (perioperative x24h + isolate-directed) ± topical (cadexomer iodine).<br>
 13. <i>V= V</i>itamin C 500mg PO BID and <i>V</i>itamin D3 25mg PO daily. <br>
 14. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
 15. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
