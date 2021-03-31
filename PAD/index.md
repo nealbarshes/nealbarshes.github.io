@@ -193,6 +193,7 @@ multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.c
 PTFE | clopidogrel
 
 Prior to transition to outpatient care, <b>plan out the following:</b>
+| letter | component|
 |---|---|
 | A | <i>A</i>ntibiotic plan
 | B | <i>B</i>lood flow follow-up (i.e. our clinic)
