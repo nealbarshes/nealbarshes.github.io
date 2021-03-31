@@ -122,7 +122,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
 3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
 4. Docusate 100 mg PO every 12 hours.<br>
-5. Senna 2 mg PO every 12 hours.<br>
+5. Senna 8.6 mg PO every 12 hours.<br>
 <br>
 <b>AS NEEDED components of the multimodal analgesia bundle:</b><br>
 7. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
@@ -132,12 +132,12 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
   <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
 11. <i>S = S</i>tatin medication.<br>
 12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
-13. <i>V= V</i>itamin C 500mg PO BID. <br>
+13. <i>V= V</i>itamin C 500mg PO BID. <br>V</i>itamin E 800mg PO BID. <br>
 14. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
 15. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
-16. <i>He= H</i>eparin subcutaneous q8h. Do not hold for OR.<br>
-17. <i>L= L</i>actobacillus 2 caps PO BID.<br>
-18. <i>I= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale.<br>
+  16. <i>He= H</i>eparin subcutaneous q8h. Do not hold for OR.<br> <i>H</i>ome medications.<br>
+17. <i>L= L</i>actobacillus 2 capsules PO BID.<br>
+18. <i>I= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale until on solid food diet, then resume home regimen.<br>
 19. <i>M= M</i>ultivitamin 1 cap daily.<br>
 20. <i>B= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
 <b>Other orders:</b><br>
