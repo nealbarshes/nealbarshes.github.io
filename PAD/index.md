@@ -192,7 +192,17 @@ single segment vein | cilostazol
 multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3
 PTFE | clopidogrel
 
-Prior to transition to outpatient care, <b>plan out the following:</b><br>
+Prior to transition to outpatient care, plan out the following:
+
+Bypass Conduit | Medication
+------------ | -------------
+single segment vein | cilostazol
+multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3
+PTFE | clopidogrel
+
+
+
+
 Letter | Action
 ------------ | -------------
 A= | <i>A</i>ntibiotic plan
