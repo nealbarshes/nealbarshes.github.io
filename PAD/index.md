@@ -194,15 +194,6 @@ PTFE | clopidogrel
 
 Prior to transition to outpatient care, plan out the following:
 
-Bypass Conduit | Medication
------------- | -------------
-single segment vein | cilostazol
-multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3
-PTFE | clopidogrel
-
-
-
-
 Letter | Action
 ------------ | -------------
 A= | <i>A</i>ntibiotic plan
@@ -212,12 +203,12 @@ D= | <i>D</i>ischarge <i>D</i>estination: home, nursing facility, inpatient reha
 E= | <i>E</i>quipment and supplies
 F= | <i>F</i>ootwear: aforementioned DH walker ("fracture boot") + four-point rollator walker
 
-<b>The afternoon <i>prior to</i> day of anticipated transition to outpatient care:</b> 
+The <b>afternoon <i>prior to</i></b> day of anticipated transition to outpatient care: 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, day prior to transition to outpatient care:</b><br>
 1. Tramadol <i>OR</i> Tylenol #3 PO q6h as needed. Dispense 20 tablets, no refills.<br>
 2. A 30-day supply of all needed wound care supplies.
 </tt></blockquote>
-<br><br>
-<b>The <i>morning of</i> anticipated transition to outpatient care:</b> Remove incisional wound VAC (or post-operative day #5, whichever comes first).
+<br>
+The <b><i>morning of</i></b> anticipated transition to outpatient care: Remove incisional wound VAC (or post-operative day #5, whichever comes first).
 
