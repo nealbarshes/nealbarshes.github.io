@@ -193,14 +193,14 @@ multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.c
 PTFE | clopidogrel
 
 Prior to transition to outpatient care, <b>plan out the following:</b><br>
-letter | component
----|---
-A | <i>A</i>ntibiotic plan
-B | <i>B</i>lood flow follow-up (i.e. our clinic)
-C | <i>C</i>onsultant follow-up for foot ulcer: usually either podiatry or ECL wound care team
-D | <i>D</i>ischarge <i>D</i>estination: home, nursing facility, inpatient rehabilitation, other
-E | <i>E</i>quipment and supplies
-F | <i>F</i>ootwear: aforementioned DH walker ("fracture boot") + four-point rollator walker
+Letter | Action
+------------ | -------------
+A= | <i>A</i>ntibiotic plan
+B= | <i>B</i>lood flow follow-up (i.e. our clinic)
+C= | <i>C</i>onsultant follow-up for foot ulcer: usually either podiatry or ECL wound care team
+D= | <i>D</i>ischarge <i>D</i>estination: home, nursing facility, inpatient rehabilitation, other
+E= | <i>E</i>quipment and supplies
+F= | <i>F</i>ootwear: aforementioned DH walker ("fracture boot") + four-point rollator walker
 
 <b>The afternoon <i>prior to</i> day of anticipated transition to outpatient care:</b> 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
