@@ -64,13 +64,13 @@ A= | Aspirin 81mg <br>Antibiotic: ceftriaxone 1gm IV q24h ± topical cadexomer i
 V= | Vitamin C 500mg PO BID and <br>Vitamin D3 25mg PO daily <br>Vancomycin with [calculated dosage](https://clincalc.com/Vancomycin/) only if MRSA nares swab is positive OR if  pre-op. for abscess I&D. 
 E= | ”Ensure” BID (though Glucerna SR has lowest added sugar)
 T= | Tylenol PRN for pain or temperature >100.4F
-He= | Heparin subcutaneous q8h. Do not hold for OR
+He= | Heparin subcutaneous q8h. Do not hold for OR.<br>Home meds except metformin, Coumadin, other anticoagulants.
 L= | Lactobacillus 2 caps PO BID
 I= | Insulin: 50% of long-acting insulin home dose + sliding scale PRN
 M= | Multivitamin 1 cap daily
 B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 
-Continue all home meds except metformin, Coumadin, other anticoagulants
+
 
 Do not empirically treat for <i>Pseudomonas</i>, as this organism represents [only 3% of isolates at our hospital](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFO%20treatment%20failure.pdf). Similarly, do not empirically treat for methicillin-sensitive <i>Staphylococcus aureus</i> (MRSA). For those with no abscess and negative MRSA nasal swab testing is negative, MRSA has been found in foot microbiology in only [5% of our patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). This increases to [22% with either abscess or MRSA nasal swab findings and to 58% with both](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). 
 
