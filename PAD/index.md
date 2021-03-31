@@ -132,10 +132,10 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
   <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
 11. <i>S = S</i>tatin medication.<br>
 12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
-13. <i>V= V</i>itamin C 500mg PO BID. <br>V</i>itamin E 800mg PO BID. <br>
+13. <i>V= V</i>itamin C 500mg PO BID and <i>V</i>itamin D3 25mg PO daily. <br>
 14. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
 15. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
-  16. <i>He= H</i>eparin subcutaneous q8h. Do not hold for OR.<br> <i>H</i>ome medications.<br>
+  16. <i>He= H</i>eparin subcutaneous q8h and <i>H</i>ome medications.<br>
 17. <i>L= L</i>actobacillus 2 capsules PO BID.<br>
 18. <i>I= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale until on solid food diet, then resume home regimen.<br>
 19. <i>M= M</i>ultivitamin 1 cap daily.<br>
@@ -192,6 +192,15 @@ single segment vein | cilostazol
 multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3
 PTFE | clopidogrel
 
+Prior to transition to outpatient care, <b>plan out the following:</b>
+|---|---|
+| A | <i>A</i>ntibiotic plan
+| B | <i>B</i>lood flow follow-up (i.e. our clinic)
+| C | <i>C</i>onsultant follow-up for foot ulcer: usually either podiatry or ECL wound care team
+| D | <i>D</i>ischarge <i>D</i>estination: home, nursing facility, inpatient rehabilitation, other
+| E | <i>E</i>quipment and supplies
+| F | <i>F</i>ootwear: aforementioned DH walker ("fracture boot") + four-point rollator walker
+
 <b>The afternoon <i>prior to</i> day of anticipated transition to outpatient care:</b> 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, day prior to transition to outpatient care:</b><br>
@@ -200,3 +209,4 @@ PTFE | clopidogrel
 </tt></blockquote>
 <br><br>
 <b>The <i>morning of</i> anticipated transition to outpatient care:</b> Remove incisional wound VAC (or post-operative day #5, whichever comes first).
+
