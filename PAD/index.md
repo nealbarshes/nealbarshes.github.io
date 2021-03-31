@@ -192,16 +192,19 @@ single segment vein | cilostazol
 multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3
 PTFE | clopidogrel
 
-Prior to transition to outpatient care, plan out the following:
+
+Goals prior to transitioning to outpatient management: <b>“ABC DEF”</b>
 
 Letter | Action
 ------------ | -------------
 A= | <i>A</i>ntibiotic plan
 B= | <i>B</i>lood flow follow-up (i.e. our clinic)
-C= | <i>C</i>onsultant follow-up for foot ulcer: usually either podiatry or ECL wound care team
+C= | <i>C</i>onsultant follow-up (ECL wound care or Podiatry ± Infectious Disease) 
 D= | <i>D</i>ischarge <i>D</i>estination: home, nursing facility, inpatient rehabilitation, other
 E= | <i>E</i>quipment and supplies
-F= | <i>F</i>ootwear: aforementioned DH walker ("fracture boot") + four-point rollator walker
+F= | <i>F</i>ootwear ([offloading boot](https://nealbarshes.github.io/FootHealing/)) and<br><i>F</i>our point walker<br>(both from prosthetics department)  
+
+
 
 The <b>afternoon <i>prior to</i></b> day of anticipated transition to outpatient care: 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
