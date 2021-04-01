@@ -40,18 +40,18 @@ Is the patient a candidate for [palliative foot care](https://github.com/nealbar
 </tt></blockquote>
 <br>
 <br>
-Bovie settings of 30 pure for cut, 65 spray for coagulation. Ask the circulator to scrub the ENTIRE leg: prep foot and any open areas with chlorhexidine soap, then Chloraprep for intact skin. Ask scrub tech/RN to set needle drivers x2, forceps w teeth x2 aside for “clean closure” (as in elective colorectal cases). Talk to me about the posterior-first approach to protect the gastrocnemius and posterior flap. We will also utilize many of the [principles described by orthopedic surgeon Dr. Michael Pinzur](https://pubmed.ncbi.nlm.nih.gov/21200297/) and many of the [technical details described by Dr. Christopher Attinger](https://pubmed.ncbi.nlm.nih.gov/24510319/).
+Bovie settings of 30 pure for cut, 65 spray for coagulation. Ask the circulator to scrub the entire lower extremity: foot and any open areas with chlorhexidine soap, then Chloraprep for intact skin on calf and thigh up to any nerve block catheters. Ask scrub tech/nurse to set aside two sets of needle drivers and toothed forceps for “clean closure” (as in elective colorectal cases). Talk to me about the posterior-first approach to protect the gastrocnemius and posterior flap. We will also utilize many of the [principles described by orthopedic surgeon Dr. Michael Pinzur](https://pubmed.ncbi.nlm.nih.gov/21200297/) and many of the [technical details described by Dr. Christopher Attinger](https://pubmed.ncbi.nlm.nih.gov/24510319/). We would use some modifications on [this technique](https://bcmedu-my.sharepoint.com/:u:/g/personal/nbarshes_bcm_edu/ESC67cPk0N9Kl7-D9jh4OhsB-77w1X-BjGlM-8jUnn5YFg?e=scQG3X) for a through-knee amputation.
 
 <b>Pre-op preparation:</b>
 Before day of surgery: x-ray of planned level of amputation (look for hardware).
 Day of surgery: Check laterality. Then double check it. Then triple check it.
 
 <b>Transtibial amputations:</b>
-1. Prepare: Mark the anterior aspect of the incision 13-19cm from tuberosity. Mark the medial and lateral apices to create a posterior flap that is 1/3rd of the calf circumference. Elevation and use Esmark, then thigh tourniquet to 250 mmHg.
-2. Divide soft tissue: Use posterior-first approach to protect the gastrocnemius muscle early on. Local anesthetic for 5 nerves prior to transection: superficial & deep peroneal (lat. and ant. compartments), tibial (deep post.), saphenous and sural nn. Control vascular structures (stick-tie with Prolene), then traction neurectomy.
-3. Divide bone: w power saw. Bevel with power saw too. No rasp, no bone wax. Irrigate the wound w 3L saline.
+1. Prepare: Mark the anterior aspect of the incision 13-19cm from tuberosity. Mark the medial and lateral apices to create a posterior flap that is 1/3rd of the calf circumference. Elevate and use Esmark, then upper calf or thigh tourniquet to 250 mmHg.
+2. Divide soft tissue: Use posterior-first approach to protect the gastrocnemius muscle early on. Local anesthetic mixture for five nerves prior to transection: superficial & deep peroneal (lateral and anterior compartments, respectively), tibial (deep posterior compartment), saphenous and sural nerves. Control vascular structures (silk ligature, then stick-tie with 4-0 Prolene). Traction neurectomy vs. nerve implantation with plastic surgery.
+3. Divide bone: Use electrical saw. Bevel anterior 1cm at smooth 45 degree angle with power saw also. No rasp, no bone wax. Irrigate the wound with 3L saline on cystoscopy tubing set.
 4. “Clean” closure: New gloves, needle drivers and forceps. +/- myodesis, then tenodesis, tension-free with interrupted Vicryl in fascia, not muscle. Allgower-Donati (half-buried) or typical vertical mattress with nylon alternating with staples for skin.
-5. Dressing: Incision wound VAC: Mastisol and thin transparent strips on skin along the incision. Adaptec over incision, then black sponge and more transparent. 4" Webrils x2 and 4" ACE wrap x2. Soft knee immobilizer.
+5. Dressing: Place an incisional negative pressure wound therapy dressing using Mastisol and thin transparent strips on skin along the incision, then Adaptec over incision, then black sponge and more transparent dressings, then connector. Follow this with a [tidy leg wrap](https://www.youtube.com/watch?v=yUizOiWBvs8) using 4" Webrils (cast padding, NOT Kerlix) x2 and 4" ACE wrap x2. Soft knee immobilizer for transtibial amputations.
 
 <b>Post-operative orders:</b>
 
@@ -104,7 +104,7 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 <b>Additional orders, post-operative day #1:</b><br>
 1. Out of bed to cardiac chair by 9AM.<br>
 2. Foley out, wean any O2.<br>
-3. Saline (<i>not</i> herparin) lock IV.<br>
+3. Saline (<i>not</i> heparin) lock IV.<br>
 4. Consider furosemide if edema present.<br>
 5. Resume home insulin regimen.
 6. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
