@@ -65,22 +65,21 @@ More details in [this article on the technique for laparoscopic peritoneal dialy
  
 ### Management of Intermittent Claudication (I70.211/212/213) 
 
-Relevant information to elicit = symptom quality (location, characteristics, severity, relieving/exacerbating factors), functional impairment, any employment requirements, current exercise regimen (beyond what is done for utilitarian walking), and smoking status (transtheoretical model stage: pre-contemplation, contemplation, preparation, action, maintenance). 
+Relevant information to elicit = symptom quality (location, characteristics, severity, relieving/exacerbating factors), functional impairment, any employment requirements, current exercise regimen (beyond what is done for utilitarian walking), and smoking status (transtheoretical model stage: pre-contemplation, contemplation, preparation, action, maintenance).<br>
 
 All should walk out with one of our claudication brochures and [guidance on how to engage in a community-based exercise program (19"23s video)](https://youtu.be/uWyBtbZ_dko). Follow-up at 3 months with an <b>activity log</b>, then q6 months vs. as needed if stable, non-limiting symptoms. Repeat or initial ABIs are not needed unless clinically indicated<br>.
 
-1. Understand <br>
-2. Read the [AHA scientific statement here on exercise for claudication](https://pubmed.ncbi.nlm.nih.gov/30586765/). <br>
-3. Read this [chapter on claudication from Cameron’s Current Surgical Management](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EXhfQyt-WXtFvZ_SVxAq5YQBGQqtT0kPmt-8-W0BoHZYTw?e=nv1OfX) to know when surgical management might be appropriate or beneficial for patients with claudication and how to determine what treatments might be appropriate. <br>
-<br>
+Additional resources:<br>
+1. Read the [AHA scientific statement here on exercise for claudication](https://pubmed.ncbi.nlm.nih.gov/30586765/). <br>
+2. Read this [chapter on claudication from Cameron’s Current Surgical Management](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EXhfQyt-WXtFvZ_SVxAq5YQBGQqtT0kPmt-8-W0BoHZYTw?e=nv1OfX) to know when surgical management might be appropriate or beneficial for patients with claudication and how to determine what treatments might be appropriate. <br>
 <br>
 
 ### Surgical Management of Carotid Disease (I65.21/22) 
 
 In the clinic, differentiate symptomatic vs. asymptomatic. If symptomatic: episode characterization and timing. If asymptomatic:<br>
-- <50%: repeat imaging not recommended, follow-up with primary care provider.
+- if <50%: repeat imaging not recommended, follow-up with primary care provider.
 - 50-69%: repeat imaging in 1 year. Re-refer if >70%
-- >70%: clinic; discuss if good predicted 5-year survival and interested in intervention after citing 2% vs 1% annual risk. If yes, CTA & OR date; if no= yearly repeat US & clinic. <br>
+- if >70%: clinic; discuss if good predicted 5-year survival and interested in intervention after citing 2% vs 1% annual risk. If yes, CTA & OR date; if no= yearly repeat US & clinic. <br>
 
 Before the case: Verify that the patient has been taking aspirin (incl. day of surgery). LeMaitre 0.8 x 8cm bovine carotid patch in the room.<br>
 
