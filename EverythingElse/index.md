@@ -29,14 +29,14 @@ Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two 
 <p>
   
 Procedure:
-1. Cautery-less expose of the vein, then mobilizing the vein
-2. Expose the artery
-3. (If AVG, create tunnel)
-4. Give 3,000 units of heparin, then arteriotomy <5mm to reduce the risk of steal syndrome, then anastomoses(s); 
-5. Doppler to assess flow in vein/AVG and at wrist. 
-6. Protamine 30mg and police the wound for hemostasis. Do not use hemostatic agents beyond Surgicel. 
+1. Cautery-free exposure of the vein, then mobilization.<br>
+2. Expose the artery.<br>
+3. (If AVG, create tunnel)<br>
+4. Give 3,000 units of heparin, then arteriotomy <5mm to reduce the risk of steal syndrome, then anastomoses(s).<br>
+5. Doppler to assess flow in vein/AVG and at wrist. <br>
+6. Protamine 30mg and police the wound for hemostasis. Do not use hemostatic agents beyond Surgicel. <br>
 
-For brachiobasilic elevation, read the technique described in [this article](pubmed.ncbi.nlm.nih.gov/28041805/).<br>
+For brachiobasilic elevation, read the technique described in [this article](https://pubmed.ncbi.nlm.nih.gov/28041805/).<br>
 
   
 If we are placing a catheters: 16cm for right internal jugular or right subclavian, 20cm for left internal jugular, 20-24cm for femoral vein.<br>
