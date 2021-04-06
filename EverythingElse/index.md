@@ -67,7 +67,7 @@ More details in [this article on the technique for laparoscopic peritoneal dialy
 
 Relevant information to elicit = symptom quality (location, characteristics, severity, relieving/exacerbating factors), functional impairment, any employment requirements, current exercise regimen (beyond what is done for utilitarian walking), and smoking status (transtheoretical model stage: pre-contemplation, contemplation, preparation, action, maintenance).<br>
 
-All should walk out with one of our claudication brochures and [guidance on how to engage in a community-based exercise program (19"23s video)](https://youtu.be/uWyBtbZ_dko). Follow-up at 3 months with an <b>activity log</b>, then q6 months vs. as needed if stable, non-limiting symptoms. Repeat or initial ABIs are not needed unless clinically indicated<br>.
+All should walk out with one of our claudication brochures and [guidance on how to engage in a community-based exercise program (19"23s video)](https://youtu.be/uWyBtbZ_dko). Follow-up at 3 months with an <b>activity log</b>, then q6 months vs. as needed if stable, non-limiting symptoms. Repeat or initial ABIs are not needed unless clinically indicated.<br>
 
 Additional resources:<br>
 1. Read the [AHA scientific statement here on exercise for claudication](https://pubmed.ncbi.nlm.nih.gov/30586765/). <br>
