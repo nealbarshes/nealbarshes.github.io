@@ -21,6 +21,7 @@ In the clinic, know:<br>
 4. previous AVFs/AVGs<br>
 5. arterial pulse exam<br>
 6. eGFR (if CKD) vs weekly hemodialysis schedule (if ESRD)<br>
+</ol>
 <br>
 We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
 <br>
@@ -66,14 +67,11 @@ Procedure:<br>
 More details in [this article on the technique for laparoscopic peritoneal dialysis catheter placement](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/ETwhnmV28RFEuqUwQKjax7QB0Lm8g5EHdWmix8NV69q_kw?e=CX0EGf). <br>
 <p>
  
-
-
 ### Management of Intermittent Claudication (I70.211/212/213) 
 
 Relevant information to elicit = symptom quality (location, characteristics, severity, relieving/exacerbating factors), functional impairment, any employment requirements, current exercise regimen (beyond what is done for utilitarian walking), and smoking status (transtheoretical model stage: pre-contemplation, contemplation, preparation, action, maintenance). 
 
 All should walk out with one of our claudication brochures and [guidance on how to engage in a community-based exercise program (19"23s video)](https://youtu.be/uWyBtbZ_dko). Follow-up at 3 months with an <b>activity log</b>, then q6 months vs. as needed if stable, non-limiting symptoms. Repeat or initial ABIs are not needed unless clinically indicated<br>.
-
 
 1. Understand <br>
 2. Read the [AHA scientific statement here on exercise for claudication](https://pubmed.ncbi.nlm.nih.gov/30586765/). <br>
@@ -142,3 +140,46 @@ Relevant information = same as claudication. Feel for femoral pulses. If normal,
 
 1. Identify and treat [acute limb ischemia](https://pubmed.ncbi.nlm.nih.gov/22670905/) and compartment syndrome, including –rarely-- of the [foot](https://pubmed.ncbi.nlm.nih.gov/25752690/).  <br>
 2. A [video demonstrating surgical thromboembolectomy of the superior mesenteric artery](https://bcmedu-my.sharepoint.com/:u:/g/personal/nbarshes_bcm_edu/Eco0LEpNz1tOme7reCN47XABQaw1Cd3n2gNHqDdKwdixrQ?e=dbQ1y9). <br>
+
+
+Read Chapter 3 & 4, “Scalpel” and “Scissors”, and Chapter 5, “Forceps and Clamps”. 
+
+Read Chapter 1, “Knot tying” 
+
+100-200 knots per day using 2-0 silk free ties. 
+
+Read Chapter 2, “Sutures and Needles”. 
+
+Watch vertical mattress video and the running subcuticular closure video. 
+
+A video discussing my recommendations on needle selection (6:38 duration). 
+
+A video demonstrating an end-to-side anastomosis (6:19 duration). 
+
+A video demonstrating how I’d recommend you load your needle for vascular suturing (8:12 duration).  
+
+I have Castro-Viejo needle drivers in my office that you can borrow for practicing during daytime hours; ask me about this.  
+
+
+
+
+
+
+Help patients and their families win the “Doctor Lottery” by partnering with them and spending the “time to listen, show compassion, earn trust, partner with us, advocate, and provide just the right amount of care”. 
+
+Watch a series of videos on how to best present patients and management plans. 
+
+Familiarize yourself with the BCM learner mistreatment policy. 
+
+Watch the University of Texas 2014 Commencement Speech to consider how personal responsibility, attention to details, and discipline can help you in your own work. 
+
+Listen to a JAMA podcast about an unnecessary procedure. 
+
+Read a Health Affairs article about a patient's experiences with a large healthcare institution. 
+
+Understand challenges in the system of care and racial/ethnic disparities that exist for patients at risk for leg amputations. 
+
+
+
+
+
