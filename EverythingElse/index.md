@@ -21,14 +21,12 @@ In the clinic, know:<br>
 4. previous AVFs/AVGs<br>
 5. arterial pulse exam<br>
 6. eGFR (if CKD) vs weekly hemodialysis schedule (if ESRD)<br>
-</ol>
 <br>
 We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
 <br>
 Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.<br>
 <br>
 Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes; 6-0 Prolene on BV needle; Surgicel Snow. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.<br>
-<br>
   
 Procedure:<br>
 1. Cautery-free exposure of the vein, then mobilization.<br>
@@ -41,16 +39,14 @@ Procedure:<br>
 For brachiobasilic elevation, read the technique described in [this article](https://pubmed.ncbi.nlm.nih.gov/28041805/).<br>
 
 If we are placing a catheters: 16cm for right internal jugular or right subclavian, 20cm for left internal jugular, 20-24cm for femoral vein.<br>
-<br>
   
 After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-up visit at 3 weeks. (If brachiobasilic, this should be a pre-op visit for stage 2).<br>
-<br>
   
-<b>Some reading resources:</b><br>
-1. A chapter about dialysis access (temporary and acute, peritoneal and hemodialysis access)<br>
-2. Watch a video overview of patient selection, surgical technique for hemodialysis access (13”35s).<br>
-3. Understand the four key physical exam maneuvers that are critical to the early and late evaluation of fistulas and grafts.<br>
-4. Watch a video overview of the treatment of hemodialysis-related steal syndrome.<br>
+<b>Additional resources:</b><br>
+1. A [chapter about dialysis access](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EUS0P1fIZDlHggAfh-jhwhoBHFRdI9rtNp_5i1PPO4m2kg?e=M0U6xN) (temporary and acute, peritoneal and hemodialysis access)<br>
+2. Watch a [video overview of patient selection, surgical technique for hemodialysis access](https://www.youtube.com/watch?v=-iwkOLy9_k8) (13”35s duration).<br>
+3. Understand the [four key physical exam maneuvers](https://bcmedu-my.sharepoint.com/:i:/g/personal/nbarshes_bcm_edu/EfWq7C0OOo1EjhnWKB2wiJ4BJw2UGec2YyS9meTyy2ZwXQ?e=yhQJbS) that are critical to the early and late evaluation of fistulas and grafts.<br>
+4. Watch a [video overview of the treatment of hemodialysis-related steal syndrome](https://www.youtube.com/watch?v=kApela-4VnI&list=PLZpDzANLjPtV_9CjxORcSFjsOUJp0tq_Q&index=10).<br>
 5. Understand how to perform a [DRIL procedure](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EUag8Mc1sxZKpjo1IFWshCYB4ZXTezB49sy4l62PpEqHVQ?e=vqtDfu). <br>
 <p>
   
