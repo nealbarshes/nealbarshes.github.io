@@ -14,9 +14,9 @@
 
 ### Management of intermittent claudication: 
 
-Basic: Understand how to counsel patients with claudication on a community-based exercise program (19"23s in duration).<br>
-Intermediate: Read the full AHA scientific statement here on exercise for claudication. <br>
-Intermediate: Read this chapter on claudication from Cameron’s Current Surgical Management to know when surgical management might be appropriate or beneficial for patients with claudication and how to determine what treatments might be appropriate. <br>
+Basic: Understand how to [counsel patients with claudication on a community-based exercise program (19"23s in duration)](https://youtu.be/uWyBtbZ_dko).<br>
+Intermediate: Read the [AHA scientific statement here on exercise for claudication](https://pubmed.ncbi.nlm.nih.gov/30586765/). <br>
+Intermediate: Read this [chapter on claudication from Cameron’s Current Surgical Management](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EXhfQyt-WXtFvZ_SVxAq5YQBGQqtT0kPmt-8-W0BoHZYTw?e=nv1OfX) to know when surgical management might be appropriate or beneficial for patients with claudication and how to determine what treatments might be appropriate. <br>
 
 <p>
 <p>
