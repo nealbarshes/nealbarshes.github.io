@@ -137,45 +137,24 @@ Relevant information = same as claudication. Feel for femoral pulses. If normal,
 1. Identify and treat [acute limb ischemia](https://pubmed.ncbi.nlm.nih.gov/22670905/) and compartment syndrome, including –rarely-- of the [foot](https://pubmed.ncbi.nlm.nih.gov/25752690/).  <br>
 2. A [video demonstrating surgical thromboembolectomy of the superior mesenteric artery](https://bcmedu-my.sharepoint.com/:u:/g/personal/nbarshes_bcm_edu/Eco0LEpNz1tOme7reCN47XABQaw1Cd3n2gNHqDdKwdixrQ?e=dbQ1y9). <br>
 
+### Resources to improve your technical skills
 
-Read Chapter 3 & 4, “Scalpel” and “Scissors”, and Chapter 5, “Forceps and Clamps”. 
-
-Read Chapter 1, “Knot tying” 
-
-100-200 knots per day using 2-0 silk free ties. 
-
-Read Chapter 2, “Sutures and Needles”. 
-
-Watch vertical mattress video and the running subcuticular closure video. 
-
-A video discussing my recommendations on needle selection (6:38 duration). 
-
-A video demonstrating an end-to-side anastomosis (6:19 duration). 
-
-A video demonstrating how I’d recommend you load your needle for vascular suturing (8:12 duration).  
+1. A chapter describing commonly used scissors, clamps, forceps and other surgical instruments (https://bcmedu-my.sharepoint.com/personal/nbarshes_bcm_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=qc52Q8H2CDamOWfbfw0S3lJbc%2FmHEExV1ixOjWBkwQw%3D&docid=2_1392a87341786452daad51c9da33d3c3a&rev=1&e=5459acb579e9430e9e6d779188c1e6a3).<br>
+2. A [chapter on knot tying](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EYMEjkazze9CoF8IbLAGi98BPMgRW8N8eGgn9fGiHzUZjw?e=lHeDD9).<br>
+3. A [video on vertical mattress suturing](https://www.youtube.com/watch?annotation_id=annotation_3535940737&feature=iv&src_vid=TFwFMav_cpE&v=ZX8ccaqiuXQ).<br>
+4. A [video on the running subcuticular closure](https://www.youtube.com/watch?v=7Q3x_IqD-h0).<br>
+5. A [video discussing my recommendations on needle selection](https://youtu.be/TQW2oSVLx9w) (6:38 duration).<br>
+6. A [video discussing my recommendations on optimal needle loading](https://youtu.be/BbnqTmiXWrI).<br>
+7. A [video demonstrating the double-anchor technique for vascular anastomoses](https://www.youtube.com/watch?v=GZLXFdYkiwg&t=7s).<br>
 
 I have Castro-Viejo needle drivers in my office that you can borrow for practicing during daytime hours; ask me about this.  
 
+### Resources to improve your professionalism
 
-
-
-
-
-Help patients and their families win the “Doctor Lottery” by partnering with them and spending the “time to listen, show compassion, earn trust, partner with us, advocate, and provide just the right amount of care”. 
-
-Watch a series of videos on how to best present patients and management plans. 
-
-Familiarize yourself with the BCM learner mistreatment policy. 
-
-Watch the University of Texas 2014 Commencement Speech to consider how personal responsibility, attention to details, and discipline can help you in your own work. 
-
-Listen to a JAMA podcast about an unnecessary procedure. 
-
-Read a Health Affairs article about a patient's experiences with a large healthcare institution. 
-
-Understand challenges in the system of care and racial/ethnic disparities that exist for patients at risk for leg amputations. 
-
-
-
-
+1. Help patients and their families win the [“Doctor Lottery”](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EaLows8mUwNFsGp0Zzsl8-8BctjUSPAhHgY1qPTz7qUKFA?e=Sfb57X) by partnering with them and spending the “time to listen, show compassion, earn trust, partner with us, advocate, and provide just the right amount of care”.<br>
+2. Watch my [series of videos on how to succintly and coherently present patients and management plans](https://www.youtube.com/watch?v=l1-cGmKAP8s&list=PL65JmypVmSg7gEVB9zfNl-HEbnIUKVoxC).<br>
+3. Familiarize yourself with the [BCM learner mistreatment policy](https://intranet.bcm.edu/index.cfm?fuseaction=Policies.Display_Policy&Policy_Number=23.2.02). <br>
+4. Watch the [University of Texas 2014 Commencement Speech](https://www.youtube.com/watch?v=yaQZFhrW0fU) to consider how personal responsibility, attention to details, and discipline can help you in your own work. <br>
+5. Listen to a [JAMA podcast about an unnecessary procedure](https://edhub.ama-assn.org/jn-learning/audio-player/17161107). <br>
+6. Read an [article about a patient's experiences with a large healthcare institution](https://bcmedu-my.sharepoint.com/personal/nbarshes_bcm_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=VCFL0XC4Z2G8arXzWM0071G1y3OYboPbcBS0RMEf8bw%3D&docid=2_15406ead3127e410eacccb25ab558f8fc&rev=1&e=c53f0dec0fa846afbfa98d35c3f60a63).<br> 
 
