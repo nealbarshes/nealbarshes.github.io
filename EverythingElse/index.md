@@ -10,6 +10,7 @@
 </script>
 </head>
 
+# Everything else NOT related to limb salvage, foot keeping
 
 ### Hemodialysis Access (N18.5 / N18.6)
 
@@ -28,7 +29,7 @@ Before the case, let’s discuss the aforementioned data. Mark the vein and arte
 Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes; 6-0 Prolene on BV needle; Surgicel Snow. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.<br>
 <p>
   
-Procedure:
+Procedure:<br>
 1. Cautery-free exposure of the vein, then mobilization.<br>
 2. Expose the artery.<br>
 3. (If AVG, create tunnel)<br>
@@ -82,6 +83,7 @@ All should walk out with one of our claudication brochures and [guidance on how 
 <p>
 
 ### Surgical Management of Carotid Disease (I65.21/22) 
+
 In the clinic, differentiate symptomatic vs. asymptomatic. If symptomatic: episode characterization and timing. If asymptomatic:<br>
 - <50%: repeat imaging not recommended, follow-up with primary care provider.
 - 50-69%: repeat imaging in 1 year. Re-refer if >70%
@@ -123,9 +125,6 @@ Relevant information = operation & date, results of previous surveillance imagin
 ### Varicose veins (ICD code I83.012/.022 for ulcer, I83.811/.812 for inflammation)
 
 Relevant information = symptoms, use of compression stockings, prior treatments, prior imaging. If venous leg ulcer: current treatment & physician(s) involved. If s/p recent vein intervention: single follow-up at 1-2 weeks with post-intervention 2nd floor radiology ultrasound to r/o DVT.
-
-### asymptomatic carotid disease (I65.21)
-
 
 
 ### PAD + foot ulcer/wound (i.e. limb salvage), initial visit (ICD I70.235/.245)
