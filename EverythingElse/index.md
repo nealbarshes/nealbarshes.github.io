@@ -12,12 +12,32 @@
 
 
 ### Dialysis Access
-Read a complete chapter about dialysis access (temporary and acute, peritoneal and hemodialysis access)
+
+In the clinic, know (1) indication (CKD stage 5 vs. ESRD); (2) handedness; (3) history of tunneled catheters or pacemakers; (4) previous AVFs/AVGs; (5) arterial pulse exam; (6) eGFR if CKD; (7) weekly hemodialysis schedule if ESRD. We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.
+
+Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.
+
+Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.
+
+Procedure: (1) mobilize vein / expose artery / create tunnel; (3) give 3,000 units of heparin, then arteriotomy <5mm to reduce the risk of steal syndrome, then connection(s); (4) Doppler to assess flow in vein/AVG and at wrist. (5) Protamine 30mg and police the wound for hemostasis. Do not use hemostatic agents beyond Surgicel. For brachiobasilic elevation, read the technique described in this article().
+
+Catheters: RIJ/RSC 16cm, LIJ 20cm, fem 20-24cm
+
+After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-up visit at 3 weeks. (If brachiobasilic, this should be a pre-op visit for stage 2).
 
 
-### Management of Intermittent Claudication: 
 
-1. Understand how to [counsel patients with claudication on a community-based exercise program (19"23s in duration)](https://youtu.be/uWyBtbZ_dko).<br>
+1. A chapter about dialysis access (temporary and acute, peritoneal and hemodialysis access)
+
+
+### Management of Intermittent Claudication (I70.211/212/213) 
+
+Relevant information to elicit = symptom quality (location, characteristics, severity, relieving/exacerbating factors), functional impairment, any employment requirements, current exercise regimen (beyond what is done for utilitarian walking), and smoking status (transtheoretical model stage: pre-contemplation, contemplation, preparation, action, maintenance). 
+
+All should walk out with one of our claudication brochures and [guidance on how to engage in a community-based exercise program (19"23s video)](https://youtu.be/uWyBtbZ_dko). Follow-up at 3 months with an <b>activity log</b>, then q6 months vs. as needed if stable, non-limiting symptoms. Repeat or initial ABIs are not needed unless clinically indicated<br>.
+
+
+1. Understand <br>
 2. Read the [AHA scientific statement here on exercise for claudication](https://pubmed.ncbi.nlm.nih.gov/30586765/). <br>
 3. Read this [chapter on claudication from Cameron’s Current Surgical Management](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EXhfQyt-WXtFvZ_SVxAq5YQBGQqtT0kPmt-8-W0BoHZYTw?e=nv1OfX) to know when surgical management might be appropriate or beneficial for patients with claudication and how to determine what treatments might be appropriate. <br>
 <p>
@@ -28,6 +48,33 @@ Read a complete chapter about dialysis access (temporary and acute, peritoneal
 1. Review [exposure of the cervical portion of the carotid artery](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EeWcuVUzTsRMmcNF5rWGTzwBSKJkgsp0NcYdMvPMkW27cw?e=i8eqmT).  <br>
 <p>
 <p>
+ 
+ 2. abdominal aortic aneurysm (ICD code I71.4). 
+Relevant information = size per radiology report, any symptoms, tobacco use. 
+If <3.5cm, re-refer after q3 year imaging. If 3.5-4.9cm, q1 year imaging. If >5.0cm, q6 mos. Imaging. 
+
+3. endovascular aneurysm repair (EVAR) surveillance (ICD code I71.4)
+Relevant information = operation & date, results of previous surveillance imaging. Surveillance @1 month, then q12 mos. if no endoleak.
+
+ 
+4.varicose veins (ICD code I83.012/.022 [ulcer] or I83.811/.812 [inflammation])
+Relevant information = symptoms, use of compression stockings, prior treatments, prior imaging. If venous leg ulcer: current treatment & physician(s) involved. If s/p recent vein intervention: single follow-up at 1-2 weeks with post-intervention 2nd floor radiology ultrasound to r/o DVT.
+
+ 5. asymptomatic carotid disease (I65.21)
+<50%: repeat imaging not recommended, no follow-up with us. 
+50-69%: repeat imaging in 1 year. Re-refer if >70%
+>70%: clinic; discuss if good predicted 5-year survival and interested in intervention after citing 2% vs 1% annual risk. If yes, CTA & OR date; if no= yearly repeat US & clinic. 
+
+6. PAD + foot ulcer/wound (i.e. limb salvage), initial visit (ICD I70.235/.245)
+All should have either (1) palpable pulses and good blood flow corroborated by toe pressures; or (2) date scheduled for angiogram. 
+
+7. previous infrainguinal (leg) bypass or endovascular intervention
+Relevant information = original indication for procedure & whether this has resolved since; pulse/Doppler exam, status of incisions, degree of swelling; culture results. Qmonth clinic follow-up, alternating between us and either podiatry or ECL wound care, until ulcer is healed. 
+
+8. ischemic rest pains (ICD code I70.221/.222)
+Relevant information = same as claudication. Feel for femoral pulses. If normal, schedule for angiogram; if abnormal, CTA. Also schedule for OR. If pains are not clearly ischemic in origin, confirm with toe pressures <30mmHg or ankle pressures <50mmHg.
+
+ 
  
 ### Less frequent but important problems we may see together: 
 
