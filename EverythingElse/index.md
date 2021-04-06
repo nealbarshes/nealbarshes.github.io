@@ -13,22 +13,34 @@
 
 ### Dialysis Access
 
-In the clinic, know (1) indication (CKD stage 5 vs. ESRD); (2) handedness; (3) history of tunneled catheters or pacemakers; (4) previous AVFs/AVGs; (5) arterial pulse exam; (6) eGFR if CKD; (7) weekly hemodialysis schedule if ESRD. We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.
+In the clinic, know (1) indication (CKD stage 5 vs. ESRD); (2) handedness; (3) history of tunneled catheters or pacemakers; (4) previous AVFs/AVGs; (5) arterial pulse exam; (6) eGFR if CKD; (7) weekly hemodialysis schedule if ESRD. We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
+<p>
+Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.<br>
+<p>
+  
+Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.<br>
+<p>
+  
+Procedure: (1) mobilize vein / expose artery / create tunnel; (3) give 3,000 units of heparin, then arteriotomy <5mm to reduce the risk of steal syndrome, then connection(s); (4) Doppler to assess flow in vein/AVG and at wrist. (5) Protamine 30mg and police the wound for hemostasis. Do not use hemostatic agents beyond Surgicel. 
 
-Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.
+For brachiobasilic elevation, read the technique described in [this article](https://pubmed.ncbi.nlm.nih.gov/28041805/).<br>
+6. The technique for laparoscopic peritoneal dialysis catheter placement that I use. 
 
-Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.
-
-Procedure: (1) mobilize vein / expose artery / create tunnel; (3) give 3,000 units of heparin, then arteriotomy <5mm to reduce the risk of steal syndrome, then connection(s); (4) Doppler to assess flow in vein/AVG and at wrist. (5) Protamine 30mg and police the wound for hemostasis. Do not use hemostatic agents beyond Surgicel. For brachiobasilic elevation, read the technique described in this article().
-
-Catheters: RIJ/RSC 16cm, LIJ 20cm, fem 20-24cm
-
-After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-up visit at 3 weeks. (If brachiobasilic, this should be a pre-op visit for stage 2).
-
-
-
-1. A chapter about dialysis access (temporary and acute, peritoneal and hemodialysis access)
-
+<p>
+  
+If we are placing a catheters: 16cm for right internal jugular or right subclavian, 20cm for left internal jugular, 20-24cm for femoral vein.<br>
+<p>
+  
+After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-up visit at 3 weeks. (If brachiobasilic, this should be a pre-op visit for stage 2).<br>
+<p>
+  
+Some reading resources:
+1. A chapter about dialysis access (temporary and acute, peritoneal and hemodialysis access)<br>
+2. Watch a video overview of patient selection, surgical technique for hemodialysis access (13”35s).<br>
+3. Understand the four key physical exam maneuvers that are critical to the early and late evaluation of fistulas and grafts.<br>
+4. Watch a video overview of the treatment of hemodialysis-related steal syndrome.<br>
+5. Understand how to perform a [DRIL procedure](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EUag8Mc1sxZKpjo1IFWshCYB4ZXTezB49sy4l62PpEqHVQ?e=vqtDfu). <br>
+<p>
 
 ### Management of Intermittent Claudication (I70.211/212/213) 
 
@@ -78,5 +90,5 @@ Relevant information = same as claudication. Feel for femoral pulses. If normal,
  
 ### Less frequent but important problems we may see together: 
 
-1. Identify and treat [acute limb ischemia](https://pubmed.ncbi.nlm.nih.gov/22670905/) and compartment syndrome (including –rarely-- of the [foot](https://pubmed.ncbi.nlm.nih.gov/25752690/)).  <br>
+1. Identify and treat [acute limb ischemia](https://pubmed.ncbi.nlm.nih.gov/22670905/) and compartment syndrome, including –rarely-- of the [foot](https://pubmed.ncbi.nlm.nih.gov/25752690/).  <br>
 2. A [video demonstrating surgical thromboembolectomy of the superior mesenteric artery](https://bcmedu-my.sharepoint.com/:u:/g/personal/nbarshes_bcm_edu/Eco0LEpNz1tOme7reCN47XABQaw1Cd3n2gNHqDdKwdixrQ?e=dbQ1y9). <br>
