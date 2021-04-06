@@ -90,7 +90,7 @@ Equipment and supplies: Ioban drape; Ortho tip suction; Argyle shunts; rigid a-l
 Key steps:
 1.	Early exposure: stay on SCM. stick tie facial vein.
 2.	Identify vagus, hypoglossal.
-3.	Dissect lateral side of CCAICA, then medial side ICACCA.
+3.	Dissect lateral side of CCA-->ICA, then medial side ICA-->CCA.
 4.	Prepare to clamp and shunt (bulldog, large profunda, Rummel), then measure stump pressure (if asymptomatic patient)
 5.	Clamp +/- shunt.
 6.	Endarterectomy: like removing a perforated page from a book.
@@ -100,10 +100,8 @@ Foley out at the end of the case.
 
 Post-op: daily aspirin. At least two additional anti-hypertensive meds (other than home med doses, other than clonidine) to maintain SBP goal of 90-140mmHg. Discharge home with 15 tablets of tramadol OR 10 tables of Tylenol #3.
 
-
+Additional resources:<br>
 1. Review [exposure of the cervical portion of the carotid artery](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EeWcuVUzTsRMmcNF5rWGTzwBSKJkgsp0NcYdMvPMkW27cw?e=i8eqmT).  <br>
-<br>
-<br>
  
 ### Abdominal Aortic Aneurysms (ICD code I71.4)
 
@@ -119,13 +117,6 @@ Relevant information = operation & date, results of previous surveillance imagin
 Relevant information = symptoms, use of compression stockings, prior treatments, prior imaging. If venous leg ulcer: current treatment & physician(s) involved. If s/p recent vein intervention: single follow-up at 1-2 weeks with post-intervention 2nd floor radiology ultrasound to r/o DVT.
 
 
-### PAD + foot ulcer/wound (i.e. limb salvage), initial visit (ICD I70.235/.245)
-
-All should have either (1) palpable pulses and good blood flow corroborated by toe pressures; or (2) date scheduled for angiogram. 
-
-7. previous infrainguinal (leg) bypass or endovascular intervention
-Relevant information = original indication for procedure & whether this has resolved since; pulse/Doppler exam, status of incisions, degree of swelling; culture results. Qmonth clinic follow-up, alternating between us and either podiatry or ECL wound care, until ulcer is healed. 
-
 ### PAD and ischemic rest pains (ICD code I70.221/.222)
 
 Relevant information = same as claudication. Feel for femoral pulses. If normal, schedule for angiogram; if abnormal, CTA. Also schedule for OR. If pains are not clearly ischemic in origin, confirm with toe pressures <30mmHg or ankle pressures <50mmHg.
@@ -135,6 +126,7 @@ Relevant information = same as claudication. Feel for femoral pulses. If normal,
 
 1. Identify and treat [acute limb ischemia](https://pubmed.ncbi.nlm.nih.gov/22670905/) and compartment syndrome, including –rarely-- of the [foot](https://pubmed.ncbi.nlm.nih.gov/25752690/).  <br>
 2. A [video demonstrating surgical thromboembolectomy of the superior mesenteric artery](https://bcmedu-my.sharepoint.com/:u:/g/personal/nbarshes_bcm_edu/Eco0LEpNz1tOme7reCN47XABQaw1Cd3n2gNHqDdKwdixrQ?e=dbQ1y9). <br>
+
 
 ### Resources to improve your technical skills
 
@@ -147,6 +139,7 @@ Relevant information = same as claudication. Feel for femoral pulses. If normal,
 7. A [video demonstrating the double-anchor technique for vascular anastomoses](https://www.youtube.com/watch?v=GZLXFdYkiwg&t=7s).<br>
 
 I have Castro-Viejo needle drivers in my office that you can borrow for practicing during daytime hours; ask me about this.  
+
 
 ### Resources to improve your professionalism
 
