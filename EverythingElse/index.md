@@ -13,11 +13,18 @@
 
 ### Hemodialysis Access (N18.5 / N18.6)
 
-In the clinic, know (1) indication (CKD stage 5 vs. ESRD); (2) handedness; (3) history of tunneled catheters or pacemakers; (4) previous AVFs/AVGs; (5) arterial pulse exam; (6) eGFR if CKD; (7) weekly hemodialysis schedule if ESRD. We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
+In the clinic, know:<br>
+1. indication (CKD stage 5 vs. ESRD)<br>
+2. handedness<br>
+3. history of tunneled catheters or pacemakers<br>
+4. previous AVFs/AVGs<br>
+5. arterial pulse exam<br>
+6. eGFR (if CKD) vs weekly hemodialysis schedule (if ESRD)<br>
+<br>
+We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
 <p>
 Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.<br>
 <p>
-  
 Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.<br>
 <p>
   
@@ -32,7 +39,7 @@ If we are placing a catheters: 16cm for right internal jugular or right subclavi
 After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-up visit at 3 weeks. (If brachiobasilic, this should be a pre-op visit for stage 2).<br>
 <p>
   
-<b)Some reading resources:</b><br>
+<b>Some reading resources:</b><br>
 1. A chapter about dialysis access (temporary and acute, peritoneal and hemodialysis access)<br>
 2. Watch a video overview of patient selection, surgical technique for hemodialysis access (13”35s).<br>
 3. Understand the four key physical exam maneuvers that are critical to the early and late evaluation of fistulas and grafts.<br>
@@ -44,7 +51,13 @@ After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-
 
 In clinic: know previous history of abdominal operations, whether renal has a plan utilize catheter two weeks after placement. Check nares for MRSA. Treat with mupirocin nasal prior to operation if positive.<br>
 
-Open Hassan for 5mm Optiview at/near umbilicus. One additional 5mm port LUQ or RUQ for grasper. Pigtail 2x-cuffed catheter, 2cm above & 7cm to the left of the umbilicus.<br> More details in [this article on the technique for laparoscopic peritoneal dialysis catheter placement](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/ETwhnmV28RFEuqUwQKjax7QB0Lm8g5EHdWmix8NV69q_kw?e=CX0EGf). <br>
+Procedure:<br>
+1. Open Hassan for 5mm Optiview at/near umbilicus. One additional 5mm port LUQ or RUQ for grasper. <br>
+2. Pigtail 2x-cuffed catheter, 2cm above & 7cm to the left of the umbilicus.Use local anesthesia to measure 6cm through muscle. 16Fr peel-away sheath over 160cm Amplatz; serial sheath dilation. Coil placed at top of pubis bone. +/- pexy with 2-0 Prolene. Cuff 2-4cm from exit. (If very obese: pre-sternal exit  with JP-drain Faller; tie extension together).<br>
+3. Instill 15mL of heparinized saline 100u/mL; clip and cap.<br>
+4. Discharge w bacitracin topical ointment + Tylenol #3 x10 tablets. Dressing stays in place for 5 days. <b>First use of catheter should be <u>no later than 15 days</u> after surgery</b>.<br> 
+
+More details in [this article on the technique for laparoscopic peritoneal dialysis catheter placement](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/ETwhnmV28RFEuqUwQKjax7QB0Lm8g5EHdWmix8NV69q_kw?e=CX0EGf). <br>
 <p>
  
 
@@ -98,7 +111,6 @@ Relevant information = original indication for procedure & whether this has reso
 
 Relevant information = same as claudication. Feel for femoral pulses. If normal, schedule for angiogram; if abnormal, CTA. Also schedule for OR. If pains are not clearly ischemic in origin, confirm with toe pressures <30mmHg or ankle pressures <50mmHg.
 
- 
  
 ### Less frequent but important problems we may see together: 
 
