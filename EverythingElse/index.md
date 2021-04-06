@@ -119,7 +119,7 @@ Relevant information = symptoms, use of compression stockings, prior treatments,
 
 ### PAD and ischemic rest pains (ICD code I70.221/.222)
 
-Relevant information = same as claudication. Feel for femoral pulses. If normal, schedule for angiogram; if abnormal, CTA. Also schedule for OR. If pains are not clearly ischemic in origin, confirm with toe pressures <30mmHg or ankle pressures <50mmHg.
+Relevant information = same as claudication. Feel for femoral pulses. If normal, schedule for angiogram; if abnormal, CTA. Also schedule for OR. If pains are not clearly ischemic in origin, confirm with toe pressures <30mmHg or ankle pressures <50mmHg. 
 
  
 ### Less frequent but important problems we may see together: 
@@ -130,7 +130,7 @@ Relevant information = same as claudication. Feel for femoral pulses. If normal,
 
 ### Resources to improve your technical skills
 
-1. A chapter describing commonly used scissors, clamps, forceps and other surgical instruments (https://bcmedu-my.sharepoint.com/personal/nbarshes_bcm_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=qc52Q8H2CDamOWfbfw0S3lJbc%2FmHEExV1ixOjWBkwQw%3D&docid=2_1392a87341786452daad51c9da33d3c3a&rev=1&e=5459acb579e9430e9e6d779188c1e6a3).<br>
+1. A [chapter describing commonly used scissors, clamps, forceps and other surgical instruments](https://bcmedu-my.sharepoint.com/personal/nbarshes_bcm_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=qc52Q8H2CDamOWfbfw0S3lJbc%2FmHEExV1ixOjWBkwQw%3D&docid=2_1392a87341786452daad51c9da33d3c3a&rev=1&e=5459acb579e9430e9e6d779188c1e6a3).<br>
 2. A [chapter on knot tying](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EYMEjkazze9CoF8IbLAGi98BPMgRW8N8eGgn9fGiHzUZjw?e=lHeDD9).<br>
 3. A [video on vertical mattress suturing](https://www.youtube.com/watch?annotation_id=annotation_3535940737&feature=iv&src_vid=TFwFMav_cpE&v=ZX8ccaqiuXQ).<br>
 4. A [video on the running subcuticular closure](https://www.youtube.com/watch?v=7Q3x_IqD-h0).<br>
