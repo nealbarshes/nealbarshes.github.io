@@ -36,7 +36,7 @@ Procedure:
 5. Doppler to assess flow in vein/AVG and at wrist. 
 6. Protamine 30mg and police the wound for hemostasis. Do not use hemostatic agents beyond Surgicel. 
 
-For brachiobasilic elevation, read the technique described in [this article](https://pubmed.ncbi.nlm.nih.gov/28041805/).<br>
+For brachiobasilic elevation, read the technique described in [this article](pubmed.ncbi.nlm.nih.gov/28041805/).<br>
 
   
 If we are placing a catheters: 16cm for right internal jugular or right subclavian, 20cm for left internal jugular, 20-24cm for femoral vein.<br>
