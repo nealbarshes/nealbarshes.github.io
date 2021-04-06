@@ -21,11 +21,10 @@ In the clinic, know:<br>
 4. previous AVFs/AVGs<br>
 5. arterial pulse exam<br>
 6. eGFR (if CKD) vs weekly hemodialysis schedule (if ESRD)<br>
-<br>
 We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
-<br>
+
 Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.<br>
-<br>
+
 Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes; 6-0 Prolene on BV needle; Surgicel Snow. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.<br>
   
 Procedure:<br>
@@ -48,7 +47,7 @@ After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-
 3. Understand the [four key physical exam maneuvers](https://bcmedu-my.sharepoint.com/:i:/g/personal/nbarshes_bcm_edu/EfWq7C0OOo1EjhnWKB2wiJ4BJw2UGec2YyS9meTyy2ZwXQ?e=yhQJbS) that are critical to the early and late evaluation of fistulas and grafts.<br>
 4. Watch a [video overview of the treatment of hemodialysis-related steal syndrome](https://www.youtube.com/watch?v=kApela-4VnI&list=PLZpDzANLjPtV_9CjxORcSFjsOUJp0tq_Q&index=10).<br>
 5. Understand how to perform a [DRIL procedure](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EUag8Mc1sxZKpjo1IFWshCYB4ZXTezB49sy4l62PpEqHVQ?e=vqtDfu). <br>
-<p>
+<br>
   
 ### Peritoneal Dialysis Access (N18.5 or N18.6)  
 
@@ -61,7 +60,7 @@ Procedure:<br>
 4. Discharge w bacitracin topical ointment + Tylenol #3 x10 tablets. Dressing stays in place for 5 days. <b>First use of catheter should be <u>no later than 15 days</u> after surgery</b>.<br> 
 
 More details in [this article on the technique for laparoscopic peritoneal dialysis catheter placement](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/ETwhnmV28RFEuqUwQKjax7QB0Lm8g5EHdWmix8NV69q_kw?e=CX0EGf). <br>
-<p>
+<br>
  
 ### Management of Intermittent Claudication (I70.211/212/213) 
 
@@ -72,8 +71,8 @@ All should walk out with one of our claudication brochures and [guidance on how 
 1. Understand <br>
 2. Read the [AHA scientific statement here on exercise for claudication](https://pubmed.ncbi.nlm.nih.gov/30586765/). <br>
 3. Read this [chapter on claudication from Cameron’s Current Surgical Management](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EXhfQyt-WXtFvZ_SVxAq5YQBGQqtT0kPmt-8-W0BoHZYTw?e=nv1OfX) to know when surgical management might be appropriate or beneficial for patients with claudication and how to determine what treatments might be appropriate. <br>
-<p>
-<p>
+<br>
+<br>
 
 ### Surgical Management of Carotid Disease (I65.21/22) 
 
@@ -103,8 +102,8 @@ Post-op: daily aspirin. At least two additional anti-hypertensive meds (other th
 
 
 1. Review [exposure of the cervical portion of the carotid artery](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EeWcuVUzTsRMmcNF5rWGTzwBSKJkgsp0NcYdMvPMkW27cw?e=i8eqmT).  <br>
-<p>
-<p>
+<br>
+<br>
  
 ### Abdominal Aortic Aneurysms (ICD code I71.4)
 
