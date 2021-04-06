@@ -95,7 +95,7 @@ After the case: bedrest x six hours. Generally an outpatient procedure. Inpatien
 
 ### Procedural Details for Infrainguinal Bypasses
 
-In the clinic before the operation, consider: prior operations in index extremity; angiogram results; vein mapping (NOT done in vascular lab) if not already done during previous hospital stay. Pre-admitted is discouraged, regardless of eGFR/creatinine.
+In the clinic before the operation, consider: prior operations in index extremity; angiogram results; vein mapping (NOT done in vascular lab) if not already done during previous hospital stay. Pre-admitted is discouraged, regardless of eGFR/creatinine. Use the [CHADS-Vasc2](https://clincalc.com/Cardiology/Stroke/CHADSVASC.aspx) score to determine need for a "bridge" for patients on anticoagulants for atrial fibrillation.
 
 Before the case, consider: (1) indication; (2) hemoglobin; (3) eGFR; (4) planned conduit (single-segment saphenous vein, then [spliced arm vein](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/MOVIEconduitAnalysis.pdf), then PTFE with [distal vein patch](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/DistalVeinPatches.pdf)), (5) baseline anti platelet / anticoagulation medications. I will mark vein course using ultrasound BEFORE the patient gets to the room.
 
