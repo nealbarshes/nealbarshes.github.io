@@ -25,10 +25,16 @@ We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make 
 <p>
 Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.<br>
 <p>
-Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.<br>
+Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes; 6-0 Prolene on BV needle; Surgicel Snow. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.<br>
 <p>
   
-Procedure: (1) mobilize vein / expose artery / create tunnel; (3) give 3,000 units of heparin, then arteriotomy <5mm to reduce the risk of steal syndrome, then connection(s); (4) Doppler to assess flow in vein/AVG and at wrist. (5) Protamine 30mg and police the wound for hemostasis. Do not use hemostatic agents beyond Surgicel. 
+Procedure:
+1. Cautery-less expose of the vein, then mobilizing the vein
+2. Expose the artery
+3. (If AVG, create tunnel)
+4. Give 3,000 units of heparin, then arteriotomy <5mm to reduce the risk of steal syndrome, then anastomoses(s); 
+5. Doppler to assess flow in vein/AVG and at wrist. 
+6. Protamine 30mg and police the wound for hemostasis. Do not use hemostatic agents beyond Surgicel. 
 
 For brachiobasilic elevation, read the technique described in [this article](https://pubmed.ncbi.nlm.nih.gov/28041805/).<br>
 
@@ -76,6 +82,30 @@ All should walk out with one of our claudication brochures and [guidance on how 
 <p>
 
 ### Surgical Management of Carotid Disease (I65.21/22) 
+In the clinic, differentiate symptomatic vs. asymptomatic. If symptomatic: episode characterization and timing. If asymptomatic:<br>
+- <50%: repeat imaging not recommended, follow-up with primary care provider.
+- 50-69%: repeat imaging in 1 year. Re-refer if >70%
+- >70%: clinic; discuss if good predicted 5-year survival and interested in intervention after citing 2% vs 1% annual risk. If yes, CTA & OR date; if no= yearly repeat US & clinic. <br>
+
+Before the case: Verify that the patient has been taking aspirin (incl. day of surgery). LeMaitre 0.8 x 8cm bovine carotid patch in the room.<br>
+
+Positioning & prep: Foley. Shoulder roll and head rotated to right. If outside of OR4, “beach chair” bed position.<br>
+
+Equipment and supplies: Ioban drape; Ortho tip suction; Argyle shunts; rigid a-line tubing for stump pressure; 6-0 Prolene with both C1 (large) and BV (small) needles.<br>
+
+Key steps:
+1.	Early exposure: stay on SCM. stick tie facial vein.
+2.	Identify vagus, hypoglossal.
+3.	Dissect lateral side of CCAICA, then medial side ICACCA.
+4.	Prepare to clamp and shunt (bulldog, large profunda, Rummel), then measure stump pressure (if asymptomatic patient)
+5.	Clamp +/- shunt.
+6.	Endarterectomy: like removing a perforated page from a book.
+7.	Patch closure: 6-0 Prolene with BV needle on distal side, C1 proximal.
+8.	Bone-dry for hemostasis. Closure. Steristrips & coverlet. 
+Foley out at the end of the case.
+
+Post-op: daily aspirin. At least two additional anti-hypertensive meds (other than home med doses, other than clonidine) to maintain SBP goal of 90-140mmHg. Discharge home with 15 tablets of tramadol OR 10 tables of Tylenol #3.
+
 
 1. Review [exposure of the cervical portion of the carotid artery](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EeWcuVUzTsRMmcNF5rWGTzwBSKJkgsp0NcYdMvPMkW27cw?e=i8eqmT).  <br>
 <p>
@@ -84,7 +114,7 @@ All should walk out with one of our claudication brochures and [guidance on how 
 ### Abdominal Aortic Aneurysms (ICD code I71.4)
 
 Relevant information = size per radiology report, any symptoms, tobacco use. 
-If <3.5cm, re-refer after q3 year imaging. If 3.5-4.9cm, q1 year imaging. If >5.0cm, q6 mos. Imaging. 
+If <3.5cm, re-refer after q3 year imaging. If 3.5-4.9cm, q1 year imaging. If >5.0cm, q6 mos. imaging. 
 
 ### endovascular aneurysm repair (EVAR) surveillance (ICD code I71.4)
 
@@ -96,9 +126,7 @@ Relevant information = symptoms, use of compression stockings, prior treatments,
 
 ### asymptomatic carotid disease (I65.21)
 
-<50%: repeat imaging not recommended, no follow-up with us. 
-50-69%: repeat imaging in 1 year. Re-refer if >70%
->70%: clinic; discuss if good predicted 5-year survival and interested in intervention after citing 2% vs 1% annual risk. If yes, CTA & OR date; if no= yearly repeat US & clinic. 
+
 
 ### PAD + foot ulcer/wound (i.e. limb salvage), initial visit (ICD I70.235/.245)
 
