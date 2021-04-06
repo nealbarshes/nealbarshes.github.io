@@ -23,11 +23,11 @@ In the clinic, know:<br>
 6. eGFR (if CKD) vs weekly hemodialysis schedule (if ESRD)<br>
 <br>
 We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
-<p>
+<br>
 Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.<br>
-<p>
+<br>
 Equipment & supplies to ask for: AVF instrument set; ortho tip for suction; two U-drapes; 6-0 Prolene on BV needle; Surgicel Snow. If ESRD or planned AVG, have in the room: 5mm x 40+cm J&J Artegraft (bovine carotid) and Gore tapered 4-7mm Propaten.<br>
-<p>
+<br>
   
 Procedure:<br>
 1. Cautery-free exposure of the vein, then mobilization.<br>
@@ -39,12 +39,11 @@ Procedure:<br>
 
 For brachiobasilic elevation, read the technique described in [this article](https://pubmed.ncbi.nlm.nih.gov/28041805/).<br>
 
-  
 If we are placing a catheters: 16cm for right internal jugular or right subclavian, 20cm for left internal jugular, 20-24cm for femoral vein.<br>
-<p>
+<br>
   
 After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-up visit at 3 weeks. (If brachiobasilic, this should be a pre-op visit for stage 2).<br>
-<p>
+<br>
   
 <b>Some reading resources:</b><br>
 1. A chapter about dialysis access (temporary and acute, peritoneal and hemodialysis access)<br>
