@@ -16,27 +16,25 @@ Is the patient a candidate for [palliative foot care](https://github.com/nealbar
 
 ### Operative Details
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-  <b>Equipment and supplies:</b><br>
+  <b>Equipment and supplies for leg amputations with closure:</b><br>
 1.  amputation instrument tray<br>
 2.  ortho suction tip<br>
-3.  stockinette<br>
+3.  stockinette and 4" Coban (if foot/ankle is intact) vs. Ioban (if prior disarticulation at the ankle)<br>
 4.  sterile tourniquet: usually 18” (red) or 24” (brown)<br>
 5.  Zimmer oscillating saw w 25mm width blade<br>
 6.  “soft” knee immobilizer (transtibial only)<br>
 7.  4-0 Prolene on SH needle x2<br>
 8.  2-0 Vicryl on CT1 needle x4<br>
 9.  2-0 Nylon on FSLX needle x6<br>
-10. Skin stapler<br>
-11. KCI wound VAC<br>
-12. Adaptec x2<br>
-13. Mastisol x3<br>
-14, 4" ACE wrap x3<br>
-15. 4" Webril (NOT Kerlix) x3<br>
-16. Cysto tubing and 3L NS<br>
-17. TWO sets of everyone’s gloves<br>
-18. micro specimen container<br>
-19. Coviden smoke evacuator Bovie<br>
-20. 50-50 mix of 1% lidocaine and 0.25% marcaine (no epinephrine)<br>
+10. KCI wound VAC with medium black sponge<br>
+11. Adaptec x1<br>
+12. Mastisol x2<br>
+13. 4" ACE wrap x2<br>
+14. 4" Webril (NOT Kerlix) x2<br>
+15. Cysto tubing and 1L NS<br>
+16. TWO sets of everyone’s gloves<br>
+17. Coviden smoke evacuator Bovie<br>
+18. 50-50 mix of 1% lidocaine and 0.25% marcaine (no epinephrine)<br>
 </tt></blockquote>
 <br>
 <br>
