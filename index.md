@@ -60,5 +60,5 @@ Pages providing practical guidance with rationale/evidence/support. Included her
 
 1. Significant [racial and ethnic disparities persist](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas, as people categorized as Black and people categorized as Hispanic undergo higher risk-adjusted rates of leg amputations than people categorized as White.
 2. Geography and [lack of nearby specialist care at high-volume centers](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/volume-ratio%20relationship%20v2.jpg) may [contribute to leg amputation rates in many areas of Texas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesRemoteAmputationCare.pdf) in [these areas of Texas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg). 
-3. See [maps demonstrating population-adjusted rates of peripheral artery disease-associated leg amputations within the largest four metropolitan areas in Texas](nealbarshes.github.io/Maps).
+3. See [maps demonstrating population-adjusted rates of peripheral artery disease-associated leg amputations within the largest four metropolitan areas in Texas](https://nealbarshes.github.io/Maps/).
 
