@@ -6,9 +6,9 @@ Thank you to [Kyle Walker](www.twitter.com/kyle_e_walker) and [Deeksha Bidare](w
 
 ![Houston_map](/Houston_map.tiff)
 
-![DFW_map](/assets/DFW_map.tiff)
+![DFW_map](/DFW_map.tiff)
 
-![SanAntonio_map](/Maps/SanAntonio_map.tiff)
+![SanAntonio_map](/SanAntonio_map.tiff)
 
-![Austin_map](/Maps/Austin_map.tiff)
+![Austin_map](/Austin_map.tiff)
 
