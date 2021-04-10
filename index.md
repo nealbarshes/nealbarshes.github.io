@@ -40,7 +40,7 @@ This brochure is written with plain language and no undefined technical terms. W
 
 
 ### Tenets of Treatment
-Pages providing practical, open-source guidance with rationale/evidence/support. I have put these here to be freely available for two reasons. First, I'm finding that a web-based format is most definitely the most effective way to update and share management protocols amongst our team members. Secondly, consistently using management protocols may help curtail the [racial and ethnic disparities in leg amputations](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
+Pages providing practical guidance with rationale/evidence/support. Included here both to make this easily available amongst our teams and colleagues, but also with the hope that increasingly consistent approaches to diagnosis and treatment might help decrease the [racial and ethnic disparities in leg amputation rates](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
 
 1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
 2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
