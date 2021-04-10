@@ -40,7 +40,8 @@ This brochure is written with plain language and no undefined technical terms. W
 
 
 ### Tenets of Treatment
-Additional pages providing practical guidance with rationale/evidence/support:
+Pages providing practical, open-source guidance with rationale/evidence/support. I have put these here to be freely available for two reasons. First, I'm finding that a web-based format is most definitely the most effective way to update and share management protocols amongst our team members. Secondly, consistently using management protocols may help curtail the [racial and ethnic disparities in leg amputations](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
+
 1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
 2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
 3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
@@ -59,4 +60,5 @@ Additional pages providing practical guidance with rationale/evidence/support:
 
 1. Significant [racial and ethnic disparities persist](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas, as people categorized as Black and people categorized as Hispanic undergo higher risk-adjusted rates of leg amputations than people categorized as White.
 2. Geography and [lack of nearby specialist care at high-volume centers](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/volume-ratio%20relationship%20v2.jpg) may [contribute to leg amputation rates in many areas of Texas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesRemoteAmputationCare.pdf) in [these areas of Texas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg). 
+3. See [maps demonstrating population-adjusted rates of peripheral artery disease-associated leg amputations within the largest four metropolitan areas in Texas](nealbarshes.github.io/Maps).
 
