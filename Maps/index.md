@@ -4,7 +4,7 @@ These maps show rates of leg amputations in the four largest metropolitan areas 
 
 Thank you to [Kyle Walker](www.twitter.com/kyle_e_walker) and [Deeksha Bidare](www.twitter.com/BidareDeeksha) for helping with the data analysis and coding that went in to these graphs!
 
-![Houston_map](/Maps/Houston_map.tiff)
+![Houston_map](/Houston_map.tiff)
 
 ![DFW_map](/Maps/DFW_map.tiff)
 
