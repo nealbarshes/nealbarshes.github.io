@@ -65,9 +65,9 @@ More details in [this article on the technique for laparoscopic peritoneal dialy
  
 ### Management of Intermittent Claudication (I70.211/212/213) 
 
-Relevant information to elicit = symptom quality (location, characteristics, severity, relieving/exacerbating factors), functional impairment, any employment requirements, current exercise regimen (beyond what is done for utilitarian walking), and smoking status (transtheoretical model stage: pre-contemplation, contemplation, preparation, action, maintenance).<br>
+Relevant information to elicit = symptom quality (location, characteristics, severity, relieving/exacerbating factors), functional impairment, any employment requirements, current exercise regimen (beyond what is done for utilitarian walking), and smoking status (transtheoretical model stage: pre-contemplation, contemplation, preparation, action, maintenance). Feel for pulses: femoral, popliteal, pedal. <br>
 
-All should walk out with one of our claudication brochures and [guidance on how to engage in a community-based exercise program (19"23s video)](https://youtu.be/uWyBtbZ_dko). Follow-up at 3 months with an <b>activity log</b>, then q6 months vs. as needed if stable, non-limiting symptoms. Repeat or initial ABIs are not needed unless clinically indicated.<br>
+All should walk out with one of our claudication brochures and [guidance on how to engage in a community-based exercise program (19"23s video)](https://youtu.be/uWyBtbZ_dko). Follow-up at 3 months with an <b>activity log</b>, then q6 months vs. as needed if stable, non-limiting symptoms. Repeat or initial ABIs are not needed unless clinically indicated. Reserve cilostazol (non-formulary medication) for persons who have engaged in an consistent exercise regimen but remain funtionally limited. Counsel on average of +75 feet pain-free walking distance but increased incidence of headache, dizziness, palpitations, and diarrhea. Class 3 or 4 heart failure is a contraindication.<br>
 
 Additional resources:<br>
 1. Read the [AHA scientific statement here on exercise for claudication](https://pubmed.ncbi.nlm.nih.gov/30586765/). <br>
