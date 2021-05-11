@@ -112,9 +112,15 @@ If <3.5cm, re-refer after q3 year imaging. If 3.5-4.9cm, q1 year imaging. If >5.
 
 Relevant information = operation & date, results of previous surveillance imaging. Surveillance @1 month, then q12 mos. if no endoleak.
 
-### Varicose veins (ICD code I83.012/.022 for ulcer, I83.811/.812 for inflammation)
 
-Relevant information = symptoms, use of compression stockings, prior treatments, prior imaging. If venous leg ulcer: current treatment & physician(s) involved. If s/p recent vein intervention: single follow-up at 1-2 weeks with post-intervention 2nd floor radiology ultrasound to r/o DVT.
+### Venous Leg Ulcers (ICD code I83.012/.022 for ulcer, I83.811/.812 for inflammation)
+
+Relevant information = history of compression therapy, wound therapy, measurements (see ECL Wound Care Clinic notes), any prior arterial testing. If non-invasive arterial testing abnormal (as described [here](https://nealbarshes.github.io/PAD/)), angiogram and possible intervention. If using compression therapy and not healing (i.e. not 50% or more area reduction within 6 weeks), get venous insufficiency study. 
+
+
+### Varicose veins without ulceration (ICD code I83.012/.022 for ulcer, I83.811/.812 for inflammation)
+
+Relevant information = symptoms, use of compression stockings, prior treatments, prior imaging. If s/p recent vein intervention: single follow-up at 1-2 weeks with post-intervention 2nd floor radiology ultrasound to r/o DVT.
 
 
 ### PAD and ischemic rest pains (ICD code I70.221/.222)
