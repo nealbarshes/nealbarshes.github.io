@@ -76,10 +76,14 @@ Additional resources:<br>
 
 ### Surgical Management of Carotid Disease (I65.21/22) 
 
-In the clinic, differentiate symptomatic vs. asymptomatic. If symptomatic: episode characterization and timing. If asymptomatic:<br>
+In the clinic, differentiate symptomatic vs. asymptomatic. If symptomatic: episode characterization and timing. 50+% stenosis on an imaging modality generally represents a legitamate indication.
+
+If asymptomatic:<br>
 - if <50%: repeat imaging not recommended, follow-up with primary care provider.
 - 50-69%: repeat imaging in 1 year. Re-refer if >70%
 - if >70%: clinic; discuss if good predicted 5-year survival and interested in intervention after citing 2% vs 1% annual risk. If yes, CTA & OR date; if no= yearly repeat US & clinic. <br>
+
+If atypical symptoms (i.e. not stroke, TIA or transient monocular blindness but other symptoms including near-syncope or light-headedness): ask about premonitory symptoms, symptoms/signs during the event (duration; pallor or diaphoresis; incontinence, clonic movements; eyes open or closed) and residual symptoms after the event (fatigue, aches; oriented; headache). Consider MRI vs. CT for old stroke. 
 
 Before the case: Verify that the patient has been taking aspirin (incl. day of surgery). LeMaitre 0.8 x 8cm bovine carotid patch in the room.<br>
 
