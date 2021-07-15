@@ -12,6 +12,13 @@
 
 # Everything else NOT related to limb salvage, foot keeping
 
+### Helpful Templates
+
+Templates for notes for face+-to-face encounters and telephone encounters.<br>
+
+Print the [PDF template](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/PreOpChecklist.pdf) or enter this [text template](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/PreOpChecklistText.txt) in the electronic medical record to help ensure thorough pre-op preparations.<br>
+
+
 ### Hemodialysis Access (N18.5 / N18.6)
 
 In the clinic, know:<br>
