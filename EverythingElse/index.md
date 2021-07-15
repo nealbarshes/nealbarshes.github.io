@@ -14,7 +14,7 @@
 
 ### Helpful Templates
 
-Templates for notes for face+-to-face encounters and telephone encounters.<br>
+Templates for notes for [face-to-face encounters](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/ClinicNoteModComplexity.txt) and [telephone encounters](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/TelephoneEncounter.txt).<br>
 
 Print the [PDF template](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/PreOpChecklist.pdf) or enter this [text template](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/PreOpChecklistText.txt) in the electronic medical record to help ensure thorough pre-op preparations.<br>
 
