@@ -1,0 +1,32 @@
+ 1[ ] OR schedule posting
+ 2[ ] x-ray at level of planned amputation 
+ 3[ ] pacemaker nurse evaluation note, 6 mos.
+ 4[ ] complete blood count (CBC), 90d
+        |LR WBC 1Y NULL|
+        |LR HEMOGLOBIN 1Y NULL|
+        |LR PLT 1Y NULL|
+ 5[ ] basic metabolic profile (BMP), 90d 
+        |LR POTASSIUM 1Y NULL|
+        |LR CO2 1Y NULL|
+        |LR CREATININE 1Y NULL|
+        |LR GLUCOSE 1Y NULL|
+ 6[ ] PT/INR, PTT, 90d
+        |LR INR 1Y NULL|
+ 7[ ] type & screen, 90d
+ 8[ ] 12-lead ECG, 90d
+ 9[ ] chest x-ray, 90d
+10[ ] iMed consent with review of any existing LST documents, 60d
+11[ ] OCL template history and physical, 30d
+12[ ] anesthesiology clinic evaluation, 30d
+13[ ] vascular medicine evaluation, 30d
+14[ ] staff pre-operative note, 30d
+15[ ] peri-op management plan for antiplatelet & anticoagulant medications
+16[ ] plan for dialysis timing
+17[ ] COVID nasal swab within two business days
+18[ ] type & cross order ±specimen, within 48h
+19[ ] OCL H&P update, day of
+20[ ] site marking by surgeon or involved trainee, day of
+21[ ] morning VBG for ESRD/CKD5 patients, day of
+
+Legend:
+__[blank]=needed,O=ordered,P=pending(collected),X=done,N=not applicable
