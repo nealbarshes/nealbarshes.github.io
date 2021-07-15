@@ -1,0 +1,47 @@
+VASCULAR SURGERY STAFF
+___________________________________________________
+Encounter type - 
+Phone visit, new or established:
+99441:  5-10 min
+99442: 11-20 min
+99443: 21-30 min
+___________________________________________________
+
+reason for consults / contact: ""
+
+HISTORY of the PRESENT illness: |PATIENT NAME| is a |PATIENT AGE| year-old 
+|PATIENT SEX| who I called to discuss 
+
+
+___________________________________________________
+
+PROBLEM #1: 
+
+PROBLEM #2:
+
+Low complexity decision making involving one (or more) chronic conditions.
+___________________________________________________
+
+PREVIOUS MEDICAL & SOCIAL HISTORY:
+|ACTIVE PROBLEMS| 
+
+All: |ALLERGIES/ADR|
+
+|ACTIVE MEDS COMBINED|
+|REMOTE ACTIVE MEDICATIONS|
+
+SELECTED LABORATORY RESULTS:
+|LR CREATININE 1Y NULL|
+|LR ALBUMIN 1Y NULL|
+|LR POTASSIUM 1M NULL|
+
+|LR HEMOGLOBIN A1C 1Y NULL|
+|LR GLUCOSE 1M NULL|
+
+|LR WBC 1Y NULL|
+|LR HEMOGLOBIN 1Y NULL|
+|LR PLT 1Y NULL|
+|LR INR 1Y NULL|
+|LR PTIME 1Y NULL|
+|LR PTT(MAIN LAB) 1Y NULL|
+

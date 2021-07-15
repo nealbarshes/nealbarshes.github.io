@@ -1,0 +1,89 @@
+VASCULAR SURGERY STAFF
+
+chief complaint: ""
+
+HISTORY of the PRESENT illness: |PATIENT NAME| is a |PATIENT AGE| year-old 
+|PATIENT SEX| who is being seen in our vascular surgery clinic for 
+
+
+
+PREVIOUS MEDICAL HISTORY:
+|ACTIVE PROBLEMS| 
+
+
+Social:  
+
+
+All: |ALLERGIES/ADR|
+
+|ACTIVE MEDS COMBINED|
+
+|REMOTE ACTIVE MEDICATIONS|
+
+
+Review of systems:
+01 constitutional: [ ]fatigue [ ]chills [ ]weight change [ ]none
+02 skin: [ ]rashes [ ]sores [ ]none
+03 hematologic: [ ]easy bruising [ ]abnormal bleeding [ ]none
+04 head: [ ]syncope [ ]none
+05 ocular: [ ]vision loss or significant change [ ]none
+06 hearing: [ ]loss of hearing [ ]none
+07 mouth:[ ]active dental infections [ ]loose teeth [ ]none
+08 throat: [ ]dysphagia [ ]none
+09 respiratory: [ ]orthopnea [ ]dyspnea with <1 flight stairs []productive cough [ ]none
+10 cardiac: [ ]angina [ ]none
+11 abdominal: [ ] diarrhea [ ]vomiting [ ]none
+12 urinary: [ ]dysuria [ ]frequency [ ]hematuria [ ]none
+13 genital: [ ]male impotence [ ]LMP (if female) [ ]none
+14 musculoskeletal: [ ]joint pains [ ]none
+15 neurological: [ ] paralysis [ ]radicular pains [ ]none
+16 psychiatric: [ ] depressive symptoms [ ]none
+
+
+
+PHYSICAL EXAM:
+
+Vital signs: |PATIENT WEIGHT|, |PATIENT HEIGHT|, |TEMPERATURE TODAY|, |BLOOD PRESSURE TODAY|, |PULSE TODAY|, |RESPIRATION TODAY|
+General: [ ]appears in pain [ ]none
+Speech: [ ]tangential [ ]disoriented [ ]aphasia [ ]none
+Neuro: [ ]movement asymmetry [ ]cannot balance on one leg [ ]none
+Skin: [ ]erythema [ ]cyanosis [ ]skin lesions [ ]none
+Eyes: [ ]wearing classes [ ]ocular deformity [ ]abnl EOMs [ ]none
+Head: [ ]facial asymmetry [ ]smile asymmetry [ ]none
+Mouth: [ ]bifid uvula [ ]dental caries [ ]tongue deviation [ ]none
+Neck: [ ]carotid bruit [ ]adenopathy [ ]none
+Lungs: [ ]audible wheezing [ ]crackles [ ]rales [ ]bronchophony [ ]clear bilaterally
+Heart: [ ]S3 [ ]S4 [ ]irregular rhythma [ ]none
+Abdomen: [ ]obese [ ]surgical scars [ ]mass [ ]hernia [ ]none 
+Legs: [ ]pretibial edema [ ]dermatoliposclerosis [ ]gross deformity [ ]none
+Feet: [ ]ulcer [ ]gross deformity [ ]none
+Vascular: [ ]palpable femoral pulses [ ]none
+
+
+SELECTED LABORATORY RESULTS:
+|LR WBC 1W NULL|
+|LR HEMOGLOBIN 1W NULL|
+|LR CO2 24H NULL|
+|LR CREATININE 1W NULL|
+|LR GLUCOSE 24H NULL|
+|LR HEMOGLOBIN AIC 6M NULL|
+|LR INR 1W NULL|
+
+___________________________________________________
+
+Assessment/Diagnoses/Problem list and Management Plan: 
+
+PROBLEM #1:
+
+PROBLEM #2:
+
+PROBLEM #3:
+
+PROBLEM #4:
+
+
+Return to vascular surgery clinic in ____
+
+
+___________________________________________________
+
