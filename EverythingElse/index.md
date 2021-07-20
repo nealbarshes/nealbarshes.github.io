@@ -62,10 +62,14 @@ After the case: discharge home with driver. Tylenol #3, n=10 pills. One  follow-
 In clinic: know previous history of abdominal operations, whether renal has a plan utilize catheter two weeks after placement. Check nares for MRSA. Treat with mupirocin nasal prior to operation if positive.<br>
 
 Procedure:<br>
-1. Open Hassan for 5mm Optiview at/near umbilicus. One additional 5mm port LUQ or RUQ for grasper. <br>
-2. Pigtail 2x-cuffed catheter, 2cm above & 7cm to the left of the umbilicus.Use local anesthesia to measure 6cm through muscle. 16Fr peel-away sheath over 160cm Amplatz; serial sheath dilation. Coil placed at top of pubis bone. +/- pexy with 2-0 Prolene. Cuff 2-4cm from exit. (If very obese: pre-sternal exit  with JP-drain Faller; tie extension together).<br>
-3. Instill 15mL of heparinized saline 100u/mL; clip and cap.<br>
-4. Discharge w bacitracin topical ointment + Tylenol #3 x10 tablets. Dressing stays in place for 5 days. <b>First use of catheter should be <u>no later than 15 days</u> after surgery</b>.<br> 
+1. Open Hassan technique to anterior fascial layer at least, then and 5mm Optiview at/near umbilicus. One additional 5mm (non-Optiview/non-balloon) port LUQ or RUQ for grasper. <br>
+2. Needle placement 2cm above & 7cm to the left of the umbilicus after checking for inferior epigastric artery. Insert Bentson wire, then 7Fr sheath. Exchange for short (180cm) Amplatz wire, grasping the floppy end as it comes through the sheath tip. Dilate soft tissue with 11Fr sheath, then 14Fr sheath, then 18Fr peel-away sheath. 
+3. Insert Pigtail double-cuffed catheter with coil placed at top of pubis bone. Grasp the catheter as it exits the sheath to direct it into the pelvis.
+4. Counter-incision in left abdominal wall for catheter end. Cuff 2-4cm from exit. (If redundant omentum, +/- pexy with 2-0 Prolene. If very obese: pre-sternal exit  with JP-drain Faller; tie extension together).<br>
+5. Remove grasper and camera, then desufflate. Instill 1L of normal saline. Then check for quick return of at least 900mL with bag in dependent position.
+6. Close umbilical port with 2-0 Vicryl on UR6 needle, then 3-0 Vicryl in soft tissue. 4-0 Monocryl for skin incisions at umbilicus, right abdominal port site, and left abdomen access site for placement of catheter. No nylon or other suture for catheter exit site. 
+7. Instill 15mL of heparinized saline 100u/mL; clip and cap.<br>
+8. Discharge w bacitracin topical ointment + Tylenol #3 x10 tablets. Dressing stays in place for 5 days. <b>First use of catheter should be <u>no later than 15 days</u> after surgery</b>.<br> 
 
 More details in [this article on the technique for laparoscopic peritoneal dialysis catheter placement](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/ETwhnmV28RFEuqUwQKjax7QB0Lm8g5EHdWmix8NV69q_kw?e=CX0EGf). <br>
 <br>
