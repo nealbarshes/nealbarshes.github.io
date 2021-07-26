@@ -149,3 +149,7 @@ Includes diabetes management that is largely concordant with recommendations fro
 19. wound VAC<br>
 20. wound VAC black sponge, medium size<br>
 </tt></blockquote>
+
+### Surgical principles for foot reconstruction operations:
+[Smith and Nephews Versajet hydrosurgery system](https://youtu.be/MU4lYEqqhYI) for most debridements / amputation procedures that will have delayed primary closure.
+
