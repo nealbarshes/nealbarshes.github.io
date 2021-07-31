@@ -26,9 +26,9 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 In general, as much of the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  It provides more individualized teaching opportunities for senior and junior trainees. Finally, this also avoids the potential conflicts of having two senior trainees on the same service as described in the ACGME "common program requirements” section IV.C.8.c:   
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:12px; background-color: ##fdffde;">
 "[a] chief resident and a fellow (whether the fellow is in an ACGME-accredited position or not) must not have primary responsibility for the same patient except that general surgeon and surgical critical care fellows may co-manage the non-operative care of the same patient.”</blockquote>
-
+<br>
 <hr>
-### Expectations for Daytime Intern #1 ("<i>consultant intern</i>")
+### Expectations for the "<i>Consult Intern</i>":
 <b>Top priority:</b> inital evaluation of new inpatient consults. This includes:
 1. Vascular surgery consults 24/7.
 2. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
@@ -44,13 +44,13 @@ Notes:
 </ul>
 <b>Second priority:</b> daily scheduled outpatient encounters (telephone and face-to-face). 
 
-### Expectations for Daytime Intern #2 ("inpatient intern"): 
+### Expectations for <i>"Inpatient Intern"</i>: 
 <ul>
 <li>On Thursdays, in clinic for face-to-face outpatient encounters.</li>
 <li>Other days: Working in a dyad with the second senior-most trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR. You should both see consults together.</li> 
 </ul>
   
-### Expectations of the Nighttime intern: 
+### Expectations of the Night Intern: 
 <ul>
 <li>Ensure complete preoperative preparations for all inpatients done in timely fashion.</li>
 <li>Ensure complete preoperative preparations for first outpatient / elective case of the morning Mondays, Tuesdays, Thursdays and Fridays.</li>  
@@ -65,7 +65,7 @@ Notes:
 <li>Present Monday through Friday until at least 3pm. Utilize non-clinical time for robotic training and reading on vascular topics. </li>
 </ul>
   
-### Expectations for PGY-4-7 Trainees: 
+### Expectations for PGY-4-7 Senior Trainees: 
 <b>Always / every day weekday:</b>
 <ul>
 <li>Twice-daily rounds, daily notes and orders.</li>
