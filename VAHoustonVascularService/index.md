@@ -29,3 +29,94 @@ In general, as much of the clinical decision making done by the staff surgeon an
 "[a] chief resident and a fellow (whether the fellow is in an ACGME-accredited position or not) must not have primary responsibility for the same patient except that general surgeon and surgical critical care fellows may co-manage the non-operative care of the same patient.”</blockquote>.
 <br>
 
+
+### Expectations for Daytime Intern #1 = consultant
+You will be the primary person to initally evaluate new inpatient consults and daily scheduled outpatient encounters (telephone and face-to-face). These include 
+1. Vascular surgery consults 24/7.
+2. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
+3. Diabetic foot infection consults for patients previously seen by our team for infection 24/7.
+<br>
+Notes:
+<ul>
+<li>Per hospital policy, ER consults must be seen within 30 mins and have written plans (note or admission orders within 90 minutes).</li>
+<li>You should work as a teamlet with the on-call senior resident and on-call staff vascular surgeon. Discuss foot infection consults directly with staff surgeon, then discuss with on-call senior resident.</li>
+<li>You should to the OR to talk if that is where the on-call senior or staff surgeon is.</li>  
+<li>You should write OCL History and Physicals for new admissions and consults. </li>
+<li>You should <b>NOT</b> be involved in inpatient care.</li>
+</ol>
+<br>
+ 
+<ol>
+
+Expectations for Daytime Intern #2: 
+
+Thursdays: In clinic.  
+
+Other days: Working in a dyad with the second senior-most trainee. You should be in the OR when he or she is in the OR. You should both see consults together. 
+
+ 
+
+Expectations of the Nighttime intern: 
+
+Ensure complete preoperative preparations for all inpatients done in timely fashion. 
+
+Ensure complete preoperative preparations for first outpatient / elective case of the morning Mondays, Tuesdays, Thursdays and Fridays.  
+
+Evaluate all foot infection consults in ER within 30 mins of being called (hospital policy), discuss with on-call staff surgeon, and carry out a plan within 120 mins of being called (hospital policy). 
+
+Evaluate all other consults with on-call senior resident or fellow. 
+
+Write OCL History and Physical for all patients being admitted to our service. 
+
+ Expectations and Objectives for PGY-2 Residents: 
+
+Able to independently perform vein mapping for hemodialysis access. 
+
+In addition to dialysis access cases assigned, double-scrubbing as many cases as many other vascular cases.  
+
+In daytime, see dialysis access and venous disease consults if not in the OR. 
+
+Present Monday through Friday until at least 3pm. Utilize non-clinical time for robotic training and reading on vascular topics. 
+
+Page Break
+ 
+
+Expectations for PGY-4-7 Trainees: 
+
+Always: 
+
+Guiding and teaching any daytime intern assigned to you. He or she should be in the OR when you are in the OR. You should both see consults together. You should divide work equitably and according to experience.  
+
+Note: Interns will be assigned by seniority, with PGY-7 > PGY-6 = vascular PGY-4 > general PGY-4.  When two or more senior of equal level are on service, intern assignment will alternate by week.  
+
+Twice-daily rounds, daily notes and orders. 
+
+Daily list run with NP, social work, case manager and pharmacist. 
+
+Vascular trainees: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback. 
+
+When on-call:  
+
+Run the outpatient telephone (Monday, Tuesday and Wednesday) clinic or the in-person clinic (Thursdays). 
+
+Note: if a patient of yours is scheduled for surgery when you are on-call, consider a 1:1 swap of daytime call with another senior trainee. 
+
+Evaluate all consults (other than foot infections), discuss with on-call staff surgeon, and write a consult note.  
+
+Note: note writing should NOT be deferred to on-call intern. On-call nighttime intern can write OCL History and Physical.  
+
+Our patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility. 
+
+Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.  
+
+Receive check-out from off-call seniors and discuss to-do activities with on-call nighttime intern. 
+
+When not on-call:  
+
+In operating room as much as possible.  
+
+Present in the hospital until 2pm when not in the operating room.  
+
+Discuss operative plans, inpatient management with staff surgeons. 
+
+Read. 
