@@ -81,8 +81,8 @@ Notes:<ul>
 <li>Run the outpatient telephone (Monday, Tuesday and Wednesday) clinic or the in-person clinic (Thursdays). Please note that this does <b>NOT</b> preclude you from physically going to the OR to see critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
 <li>Evaluate all consults (other than foot infections), discuss with on-call staff surgeon, and <b>write a consult note</b> (not the OCL History and Physical).</li>
 <li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
-<li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern. 
-<li>On weekends, rounds on all inpatients.
+<li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
+<li>On weekends, rounds on all inpatients.</li>
 </ul>
 
 Please note that all patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility.
