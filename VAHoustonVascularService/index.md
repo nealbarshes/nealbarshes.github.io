@@ -45,23 +45,17 @@ Notes:
 <li>You should <b>NOT</b> be involved in inpatient care.</li>
 </ul>
 
-
 <br>
 Second priority: daily scheduled outpatient encounters (telephone and face-to-face). 
 <br>
-
+Third priority: going to operating room to assist with cases.
 <br>
 
-
-### Expectations for Daytime Intern #2 (: 
-
-Thursdays: In clinic.  
-
+### Expectations for Daytime Intern #2 ("inpatient intern"): 
+Thursdays: In clinic.<br>  
 Other days: Working in a dyad with the second senior-most trainee. You should be in the OR when he or she is in the OR. You should both see consults together. 
 
- 
-
-Expectations of the Nighttime intern: 
+### Expectations of the Nighttime intern: 
 
 Ensure complete preoperative preparations for all inpatients done in timely fashion. 
 
