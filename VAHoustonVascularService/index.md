@@ -31,7 +31,7 @@ In general, as much of the clinical decision making done by the staff surgeon an
 
 
 ### Expectations for Daytime Intern #1 ("consultant intern")
-Top priority: inital evaluation of new inpatient consults. This includes:
+<b>Top priority:</b> inital evaluation of new inpatient consults. This includes:
 1. Vascular surgery consults 24/7.
 2. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
 3. Diabetic foot infection consults for patients previously seen by our team for infection 24/7.
@@ -46,9 +46,7 @@ Notes:
 </ul>
 
 <br>
-Second priority: daily scheduled outpatient encounters (telephone and face-to-face). 
-<br>
-Third priority: going to operating room to assist with cases.
+<b>Second priority:</b> daily scheduled outpatient encounters (telephone and face-to-face). 
 <br>
 
 ### Expectations for Daytime Intern #2 ("inpatient intern"): 
@@ -56,31 +54,21 @@ Thursdays: In clinic.<br>
 Other days: Working in a dyad with the second senior-most trainee. You should be in the OR when he or she is in the OR. You should both see consults together. 
 
 ### Expectations of the Nighttime intern: 
+<ol>
+<li>Ensure complete preoperative preparations for all inpatients done in timely fashion.</li>
+<li>Ensure complete preoperative preparations for first outpatient / elective case of the morning Mondays, Tuesdays, Thursdays and Fridays.</li>  
+<li>Inital evaluation of consults (see Daytime Intern #1, above).</li>
+</ol>
 
-Ensure complete preoperative preparations for all inpatients done in timely fashion. 
-
-Ensure complete preoperative preparations for first outpatient / elective case of the morning Mondays, Tuesdays, Thursdays and Fridays.  
-
-Evaluate all foot infection consults in ER within 30 mins of being called (hospital policy), discuss with on-call staff surgeon, and carry out a plan within 120 mins of being called (hospital policy). 
-
-Evaluate all other consults with on-call senior resident or fellow. 
-
-Write OCL History and Physical for all patients being admitted to our service. 
-
- Expectations and Objectives for PGY-2 Residents: 
-
-Able to independently perform vein mapping for hemodialysis access. 
-
-In addition to dialysis access cases assigned, double-scrubbing as many cases as many other vascular cases.  
-
-In daytime, see dialysis access and venous disease consults if not in the OR. 
-
-Present Monday through Friday until at least 3pm. Utilize non-clinical time for robotic training and reading on vascular topics. 
-
-Page Break
- 
-
-Expectations for PGY-4-7 Trainees: 
+### Expectations and Objectives for PGY-2 Residents: 
+<ol>
+<li>Able to independently perform vein mapping for hemodialysis access.</li>
+<li>In addition to dialysis access cases assigned, double-scrubbing as many cases as many other vascular cases.</li>
+<li>In daytime, see dialysis access and venous disease consults if not in the OR.</li>
+<li>Present Monday through Friday until at least 3pm. Utilize non-clinical time for robotic training and reading on vascular topics. </li>
+</ol>
+  
+### Expectations for PGY-4-7 Trainees: 
 
 Always: 
 
