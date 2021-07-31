@@ -25,17 +25,17 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 
 In general, as much of the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  It provides more individualized teaching opportunities for senior and junior trainees. Finally, this also avoids the potential conflicts of having two senior trainees on the same service as described in the ACGME "common program requirements” section IV.C.8.c:   
 <br>
-<blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 60px; font-size:18px; background-color: ##fdffde;">
+<blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:18px; background-color: ##fdffde;">
 "[a] chief resident and a fellow (whether the fellow is in an ACGME-accredited position or not) must not have primary responsibility for the same patient except that general surgeon and surgical critical care fellows may co-manage the non-operative care of the same patient.”</blockquote>.
 <br>
 
 
-### Expectations for Daytime Intern #1 = consultant
-You will be the primary person to initally evaluate new inpatient consults and daily scheduled outpatient encounters (telephone and face-to-face). These include 
+### Expectations for Daytime Intern #1 ("consultant intern")
+Top priority: inital evaluation of new inpatient consults. This includes:
 1. Vascular surgery consults 24/7.
 2. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
 3. Diabetic foot infection consults for patients previously seen by our team for infection 24/7.
-<br>
+
 Notes:
 <ul>
 <li>Per hospital policy, ER consults must be seen within 30 mins and have written plans (note or admission orders within 90 minutes).</li>
@@ -43,12 +43,17 @@ Notes:
 <li>You should to the OR to talk if that is where the on-call senior or staff surgeon is.</li>  
 <li>You should write OCL History and Physicals for new admissions and consults. </li>
 <li>You should <b>NOT</b> be involved in inpatient care.</li>
-</ol>
-<br>
- 
-<ol>
+</ul>
 
-Expectations for Daytime Intern #2: 
+
+<br>
+Second priority: daily scheduled outpatient encounters (telephone and face-to-face). 
+<br>
+
+<br>
+
+
+### Expectations for Daytime Intern #2 (: 
 
 Thursdays: In clinic.  
 
