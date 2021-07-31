@@ -89,3 +89,66 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
   <li>In operating room as much as possible.</li>
 <li>Present in the hospital until 3pm when not in the operating room.<li>
   <li>Discuss operative plans, inpatient management with staff surgeons.</li>
+</ul>
+  
+### The Weekly Schedule: 
+
+Monday 
+
+7:45am table rounds in 5D (green) 
+
+Post-op clinic: on-call Fellow/4th year 
+
+OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+
+  
+
+Tuesday 
+
+7-830am didactics for all trainees on service 
+
+OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+
+  
+
+Wednesday 
+
+7-10am: GS residents away for education 
+
+Pre-op clinic: on-call Fellow/4th year 
+
+OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+
+OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+
+  
+
+Thursday 
+
+7:45am: table rounds in 5D (green) 
+
+8:15am: vascular surgery clinic; on-call Fellow/4th year and all available 
+
+OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+
+  
+
+Friday 
+
+OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+
+OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+
+Weekend sign-out to on-call fellow/4th year 
+
+  
+
+Weekends 
+
+On-call Fellow/4th year to round with inter and speak with on-call attending 
+
+All weekend admissions and consults go to the on-call Fellow/4th year service 
+
+Senior fellow to round with intern, responsible for teaching and delegating level-appropriate responsibilities 
+
+Seniors to write notes and orders on their patients 
