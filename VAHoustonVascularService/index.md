@@ -84,8 +84,9 @@ Notes:<ul>
 <li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
 <li>On weekends, rounds on all inpatients.</li>
 </ul>
-
+<br>
 Please note that all patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility.
+<br>
 <br>
 <b>When not on-call:</b>
 <ul>  
@@ -144,7 +145,7 @@ What to do:
   <li>If nights/weekends, MEDVAMC emergency department.</li></ul>
 <li>Call [Baylor Occupational Health](https://www.bcm.edu/departments/medicine/sections-and-divisions/occupational-health-program) at 713-798-8880 the next business day (hours: Monday through Friday 7:30 a.m. - noon and 1 - 4:30 p.m.) re: additional follow up. Provide copies of source testing results (<i>if available</i> -- see below) and of your testing results to Baylor Occupational Health for your file. MEDVAMC Employee Health does not provide a copy of the results to Baylor Occupational Health; this is your responsibility.</li> 
 </ol>
-
+<br>
 Know that within the VA system, [verbal consent from the patient IS required for HIV testing](https://www.hiv.va.gov/provider/topics/testing-faq-occupational-exposures.asp). Therefore, <b>do NOT</b> ask for a needlestick exposure panel during the case; someone from the surgery team must obtain verbal consent when the patient has decision-making capacity. 
 
 Tips for working with our nurse practicioners: 
