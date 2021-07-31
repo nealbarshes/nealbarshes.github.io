@@ -85,9 +85,7 @@ Notes:
 <li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
 <li>On weekends, rounds on all inpatients.</li>
 </ul>
-<br>
 Please note that all patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility.
-<br>
 <br>
 <b>When not on-call:</b>
 <ul>  
@@ -95,7 +93,9 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <li>Present in the hospital until 3pm when not in the operating room.</li>
 <li>Discuss operative plans, inpatient management with staff surgeons.</li>
 </ul>
-  
+<br>
+<br>
+<br>
 ### The Weekly Schedule
 
 <b>Monday:</b>
@@ -140,7 +140,9 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <li>Senior fellow to round with intern, responsible for teaching and delegating level-appropriate responsibilities.</li>
 <li>Seniors to write notes and orders on their patients.</li>
 </ul>
-
+<br>
+<br>
+<br>
 ### Uncommon but Important Scenarios: 
 
 #### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
