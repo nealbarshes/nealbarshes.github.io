@@ -24,13 +24,10 @@ Our rotation began as part of the Baylor College of Medicine peripheral vascular
 As of February 2021 we have transitioned from the “mega-team” model to the “junior attending” model. This team structure is most similar to the vast majority of clinical practices outside of academic medical centers.   
 
 In general, as much of the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  It provides more individualized teaching opportunities for senior and junior trainees. Finally, this also avoids the potential conflicts of having two senior trainees on the same service as described in the ACGME "common program requirements” section IV.C.8.c:   
-<br>
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:12px; background-color: ##fdffde;">
-"[a] chief resident and a fellow (whether the fellow is in an ACGME-accredited position or not) must not have primary responsibility for the same patient except that general surgeon and surgical critical care fellows may co-manage the non-operative care of the same patient.”</blockquote>.
-<br>
+"[a] chief resident and a fellow (whether the fellow is in an ACGME-accredited position or not) must not have primary responsibility for the same patient except that general surgeon and surgical critical care fellows may co-manage the non-operative care of the same patient.”</blockquote>
 
 <hr>
-
 ### Expectations for Daytime Intern #1 ("<i>consultant intern</i>")
 <b>Top priority:</b> inital evaluation of new inpatient consults. This includes:
 1. Vascular surgery consults 24/7.
@@ -96,7 +93,8 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 </ul>
 <br>
 <br>
-<br>
+
+<hr>
 ### The Weekly Schedule
 
 <b>Monday:</b>
@@ -143,7 +141,8 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 </ul>
 <br>
 <br>
-<br>
+
+<hr>
 ### Uncommon but Important Scenarios: 
 
 #### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
@@ -183,4 +182,5 @@ The [BCM MED Department of Surgery reporting of “near-misses", errors and safe
 <li>Provide feedback on the annual (spring) annual residency program survey.</li>
 </ol>
 
+<hr>
 So glad you've read through all of this document! Now please complete this quiz to ensure understanding of this. 
