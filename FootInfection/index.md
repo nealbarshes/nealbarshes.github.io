@@ -43,7 +43,7 @@ Foot infection should be assumed present unless proven otherwise in all patients
 
 You can watch a [5 minute 9 second video primer on identifying foot infections here](https://youtu.be/Gpw9stEfSbM). Check out [these videos](https://www.youtube.com/playlist?list=PL65JmypVmSg7gEVB9zfNl-HEbnIUKVoxC) if you would benefit from advice on concise patient presentations.
 
-[![YouTube video primer on foot infections](
+![[YouTube video primer on foot infections](
 https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/YouTubeIdentifyingFootInfections.jpg)](https://www.youtube.com/watch?v=Gpw9stEfSbM)
 
 
