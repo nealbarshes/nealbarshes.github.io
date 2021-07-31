@@ -142,11 +142,14 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 ### Uncommon but Important Scenarios: 
 
-Our team’s process for transitioning clinical responsibilities when fatigue is an issue: (<i>pending content</i>)
-When it is mandatory: (<i>pending content</i>)
-What to do: (<i>pending content</i>)
+#### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
+<ul>
+<li>When it is mandatory: (<i>pending content</i>)</li>
+<li>What to do: (<i>pending content</i>)</li>
+</ul>
 
-<b>Sharps injury</b>, in operating room or anywhere else: 
+
+#### Sharps injury, in operating room or anywhere else: 
 <b.First</b>, scrub out of the case.
 <ul>
   <li>If skin, wash with soap.</li>
@@ -162,17 +165,12 @@ What to do: (<i>pending content</i>)
 <br>
 Know that within the VA system, [verbal consent from the patient IS required for HIV testing](https://www.hiv.va.gov/provider/topics/testing-faq-occupational-exposures.asp). Therefore, <b>do NOT</b> ask for a needlestick exposure panel during the case; someone from the surgery team must obtain verbal consent when the patient has decision-making capacity. 
 
-Tips for working with our nurse practicioners: (<i>pending content</i>)
+#### Tips for working with our nurse practicioners: (<i>pending content</i>)
 
-Considerations for cost-effective care: (<i>pending content</i>)
-
-Probably higher cost AND worse outcome:  (<i>pending content</i>)
-
-Low-value care: (<i>pending content</i>)
-
+#### Quality Improvement
 The [BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx)
 
-Processes for giving feedback on the rotation: 
+#### Options for giving feedback on the rotation: 
 <ol>
 <li>Talk with one of the staff surgeons.</li>
 <li>Talk with one of the senior trainees.</li>
