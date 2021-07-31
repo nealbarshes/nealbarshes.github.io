@@ -28,6 +28,25 @@ In general, as much of the clinical decision making done by the staff surgeon an
 "[a] chief resident and a fellow (whether the fellow is in an ACGME-accredited position or not) must not have primary responsibility for the same patient except that general surgeon and surgical critical care fellows may co-manage the non-operative care of the same patient.”</blockquote>
 <br>
 <hr>
+
+### Expectation of all trainees:
+
+NEVER: 
+<ul>
+  <li>Use disrespectful language or actions with any others (including, but not limited to, patients, students, residents or nurses).</li>
+  <li>Hide/block/deflecting consults in any way.</li>
+  <li>Display dishonesty or any other blatant forms of unprofessionalism.</li>
+  <li>Be absent or tardy without discussing with surgery education office <b>AND</b> staff vascular surgeon (<i>not</i> another trainee, regardless of PGY level)</li>
+  </ul>
+
+Commit to:
+<ul>
+  <li>Getting to the operating room as much as possible, even if just to assist or observe.</li>
+  <li>Saying “I don’t know, but I'll find out” when you aren't 100% confident in being 100% factually correct about something.</li> 
+  <li>Discuss operative plans before the day of the operation.</li>
+  <li>Consuming, digesting and integrating all aspects of our patient’s history, exam findings, lab results, imaging, and hospital course.</li> 
+</ul>
+
 ### Expectations for the "<i>Consult Intern</i>":
 <b>Top priority:</b> inital evaluation of new inpatient consults. This includes:
 1. Vascular surgery consults 24/7.
