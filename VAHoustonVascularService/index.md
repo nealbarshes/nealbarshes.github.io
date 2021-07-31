@@ -30,7 +30,7 @@ In general, as much of the clinical decision making done by the staff surgeon an
 <br>
 
 
-### Expectations for Daytime Intern #1 ("consultant intern")
+### Expectations for Daytime Intern #1 ("<i>consultant intern</i>")
 <b>Top priority:</b> inital evaluation of new inpatient consults. This includes:
 1. Vascular surgery consults 24/7.
 2. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
