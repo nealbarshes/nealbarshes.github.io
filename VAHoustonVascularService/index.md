@@ -111,8 +111,8 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
   
 <b>Wednesday:</b>
 <ul>
-<li>7-10am: GS residents away for education.</li>
-<li>Pre-op clinic: on-call Fellow/4th year.</li>
+<li>7-10am: General surgery residents away for education.</li>
+<li>Pre-op clinic: on-call fellow (4th year general surgery resident after 10am).</li>
 <li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
 </ul>
@@ -150,7 +150,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 
 #### Sharps injury, in operating room or anywhere else: 
-<b.First</b>, scrub out of the case.
+<b>First</b>, scrub out of the case.
 <ul>
   <li>If skin, wash with soap.</li>
   <li>If eye, rinse with eye irrigation bottle system  located by the handwashing sinks.</li>
@@ -178,3 +178,5 @@ The [BCM MED Department of Surgery reporting of “near-misses", errors and safe
 <li>Provide written feedback on your end-of-rotation summary.</li>
 <li>Provide feedback on the annual (spring) annual residency program survey.</li>
 </ol>
+
+So glad you've read through all of this document! Now please complete this quiz to ensure understanding of this. 
