@@ -36,7 +36,8 @@ In general, as much of the clinical decision making done by the staff surgeon an
 2. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
 3. Diabetic foot infection consults for patients previously seen by our team for infection 24/7.
 
-Notes:<ul>
+Notes:
+<ul>
 <li>Per hospital policy, ER consults must be seen within 30 mins and have written plans (note or admission orders within 90 minutes).</li>
 <li>You should work as a teamlet with the on-call senior resident and on-call staff vascular surgeon. Discuss foot infection consults directly with staff surgeon, then discuss with on-call senior resident.</li>
 <li>You should to the OR to talk if that is where the on-call senior or staff surgeon is.</li>  
