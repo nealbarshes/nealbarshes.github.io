@@ -29,6 +29,7 @@ In general, as much of the clinical decision making done by the staff surgeon an
 "[a] chief resident and a fellow (whether the fellow is in an ACGME-accredited position or not) must not have primary responsibility for the same patient except that general surgeon and surgical critical care fellows may co-manage the non-operative care of the same patient.”</blockquote>.
 <br>
 
+<hr>
 
 ### Expectations for Daytime Intern #1 ("<i>consultant intern</i>")
 <b>Top priority:</b> inital evaluation of new inpatient consults. This includes:
