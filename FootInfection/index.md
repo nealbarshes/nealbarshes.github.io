@@ -46,6 +46,13 @@ You can watch a [5 minute 9 second video primer on identifying foot infections h
 [![YouTube video primer on foot infections](
 https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/YouTubeIdentifyingFootInfections.jpg)](https://www.youtube.com/watch?v=Gpw9stEfSbM)
 
+<p>
+  <a href="https://www.youtube.com/watch?v=Gpw9stEfSbM" title="YouTube Primer on Identifying Foot Infections">
+    <img src="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/YouTubeIdentifyingFootInfections.jpg" alt="YouTube" />
+  </a>
+</p>
+
+
 
 ### Admission orders
 
