@@ -142,9 +142,9 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 ### Uncommon but Important Scenarios: 
 
-Our team’s process for transitioning clinical responsibilities when fatigue is an issue: 
-When it is mandatory: 
-What to do: 
+Our team’s process for transitioning clinical responsibilities when fatigue is an issue: (<i>pending content</i>)
+When it is mandatory: (<i>pending content</i>)
+What to do: (<i>pending content</i>)
 
 <b>Sharps injury</b>, in operating room or anywhere else: 
 <b.First</b>, scrub out of the case.
@@ -159,21 +159,24 @@ What to do:
 </ul>
 <b>Third</b>, call <a href="https://www.bcm.edu/departments/medicine/sections-and-divisions/occupational-health-program">Baylor Occupational Health</a> at 713-798-8880 the next business day (hours: Monday through Friday 7:30 a.m. - noon and 1 - 4:30 p.m.) re: additional follow up. Provide copies of source testing results (<i>if available</i> -- see below) and of your testing results to Baylor Occupational Health for your file. MEDVAMC Employee Health does not provide a copy of the results to Baylor Occupational Health; this is your responsibility.
 <br>
+<br>
 Know that within the VA system, [verbal consent from the patient IS required for HIV testing](https://www.hiv.va.gov/provider/topics/testing-faq-occupational-exposures.asp). Therefore, <b>do NOT</b> ask for a needlestick exposure panel during the case; someone from the surgery team must obtain verbal consent when the patient has decision-making capacity. 
 
-Tips for working with our nurse practicioners: 
+Tips for working with our nurse practicioners: (<i>pending content</i>)
 
-Considerations for cost-effective care: 
+Considerations for cost-effective care: (<i>pending content</i>)
 
-Probably higher cost AND worse outcome:  
+Probably higher cost AND worse outcome:  (<i>pending content</i>)
 
-Low-value care: 
+Low-value care: (<i>pending content</i>)
 
 The [BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx)
 
 Processes for giving feedback on the rotation: 
 <ol>
-<li>Talk with one of the staff surgeons. 
-<li>Provide written feedback on your end-of-rotation summary.  
-<li>Give anonymous written feedback. 
+<li>Talk with one of the staff surgeons.</li>
+<li>Talk with one of the senior trainees.</li>
+<li>Talk with Dr. Barshes (vascular fellowship program director) or Dr. Kougias (general surgery residency rotation director).</li>
+<li>Provide written feedback on your end-of-rotation summary.</li>
+<li>Provide feedback on the annual (spring) annual residency program survey.</li>
 </ol>
