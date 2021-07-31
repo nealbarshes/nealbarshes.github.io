@@ -99,45 +99,45 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 <b>Monday:</b>
 <ul>
-7:45am table rounds in 5D (green) 
-Post-op clinic: on-call Fellow/4th year 
-OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+<li>7:45am table rounds in 5D (Green elevator side).</li>
+<li>Post-op clinic: on-call Fellow/4th year.</li>
+<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
 </ul>
 
 <b>Tuesday:</b>
 <ul>
-OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
 </ul>
   
 <b>Wednesday:</b>
 <ul>
-7-10am: GS residents away for education 
-Pre-op clinic: on-call Fellow/4th year 
-OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
-OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+<li>7-10am: GS residents away for education.</li>
+<li>Pre-op clinic: on-call Fellow/4th year.</li>
+<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
+<li>OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
 </ul>
   
 <b>Thursday:</b>
 <ul>
-7:45am: table rounds in 5D (green) 
-8:15am: vascular surgery clinic; on-call Fellow/4th year and all available 
-OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
-16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference.
+<li>7:45am: table rounds in 5D (Green elevator side).</li>
+<li>8:15am: vascular surgery clinic; on-call Fellow/4th year and all available.</li>
+<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
+<li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference..</li>
 </ul>
   
 <b>Friday:</b>
 <ul>
-OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
-OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
-Weekend sign-out to on-call fellow/4th year 
+<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
+<li>OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li> 
+<li>Weekend sign-out to on-call fellow/4th year.</li>
 </ul>
   
 <b>Weekends:</b>
 <ul>
-On-call Fellow/4th year to round with inter and speak with on-call attending 
-All weekend admissions and consults go to the on-call Fellow/4th year service 
-Senior fellow to round with intern, responsible for teaching and delegating level-appropriate responsibilities 
-Seniors to write notes and orders on their patients 
+<li>On-call Fellow/4th year to round with inter and speak with on-call attending.</li>
+<li>All weekend admissions and consults go to the on-call Fellow/4th year service.</li>
+<li>Senior fellow to round with intern, responsible for teaching and delegating level-appropriate responsibilities.</li>
+<li>Seniors to write notes and orders on their patients.</li>
 </ul>
 
 ### Uncommon but Important Scenarios: 
@@ -147,17 +147,17 @@ When it is mandatory:
 What to do: 
 
 <b>Sharps injury</b>, in operating room or anywhere else: 
-1. Scrub out of the case.
+<b.First</b>, scrub out of the case.
 <ul>
   <li>If skin, wash with soap.</li>
   <li>If eye, rinse with eye irrigation bottle system  located by the handwashing sinks.</li>
 </ul>
-2. Get your blood drawn: 
+<b>Second</b>, get your blood drawn: 
 <ul>
   <li>If M-F daytime, MEDVAMC Employee Health office at 4B room 231, phone 713-794-7003.</li> 
   <li>If nights/weekends, MEDVAMC emergency department.</li>
 </ul>
-3. Call <a href="https://www.bcm.edu/departments/medicine/sections-and-divisions/occupational-health-program">Baylor Occupational Health</a> at 713-798-8880 the next business day (hours: Monday through Friday 7:30 a.m. - noon and 1 - 4:30 p.m.) re: additional follow up. Provide copies of source testing results (<i>if available</i> -- see below) and of your testing results to Baylor Occupational Health for your file. MEDVAMC Employee Health does not provide a copy of the results to Baylor Occupational Health; this is your responsibility.
+<b>Third</b>, call <a href="https://www.bcm.edu/departments/medicine/sections-and-divisions/occupational-health-program">Baylor Occupational Health</a> at 713-798-8880 the next business day (hours: Monday through Friday 7:30 a.m. - noon and 1 - 4:30 p.m.) re: additional follow up. Provide copies of source testing results (<i>if available</i> -- see below) and of your testing results to Baylor Occupational Health for your file. MEDVAMC Employee Health does not provide a copy of the results to Baylor Occupational Health; this is your responsibility.
 <br>
 Know that within the VA system, [verbal consent from the patient IS required for HIV testing](https://www.hiv.va.gov/provider/topics/testing-faq-occupational-exposures.asp). Therefore, <b>do NOT</b> ask for a needlestick exposure panel during the case; someone from the surgery team must obtain verbal consent when the patient has decision-making capacity. 
 
