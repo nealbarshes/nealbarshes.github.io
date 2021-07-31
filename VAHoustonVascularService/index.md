@@ -90,7 +90,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <b>When not on-call:</b>
 <ul>  
 <li>In operating room as much as possible.</li>
-<li>Present in the hospital until 3pm when not in the operating room.<li>
+<li>Present in the hospital until 3pm when not in the operating room.</li>
 <li>Discuss operative plans, inpatient management with staff surgeons.</li>
 </ul>
   
