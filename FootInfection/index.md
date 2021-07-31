@@ -41,20 +41,14 @@ Foot infection should be assumed present unless proven otherwise in all patients
 |  criteria for of [SIRS or septic shock](https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria)  |
 |  2+ points on [qSOFA](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis) |
 
-You can watch a [5 minute 9 second video primer on identifying foot infections here](https://youtu.be/Gpw9stEfSbM). Check out [these videos](https://www.youtube.com/playlist?list=PL65JmypVmSg7gEVB9zfNl-HEbnIUKVoxC) if you would benefit from advice on concise patient presentations.
-
-[![YouTube video primer on foot infections](
-https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/YouTubeIdentifyingFootInfections.jpg)](https://www.youtube.com/watch?v=Gpw9stEfSbM)
-
+Her's a brief 5 minute 8 second) video primer on identifying foot infections:
 <p>
   <a href="https://www.youtube.com/watch?v=Gpw9stEfSbM" title="YouTube Primer on Identifying Foot Infections">
     <img src="/assets/YouTubeIdentifyingFootInfections.jpg" alt="YouTube" />
   </a>
 </p>
 
-
-![YouTube video primer on foot infections](
-https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/YouTubeIdentifyingFootInfections.jpg)
+Check out [these videos](https://www.youtube.com/playlist?list=PL65JmypVmSg7gEVB9zfNl-HEbnIUKVoxC) if you would benefit from advice on concise patient presentations.
 
 
 ### Admission orders
@@ -101,10 +95,14 @@ Objectives:
 5. Pulsatile irrigation with saline solution.
 6. Dress with gentamicin-impregnated 4x4 gauze in deep areas, Xeroform over shallow ulcer. Wrap with 4” inch Webril + 4” ACE from forefoot to knee to control edema. 
 
-This [5 minute 4 second video primer also discusses operative treatment](https://youtu.be/HRmEiwslT4E).
+Here is a brief (5 minute 3 second) video primer that discusses operative treatment:
+<p>
+  <a href="https://youtu.be/HRmEiwslT4E" title="YouTube Primer on Operative Treatment of Foot Infections">
+    <img src="/assets/YouTubeOperationsForFootInfections.jpg" alt="YouTube" />
+  </a>
+</p>
 
 Post-op orders: Continue most admission orders; saline lock IV; add diabetic diet + Glucerna BID, Iodosorb (cadexomer iodine) ointment; Do NOT order labs for POD#1
-
 
 
 ### Atypical presentations: 
