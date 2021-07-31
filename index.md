@@ -19,6 +19,13 @@ This two-page [health policy brief](https://github.com/nealbarshes/nealbarshes.g
 
 Health professionals interested in getting a more comprehensive summary of the nature of the disease and the spectrum of care that may help prevent leg amputations can read our 2013 ["System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) or our 2011 ["framework" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf). This 2019 ["Advances in PAD" paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%20%26%20Grant%2C%20PAD%20advances%202019.pdf) describes state-of-the-art developments in management.
 
+### Tenets of Treatment
+Pages providing practical guidance with rationale/evidence/support. Included here both to make this easily available amongst our teams and colleagues, but also with the hope that increasingly consistent approaches to diagnosis and treatment might help decrease the [racial and ethnic disparities in leg amputation rates](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
+
+1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
+2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
+3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
+4. Maintain mobility  -- even if [amputation](https://nealbarshes.github.io/LegAmputation/) is performed.
 
 
 ### Information for Patients
@@ -39,13 +46,6 @@ This brochure is written with plain language and no undefined technical terms. W
 10. [护理您的脚, Mandarin Chinese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
 
 
-### Tenets of Treatment
-Pages providing practical guidance with rationale/evidence/support. Included here both to make this easily available amongst our teams and colleagues, but also with the hope that increasingly consistent approaches to diagnosis and treatment might help decrease the [racial and ethnic disparities in leg amputation rates](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
-
-1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
-2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
-3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
-4. Maintain mobility  -- even if [amputation](https://nealbarshes.github.io/LegAmputation/) is performed.
 
 
 ### A Selection of Our Manuscripts Relevant to Clinical Care 
