@@ -126,3 +126,40 @@ On-call Fellow/4th year to round with inter and speak with on-call attending
 All weekend admissions and consults go to the on-call Fellow/4th year service 
 Senior fellow to round with intern, responsible for teaching and delegating level-appropriate responsibilities 
 Seniors to write notes and orders on their patients 
+
+
+### Uncommon but Important Scenarios: 
+
+Our team’s process for transitioning clinical responsibilities when fatigue is an issue: 
+When it is mandatory: 
+What to do: 
+
+<b>Sharps injury</b>, in operating room or anywhere else: 
+<ol>
+<li>Scrub out of the case. <ul>
+  <li>If skin, wash with soap.</li>
+  <li>If eye, rinse with eye irrigation bottle system  located by the handwashing sinks.</li></ul>
+<li>Get your blood drawn: <ul>
+  <li>If M-F daytime, MEDVAMC Employee Health office at 4B room 231, phone 713-794-7003.</li> 
+  <li>If nights/weekends, MEDVAMC emergency department.</li></ul>
+<li>Call Baylor Occupational Health at 713-798-8880 the next business day (hours: Monday through Friday 7:30 a.m. - noon and 1 - 4:30 p.m.) re: additional follow up. Provide copies of source testing results (<i>if available</i> -- see below) and of your testing results to Baylor Occupational Health for your file. MEDVAMC Employee Health does not provide a copy of the results to Baylor Occupational Health; this is your responsibility.</li> 
+</ol>
+
+Know that within the VA system, [verbal consent from the patient IS required for HIV testing](https://www.hiv.va.gov/provider/topics/testing-faq-occupational-exposures.asp). Therefore, <b>do NOT</b> ask for a needlestick exposure panel during the case; someone from the surgery team must obtain verbal consent when the patient has decision-making capacity. 
+
+Tips for working with our nurse practicioners: 
+
+Considerations for cost-effective care: 
+
+Probably higher cost AND worse outcome:  
+
+Low-value care: 
+
+The BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.  
+
+Processes for giving feedback on the rotation: 
+<ol>
+<li>Talk with one of the staff surgeons. 
+<li>Provide written feedback on your end-of-rotation summary.  
+<li>Give anonymous written feedback. 
+</ol>
