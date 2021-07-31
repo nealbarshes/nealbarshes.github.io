@@ -48,10 +48,13 @@ https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/YouTubeIde
 
 <p>
   <a href="https://www.youtube.com/watch?v=Gpw9stEfSbM" title="YouTube Primer on Identifying Foot Infections">
-    <img src="https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/YouTubeIdentifyingFootInfections.jpg" alt="YouTube" />
+    <img src="/assets/YouTubeIdentifyingFootInfections.jpg" alt="YouTube" />
   </a>
 </p>
 
+
+![YouTube video primer on foot infections](
+https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/YouTubeIdentifyingFootInfections.jpg)
 
 
 ### Admission orders
