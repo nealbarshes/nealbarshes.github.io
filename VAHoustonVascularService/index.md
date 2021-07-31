@@ -67,7 +67,8 @@ Notes:<ul>
 </ul>
   
 ### Expectations for PGY-4-7 Trainees: 
-<b>Always / every day weekday:</b><ul>
+<b>Always / every day weekday:</b>
+<ul>
 <li>Twice-daily rounds, daily notes and orders.</li>
 <li>Daily list run with NP, social work, case manager and pharmacist.</li>
 <li>Guiding and teaching any daytime intern assigned to you. He or she should be in the OR when you are in the OR. You should both see consults together. You should divide work equitably and according to experience.  Interns should be assigned a week at a time by seniority, with PGY-7 > PGY-6 = vascular PGY-4 > general PGY-4.  When two or more senior of equal level are on service, intern assignment will alternate by week.</li>
@@ -75,7 +76,8 @@ Notes:<ul>
   <li><b>Read</b>, especially Rutherford, and prepare for weekly conference.</li> 
 </ul>
 
-<b>When on-call:</b><ul>
+<b>When on-call:</b>
+<ul>
 <li>Run the outpatient telephone (Monday, Tuesday and Wednesday) clinic or the in-person clinic (Thursdays). Please note that this does <b>NOT</b> preclude you from physically going to the OR to see critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
 <li>Evaluate all consults (other than foot infections), discuss with on-call staff surgeon, and <b>write a consult note</b> (not the OCL History and Physical).</li>
 <li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
@@ -85,70 +87,42 @@ Notes:<ul>
 
 Please note that all patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility.
 
-<b>When not on-call:</b><ul>  
+<b>When not on-call:</b>
+<ul>  
   <li>In operating room as much as possible.</li>
 <li>Present in the hospital until 3pm when not in the operating room.<li>
   <li>Discuss operative plans, inpatient management with staff surgeons.</li>
 </ul>
   
-### The Weekly Schedule: 
+### The Weekly Schedule
 
-Monday 
-
+<b>Monday:</b>
 7:45am table rounds in 5D (green) 
-
 Post-op clinic: on-call Fellow/4th year 
-
 OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
 
-  
-
-Tuesday 
-
-7-830am didactics for all trainees on service 
-
+<b>Tuesday:</b>
 OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
 
-  
-
-Wednesday 
-
+<b>Wednesday:</b>
 7-10am: GS residents away for education 
-
 Pre-op clinic: on-call Fellow/4th year 
-
 OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
-
 OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
 
-  
-
-Thursday 
-
+<b>Thursday:</b>
 7:45am: table rounds in 5D (green) 
-
 8:15am: vascular surgery clinic; on-call Fellow/4th year and all available 
-
 OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
+16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference.
 
-  
-
-Friday 
-
+<b>Friday:</b>
 OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
-
 OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures) 
-
 Weekend sign-out to on-call fellow/4th year 
 
-  
-
-Weekends 
-
+<b>Weekends:</b>
 On-call Fellow/4th year to round with inter and speak with on-call attending 
-
 All weekend admissions and consults go to the on-call Fellow/4th year service 
-
 Senior fellow to round with intern, responsible for teaching and delegating level-appropriate responsibilities 
-
 Seniors to write notes and orders on their patients 
