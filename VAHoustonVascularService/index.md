@@ -194,8 +194,8 @@ Know that within the VA system, [verbal consent from the patient IS required for
 #### Tips for working with our nurse practicioners: (<i>pending content</i>)
 
 #### Quality Improvement
-The [BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx)
-
+The [BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx).
+<br>
 #### Options for giving feedback on the rotation: 
 <ol>
 <li>Talk with one of the staff surgeons.</li>
@@ -206,4 +206,4 @@ The [BCM MED Department of Surgery reporting of “near-misses", errors and safe
 </ol>
 
 <hr>
-So glad you've read through all of this document! Now please complete [this quiz](https://www.surveymonkey.com/r/N5R9H9X) (8 questions, ~5 minutes to complete) to ensure understanding of this. 
+So glad you've read through all of this document! Now please complete [this quiz](https://www.surveymonkey.com/r/N5R9H9X) to ensure understanding of this. 
