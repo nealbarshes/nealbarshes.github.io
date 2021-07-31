@@ -44,7 +44,9 @@ Commit to:
   <li>Getting to the operating room as much as possible, even if just to assist or observe.</li>
   <li>Saying “I don’t know, but I'll find out” when you aren't 100% confident in being 100% factually correct about something.</li> 
   <li>Discuss operative plans before the day of the operation.</li>
-  <li>Consuming, digesting and integrating all aspects of our patient’s history, exam findings, lab results, imaging, and hospital course.</li> 
+  <li>Consuming, digesting and integrating all aspects of our patient’s history, exam findings, lab results, imaging, and hospital course.</li>
+  <li>Utilizing down-time for more reading and dedicated practice of surgical skills, less social media.</li>
+  <li>Contributing to leave the service -- and the call room/work room --- better than how you found it.</li>
 </ul>
 
 ### Expectations for the "<i>Consult Intern</i>":
@@ -88,10 +90,12 @@ Notes:
 <b>Always / every day weekday:</b>
 <ul>
 <li>Twice-daily rounds, daily notes and orders.</li>
-<li>Daily list run with NP, social work, case manager and pharmacist.</li>
+<li>Daily list run with relevant staff surgeon.</li>
+<li>Inpatient nurse practicioner <span>&#177;</span>social worker <span>&#177;</span>case manager <span>&#177;</span>pharmacist. Please ask the inpatient intern (<b>ONLY</b>) if assigned to you on that given day), the nurse practicioner, or the relevant staff surgeon for help with inpatient work if you will be in OR or otherwise unable to do time-sensitive work. </li>
+<li>Write the initial post-operative orders for any operations you do as primary resident -- even if you are working with the inpatient intern.
 <li>Guiding and teaching any daytime intern assigned to you. He or she should be in the OR when you are in the OR. You should both see consults together. You should divide work equitably and according to experience.  Interns should be assigned a week at a time by seniority, with PGY-7 > PGY-6 = vascular PGY-4 > general PGY-4.  When two or more senior of equal level are on service, intern assignment will alternate by week.</li>
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
-  <li><b>Read</b>, especially Rutherford, and prepare for weekly conference.</li> 
+<li><b>Read</b>, especially Rutherford, to improve your medical knowledge and prepare for weekly conference.</li> 
 </ul>
 <br>
 <b>When on-call:</b>
@@ -139,7 +143,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <b>Thursday:</b>
 <ul>
 <li>7:45am: table rounds in 5D (Green elevator side).</li>
-<li>8:15am: vascular surgery clinic; on-call Fellow/4th year and all available.</li>
+<li>8:15am: log in to a computer vascular surgery clinic and be ready to see patients by <b>0830am</b>; on-call Fellow/4th year and all available.</li>
 <li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
 <li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference..</li>
 </ul>
@@ -153,7 +157,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
   
 <b>Weekends:</b>
 <ul>
-<li>On-call Fellow/4th year to round with inter and speak with on-call attending.</li>
+<li>On-call Fellow/4th year to round with intern and speak with on-call attending.</li>
 <li>All weekend admissions and consults go to the on-call Fellow/4th year service.</li>
 <li>Senior fellow to round with intern, responsible for teaching and delegating level-appropriate responsibilities.</li>
 <li>Seniors to write notes and orders on their patients.</li>
@@ -202,4 +206,4 @@ The [BCM MED Department of Surgery reporting of “near-misses", errors and safe
 </ol>
 
 <hr>
-So glad you've read through all of this document! Now please complete this quiz to ensure understanding of this. 
+So glad you've read through all of this document! Now please complete [this quiz](https://www.surveymonkey.com/r/N5R9H9X) (8 questions, ~5 minutes to complete) to ensure understanding of this. 
