@@ -88,6 +88,7 @@ Notes:
   
 ### Expectations for PGY-4-7 Senior Trainees: 
 <b>Always / every day weekday:</b>
+<p>
 <ul>
 <li>Twice-daily rounds, daily notes and orders.</li>
 <li>Daily list run with relevant staff surgeon.</li>
@@ -97,7 +98,7 @@ Notes:
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
 <li><b>Read</b>, especially Rutherford, to improve your medical knowledge and prepare for weekly conference.</li> 
 </ul>
-
+</p>
 <br>
 <b>When on-call:</b>
 <ul>
