@@ -99,7 +99,6 @@ Notes:
 <li>Read, especially Rutherford, to improve your medical knowledge and prepare for weekly conference. </li>
 </ul>
 <br>
-
 <b>When on-call:</b>
 <ul>
 <li>Run the outpatient telephone (Monday, Tuesday and Wednesday) clinic or the in-person clinic (Thursdays). Please note that this does <b>NOT</b> preclude you from physically going to the OR to see critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
