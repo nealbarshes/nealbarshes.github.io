@@ -96,7 +96,7 @@ Notes:
 <li>Write the initial post-operative orders for any operations you do as primary resident -- even if you are working with the inpatient intern.
 <li>Guiding and teaching any daytime intern assigned to you. He or she should be in the OR when you are in the OR. You should both see consults together. You should divide work equitably and according to experience.  Interns should be assigned a week at a time by seniority, with PGY-7 > PGY-6 = vascular PGY-4 > general PGY-4.  When two or more senior of equal level are on service, intern assignment will alternate by week.</li>
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
-<li><b>Read</b>, especially Rutherford, to improve your medical knowledge and prepare for weekly conference.</li> 
+<li>Read, especially Rutherford, to improve your medical knowledge and prepare for weekly conference.</li> 
 </ul>
 </p>
 <br>
