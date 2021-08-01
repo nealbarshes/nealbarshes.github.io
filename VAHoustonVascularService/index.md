@@ -97,6 +97,7 @@ Notes:
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
 <li><b>Read</b>, especially Rutherford, to improve your medical knowledge and prepare for weekly conference.</li> 
 </ul>
+
 <br>
 <b>When on-call:</b>
 <ul>
