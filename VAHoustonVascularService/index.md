@@ -12,7 +12,7 @@
 
 # Welcome to the Michael E. DeBakey V.A. Medical Center Vascular Surgery Service! 
 
-Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s{[1](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ)}. It is currently the busiest VA vascular surgery service in the country. With 43.5% of our limb salvage population categorized as Black or Hispanic, We serve a patient population with a more racial diversity than even the city of Houston as a whole{[2](https://www.census.gov/quickfacts/houstoncitytexas)}. You will have an unparalleled opportunity to learn about the surgical management of vascular disease and gain operative skills.  
+Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s{[1](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ)}. It is currently the busiest VA vascular surgery service in the country. With 43.5% of our limb salvage population categorized as Black or Hispanic, we serve a patient population with a more racial diversity than even the city of Houston as a whole{[2](https://www.census.gov/quickfacts/houstoncitytexas)}. You will have an unparalleled opportunity to learn about the surgical management of vascular disease and gain operative skills.  
 
 ## Service Ethos & Structure
 
