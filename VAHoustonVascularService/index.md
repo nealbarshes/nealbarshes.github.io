@@ -166,6 +166,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <br>
 <br>
 
+<hr>
 ### Best Practices
 
 Video instructions (19 minutes) on best practices in documenting written informed consent and in site marking:
