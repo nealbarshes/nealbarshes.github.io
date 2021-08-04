@@ -41,7 +41,7 @@ Foot infection should be assumed present unless proven otherwise in all patients
 |  criteria for of [SIRS or septic shock](https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria)  |
 |  2+ points on [qSOFA](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis) |
 
-Her's a brief 5 minute 8 second) video primer on identifying foot infections:
+Here's a brief 5 minute 8 second) video primer on identifying foot infections:
 <p>
   <a href="https://www.youtube.com/watch?v=Gpw9stEfSbM" title="YouTube Primer on Identifying Foot Infections">
     <img src="/assets/YouTubeIdentifyingFootInfections.jpg" alt="YouTube" />
