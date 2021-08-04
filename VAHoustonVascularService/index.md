@@ -166,6 +166,17 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <br>
 <br>
 
+### Best Practices
+
+Video instructions (19 minutes) on best practices in documenting written informed consent and in site marking:
+<p>
+  <a href="https://www.youtube.com/watch?v=yZEoV2PtRLQ" title="YouTube Primer on Identifying Foot Infections">
+    <img src="/assets/YouTubeConsentTips.jpg" alt="YouTube" />
+  </a>
+</p>
+
+
+
 <hr>
 ### Uncommon but Important Scenarios: 
 
