@@ -185,11 +185,9 @@ Video instructions (19 minutes) on best practices in documenting written informe
 Thank you to Dr. Zachary Chizmar for helping develop this material!
 
 Transitioning clinical responsibilities is <i>mandatory</i> when :
-<ul>
-  <li>ill or fatigued</li>
-  <li>additional clinical work would exceed 320 hours during any consecutive four week period</li>
-  <li>on-call activities for senior trainees reaches a 24 hour period; see VI.F.3. of the [ACGME Common program requirements](https://www.acgme.org/Portals/0/PFAssets/ProgramRequirements/CPRs_Section%20VI_with-Background-and-Intent_2017-01.pdf)</li>
-  </ul>
+1. ill or fatigued
+2. additional clinical work would exceed 320 hours during any consecutive four week period
+3. on-call activities for senior trainees reaches a 24 hour period; see VI.F.3. of the [ACGME Common program requirements](https://www.acgme.org/Portals/0/PFAssets/ProgramRequirements/CPRs_Section%20VI_with-Background-and-Intent_2017-01.pdf)
  
 Use the I-PASS acronym for hand-offs of clinical responsibilities:
 
