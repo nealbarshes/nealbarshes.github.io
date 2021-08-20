@@ -182,10 +182,24 @@ Video instructions (19 minutes) on best practices in documenting written informe
 ### Uncommon but Important Scenarios: 
 
 #### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
+
+Transitioning clinical responsibilities is <i>mandatory</i> when :
 <ul>
-<li>When it is mandatory: (<i>pending content</i>)</li>
-<li>What to do: (<i>pending content</i>)</li>
-</ul>
+  <li>ill or fatigued</li>
+  <li>additional clinical work would exceed 320 hours during any consecutive four week period</li>
+  <li>on-call activities for senior trainees reaches a 24 hour period; see VI.F.3. of the [ACGME Common program requirements](https://www.acgme.org/Portals/0/PFAssets/ProgramRequirements/CPRs_Section%20VI_with-Background-and-Intent_2017-01.pdf)</li>
+  </ul>
+ 
+Use the I-PASS acronym for hand-offs of clinical responsibilities
+
+
+Letter | Component
+------------ | -------------
+I= | Illness severity: stable, "watcher", unstable
+P= | Patient summary
+A= | Action list 
+S= | Situational awareness
+S= | Synthesis by receiver
 
 
 #### Sharps injury, in operating room or anywhere else: 
