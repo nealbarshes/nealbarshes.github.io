@@ -182,6 +182,7 @@ Video instructions (19 minutes) on best practices in documenting written informe
 ### Uncommon but Important Scenarios: 
 
 #### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
+Thank you to Dr. Zachary Chizmar for helping develop this material!
 
 Transitioning clinical responsibilities is <i>mandatory</i> when :
 <ul>
@@ -190,8 +191,7 @@ Transitioning clinical responsibilities is <i>mandatory</i> when :
   <li>on-call activities for senior trainees reaches a 24 hour period; see VI.F.3. of the [ACGME Common program requirements](https://www.acgme.org/Portals/0/PFAssets/ProgramRequirements/CPRs_Section%20VI_with-Background-and-Intent_2017-01.pdf)</li>
   </ul>
  
-Use the I-PASS acronym for hand-offs of clinical responsibilities
-
+Use the I-PASS acronym for hand-offs of clinical responsibilities:
 
 Letter | Component
 ------------ | -------------
