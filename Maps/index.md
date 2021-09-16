@@ -4,11 +4,11 @@ These maps show rates of leg amputations in the four largest metropolitan areas 
 
 Thank you to [Kyle Walker](www.twitter.com/kyle_e_walker) and [Deeksha Bidare](www.twitter.com/BidareDeeksha) for helping with the data analysis and coding that went in to these graphs!
 
-![Houston_map](/Houston_map.tiff)
+![Houston_map](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/Houston_map.tiff)
 
-![DFW_map](/DFW_map.tiff)
+![DFW_map](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/DFW_map.tiff)
 
-![SanAntonio_map](/SanAntonio_map.tiff)
+![SanAntonio_map](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/SanAntonio_map.tiff)
 
-![Austin_map](/Austin_map.tiff)
+![Austin_map](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/Austin_map.tiff)
 
