@@ -101,9 +101,7 @@ Before the case, consider: (1) indication; (2) hemoglobin; (3) eGFR; (4) planned
 
 On the field: 4-0 silk ties; 7-0 Prolene. magnet pad, Ioban x3. Supine, left arm tucked (unless left arm vein harvest is planned). Drape just above the umbilicus. Isolation bag if tibial/pedal target, stockinette otherwise. If foot wound: foot should be prepared with chlorhexidine scrub in preference to not iodine-based solutions. Our OR team generally knows to open 4-0 silk ties, 7-0 Prolene, vein solution and other typical accoutrements; therefore, no list is included here. All members of the team should do a full five-minute hand scrub. 
 
-Five main steps: 1) vein harvest; 2&3) distal & proximal exposures; 4) tunneling + anastomoses; 5) closure.
-
-Test link for [leg bypass chapter](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EaZETgbUS39Ej_P1nh1NsqcBuokEIEbrWStGWvLsMuQEOg?e=m4FvY5)
+Five main steps: 1) vein harvest; 2&3) distal & proximal exposures; 4) tunneling + anastomoses; 5) closure. Read this [leg bypass chapter](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EaZETgbUS39Ej_P1nh1NsqcBuokEIEbrWStGWvLsMuQEOg?e=m4FvY5) for more details relevant to both femoropopliteal and femorotibial bypass.
 
 The bundle we've employed to [reduce surgical site infections by 67%](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/ZamaniSSIreduction.pdf):
 1. Minimize hospital pre-admission.
