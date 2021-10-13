@@ -74,7 +74,7 @@ Plan for pre- and post-admission if eGFR<60mL/min: normal saline at 0.5mL/kg/hr,
 
 In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) any previous imaging. Posting should generally use the 36247 code, NOT any procedural code beginning with a 7.
 
-Procedure in basic steps: Bentson to get 5Fr sheath in; Contra/Omni to the aorta. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catether for the angiograms starting in distal leg. Visualize more proximal segments later. 
+Basic steps of my preferred approach: Bentson to get 5Fr sheath in; Contra/Omni to the aorta. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catether for the angiograms starting in distal leg. Visualize more proximal segments later. See [here](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/PAD/AngioPreferences/index.md) for preferences of other staff surgeons.
 
 Ultimately, [these seven digital subtraction angiography runs](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/BarshesAngiogramViews.pdf) with the following power injector settings for the affected extremity: 
 1. popliteal at 20&deg; oblique, 5x5
@@ -87,9 +87,9 @@ Then, after withdrawing the catheter more proximally:
 7. femoral at 15&deg; oblique, 5mL/sec for 5mL.
 
 If severely impaired eGFR, consider carbon dioxide angiography with [this setup](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/CO2angioSetUp.pdf).<br>
-If intervention: long Amplatz wire through Quickcross + 45cm 6Fr (if SFA/pop) or 55/70cm 5Fr (if tibial). Cross (0.014" or 0.018" system for tibials, 0.035" system for SFA), confirm location with DSA, PTA, consider stent. Procedural details listed [here](https://bcmedu-my.sharepoint.com/:t:/g/personal/nbarshes_bcm_edu/ERswVcMSRxVEoQcZ8IySmz0BpIzxhXL5dwNdHk4fF2NXHg?e=ttBVvX).
+If intervention: long Amplatz wire through Quickcross + 45cm 6Fr (if SFA/pop) or 55/70cm 5Fr (if tibial). Cross (0.014" or 0.018" system for tibials, 0.035" system for SFA), confirm location with DSA, PTA, consider stent.
 
-After the case: bedrest x six hours. Generally an outpatient procedure. Inpatient observation again only if needed for hydration, renal protection. Discharge without outpatient narcotics (Tylenol only), Plavix bolus if intervention. Consider cilostazol otherwise. 
+After the case: bedrest for six hours. Generally an outpatient procedure. Inpatient observation again only if needed for hydration, renal protection. Discharge without outpatient narcotics (Tylenol only), Plavix bolus if intervention. Discuss cilostazol otherwise. 
 
 ### Procedural Details for Infrainguinal Bypasses
 
