@@ -89,6 +89,7 @@ Then, after withdrawing the catheter more proximally:
 7. femoral at 15&deg; oblique, 5mL/sec for 5mL.
 
 If severely impaired eGFR, consider carbon dioxide angiography with [this setup](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/CO2angioSetUp.pdf).<br>
+
 If intervention: long Amplatz wire through Quickcross + 45cm 6Fr (if SFA/pop) or 55/70cm 5Fr (if tibial). Cross (0.014" or 0.018" system for tibials, 0.035" system for SFA), confirm location with DSA, PTA, consider stent.
 
 After the case: bedrest for six hours. Generally an outpatient procedure. Inpatient observation again only if needed for hydration, renal protection. Discharge without outpatient narcotics (Tylenol only), Plavix bolus if intervention. Discuss cilostazol otherwise. 
