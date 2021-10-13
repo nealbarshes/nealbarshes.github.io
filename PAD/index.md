@@ -67,6 +67,8 @@ For some further explanation, consider these brief videos on [bedside evaluation
 <br>
 <br>
 
+Our hospital's vascular surgery experience began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s (K. Mattox, <i>The History of Surgery in Houston</i>). We currently have the highest-volume VA vascular surgery service in the country. Together with other rotations, our program's experience in limb salvage have put our surgical trainees at the 86th percentile for peripheral obstructive cases. These are some selected details to help you be involved in cases at our hospital.
+
 ### Infrainguinal Endovascular Procedures
 
 In the clinic, consider: (1) indication; (2) feeling for bilateral femoral pulses, ipsilateral popliteal and pedal pulses; and (3) bedside vein mapping. 
@@ -92,8 +94,6 @@ If intervention: long Amplatz wire through Quickcross + 45cm 6Fr (if SFA/pop) or
 After the case: bedrest for six hours. Generally an outpatient procedure. Inpatient observation again only if needed for hydration, renal protection. Discharge without outpatient narcotics (Tylenol only), Plavix bolus if intervention. Discuss cilostazol otherwise. 
 
 ### Procedural Details for Infrainguinal Bypasses
-
-Our hospital's vascular surgery experience began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s (K. Mattox, <i>The History of Surgery in Houston</i>). We currently have the highest-volume VA vascular surgery service in the country. Together with other rotations, our program's experience in limb salvage have put our surgical trainees at the 86th percentile for peripheral obstructive cases. 
 
 In the clinic before the operation, consider: prior operations in index extremity; angiogram results; vein mapping (NOT done in vascular lab) if not already done during previous hospital stay. Pre-admitted is discouraged, regardless of eGFR/creatinine. Use the [CHADS-Vasc2](https://clincalc.com/Cardiology/Stroke/CHADSVASC.aspx) score to determine need for a "bridge" for patients on anticoagulants for atrial fibrillation.
 
