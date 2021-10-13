@@ -76,7 +76,7 @@ Plan for pre- and post-admission if eGFR<60mL/min: normal saline at 0.5mL/kg/hr,
 
 In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) any previous imaging. Posting should generally use the 36247 code, NOT any procedural code beginning with a 7.
 
-Basic steps of my preferred approach: Bentson to get 5Fr sheath in; Contra/Omni to the aorta. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catether for the angiograms starting in distal leg. Visualize more proximal segments later. See [here for preferences of other staff surgeons]((https://github.com/nealbarshes/nealbarshes.github.io/blob/main/PAD/AngioPreferences/index.md)).
+Basic steps of my preferred approach: Bentson to get 5Fr sheath in; Contra/Omni to the aorta. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catether for the angiograms starting in distal leg. Visualize more proximal segments later. See [here for preferences of other staff surgeons](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/PAD/AngioPreferences/index.md).
 
 Ultimately, [these seven digital subtraction angiography runs](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/BarshesAngiogramViews.pdf) with the following power injector settings for the affected extremity: 
 1. popliteal at 20&deg; oblique, 5x5
