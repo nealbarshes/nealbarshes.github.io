@@ -78,6 +78,18 @@ In planning the case, consider: (1) indication/wound location & relevant angioso
 
 Basic steps of my preferred approach: Bentson to get 5Fr sheath in; Contra/Omni to the aorta. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catether for the angiograms starting in distal leg. Visualize more proximal segments later. See [here for preferences of other staff surgeons](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/PAD/AngioPreferences/index.md).
 
+characteristic | NB | JC | EG | NH
+----- | ------- | ------| ----- | ----
+initial wire | Bentson | stiff angled Glide | Bentson | TBA
+2nd 035 wire (for up-n-over)|	floppy angled Glide |	stiff angled Glide	| floppy angled Glide | Stiff angled Glide
+Heparin after initial access?	| Yes – 3,000 units	| No	| ? |	No
+Power injector?	| Yes	| No	| ? |	No
+Two views of the foot?	| Yes, for everyone with foot wound	| Y, magnified	| ? |	Yes
+Preferred arteriotomy management	| manual pressure x20 minutes, bedrest x6 hours |	Mynx	|	? | Proglide or Mynx unless diseased femoral, then manual pressure
+Check for therapeutic ACT if intervention is done?	| Yes, goal >215 seconds	| No | ? | Yes, goal > 250
+Other preferences	|	none | Save fluoro image of needle access, centered over femoral head	|	? | 1cc DSA of access through microsheath; Prep ipsi foot unless otherwise specified; pannus control, if necessary
+
+
 Ultimately, [these seven digital subtraction angiography runs](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/BarshesAngiogramViews.pdf) with the following power injector settings for the affected extremity: 
 1. popliteal at 20&deg; oblique, 5x5
 2. upper calf w tibia-fibula separated, 5x5-10
