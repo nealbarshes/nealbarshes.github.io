@@ -64,11 +64,12 @@ Notes:
 <li>You should <b>NOT</b> be involved in inpatient care.</li>
 </ul>
 <b>Second priority:</b> daily scheduled outpatient encounters (telephone and face-to-face). 
+You should NOT be involved in management of existing inpatients when in the role of consult intern.
 
 ### Expectations for <i>"Inpatient Intern"</i>: 
 <ul>
 <li>On Thursdays, in clinic for face-to-face outpatient encounters.</li>
-<li>Other days: Working in a dyad with the second senior-most trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR. You should both see consults together.</li> 
+<li>Other days: Working in a dyad with the second senior-most trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR, and you should be doing face-to-face or telephone encounters when he or she is doing telephone encounters. You should both see consults together.</li> 
 </ul>
   
 ### Expectations of the Night Intern: 
