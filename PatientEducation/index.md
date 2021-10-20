@@ -6,7 +6,7 @@ NOTE: these videos are educational only. These do NOT represent medical advice. 
 1. How diabetes can lead to foot problems and leg amputations, how to prevent problems, and what to look out for. Under 3 minutes in duration:
 <p>
   <a href="https://www.youtube.com/watch?v=IQy6E5aVUzo" title="Diabetic Foot Ulcer 101">
-    <img src="/assets/YouTubePatientEducationUMichigan.jpg" alt="YouTube" />
+    <img src="/assets/PatientEducationUMichigan.jpg" alt="YouTube" />
   </a>
 </p>
 
