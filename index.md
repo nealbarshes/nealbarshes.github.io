@@ -10,16 +10,9 @@
 </script>
 </head>
 
+As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations. This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations. 
 
-As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations.
-
-This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations. 
-
-This two-page [health policy brief](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/UTMB%20CEHB%20brief%201602%2C%20amputation%20disparities.pdf), written with the University of Texas Medical Branch's Center to Eliminate Health Disparities, summarizes the problems caused by leg amputations and suggests some steps forward. 
-
-Health professionals interested in getting a more comprehensive summary of the nature of the disease and the spectrum of care that may help prevent leg amputations can read our 2013 ["System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) or our 2011 ["framework" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf). This 2019 ["Advances in PAD" paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%20%26%20Grant%2C%20PAD%20advances%202019.pdf) describes state-of-the-art developments in management.
-
-### Tenets of Treatment
+### Tenets of Treatment for Health Care Providers
 Pages providing practical guidance with rationale/evidence/support. Included here both to make this easily available amongst our teams and colleagues, but also with the hope that increasingly consistent approaches to diagnosis and treatment might help decrease the [racial and ethnic disparities in leg amputation rates](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
 
 1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
@@ -27,8 +20,10 @@ Pages providing practical guidance with rationale/evidence/support. Included her
 3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
 4. Maintain mobility  -- even if [amputation](https://nealbarshes.github.io/LegAmputation/) is performed.
 
+Health professionals interested in getting a more comprehensive summary of the nature of the disease and the spectrum of care that may help prevent leg amputations can read our 2013 ["System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) or our 2011 ["framework" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf). This 2019 ["Advances in PAD" paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%20%26%20Grant%2C%20PAD%20advances%202019.pdf) describes state-of-the-art developments in management.
 
-### Information for Patients
+### Information for People with Diabetes
+[These videos](https://nealbarshes.github.io/PatientEducation/) discuss strategies to lower the risk of developing diabetes- and circulation-related foot problems. They also summarize how foot ulcers are often treated.
 
 <i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with understanding how diabetes can lead to foot ulcers and infections and quantifying amputation risk. It helps people reduce their amputation risk, recognize a foot infection, and develop a contingency plan if infection does develop.
 
@@ -58,7 +53,8 @@ This brochure is written with plain language and no undefined technical terms. W
 
 ### For Texans Interested in Addressing the Disparities in Leg Amputation Rates
 
-1. Significant [racial and ethnic disparities persist](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas, as people categorized as Black and people categorized as Hispanic undergo higher risk-adjusted rates of leg amputations than people categorized as White.
-2. Geography and [lack of nearby specialist care at high-volume centers](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/volume-ratio%20relationship%20v2.jpg) may [contribute to leg amputation rates in many areas of Texas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesRemoteAmputationCare.pdf) in [these areas of Texas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg). 
-3. See [maps demonstrating population-adjusted rates of peripheral artery disease-associated leg amputations within the largest four metropolitan areas in Texas](https://nealbarshes.github.io/Maps/).
+1. This two-page [health policy brief](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/UTMB%20CEHB%20brief%201602%2C%20amputation%20disparities.pdf), written with the University of Texas Medical Branch's Center to Eliminate Health Disparities, summarizes the problems caused by leg amputations and suggests some steps forward. 
+2. Significant [racial and ethnic disparities persist](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas, as people categorized as Black and people categorized as Hispanic undergo higher risk-adjusted rates of leg amputations than people categorized as White.
+3. Geography and [lack of nearby specialist care at high-volume centers](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/volume-ratio%20relationship%20v2.jpg) may [contribute to leg amputation rates in many areas of Texas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesRemoteAmputationCare.pdf) in [these areas of Texas](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/heat%20map%2C%20remote%20Texas%20amputees.jpeg). 
+4. See [maps demonstrating population-adjusted rates of peripheral artery disease-associated leg amputations within the largest four metropolitan areas in Texas](https://nealbarshes.github.io/Maps/).
 
