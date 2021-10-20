@@ -1,6 +1,6 @@
-Collected here are some videos to help inform you. I recommend these first three videos for <b>everyone</b> with diabetes</b>. 
+Collected here are some videos to help inform you. I recommend these first three videos for <b><u>everyone</u> with diabetes</b>. 
 
-NOTE: these videos are educational only. These do NOT represent medical advice. Please talk with your health care providers for medical advice specific to you.
+<b><u>NOTE</u>: These videos are educational only. These do NOT represent medical advice. Please talk with your health care providers for medical advice specific to you.<b>
 
 
 1. How diabetes can lead to foot problems and leg amputations, how to prevent problems, and what to look out for. Under 3 minutes in duration:
