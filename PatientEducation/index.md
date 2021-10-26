@@ -1,7 +1,6 @@
-Collected here are some videos to help inform you. I recommend these first three videos for <b><u>everyone</u> with diabetes</b>. 
-
 <b><u>NOTE</u>: These videos are educational only. These do NOT represent medical advice.</b> Please talk with your health care providers for medical advice specific to you.
 
+# If you have diabetes
 
 How diabetes can lead to foot problems and leg amputations, how to prevent problems, and what to look out for:
 <p>
@@ -32,7 +31,9 @@ If you HAVE a foot ulcer, this video gives some information about some of the tr
   </a>
 </p>
 
-If you SMOKE TOBACCO, watch this video to on one man's challenges and success in quitting:
+# If you SMOKE TOBACCO
+
+One man's challenges and success in quitting:
 <p>
   <a href="https://www.youtube.com/watch?v=r8hoZrQ0aR0" title="CDC: Tips From Former Smokers - Roosevelt S.: “It’s Hard to Quit">
     <img src="/assets/YouTubeCDCRoosevelt.jpg" alt="YouTube" />
