@@ -31,3 +31,32 @@ If you HAVE a foot ulcer, this video gives some information about some of the tr
     <img src="/assets/PatientEducationRosalind.jpg" alt="YouTube" />
   </a>
 </p>
+
+If you SMOKE TOBACCO, watch this video to on one man's challenges and success in quitting:
+<p>
+  <a href="https://www.youtube.com/watch?v=r8hoZrQ0aR0" title="CDC: Tips From Former Smokers - Roosevelt S.: “It’s Hard to Quit">
+    <img src="/assets/YouTubeCDCRoosevelt.jpg" alt="YouTube" />
+  </a>
+</p>
+
+Bill's story about smoking and leg amputation:
+<p>
+  <a href="https://www.youtube.com/watch?v=CYVuUFPFOc0" title="CDC: Tips From Former Smokers - Bill B.’s Tip Ad">
+    <img src="/assets/YouTubeCDCBill1.jpg" alt="YouTube" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=eGGXIWFqxhY" title="CDC: Tips From Former Smokers - Bill B.: Smoking and Diabetes Don't Mix">
+    <img src="/assets/YouTubeCDCBill2.jpg" alt="YouTube" />
+  </a>
+</p>
+
+Working with a <b>smoking cessation counsellor</b> can <b><u>double</b></u> your chances of successfully quitting tobacco use. Visit Texas's (YesQuit.org webpage)[www.yesquit.org] (phone 877-YES-QUIT or 877-937-7848) or the US government's (SmokeFree.gov webpage)[www.smokefree.gov] (phone 800-QUIT-NOW or 800-784-8669). Both offer FREE help.  There are (free phone apps)[https://smokefree.gov/tools-tips/apps] that can also help you help you quit.
+
+This is one woman's testimony on how coaching helped her become free of tobacco:
+<p>
+  <a href="https://www.youtube.com/watch?v=tVcLr62SwDI" title="Veramae’s Testimonial Quit Smoking | Tobacco Helpline 1-800-QUIT NOW">
+    <img src="/assets/YouTubeVeramae.jpg" alt="YouTube" />
+  </a>
+</p>
