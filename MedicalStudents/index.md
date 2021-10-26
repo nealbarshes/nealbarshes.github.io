@@ -68,10 +68,12 @@ You may be asked to differentiate between various types of ulcers on your exam. 
 | example | ![neuropathic ulcer](/assets/FootUlcerA.jpg) | ![arterial ulcer](/assets/FootUlcerB.jpg) | ![neuropathic ulcer](/assets/CalfUlcerC.jpg) |
 | location | 90% on the plantar forefoot or toes | 90% on the plantar forefoot or toes | between knee and malleoli, perhaps affecting dorsal foot ("gaiter" distribution) |
 | size | generally small | generally small | variable; may affect circumference of calf |
+| depth | variable, including penetration to bone | variable, including penetration to bone | generally limited to partial-thickness epithelial loss | 
 | common history | long-standing history of diabetes, often with other diabetes-related complications (incl. retinopathy, nephropathy) | long-standing history of diabetes, often with other diabetes-related complications (incl. retinopathy, nephropathy); may also have manifestations of atherosclerotic disease elsewhere (e.g. history of coronary artery disease, stroke) |  history of deep venous thrombosis and/or predisposing events (orthopedic trauma, immobility) |
 | associated physical exam findings | sensory neuropathy; surrounding callus (hyperkeratotic epithelial edges); palpable pedal pulses | absent pedal pulses; otherwise may be similar to neuropathic ulcers | leg swelling; visible venous varicosities and/or telangiectasias (“spider veins”); dermatoliposclerosis (thickening and brownish discoloration of skin due to chronic hemosiderin deposition) |
 | appropriate diagnostic studies | x-ray to evaluate for osteomyelitis; ABIs with toe pressures | x-ray to evaluate for osteomyelitis; ABIs with toe pressures | venous ultrasound  to evaluate for valvular incompetence (i.e. reflux) in the superficial, deep and perforator veins of the lower extremity | 
 | leg amputation risk with treatment | <3% | 10-12% | <1% |
 | management | [offloading and wound care](https://nealbarshes.github.io/FootHealing/) | [revascularization](https://nealbarshes.github.io/PAD/) with [offloading and wound care](/FootHealing/index.md) | compression dressings, wound care, and pentoxifylline |
+| type of infections that may occur | may affect any anatomic structures or tissue planes in the foot, ranging from cellulitis to abscess with or without osteomyelitis | may affect any anatomic structures or tissue planes in the foot, ranging from cellulitis to abscess with or without osteomyelitis | generally limited to cellulitis; deep soft tissue infection is very rare | 
  
 
