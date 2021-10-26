@@ -3,21 +3,21 @@ Collected here are some videos to help inform you. I recommend these first three
 <b><u>NOTE</u>: These videos are educational only. These do NOT represent medical advice.</b> Please talk with your health care providers for medical advice specific to you.
 
 
-How diabetes can lead to foot problems and leg amputations, how to prevent problems, and what to look out for. Under 3 minutes in duration:
+How diabetes can lead to foot problems and leg amputations, how to prevent problems, and what to look out for:
 <p>
   <a href="https://www.youtube.com/watch?v=IQy6E5aVUzo" title="Diabetic Foot Ulcer 101">
     <img src="/assets/PatientEducationUMichigan.jpg" alt="YouTube" />
   </a>
 </p>
 
-The relationship between diabetes, poor circulation ("peripheral artery disease", or hardening of the arteries), and foot problems. About three minutes in duration:
+The relationship between diabetes, poor circulation ("peripheral artery disease", or hardening of the arteries), and foot problems:
 <p>
   <a href="https://www.youtube.com/watch?v=Qlf3D-sfaBo" title="Must-Know Foot Care Tips">
     <img src="/assets/PatientEducationAPMA.jpg" alt="YouTube" />
   </a>
 </p>
 
-More tips on how to take care of your feet and prevent foot sores (ulcers) that can cause problems. About four minutes:
+More tips on how to take care of your feet and prevent foot sores (ulcers) that can cause problems:
 <p>
   <a href="https://www.youtube.com/watch?v=sGnjxc18BC4" title="Foot care for people with diabetes – What happens if you develop a diabetic foot problem">
     <img src="/assets/PatientEducationNHS.jpg" alt="YouTube" />
