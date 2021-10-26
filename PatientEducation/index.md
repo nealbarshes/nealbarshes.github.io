@@ -76,3 +76,4 @@ This is one woman's testimony on how coaching helped her become free of tobacco:
     <img src="/assets/YouTubeVeramae.jpg" alt="YouTube" />
   </a>
 </p>
+I hope you find these helpful. Please talk with your health care provider if you have questions or need further help.
