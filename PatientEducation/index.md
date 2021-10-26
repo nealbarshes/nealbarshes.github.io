@@ -12,7 +12,7 @@
 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b><u>NOTE</u>: These videos are educational only. These do NOT represent medical advice.</b> Please talk with your health care providers for medical advice specific to you.</tt></blockquote>
-
+<br>
 # If you have diabetes
 
 How diabetes can lead to foot problems and leg amputations, how to prevent problems, and what to look out for:
