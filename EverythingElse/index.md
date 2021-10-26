@@ -147,6 +147,15 @@ Relevant information = same as claudication. Feel for femoral pulses. If normal,
 1. Identify and treat [acute limb ischemia](https://pubmed.ncbi.nlm.nih.gov/22670905/) and compartment syndrome, including –rarely-- of the [foot](https://pubmed.ncbi.nlm.nih.gov/25752690/).  <br>
 2. A [video demonstrating surgical thromboembolectomy of the superior mesenteric artery](https://bcmedu-my.sharepoint.com/:u:/g/personal/nbarshes_bcm_edu/Eco0LEpNz1tOme7reCN47XABQaw1Cd3n2gNHqDdKwdixrQ?e=dbQ1y9). <br>
 
+### Pathologies worth discussing while you're on our rotation:
+1.	Mesenteric ischemia, four forms
+2.	Massive PE
+3.	Steal syndrome
+4.	Carotid dissetion
+5.	Carotid body tumor
+6.	Superficial thrombophlebitis
+7.	Popliteal aneurysm
+
 
 ### Resources to improve your technical skills
 
