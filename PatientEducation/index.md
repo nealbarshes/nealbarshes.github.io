@@ -67,10 +67,8 @@ Bill's story about smoking and leg amputation:
 </p>
 
 Working with a <b>smoking cessation counsellor</b> can <b><u>double</u></b> your chances of successfully quitting tobacco use. There are two sources of FREE help available to you: 
-<ul>
-<li>Texas's [YesQuit.org webpage](www.yesquit.org) (phone 877-YES-QUIT or 877-937-7848)</li> 
-<li>the US government's [SmokeFree.gov webpage](www.smokefree.gov) (phone 800-QUIT-NOW or 800-784-8669). 
-</ul>
+1. Texas's [YesQuit.org webpage](https://www.yesquit.org) (phone 877-YES-QUIT or 877-937-7848).
+2. the US government's [SmokeFree.gov webpage](https://www.smokefree.gov) (phone 800-QUIT-NOW or 800-784-8669). 
 
 There are also [free phone apps](https://smokefree.gov/tools-tips/apps) that can also help you help you quit.
 
