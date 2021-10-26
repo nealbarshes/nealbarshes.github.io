@@ -45,7 +45,7 @@ The higher of the two ankle pressures (dorsalis pedis or posterior tibial) is co
 
 ### Caveats in ABI interpretation:
 <ul>
-<li>ABIs are typically not as informative as you might think in the setting of claudication or asymptomatic PAD. 
+<li>ABIs are typically not as informative as you might think in the setting of claudication or asymptomatic PAD.</li>
 <li>There is not a great correlation between degree of symptoms and ABIs. Some younger, active patients may have very disabling symptoms with ABIs that are minimally-impaired or even normal at rest. Older, less active patients may have severely impaired ABIs with no or minimal symptoms.</li>
 <li>Although ABIs may help corroborate the presence of PAD, intermittent claudication can typically be diagnosed without ABI results.</li>
 <li>There are no indications to treat PAD simply based on ABI results (i.e. in absence of other symptoms or problems), regardless of how low they may be.</li>
