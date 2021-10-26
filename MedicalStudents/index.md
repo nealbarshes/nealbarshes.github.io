@@ -63,7 +63,13 @@ Approximately 40% of patients with diabetic foot ulcers will have some degree of
 
 You may be asked to differentiate between various types of ulcers on your exam. These categories present useful concepts, and the differences between venous leg ulcers and foot ulcers should be easily identified both on an exam and in clinical practice. <u>In clinical practice, the categorization of foot ulcers as being either “arterial” or “neuropathic” is artificial, and most clinicians who see patients with foot ulcers have abandoned use of these terms</u> because of the varying degree to which arterial insufficiency is impairing wound healing depends on the severity of peripheral artery disease. In other words, peripheral artery disease and its impact on the etiology of a foot ulcer should be considered as a spectrum ranging from mild to severe rather than as simply present vs. absent. 
 
-| ulcer type | "neuropathic foot ulcer" | "arterial ulcer" | venous leg ulcer
-| location | 90% on the plantar forefoot or toes | 90% on the plantar forefoot or toes | between knee and malleoli, perhaps affecting dorsal foot ("gaiter" distribution)
+| ulcer type | "neuropathic foot ulcer" | "arterial ulcer" | venous leg ulcer |
+| ---- | ----- | ----- | ----- |
+| example | ![neuropathic ulcer](assets/FootUlcerA.jpg) | ![arterial ulcer](assets/FootUlcerB.jpg) | ![neuropathic ulcer](assets/CalfUlcerC.jpg) |
+| location | 90% on the plantar forefoot or toes | 90% on the plantar forefoot or toes | between knee and malleoli, perhaps affecting dorsal foot ("gaiter" distribution) |
+| size | generally small | generally small | variable; may affect circumference of calf |
+| common history | long-standing history of diabetes, often with other diabetes-related complications (incl. retinopathy, nephropathy) | long-standing history of diabetes, often with other diabetes-related complications (incl. retinopathy, nephropathy); may also have manifestations of atherosclerotic disease elsewhere (e.g. history of coronary artery disease, stroke) |  history of deep venous thrombosis and/or predisposing events (orthopedic trauma, immobility) |
+| associated physical exam findings | sensory neuropathy; surrounding callus (hyperkeratotic epithelial edges); palpable pedal pulses | absent pedal pulses; otherwise may be similar to neuropathic ulcers | leg swelling; visible venous varicosities and/or telangiectasias (“spider veins”); dermatoliposclerosis (thickening and brownish discoloration of skin due to chronic hemosiderin deposition) |
 
+ 
 
