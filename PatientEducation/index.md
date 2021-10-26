@@ -1,4 +1,17 @@
-<b><u>NOTE</u>: These videos are educational only. These do NOT represent medical advice.</b> Please talk with your health care providers for medical advice specific to you.
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YPLVGC5FDP');
+</script>
+</head>
+
+<blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+<b><u>NOTE</u>: These videos are educational only. These do NOT represent medical advice.</b> Please talk with your health care providers for medical advice specific to you.</tt></blockquote>
 
 # If you have diabetes
 
@@ -53,7 +66,7 @@ Bill's story about smoking and leg amputation:
   </a>
 </p>
 
-Working with a <b>smoking cessation counsellor</b> can <b><u>double</b></u> your chances of successfully quitting tobacco use. Visit Texas's [YesQuit.org webpage](www.yesquit.org) (phone 877-YES-QUIT or 877-937-7848) or the US government's [SmokeFree.gov webpage](www.smokefree.gov) (phone 800-QUIT-NOW or 800-784-8669). Both offer FREE help.  There are also [free phone apps](https://smokefree.gov/tools-tips/apps) that can also help you help you quit.
+Working with a <b>smoking cessation counsellor</b> can <b><u>double</u></b> your chances of successfully quitting tobacco use. Visit Texas's [YesQuit.org webpage](www.yesquit.org) (phone 877-YES-QUIT or 877-937-7848) or the US government's [SmokeFree.gov webpage](www.smokefree.gov) (phone 800-QUIT-NOW or 800-784-8669). Both offer FREE help.  There are also [free phone apps](https://smokefree.gov/tools-tips/apps) that can also help you help you quit.
 
 This is one woman's testimony on how coaching helped her become free of tobacco:
 <p>
