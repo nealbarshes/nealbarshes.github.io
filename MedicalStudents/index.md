@@ -63,7 +63,7 @@ Approximately 40% of patients with diabetic foot ulcers will have some degree of
 
 You may be asked to differentiate between various types of ulcers on your exam. These categories present useful concepts, and the differences between venous leg ulcers and foot ulcers should be easily identified both on an exam and in clinical practice. <u>In clinical practice, the categorization of foot ulcers as being either “arterial” or “neuropathic” is artificial, and most clinicians who see patients with foot ulcers have abandoned use of these terms</u> because of the varying degree to which arterial insufficiency is impairing wound healing depends on the severity of peripheral artery disease. In other words, peripheral artery disease and its impact on the etiology of a foot ulcer should be considered as a spectrum ranging from mild to severe rather than as simply present vs. absent. 
 
-ulcer type | "neuropathic foot ulcer" | "arterial ulcer" | venous leg ulcer
-location | 90% on the plantar forefoot or toes | 90% on the plantar forefoot or toes | between knee and malleoli, perhaps affecting dorsal foot ("gaiter" distribution)
+| ulcer type | "neuropathic foot ulcer" | "arterial ulcer" | venous leg ulcer
+| location | 90% on the plantar forefoot or toes | 90% on the plantar forefoot or toes | between knee and malleoli, perhaps affecting dorsal foot ("gaiter" distribution)
 
 
