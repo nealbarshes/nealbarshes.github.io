@@ -14,6 +14,8 @@
 
 Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s{[1](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ)}. It is currently the busiest VA vascular surgery service in the country. With 43.5% of our limb salvage population categorized as Black or Hispanic and patients travelling here from throughout southeast Texas, we serve very diverse patient population. You will have an unparalleled opportunity to learn about the surgical management of vascular disease and gain operative skills.  
 
+This page describes the service structure and roles. There are additional pages for [limb salvage protocals and education](https://nealbarshes.github.io) and for [everything else](https://nealbarshes.github.io/EverythingElse/). 
+
 ## Service Ethos & Structure
 
 1. The tenets guiding our service structure are as follows:  
@@ -52,8 +54,9 @@ Commit to:
 ### Expectations for the "<i>Consult Intern</i>":
 <b>Top priority:</b> inital evaluation of new inpatient consults. This includes:
 1. Vascular surgery consults 24/7.
-2. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
-3. Diabetic foot infection consults for patients previously seen by our team for infection 24/7.
+2. Telephone and face-to-face clinic encounters on Monday through Friday.
+3. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
+4. Diabetic foot infection consults for patients previously seen by our team for infection 24/7.
 
 Notes:
 <ul>
@@ -98,11 +101,12 @@ You should NOT be involved in management of existing inpatients when in the role
 <li>Guiding and teaching any daytime intern assigned to you. He or she should be in the OR when you are in the OR. You should both see consults together. You should divide work equitably and according to experience.  Interns should be assigned a week at a time by seniority, with PGY-7, then PGY-6 or vascular PGY-4 or general PGY-4.  When two or more senior of equal level are on service, intern assignment will alternate by week.</li>
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
 <li>Read, especially Rutherford, to improve your medical knowledge and prepare for weekly conference. </li>
+<li>When assigned, help organize and conduct the outpatient telephone clinic (Monday, Tuesday and Wednesday) or the in-person clinic (Thursdays). Please note that this does <b>NOT</b> preclude you from physically going to the OR to see critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
 </ul>
 <br>
 <b>When on-call:</b>
 <ul>
-<li>Run the outpatient telephone (Monday, Tuesday and Wednesday) clinic or the in-person clinic (Thursdays). Please note that this does <b>NOT</b> preclude you from physically going to the OR to see critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
+
 <li>Evaluate all consults (other than foot infections), discuss with on-call staff surgeon, and <b>write a consult note</b> (not the OCL History and Physical).</li>
 <li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
 <li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
