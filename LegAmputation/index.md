@@ -39,10 +39,9 @@ Is the patient a candidate for [palliative foot care](https://github.com/nealbar
 17. Coviden smoke evacuator Bovie<br>
 18. 50-50 mix of 1% lidocaine and 0.25% marcaine (no epinephrine)<br>
 19. Hibiclens soap for skin prep of open surfaces.<br>
-20. ChloraPrep™ for intact skin surfaces, to groin or level of nerve catheters.
-  
-
-Bovie settings of 30 pure for cut, 65 spray for coagulation. 
+20. ChloraPrep™ for intact skin surfaces, to groin or level of nerve catheters.<br>
+<br> 
+Bovie settings of 30 pure for cut, 65 spray for coagulation.<br>
 Suction on Neptune to high, smoke evacuator option at 100%. 
 </tt></blockquote>
 <br>
@@ -56,7 +55,7 @@ Day of surgery: Check laterality. Then double check it. Then triple check it.
 Done as an ankle disarticulation through the tibiotalar joint. See this plastic surgeon Dr. Attinger's [description of ankle disarticulation technique](https://pubmed.ncbi.nlm.nih.gov/32600566/) for details. Tissue ±fluid from removed specimen sent in sterile saline for microbiology. 
 
 <b>Transtibial amputation with closure:</b>
-Talk to me about the posterior-first approach to protect the gastrocnemius and posterior flap. We will also utilize many of the [principles described by orthopedic surgeon Dr. Michael Pinzur](https://pubmed.ncbi.nlm.nih.gov/21200297/) and many of the [technical details described by Dr. Christopher Attinger](https://pubmed.ncbi.nlm.nih.gov/24510319/).
+Talk to me about the posterior-first approach to protect the gastrocnemius and posterior flap. We will also utilize many of the [principles described by orthopedic surgeon Dr. Michael Pinzur](https://pubmed.ncbi.nlm.nih.gov/21200297/) and many of the [technical details described by plastic surgeon Dr. Christopher Attinger](https://pubmed.ncbi.nlm.nih.gov/24510319/).
 
 1. Prepare: Mark the anterior aspect of the incision 13-19cm from tuberosity. Mark the medial and lateral apices to create a posterior flap that is 1/3rd of the calf circumference. Elevate and use Esmark, then upper calf or thigh tourniquet to 250 mmHg.
 2. Divide soft tissue: Use posterior-first approach to protect the gastrocnemius muscle early on. Local anesthetic mixture for five nerves prior to transection: superficial & deep peroneal (lateral and anterior compartments, respectively), tibial (deep posterior compartment), saphenous and sural nerves. Control vascular structures (silk ligature, then stick-tie with 4-0 Prolene). Traction neurectomy vs. nerve implantation with plastic surgery.
