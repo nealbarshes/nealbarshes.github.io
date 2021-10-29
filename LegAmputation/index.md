@@ -23,7 +23,7 @@ Is the patient a candidate for [palliative foot care](https://github.com/nealbar
 4.  sterile tourniquet: usually 18” (red) or 24” (brown)<br>
 5.  “soft” knee immobilizer (transtibial only)<br>
 6.  4-0 Prolene on SH needle x2<br>
-
+<br>
 <b>Additional quipment and supplies for all leg amputations with <u>closure</u>:</b><br>
 7.  Zimmer oscillating saw w 25mm width blade<br>
 8.  2-0 Vicryl on CT1 needle x6 for thin calf transtibial, x8 for large thigh transfemoral<br>
@@ -38,7 +38,7 @@ Is the patient a candidate for [palliative foot care](https://github.com/nealbar
 16. TWO sets of everyone’s gloves<br>
 17. Coviden smoke evacuator Bovie<br>
 18. 50-50 mix of 1% lidocaine and 0.25% marcaine (no epinephrine)<br>
-19. Hibiclens soap for skin prep of open surfaces.
+19. Hibiclens soap for skin prep of open surfaces.<br>
 20. ChloraPrep™ for intact skin surfaces, to groin or level of nerve catheters.
   
 
