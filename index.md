@@ -40,6 +40,8 @@ This brochure is written with plain language and no undefined technical terms. W
 9.  [Guarda dos seu Pes, Brazilian Portuguese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/09%20Guarda%20dos%20seu%20Pes%20%5BPortuguese%2C%20Branco%5D.pdf)
 10. [护理您的脚, Mandarin Chinese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
 11. [Uita-te atent la picioarele tale, Romanian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/11%20Uita-te%20atent%20la%20picioarele%20tale%20%5BRomanian%5D%20.pdf)
+12. [Protegez Vos Pieds, French](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/13%20Chro%C5%84%20swoje%20stopy%20%5BPolish%2C%20Starosolska%5D.pdf)
+13. [Chroń swoje stopy, Polish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/13%20Chro%C5%84%20swoje%20stopy%20%5BPolish%2C%20Starosolska%5D.pdf)
 
 
 
