@@ -111,6 +111,7 @@ You should NOT be involved in management of existing inpatients when in the role
 <li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
 <li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
 <li>On weekends, rounds on all inpatients.</li>
+<li>Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day.</li> 
 </ul>
 Please note that all patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility.
 <br>
