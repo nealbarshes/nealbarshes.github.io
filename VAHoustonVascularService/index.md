@@ -127,7 +127,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <hr>
 ### The Weekly Schedule
 
-Monday:
+<b>Monday:
 <ul>
 <li>7:45am table rounds in 5D (Green elevator side).</li>
 <li>Post-op/tele clinic: clinic senior and junior.</li>
@@ -135,14 +135,14 @@ Monday:
 <li>OR2/BU: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
 </ul>
 
-Tuesday:
+<b>Tuesday:
 <ul>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2/BU: OR2 senior and junior.</li>
 <li>Tele-clinic: clinic senior and junior.</li>
 </ul>
 
-Wednesday:
+<b>Wednesday:
 <ul>
 <li>7-10am: General surgery residents away for education.</li>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
@@ -150,20 +150,16 @@ Wednesday:
 <li>Tele-clinic: clinic senior and junior.</li>
 </ul>
 
-Thursday:
+<b>Thursday:
 <ul>
 <li>7:45am: table rounds in 5D (Green elevator side).</li>
-<li>8:15am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call.</li>
+<li>8:15am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call. Fellow/4th year and all available.</li>
+<li>OR1: on-call senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
+<li>OR2/BU: OR 2senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
+<li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference.</li>
 </ul>
 
-Fellow/4th year and all available.
-<ul>
-<li>OR1: on-call senior and/or junior (multiple trainees for aortic/bypass procedures)
-<li>OR2/BU: OR 2senior and/or junior (multiple trainees for aortic/bypass procedures)
-<li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference..
-</ul>
-
-Friday:
+<b>Friday:
 <ul>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
@@ -171,7 +167,7 @@ Friday:
 <li>Weekend sign-out to on-call team.</li>
 </ul>
 
-Weekends:
+<b>Weekends:
 <ul>
 <li>On-call senior to round with intern and speak with on-call attending.</li>
 <li>All weekend admissions and consults go to the on-call senior service.</li>
