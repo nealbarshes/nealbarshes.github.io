@@ -93,6 +93,9 @@ Notes:
 
 <ul>
 <li>Twice-daily rounds, daily notes and orders.</li>
+  <li>Round with your junior resident twice a day and divide daily notes and orders equitably.</li>
+<li>Teach and delegate level-appropriate responsibilities.</li>
+<li>When appropriate, guide your junior resident through parts of procedures.</li>
 <li>Daily list run with relevant staff surgeon.</li>
 <li>Inpatient nurse practicioner (<span>&#177;</span>social worker <span>&#177;</span>case manager <span>&#177;</span>pharmacist). Please ask the inpatient intern (<b>ONLY</b>) if assigned to you on that given day), the nurse practicioner, or the relevant staff surgeon for help with inpatient work if you will be in OR or otherwise unable to do time-sensitive work. </li>
 <li>Write the initial post-operative orders for any operations you do as primary resident -- even if you are working with the inpatient intern.</li>
