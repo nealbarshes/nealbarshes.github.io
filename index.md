@@ -42,6 +42,7 @@ This brochure is written with plain language and no undefined technical terms. W
 11. [Uita-te atent la picioarele tale, Romanian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/11%20Uita-te%20atent%20la%20picioarele%20tale%20%5BRomanian%5D%20.pdf)
 12. [Protegez Vos Pieds, French](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/13%20Chro%C5%84%20swoje%20stopy%20%5BPolish%2C%20Starosolska%5D.pdf)
 13. [Chroń swoje stopy, Polish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/13%20Chro%C5%84%20swoje%20stopy%20%5BPolish%2C%20Starosolska%5D.pdf)
+14. [발을 보호 하세요, Korean](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/14%20Guard%20your%20Feet%20%5BKorean%2C%20Lim%5D.pdf)
 
 
 
