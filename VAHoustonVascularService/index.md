@@ -83,6 +83,7 @@ Notes:
 <li>Ensure complete preoperative preparations for all inpatients done in timely fashion.</li>
 <li>Ensure complete preoperative preparations for first outpatient / elective case of the morning Mondays, Tuesdays, Thursdays and Fridays.</li>  
 <li>Inital evaluation of consults (see Daytime Intern #1, above).</li>
+  <li>Initial evaluation of consults</li>
 </ul>
 
 ### Expectations and Objectives for PGY-2 Residents: 
