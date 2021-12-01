@@ -51,26 +51,29 @@ Commit to:
   <li>Contributing to leave the service -- and the call room/work room --- better than how you found it.</li>
 </ul>
 
-### Expectations for the "<i>Consult Intern</i>":
-<b>Top priority:</b> inital evaluation of new inpatient consults. This includes:
-1. Vascular surgery consults 24/7.
-2. Telephone and face-to-face clinic encounters on Monday through Friday.
-3. New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on <b>Tuesdays</b>, <b>Fridays</b> and <b>Saturdays</b>. 
-4. Diabetic foot infection consults for patients previously seen by our team for infection 24/7.
 
+### Expectations for <i>"Inpatient Interns"</i>: 
+<ul>  
+<li>Working in a dyad with your paired senior trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR, and you should be doing face-to-face or telephone encounters when he or she is assigned to cover a clinic day. You should both see consults together.</li>
+<li>On Thursdays, in clinic for face-to-face outpatient encounters.</li>
+<li>For initial evaluation of new inpatient or emergency room consults:</li>
+  <ul>
+<li>Vascular surgery consults 24/7.</li>
+<li>New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on Tuesdays, Fridays and Saturdays.</li>
+<li>Diabetic foot infection consults for patients previously seen by our team for infection 24/7.</li>
+</ul>
+  </ul>
+  
 Notes:
 <ul>
 <li>Per hospital policy, ER consults must be seen within 30 mins and have written plans (note or admission orders within 120 minutes).</li>
-<li>You should work as a teamlet with the on-call senior resident and on-call staff vascular surgeon. Discuss foot infection consults directly with staff surgeon, then discuss with on-call senior resident.</li>
-<li>You should to the OR to talk if that is where the on-call senior or staff surgeon is.</li>  
-<li>You should write OCL History and Physicals for new admissions and consults. </li>
-<li>You should <b>NOT</b> be involved in inpatient care.</li>
+<li>You should work as a team with the on-call senior resident and on-call staff vascular surgeon. Discuss foot infection consults directly with staff surgeon, then discuss with on-call senior resident.</li>
+<li>You should go to the OR to talk if that is where the on-call senior or staff surgeon is.</li>
+<li>You should write OCL History and Physicals for new admissions and consults.</li>
 </ul>
-<b>Second priority:</b> daily scheduled outpatient encounters (telephone and face-to-face). 
-You should NOT be involved in management of existing inpatients when in the role of consult intern.
-
-### Expectations for <i>"Inpatient Intern"</i>: 
-<ul>
+  
+  
+  
 <li>On Thursdays, in clinic for face-to-face outpatient encounters.</li>
 <li>Other days: Working in a dyad with the second senior-most trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR, and you should be doing face-to-face or telephone encounters when he or she is doing telephone encounters. You should both see consults together.</li> 
 </ul>
