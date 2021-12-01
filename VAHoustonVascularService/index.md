@@ -76,8 +76,7 @@ Notes:
 <ul>
 <li>Ensure complete preoperative preparations for all inpatients done in timely fashion.</li>
 <li>Ensure complete preoperative preparations for first outpatient / elective case of the morning Mondays, Tuesdays, Thursdays and Fridays.</li>  
-<li>Inital evaluation of consults (see Daytime Intern #1, above).</li>
-  <li>Initial evaluation of consults</li>
+<li>Initial evaluation of consults.</li>
 </ul>
 
 ### Expectations and Objectives for PGY-2 Residents: 
@@ -128,48 +127,35 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <hr>
 ### The Weekly Schedule
 
-<b>Monday:</b>
-<ul>
-<li>7:45am table rounds in 5D (Green elevator side).</li>
-<li>Post-op clinic: on-call Fellow/4th year.</li>
-<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
-</ul>
+Monday:
+•	7:45am table rounds in 5D (Green elevator side).
+•	Post-op/tele clinic: clinic senior and junior.
+•	OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures)
+•	OR2/BU: OR2 senior and junior (multiple trainees for aortic/bypass procedures)
+Tuesday:
+•	OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures)
+•	OR2/BU: OR2 senior and junior
+•	Tele-clinic: clinic senior and junior.
+Wednesday:
+•	7-10am: General surgery residents away for education.
+•	OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures)
+•	OR2: OR2 senior and junior (multiple trainees for aortic/bypass procedures)
+•	Tele-clinic: clinic senior and junior
+Thursday:
+•	7:45am: table rounds in 5D (Green elevator side).
+•	8:15am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call Fellow/4th year and all available.
+•	OR1: on-call senior and/or junior (multiple trainees for aortic/bypass procedures)
+•	OR2/BU: OR 2senior and/or junior (multiple trainees for aortic/bypass procedures)
+•	16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference..
+Friday:
+•	OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures)
+•	OR2: OR2 senior and junior (multiple trainees for aortic/bypass procedures)
+•	BU: BU senior and junior
+•	Weekend sign-out to on-call team
+Weekends:
+•	On-call senior to round with intern and speak with on-call attending.
+•	All weekend admissions and consults go to the on-call senior service.
 
-<b>Tuesday:</b>
-<ul>
-<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
-</ul>
-  
-<b>Wednesday:</b>
-<ul>
-<li>7-10am: General surgery residents away for education.</li>
-<li>Pre-op clinic: on-call fellow (4th year general surgery resident after 10am).</li>
-<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
-<li>OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
-</ul>
-  
-<b>Thursday:</b>
-<ul>
-<li>7:45am: table rounds in 5D (Green elevator side).</li>
-<li>8:15am: log in to a computer vascular surgery clinic and be ready to see patients by <b>0830am</b>; on-call Fellow/4th year and all available.</li>
-<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
-<li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference..</li>
-</ul>
-  
-<b>Friday:</b>
-<ul>
-<li>OR1: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li>
-<li>OR2: off-call fellow/4th year (multiple trainees for aortic/bypass procedures).</li> 
-<li>Weekend sign-out to on-call fellow/4th year.</li>
-</ul>
-  
-<b>Weekends:</b>
-<ul>
-<li>On-call Fellow/4th year to round with intern and speak with on-call attending.</li>
-<li>All weekend admissions and consults go to the on-call Fellow/4th year service.</li>
-<li>Senior fellow to round with intern, responsible for teaching and delegating level-appropriate responsibilities.</li>
-<li>Seniors to write notes and orders on their patients.</li>
-</ul>
 <br>
 <br>
 
