@@ -43,6 +43,8 @@ This brochure is written with plain language and no undefined technical terms. W
 12. [Protegez Vos Pieds, French](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/12%20Protegez%20Vos%20Pieds%20%5BFrench%2C%20Charland%5D.pdf)
 13. [Chroń swoje stopy, Polish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/13%20Chro%C5%84%20swoje%20stopy%20%5BPolish%2C%20Starosolska%5D.pdf)
 14. [발을 보호 하세요, Korean](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/14%20Guard%20your%20Feet%20%5BKorean%2C%20Lim%5D.pdf)
+15. [Gad Pye Ou, Haitian Creole](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/15%20Gad%20Pye%20Ou%20%5BHaitian%20Kreyol%2C%20Lataillade%26Bonnegue%5D.pdf)
+16. [Ilaali Lugahaad, Somali](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/16%20Ilaali%20Lugahaad%20%5BSomali%2C%20Roble%26Abdirahman%5D.pdf)
 
 
 
