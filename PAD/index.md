@@ -184,14 +184,14 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 <br>
 <b>Post-Operative Day #3:</b><br> 
 Discuss/plan any [foot reconstruction operation](https://nealbarshes.github.io/FootHealing/) during this hospitalization or during subsequent outpatient encounter.<br><br>
-Along with daily aspirin, discuss continuing or initiating one of the following:
-
-Bypass Conduit | Medication
------------- | -------------
-single segment vein | cilostazol
-multi-segment (spliced) vein | apixiban if [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3
-PTFE | clopidogrel
-
+Along with daily aspirin, discuss continuing or initiating low-dose rivaroxaban unless: 
+<ol>
+  <li>already on dual antiplatelet or other anticoagulant for another indication;</li>
+  <li>active malignancy;</li>
+  <li>[HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3 or other reason to suspect high risk of bleeding;</li>
+  <li>advanced liver disease or end-stage renal disease.</li>
+</ol>  
+Consider therapeutic rivaroxaban, apixiban, or warfarin if multi-segment (spliced) vein. 
 
 Goals prior to transitioning to outpatient management: <b>“ABC DEF”</b>
 
