@@ -74,7 +74,7 @@ Our hospital's vascular surgery experience began as part of the Baylor College o
 In the clinic, consider: (1) indication; (2) feeling for bilateral femoral pulses, ipsilateral popliteal and pedal pulses; and (3) bedside vein mapping. 
 Plan for pre- and post-admission if eGFR<60mL/min: normal saline at 0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
 
-In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) any previous imaging. Posting should generally use the 36247 code, NOT any procedural code beginning with a 7.
+In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) any previous imaging; and (6) any clinical that needs management prior to the angiogram (incl. orthopnea, contrast allergy). Posting should generally use the 36247 code, NOT any procedural code beginning with a 7.
 
 Basic steps of my preferred approach: Bentson to get 5Fr sheath in; Contra/Omni to the aorta. Up-and-over with floppy angled Glidewire. Try to get floppy Glidewire to popliteal. If successful, place a 135cm Quickcross catether for the angiograms starting in distal leg. Visualize more proximal segments later. See [here for preferences of other staff surgeons](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/PAD/AngioPreferences/index.md).
 
