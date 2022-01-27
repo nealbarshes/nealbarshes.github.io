@@ -45,7 +45,7 @@ Commit to:
 <ul>
   <li>Getting to the operating room as much as possible, even if just to assist or observe.</li>
   <li>Saying “I don’t know, but I'll find out” when you aren't 100% confident in being 100% factually correct about something.</li> 
-  <li>Discuss operative plans before the day of the operation.</li>
+  <li>Discuss operative plans with involved staff surgeon <b>before</b> the day of the operation.</li>
   <li>Consuming, digesting and integrating all aspects of our patient’s history, exam findings, lab results, imaging, and hospital course.</li>
   <li>Utilizing down-time for more reading and dedicated practice of surgical skills, less social media.</li>
   <li>Contributing to leave the service -- and the call room/work room --- better than how you found it.</li>
@@ -76,6 +76,8 @@ Notes:
 <ul>
 <li>Ensure complete preoperative preparations for all inpatients done in timely fashion.</li>
 <li>Ensure complete preoperative preparations for first outpatient / elective case of the morning Mondays, Tuesdays, Thursdays and Fridays.</li>  
+  <li>Avoid ordering daily labs on inpatients.</li>
+  <li>Avoid writing OCL Update H&P until the patient is seen by you.</li>
 <li>Initial evaluation of consults.</li>
 </ul>
 
@@ -119,7 +121,8 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <ul>  
 <li>In operating room as much as possible.</li>
 <li>Present in the hospital until 3pm when not in the operating room.</li>
-<li>Discuss operative plans, inpatient management with staff surgeons.</li>
+  <li)Face-to-face or telephone hand-off to on-call senior resident; this is NOT to be done via text, email or any other modality.</li>
+<li>Discuss the next day's operative plans, inpatient management with staff surgeons.</li>
 </ul>
 <br>
 <br>
