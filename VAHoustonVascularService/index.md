@@ -97,20 +97,30 @@ Notes:
   <li>Round with your junior resident twice a day and divide daily notes and orders equitably.</li>
 <li>Teach and delegate level-appropriate responsibilities.</li>
 <li>When appropriate, guide your junior resident through parts of procedures.</li>
-<li>Daily list run with relevant staff surgeon.</li>
-<li>Inpatient nurse practicioner (<span>&#177;</span>social worker <span>&#177;</span>case manager <span>&#177;</span>pharmacist). Please ask the inpatient intern (<b>ONLY</b>) if assigned to you on that given day), the nurse practicioner, or the relevant staff surgeon for help with inpatient work if you will be in OR or otherwise unable to do time-sensitive work. </li>
+<li>Daily list run with relevant staff surgeon, Inpatient nurse practicioner (<span>&#177;</span>social worker <span>&#177;</span>case manager <span>&#177;</span>pharmacist).</li>
+<li>If you will be in OR or otherwise unable to do time-sensitive work, request the help of the inpatient intern assigned to you on that given day, the inpatient nurse practicioner, or the relevant staff surgeon. </li>
 <li>Write the initial post-operative orders for any operations you do as primary resident -- even if you are working with the inpatient intern.</li>
+  <li>Be judicious in the use of lab testing. Follow recommendations in our protocols. If not otherwise specified, chemistries and blood counts every Monday and Thursday for patients not on hemodialysis. If on hemodialysis: chemistries daily, blood counts Monday and Friday.,/li>
 <li>Guiding and teaching any daytime intern assigned to you. He or she should be in the OR when you are in the OR. You should both see consults together. You should divide work equitably and according to experience.  Interns should be assigned a week at a time by seniority, with PGY-7, then PGY-6 or vascular PGY-4 or general PGY-4.  When two or more senior of equal level are on service, intern assignment will alternate by week.</li>
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
 <li>Read, especially Rutherford, to improve your medical knowledge and prepare for weekly conference. </li>
 <li>When assigned, help organize and conduct the outpatient telephone clinic (Monday, Tuesday and/or Wednesday) or the in-person clinic (Monday and Thursdays). Please note that this does NOT preclude you from physically going to the OR to see or participate in critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
 </ul>
 <br>
+
 <b>When on-call:</b>
 <ul>
-
+<li>Go to the OR. to get involved with cases.</li>
 <li>Evaluate all consults (other than foot infections), discuss with on-call staff surgeon, and <b>write a consult note</b> (not the OCL History and Physical).</li>
-<li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
+<li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
+<li>On weekends, rounds on all inpatients.</li>
+<li>Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day.</li> 
+</ul>
+
+<b>When assigned to clinic:</b>
+<ul>
+<li>Work with 
+  <li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
 <li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
 <li>On weekends, rounds on all inpatients.</li>
 <li>Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day.</li> 
