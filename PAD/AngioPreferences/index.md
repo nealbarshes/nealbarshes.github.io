@@ -1,7 +1,7 @@
 characteristic | NB | JC | EG | NH
 ----- | ------- | ------| ----- | ----
 initial wire | Bentson | stiff angled Glide | Bentson | TBA
-2nd 035 wire (for up-n-over)|	floppy angled Glide |	stiff angled Glide	| floppy angled Glide | Stiff angled Glide
+2nd 035 wire (for up-n-over)|	floppy angled Glide |	stiff angled Glide	| floppy angled Glide | stiff angled Glide
 Heparin after initial access?	| Yes – 3,000 units	| No	| No |	No
 Power injector?	| Yes	| No	| No |	No
 Two views of the foot?	| Yes, for everyone with foot wound	| Yes, magnified	| Yes |	Yes
