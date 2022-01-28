@@ -141,8 +141,8 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <br>
 
 <hr>
-### The Weekly Schedule
-
+### The Weekly Schedule:
+<br>
 <b>Monday:</b>
 <ul>
 <li>7:45am table rounds in 5D (Green elevator side).</li>
@@ -193,8 +193,8 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <br>
 
 <hr>
-### Best Practices
-
+### Best Practices:
+<br>
 Video instructions (19 minutes) on best practices in documenting written informed consent and in site marking:
 <p>
   <a href="https://www.youtube.com/watch?v=yZEoV2PtRLQ" title="YouTube Primer on Identifying Foot Infections">
@@ -205,7 +205,7 @@ Video instructions (19 minutes) on best practices in documenting written informe
 
 <hr>
 ### Uncommon but Important Scenarios: 
-
+<br>
 #### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
 Thank you to Dr. Zachary Chizmar for helping develop this material!
 
@@ -226,6 +226,7 @@ S= | Synthesis by receiver
 
 
 #### Sharps injury, in operating room or anywhere else: 
+<br>
 <b>First</b>, scrub out of the case.
 <ul>
   <li>If skin, wash with soap.</li>
@@ -242,7 +243,7 @@ S= | Synthesis by receiver
 Know that within the VA system, [verbal consent from the patient IS required for HIV testing](https://www.hiv.va.gov/provider/topics/testing-faq-occupational-exposures.asp). Therefore, <b>do NOT</b> ask for a needlestick exposure panel during the case; someone from the surgery team must obtain verbal consent when the patient has decision-making capacity. 
 
 #### Tips for working with our nurse practicioners: (<i>pending content</i>)
-
+<br>
 #### Quality Improvement
 The [BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx) should be used for quality improvement related to these events.
 
