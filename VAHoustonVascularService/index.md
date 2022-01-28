@@ -171,7 +171,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <li>7:45am: table rounds in 5D (Green elevator side).</li>
 <li>8:15am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call. Fellow/4th year and all available.</li>
 <li>OR1: on-call senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
-<li>OR2/BU: OR 2senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
+<li>OR2/back-up: OR2 senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
 <li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference.</li>
 </ul>
 
@@ -179,7 +179,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <ul>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
-<li>BU: BU senior and junior.</li>
+<li>OR3 (when it occurs): back-up senior and/or junior residents.</li>
 <li>Weekend sign-out to on-call team.</li>
 </ul>
 
