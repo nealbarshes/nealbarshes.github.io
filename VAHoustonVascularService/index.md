@@ -105,6 +105,7 @@ Notes:
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
 <li>Read, especially Rutherford, to improve your medical knowledge and prepare for weekly conference. </li>
 <li>When assigned, help organize and conduct the outpatient telephone clinic (Monday, Tuesday and/or Wednesday) or the in-person clinic (Monday and Thursdays). Please note that this does NOT preclude you from physically going to the OR to see or participate in critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
+
 </ul>
 <br>
 
