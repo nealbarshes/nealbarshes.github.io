@@ -226,7 +226,6 @@ S= | Synthesis by receiver
 
 
 #### Sharps injury, in operating room or anywhere else: 
-<br>
 <b>First</b>, scrub out of the case.
 <ul>
   <li>If skin, wash with soap.</li>
