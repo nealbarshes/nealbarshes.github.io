@@ -134,7 +134,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <ul>  
 <li>In operating room as much as possible.</li>
 <li>Present in the hospital until 3pm when not in the operating room.</li>
-  <li)Face-to-face or telephone hand-off to on-call senior resident; this is NOT to be done via text, email or any other modality.</li>
+<li>Face-to-face or telephone hand-off to on-call senior resident; this is NOT to be done via text, email or any other modality.</li>
 <li>Discuss the next day's operative plans, inpatient management with staff surgeons.</li>
 </ul>
 <br>
