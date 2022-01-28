@@ -125,8 +125,10 @@ Notes:
 <li>On weekends, rounds on all inpatients.</li>
 <li>Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day.</li> 
 </ul>
+
 <br>
 Please note that all patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility.
+
 <br>
 <b>When not on-call:</b>
 <ul>  
@@ -141,7 +143,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <hr>
 ### The Weekly Schedule
 
-<b>Monday:
+<b>Monday:</b>
 <ul>
 <li>7:45am table rounds in 5D (Green elevator side).</li>
 <li>Post-op/tele clinic: clinic senior and junior.</li>
@@ -149,14 +151,14 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <li>OR2/BU: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
 </ul>
 
-<b>Tuesday:
+<b>Tuesday:</b>
 <ul>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2/BU: OR2 senior and junior.</li>
 <li>Tele-clinic: clinic senior and junior.</li>
 </ul>
 
-<b>Wednesday:
+<b>Wednesday:</b>
 <ul>
 <li>7-10am: General surgery residents away for education.</li>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
@@ -164,7 +166,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <li>Tele-clinic: clinic senior and junior.</li>
 </ul>
 
-<b>Thursday:
+<b>Thursday:</b>
 <ul>
 <li>7:45am: table rounds in 5D (Green elevator side).</li>
 <li>8:15am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call. Fellow/4th year and all available.</li>
@@ -173,7 +175,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference.</li>
 </ul>
 
-<b>Friday:
+<b>Friday:</b>
 <ul>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
@@ -181,7 +183,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <li>Weekend sign-out to on-call team.</li>
 </ul>
 
-<b>Weekends:
+<b>Weekends:</b>
 <ul>
 <li>On-call senior to round with intern and speak with on-call attending.</li>
 <li>All weekend admissions and consults go to the on-call senior service.</li>
@@ -199,7 +201,6 @@ Video instructions (19 minutes) on best practices in documenting written informe
     <img src="/assets/YouTubeConsentTips.jpg" alt="YouTube" />
   </a>
 </p>
-
 
 
 <hr>
