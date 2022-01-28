@@ -119,8 +119,8 @@ Notes:
 
 <b>When assigned to clinic:</b>
 <ul>
-<li>Work with 
-  <li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
+<li>Work with your assigned PGY-1/2/4, the outpatient clinic-assigned nurse practicioner, and the clinic-assigned staff surgeon to complete telephone and any face-to-face consults.</li>
+<li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
 <li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
 <li>On weekends, rounds on all inpatients.</li>
 <li>Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day.</li> 
