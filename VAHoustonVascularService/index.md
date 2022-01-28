@@ -105,7 +105,6 @@ Notes:
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
 <li>Read, especially Rutherford, to improve your medical knowledge and prepare for weekly conference. </li>
 <li>When assigned, help organize and conduct the outpatient telephone clinic (Monday, Tuesday and/or Wednesday) or the in-person clinic (Monday and Thursdays). Please note that this does NOT preclude you from physically going to the OR to see or participate in critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
-
 </ul>
 <br>
 
@@ -126,6 +125,7 @@ Notes:
 <li>On weekends, rounds on all inpatients.</li>
 <li>Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day.</li> 
 </ul>
+<br>
 Please note that all patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility.
 <br>
 <b>When not on-call:</b>
