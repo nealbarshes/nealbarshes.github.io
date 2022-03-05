@@ -18,16 +18,16 @@ This page describes the service structure and roles. There are additional pages 
 
 ## Service Ethos & Structure
 
-1. The tenets guiding our service structure are as follows:  
-2. Providing outstanding patient care. 
-3. Respecting all persons (and having comportment that demonstrates this) 
-4. Personal responsibility and [disintermediation](https://en.wikipedia.org/wiki/Disintermediation).  
+The tenets guiding our service structure are:  
+1. Providing outstanding patient care. 
+2. Respecting all persons (and having comportment that demonstrates this). 
+3. Personal responsibility and [disintermediation](https://en.wikipedia.org/wiki/Disintermediation).
+4. Feedback as a necessity for growth and learning.
 
-As of February 2021 we have transitioned from the “mega-team” model to the “junior attending” model. This team structure is most similar to the vast majority of clinical practices outside of academic medical centers.   
-
-In general, as much of the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  It provides more individualized teaching opportunities for senior and junior trainees. Finally, this also avoids the potential conflicts of having two senior trainees on the same service as described in the ACGME "common program requirements” section IV.C.8.c:   
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:12px; background-color: ##fdffde;">
-"[a] chief resident and a fellow (whether the fellow is in an ACGME-accredited position or not) must not have primary responsibility for the same patient except that general surgeon and surgical critical care fellows may co-manage the non-operative care of the same patient.”</blockquote>
+"The acquisition of skills requires a regular environment, and adequate opportunity to practice, and rapid and unequivocal feedback about the correctness of thoughts and actions. When these conditions are fullfilled, skill eventually develops, and the intuitive judgments and choices that quickly come to mind will mostly be accurate.” Daniel Kahneman, Thinking Fast and Slow</blockquote>
+
+As of February 2021 we have transitioned from the “mega-team” model to the “junior attending” model. This team structure is most similar to the vast majority of clinical practices outside of academic medical centers. This means that as much of the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  This structure also provides more individualized teaching opportunities for senior and junior trainees. Finally, this also avoids the potential conflicts of having two senior trainees on the same service as described in the ACGME "common program requirements” section IV.C.8.c.   
 <br>
 <hr>
 
