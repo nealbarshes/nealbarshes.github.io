@@ -203,7 +203,6 @@ Video instructions (19 minutes) on best practices in <b>documenting written info
   </a>
 </p>
 
-<br>
 Habits that lead to <b>satisfied patients</b> that <b>trust you</b>:
 1. Introduce yourself and state your role.
 2. Make no promises you can't keep. (In general, underpromise and overproduce is much preferred to the reverse). 
@@ -213,7 +212,7 @@ Habits that lead to <b>satisfied patients</b> that <b>trust you</b>:
 6. Make sure someone will call family / friend after the case.
 7. Put family / friend on the COVID visitation list for the patient.
 <br>
-
+<br>
 
 <hr>
 ### Uncommon but Important Scenarios: 
