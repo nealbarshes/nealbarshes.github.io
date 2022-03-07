@@ -196,7 +196,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <hr>
 ### Best Practices:
 <br>
-Video instructions (19 minutes) on best practices in documenting written informed consent and in site marking:
+Video instructions (19 minutes) on best practices in <b>documenting written informed consent</b> and in site marking:
 <p>
   <a href="https://www.youtube.com/watch?v=yZEoV2PtRLQ" title="YouTube Primer on Identifying Foot Infections">
     <img src="/assets/YouTubeConsentTips.jpg" alt="YouTube" />
@@ -204,7 +204,7 @@ Video instructions (19 minutes) on best practices in documenting written informe
 </p>
 
 <br>
-Habits that lead to satisfied patients that trust you:
+Habits that lead to <b>satisfied patients</b> that <b>trust you</b>:
 1. Introduce yourself and state your role.
 2. Make no promises you can't keep. (In general, underpromise and overproduce is much preferred to the reverse). 
 3. Be comfortable saying "I don't know, but I'll find out." Then find out and follow through.
