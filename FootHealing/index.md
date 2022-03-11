@@ -153,3 +153,17 @@ Includes diabetes management that is largely concordant with recommendations fro
 ### Surgical principles for foot reconstruction operations:
 [Smith and Nephews Versajet hydrosurgery system](https://youtu.be/MU4lYEqqhYI) for most debridements / amputation procedures that will have delayed primary closure.
 
+### Early Post-Operative Management:
+1. Outpatient consult request for ECL wound care or podiatry for patients not previously seen by either team; or return to clinic request for persons previously seen by either team.
+2. Return to clinic telephone encounter at 1 week.
+3. Return to clinic face-to-face encounter at 6 weeks (for suture removal)
+
+### Further Outpatient Care:
+1 week telephone encounter: to assess pain, early healing, and to review microbiology results, modify antibiotic regimen.
+6 week face-to-face encounter:
+
+
+### The "graduation package" (when full re-epithelialization {healing} is achieved):
+1. Prosthetics consult for foot molding and custom orthotic shoe.
+2. Prosthetics consult for temperature sensing mat for secondary prevention of additional foot ulcers (ask staff surgeon).  
+3. Return to clinic in another month to ensure durable wound healing, follow-up on above.
