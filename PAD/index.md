@@ -148,7 +148,9 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 26. <i>Text order</i>: "Out of bed to cardiac chair in AM."<br>
 27. <i>Text order</i>: "Do not manipulate leg wrap."<br>
 28. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br>
-29. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br> 
+29. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br>
+  30. COVID-19 visitor order for preferred family member(s).<br>
+  
 </tt></blockquote>
 <br>
 <br>
