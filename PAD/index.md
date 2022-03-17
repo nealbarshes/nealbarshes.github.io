@@ -132,7 +132,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
   <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
 11. <i>S = S</i>tatin medication.<br>
 12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic:systemic (perioperative x24h + isolate-directed) ± topical (cadexomer iodine).<br>
-13. <i>V= V</i>itamin C 500mg PO BID and <i>V</i>itamin D3 25mg PO daily. <br>
+13. <i>V= V</i>itamin C 500mg PO BID and, if diabetes diagnosis, <i>V</i>itamin D3 25mg PO daily also. <br>
 14. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
 15. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
   16. <i>He= H</i>eparin subcutaneous q8h and <i>H</i>ome medications.<br>
