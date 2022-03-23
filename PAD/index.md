@@ -107,7 +107,7 @@ Five main steps: 1) vein harvest; 2&3) distal & proximal exposures; 4) tunneling
 
 The bundle we've employed to [reduce surgical site infections by 67%](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/ZamaniSSIreduction.pdf):
 1. Minimize hospital pre-admission.
-2. Methicillin-sensitive <i>Staphylococcus aureus</i> decontamination protocol with mupirocin nasal ointment, chlorhexidine wipes or shower. This is routinely done through our outpatient clinic.
+2. Methicillin-resistant <i>Staphylococcus aureus</i> decontamination protocol with mupirocin nasal ointment, chlorhexidine wipes or shower. This is routinely done through our outpatient clinic.
 3. Vancomycin in wound ONLY if re-do case AND no vein in the field.
 4. Interrupted 2-0 Vicryl to close dead space.
 5. Subcuticular skin closure with  4-0 Monocryl. Avoid staples in groin incisions.
@@ -145,8 +145,8 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 23. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
 24. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
 25. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
-26. <i>Text order</i>: "Out of bed to cardiac chair in AM."<br>
-27. <i>Text order</i>: "Do not manipulate leg wrap."<br>
+26. <i>Text order</i>: "Bedrest overnight. Out of bed to cardiac chair in AM."<br>
+27. <i>Text order</i>: "Do not manipulate leg wrap." (for patients with leg wrap)<br>
 28. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br>
 29. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br>
   30. COVID-19 visitor order for preferred family member(s).<br>
@@ -160,16 +160,16 @@ Do NOT use non-steroidal anti-inflammatory (NSAID) medications because of the hi
 Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load. <br><br>
 MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
 
-<b>Post-Operative Day #1:</b> Main goals are generally out of bed, possibly transfer to unit (<i>not</i> step-down unless 5A admission criteria are met).
+<b>Post-Operative Day #1:</b> Main goals are generally out of bed, possibly transfer to unit (<i>not</i> step-down unless 5A admission criteria are met). Discuss patient with staff surgeon by 745am. Transfer orders should be written by 10am. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, post-operative day #1:</b><br>
-1. Out of bed to cardiac chair by 9AM.<br>
+1. Out of bed to cardiac chair x3 during day, with first transfer by 9AM.<br>
 2. Foley out, wean any O2.<br>
 3. Saline (<i>not</i> herparin) lock IV.<br>
 4. Consider furosemide if edema present.<br>
 5. Order Iodosorb (if foot infection present) or collagenase (if uninfected foot ulcer) to bedside for dressing change on post-operative day #2.<br>
 6. Resume home insulin regimen.
-7. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
+7. PT consult in transfer orders.<br>
 8. Do NOT order AM labs for POD #2.<br>
 </tt></blockquote>
 <br>
@@ -185,7 +185,7 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 <br>
 <b>Post-Operative Day #3:</b><br> 
 Discuss/plan any [foot reconstruction operation](https://nealbarshes.github.io/FootHealing/) during this hospitalization or during subsequent outpatient encounter.<br><br>
-Along with daily aspirin, discuss continuing or initiating low-dose rivaroxaban unless: (1) already on dual antiplatelet or other anticoagulant for another indication; (2) active malignancy; (3) [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≤3 or other reason to suspect high risk of bleeding; or (4) advanced liver disease or end-stage renal disease.
+Along with daily aspirin, discuss continuing or initiating low-dose rivaroxaban unless: (1) already on dual antiplatelet or other anticoagulant for another indication; (2) active malignancy; (3) [HAS-BLED score](https://www.mdcalc.com/has-bled-score-major-bleeding-risk) ≥3 or other reason to suspect high risk of bleeding; or (4) advanced liver disease or end-stage renal disease.
 
 Consider therapeutic rivaroxaban, apixiban, or warfarin if multi-segment (spliced) vein. 
 
