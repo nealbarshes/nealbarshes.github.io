@@ -120,7 +120,7 @@ Additional resources:<br>
 ### Abdominal Aortic Aneurysms (ICD code I71.4)
 
 Relevant information = size per radiology report, any symptoms, tobacco use. 
-If <3.5cm, re-refer after q3 year imaging. If 3.5-4.9cm, q1 year imaging. If >5.0cm, q6 mos. imaging. 
+If <3.5cm, re-refer after q3 year NON-CONTRAST imaging (ultrasound via main radiology or NON-contrast C.T.). If 3.5-4.9cm, q1 year imaging. If >5.0cm, q6 mos. imaging. 
 
 ### endovascular aneurysm repair (EVAR) surveillance (ICD code I71.4)
 
