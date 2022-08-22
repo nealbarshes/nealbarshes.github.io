@@ -75,11 +75,8 @@ Notes:
   
 ### Expectations of the Night Intern: 
 <ul>
-<li>Ensure complete preoperative preparations for all inpatients done in timely fashion.</li>
-  <li>Ensure complete preoperative preparations for first outpatient / elective case of the morning Mondays, Tuesdays, Thursdays and Fridays. Update (by copying and revising in a new note) the pre-operative checklist template. Prepare necessary consents for patients who will arrive the following day by opening iMed, completing the necessary fields, and “saving without signature.” This way the day intern is saved the time of making the consent. The patient for the first case will typically arrive between 5-6 am. Be sure to go down the hall to “The SACC” and pre-op “holding” to physically see if the first patient has arrived before check-out at 6 am.</li>
-  <li>Initial evaluation of consults.</li>
-  <li>Update the team list with any new day consults. Check all room numbers, and update the “sign-out” section based on check-out from the day intern. Print updated lists for all members of the team in the morning.</li>
-  <li>Complete post-operative checks (with notes) on all patients who have had surgery during the day.</li>
+  <li>Initial evaluation of new consults after 6pm.</li>
+    <li>Complete post-operative checks (with notes) on all patients who have come out of the operating room after 3pm.</li>
   <li>Avoid ordering daily labs on inpatients.</li>
   <li>Avoid writing OCL Update H&P until the patient is seen by you.</li>
 </ul>
