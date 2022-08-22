@@ -79,6 +79,7 @@ Notes:
     <li>Complete post-operative checks (with notes) on all patients who have come out of the operating room after 3pm.</li>
   <li>Avoid ordering daily labs on inpatients.</li>
   <li>Avoid writing OCL Update H&P until the patient is seen by you.</li>
+  <li>Direct communication of overnight clinical events with the senior-most vascular trainee responsible for the patient.</li>
 </ul>
 
 ### Expectations and Objectives for PGY-2 Residents: 
