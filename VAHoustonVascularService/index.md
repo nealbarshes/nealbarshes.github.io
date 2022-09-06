@@ -195,6 +195,12 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <hr>
 ### Best Practices:
 <br>
+1. No abbreviations whatsoever in O.R. postings or consent forms.
+2. Always use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.
+3. Avoid prescribing Flexaril (cyclobenzaprine) for pain control.
+
+
+<br>
 Video instructions (19 minutes) on best practices in <b>documenting written informed consent</b> and in site marking:
 <p>
   <a href="https://www.youtube.com/watch?v=yZEoV2PtRLQ" title="YouTube Primer on Identifying Foot Infections">
