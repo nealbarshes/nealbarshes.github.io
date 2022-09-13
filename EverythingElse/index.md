@@ -134,7 +134,9 @@ Relevant information = history of compression therapy, wound therapy, measuremen
 
 ### Varicose veins without ulceration (ICD code I83.012/.022 for ulcer, I83.811/.812 for inflammation)
 
-Relevant information = symptoms, use of compression stockings, prior treatments, prior imaging. If s/p recent vein intervention: single follow-up at 1-2 weeks with post-intervention 2nd floor radiology ultrasound to r/o DVT.
+Relevant information = symptoms, use of compression stockings, prior treatments, prior imaging. ECL wound care team if not already seen by them. If severely symptomatic despite consistent use of compression stockings for at least three months --> venous insufficiency study; saphenous vein ablation if valvular incompetence in the thigh segment of that vein. 
+
+If s/p recent vein intervention: single follow-up at 1-2 weeks with post-intervention 2nd floor radiology ultrasound to r/o DVT.
 
 
 ### PAD and ischemic rest pains (ICD code I70.221/.222)
