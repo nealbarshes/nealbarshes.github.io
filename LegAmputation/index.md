@@ -18,6 +18,8 @@ Is the patient a candidate for [palliative foot care](https://github.com/nealbar
 
 In addition to all the standard pre-operative requirements, patients scheduled for leg amputation should be evaluated by our vascular medicine collegues prior to surgery. There are two reasons for this. First, patients with PAD who have leg amputations have [very high rates of coronary and cerebrovascular events, even compared to other PAD subgroups](https://pubmed.ncbi.nlm.nih.gov/32997098/). Second, while the overall perioperative mortality rate of leg amputation is low, it is higher than for most vascular operations and [is significantly higher than the perioperative mortality for limb salvage operations](https://pubmed.ncbi.nlm.nih.gov/21292432/).
 
+Ask about baseline mobility, stairs leading to or inside the patient's home, and the patient's mode of transportation to and from the medical center for scheduled appointments. Consider referral to the amputee clinic to discuss post-operative rehabilitation. Consider connecting the patient with our team's social worker and/or case manager to discuss the possible need for assistance of various forms after the operation.
+
 
 ### Operative Details
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
