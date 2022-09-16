@@ -14,6 +14,11 @@
 
 Is the patient a candidate for [palliative foot care](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesPalliativeFoot.pdf)? Most patients with foot ulcers, foot infections, or foot gangrene benefit from [revascularization and limb salvage efforts](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EaZETgbUS39Ej_P1nh1NsqcBuokEIEbrWStGWvLsMuQEOg?e=RD5J43). Amputation is [more costly](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20MOVIE%20analysis.pdf) and may have [higher perioperative risks](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/BarshesAmpVsBypassRisk.pdf). Nonetheless, amputation can be best for patients who have the potential to be [better off than they would be with wound palliation alone](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EUpMUsEJlMxJpm53IojsUcABJKiZndxMNy9ncJxunwhy5g?e=IAGKrs).  
 
+### Pre-operative planning
+
+In addition to all the standard pre-operative requirements, patients scheduled for leg amputation should be evaluated by our vascular medicine collegues prior to surgery. There are two reasons for this. First, patients with PAD who have leg amputations have [very high rates of coronary and cerebrovascular events, even compared to other PAD subgroups](https://pubmed.ncbi.nlm.nih.gov/32997098/). Second, while the overall perioperative mortality rate of leg amputation is low, it is higher than for most vascular operations and [is significantly higher than the perioperative mortality for limb salvage operations](https://pubmed.ncbi.nlm.nih.gov/21292432/).
+
+
 ### Operative Details
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
   <b>Equipment and supplies for all amputations of the leg (open or formalized):</b><br>
