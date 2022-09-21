@@ -145,11 +145,11 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 22. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
 23. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
 24. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
-25. <i>Text order</i>: "Bedrest overnight. Out of bed to cardiac chair in AM."<br>
-26. <i>Text order</i>: "Please do not manipulate leg wrap. Do not move or adjust wrap to find Doppler signals that do not already have windows for monitoring." (for patients with leg wrap)<br>
-28. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br> (if present in groin wound)
-29. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br>
-30. <i>Under activity</i>: "Weight bearing on affected foot only with offloading shoe or boot".<br>
+25. <i>Text order</i>: "Please do not manipulate leg wrap. Do not move or adjust wrap to find Doppler signals that do not already have windows for monitoring." (for patients with leg wrap)<br>
+26. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br> (if present in groin wound)
+27. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br>
+28. <i>Text order</i>: "Up to chair with assistance for at least three hours daily. Thank you."<br>
+29. <i>Activity order</i>: "Weight bearing on affected foot only with offloading shoe or boot".<br>
   
   
 </tt></blockquote>
