@@ -161,12 +161,12 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepine
 <b>Post-Operative Day #1:</b> Main goals are generally out of bed. Discuss patient with staff surgeon by 745am. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, post-operative day #1:</b><br>
-1. Out of bed to cardiac chair x2 during day, with first transfer by 9AM.<br>
+1. Out of bed to chair during day, with first transfer by noon.<br>
 2. Foley out, wean any supplemental O2.<br>
 3. Saline (<i>not</i> herparin) lock IV.<br>
 4. Consider furosemide if edema present.<br>
 5. Order Iodosorb (if foot infection present) or collagenase (if uninfected foot ulcer) to bedside for dressing change on post-operative day #2.<br>
-6. Resume home insulin regimen.
+6. Resume home insulin regimen.,br>
 7. PT consult in transfer orders.<br>
 8. Do NOT order AM labs for POD #2.<br>
 </tt></blockquote>
