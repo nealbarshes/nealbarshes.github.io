@@ -117,47 +117,46 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 <b>Immediate post-op:</b> PACU, then 5E or 5B. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b><br>
-1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br>
-2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
+1. Acetaminophen 500 milligrams PO q6h (scheduled).<br>
+2. Gabapentin 300mg (--> up to 1200mg if already on home dose) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
 3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
 4. Docusate 100 mg / sennosides 8.6mg (combination pill) PO every 12 hours.<br>
 <br>
 <b>AS NEEDED components of the multimodal analgesia bundle:</b><br>
-7. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
-8. Codeine 30mg tablet (i.e. without acetaminophen) q6h PRN severe pain.<br>
-9. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
-10. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
+5. Tramadol 50 or 100 mg PO q6h PRN mild pain. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
+6. Codeine 30mg tablet (i.e. without acetaminophen) q6h PRN moderate pain.<br>
+7. Morphine 4mg IV q3 hours PRN severe pain.
+8. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
+9. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
   <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
-  11. <i><b>S</b> = S</i>tatin medication.<br>
-12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic:systemic (perioperative x24h + isolate-directed) ± topical (cadexomer iodine).<br>
-13. <i>V= V</i>itamin C 500mg PO BID and, if diabetes diagnosis, <i>V</i>itamin D3 25mg PO daily also. <br>
-14. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
-15. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
-  16. <i>He= H</i>eparin subcutaneous q8h and <i>H</i>ome medications.<br>
-17. <i>L= L</i>actobacillus 2 capsules PO BID.<br>
-18. <i>I= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale until on solid food diet, then resume home regimen.<br>
-19. <i>M= M</i>ultivitamin 1 cap daily.<br>
-20. <i>B= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
+10. <i><b>S</b> = S</i>tatin medication.<br>
+11. <i><b>A</b>= A</i>spirin 81mg and possibly <i>A</i>ntibiotic:systemic (perioperative x24h + isolate-directed) ± topical (cadexomer iodine).<br>
+12. <i><b>V</b>= V</i>itamin C 500mg PO BID and, if diabetes diagnosis, <i>V</i>itamin D3 25mg PO daily also. <br>
+13. <i><b>E</b>= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
+14. <i><b>T</b>= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
+15. <i><b>He</b>= H</i>eparin subcutaneous q8h and <i>H</i>ome medications.<br>
+16. <i><b>L</b>= L</i>actobacillus 2 capsules PO BID.<br>
+17. <i><b>I</b>= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale until on solid food diet, then resume home regimen.<br>
+18. <i><b>M</b>= M</i>ultivitamin 1 cap daily.<br>
+19. <i><b>B</b>= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
 <b>Other orders:</b><br>
-21. NS @ ~0.5mL/kg/hr x12 hours.<br>
-22. Solid food diet.<br>
-23. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
-24. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
-25. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
-26. <i>Text order</i>: "Bedrest overnight. Out of bed to cardiac chair in AM."<br>
-27. <i>Text order</i>: "Do not manipulate leg wrap." (for patients with leg wrap)<br>
-28. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br>
+20. NS @ ~0.5mL/kg/hr x12 hours.<br>
+21. Solid food diet.<br>
+22. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
+23. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
+24. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
+25. <i>Text order</i>: "Bedrest overnight. Out of bed to cardiac chair in AM."<br>
+26. <i>Text order</i>: "Please do not manipulate leg wrap. Do not move or adjust wrap to find Doppler signals that do not already have windows for monitoring." (for patients with leg wrap)<br>
+28. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br> (if present in groin wound)
 29. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br>
-  30. COVID-19 visitor order for preferred family member(s).<br>
+30. <i>Under activity</i>: "Weight bearing on affected foot only with offloading shoe or boot".<br>
+  
   
 </tt></blockquote>
 <br>
-<br>
-Do NOT use non-steroidal anti-inflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
-<br>
-<br>
-Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load. <br><br>
-MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
+Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Do NOT use non-steroidal anti-inflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients. <br><br>
+  
+MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines, and muscle relaxants.
 
 <b>Post-Operative Day #1:</b> Main goals are generally out of bed, possibly transfer to unit (<i>not</i> step-down unless 5A admission criteria are met). Discuss patient with staff surgeon by 745am. Transfer orders should be written by 10am. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
