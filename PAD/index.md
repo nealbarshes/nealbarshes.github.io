@@ -158,11 +158,11 @@ Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Do N
   
 MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines, and muscle relaxants.
 
-<b>Post-Operative Day #1:</b> Main goals are generally out of bed, possibly transfer to unit (<i>not</i> step-down unless 5A admission criteria are met). Discuss patient with staff surgeon by 745am. Transfer orders should be written by 10am. 
+<b>Post-Operative Day #1:</b> Main goals are generally out of bed. Discuss patient with staff surgeon by 745am. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, post-operative day #1:</b><br>
-1. Out of bed to cardiac chair x3 during day, with first transfer by 9AM.<br>
-2. Foley out, wean any O2.<br>
+1. Out of bed to cardiac chair x2 during day, with first transfer by 9AM.<br>
+2. Foley out, wean any supplemental O2.<br>
 3. Saline (<i>not</i> herparin) lock IV.<br>
 4. Consider furosemide if edema present.<br>
 5. Order Iodosorb (if foot infection present) or collagenase (if uninfected foot ulcer) to bedside for dressing change on post-operative day #2.<br>
