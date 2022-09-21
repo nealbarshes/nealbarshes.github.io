@@ -114,7 +114,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 
 ### Post-operative Orders following Infrainguinal Bypass
 
-<b>Immediate post-op:</b> to SICU overnight. 
+<b>Immediate post-op:</b> PACU, then 5E or 5B. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b><br>
 1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br>
@@ -128,7 +128,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 9. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
 10. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
   <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
-11. <i>S = S</i>tatin medication.<br>
+  11. <i><b>S</b> = S</i>tatin medication.<br>
 12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic:systemic (perioperative x24h + isolate-directed) ± topical (cadexomer iodine).<br>
 13. <i>V= V</i>itamin C 500mg PO BID and, if diabetes diagnosis, <i>V</i>itamin D3 25mg PO daily also. <br>
 14. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
