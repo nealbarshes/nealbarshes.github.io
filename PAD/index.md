@@ -71,7 +71,7 @@ Our hospital's vascular surgery experience began as part of the Baylor College o
 
 ### Infrainguinal Endovascular Procedures
 
-In the clinic, consider: (1) indication; (2) feeling for bilateral femoral pulses, ipsilateral popliteal and pedal pulses; and (3) bedside vein mapping. Consult our vascular medicine colleagues for long-term optimization of medical management (patient does NOT need to be seen prior to surgery). If eGFR<45mL/min, enter delayed orders for pre-admission that will include normal saline at 0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
+In the clinic, consider: (1) indication; (2) feeling for bilateral femoral pulses, ipsilateral popliteal and pedal pulses; and (3) bedside vein mapping. Consult our vascular medicine colleagues for long-term optimization of medical management (patient does NOT need to be seen prior to surgery). If eGFR<u><</u>30mL/min, enter delayed orders for pre-admission that will include normal saline at 0.5mL/kg/hr, vitamin C 500mg BID, acetylcysteine 600mg PO BID.
 
 In planning the case, consider: (1) indication/wound location & relevant angiosome(s); (2) antiplatelets/anticoagulants; (3) baseline eGFR; (4) pulse exam & vein mapping (from clinic note); (5) any previous imaging; and (6) any clinical that needs management prior to the angiogram (incl. orthopnea, contrast allergy). Posting should generally use the 36247 code, NOT any procedural code beginning with a 7.
 
