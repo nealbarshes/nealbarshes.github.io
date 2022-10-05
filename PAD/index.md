@@ -117,6 +117,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 <b>Immediate post-op:</b> . 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 Admit = 5E or 5B (not 5A unless specific criteria are met); Diagnosis = s/p; Condition; Vitals qshift; do NOT request strict Is &Os; Notify physician for SBP>160mmHg or <90mmHg, diastolic>100mmHg, pulse <55 or >110/min, urine = N/A.<br>
+<br>
 <i>Activity order</i>: "Weight bearing on affected foot only with offloading shoe or boot".<br>
 <i>Nursing text order</i>: "Please do not manipulate leg wrap. Do not move or adjust wrap to find Doppler signals that do not already have windows for monitoring." (for patients with leg wrap)<br>
 <i>Nursing text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br> (if present in groin wound)
@@ -124,7 +125,7 @@ Admit = 5E or 5B (not 5A unless specific criteria are met); Diagnosis = s/p; Con
 <i>Nursing text order</i>: "Up to chair with assistance for at least three hours daily. Thank you."<br>
 <i>Diet</i>: Carbohydrate controlled if diabetes; volume restricted if CKD5/ESRD. 
 <i>IV fluids</i>: NS @ ~0.5mL/kg/hr x12 hours.<br>
-
+<br>
 <b>The "SAAVE THe LIMB" medication bundle foot ulcer or gangrene patients</b>:<br>
 <i><b>S</b> = S</i>tatin medication.<br>
 <i><b>A</b>= A</i>spirin 81mg 
@@ -133,15 +134,14 @@ Admit = 5E or 5B (not 5A unless specific criteria are met); Diagnosis = s/p; Con
 <i><b>E</b>= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
 <i><b>T</b>= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
 <i><b>He</b>= H</i>eparin subcutaneous q8h (or Lovenox) and <i>H</i>ome medications.<br>
-<i><b>L</b>= L</i>actobacillus 2 capsules PO BID (see meta-analyses [1](https://pubmed.ncbi.nlm.nih.gov/26955289/), 2, and 3).<br>
+<i><b>L</b>= L</i>actobacillus 2 capsules PO BID.<br>
 <i><b>I</b>= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale until on solid food diet, then resume home regimen.<br>
 18. <i><b>M</b>= M</i>ultivitamin 1 cap daily.<br>
 19. <i><b>B</b>= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
 <b>Other orders:</b><br>
 22. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR. (In active orders, not delayed order set.)<br>
 23. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
- 
-  
+<br>
 <b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b><br>
 1. Acetaminophen 500 milligrams PO q6h (scheduled).<br>
 2. Gabapentin 300mg (--> up to 1200mg if already on home dose) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
@@ -159,8 +159,12 @@ Admit = 5E or 5B (not 5A unless specific criteria are met); Diagnosis = s/p; Con
   
   
 </tt></blockquote>
+
 <br>
 Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Do NOT use non-steroidal anti-inflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients. <br><br>
+
+Links for evidence supporting aspects of this order set include systematic review of multiple large randomized trials showing that <i>Lactobacillus</i> reduces <i>Clostridium difficile</i>-associated diarrhea  [1](https://pubmed.ncbi.nlm.nih.gov/26955289/), [2](https://pubmed.ncbi.nlm.nih.gov/28192108/), [3](https://pubmed.ncbi.nlm.nih.gov/31875427/); a randomized trial showing vitamin C supplementation significantly improves foot ulcer healing [4](https://pubmed.ncbi.nlm.nih.gov/32981536/); and randomized trials showing vitamin D supplementation has significant benefits for diabetic foot ulcer healing [5](https://pubmed.ncbi.nlm.nih.gov/34213957/) and glycemic control[6](https://pubmed.ncbi.nlm.nih.gov/27363929/). 
+  
   
 MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepines, and muscle relaxants.
 
