@@ -114,8 +114,34 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 
 ### Post-operative Orders following Infrainguinal Bypass
 
-<b>Immediate post-op:</b> PACU, then 5E or 5B. 
+<b>Immediate post-op:</b> . 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
+Admit = 5E or 5B (not 5A unless specific criteria are met); Diagnosis = s/p; Condition; Vitals qshift; do NOT request strict Is &Os; Notify physician for SBP>160mmHg or <90mmHg, diastolic>100mmHg, pulse <55 or >110/min, urine = N/A.<br>
+<i>Activity order</i>: "Weight bearing on affected foot only with offloading shoe or boot".<br>
+<i>Nursing text order</i>: "Please do not manipulate leg wrap. Do not move or adjust wrap to find Doppler signals that do not already have windows for monitoring." (for patients with leg wrap)<br>
+<i>Nursing text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br> (if present in groin wound)
+<i>Nursing text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br>
+<i>Nursing text order</i>: "Up to chair with assistance for at least three hours daily. Thank you."<br>
+<i>Diet</i>: Carbohydrate controlled if diabetes; volume restricted if CKD5/ESRD. 
+<i>IV fluids</i>: NS @ ~0.5mL/kg/hr x12 hours.<br>
+
+<b>The "SAAVE THe LIMB" medication bundle foot ulcer or gangrene patients</b>:<br>
+<i><b>S</b> = S</i>tatin medication.<br>
+<i><b>A</b>= A</i>spirin 81mg 
+<i>A</i>ntibiotic:systemic (perioperative x24h + isolate-directed) ± topical (cadexomer iodine).<br>
+<i><b>V</b>= V</i>itamin C 500mg PO BID and, if diabetes diagnosis, <i>V</i>itamin D3 25mg PO daily also. <br>
+<i><b>E</b>= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
+<i><b>T</b>= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
+<i><b>He</b>= H</i>eparin subcutaneous q8h (or Lovenox) and <i>H</i>ome medications.<br>
+<i><b>L</b>= L</i>actobacillus 2 capsules PO BID (see meta-analyses [1](https://pubmed.ncbi.nlm.nih.gov/26955289/), 2, and 3).<br>
+<i><b>I</b>= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale until on solid food diet, then resume home regimen.<br>
+18. <i><b>M</b>= M</i>ultivitamin 1 cap daily.<br>
+19. <i><b>B</b>= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
+<b>Other orders:</b><br>
+22. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR. (In active orders, not delayed order set.)<br>
+23. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
+ 
+  
 <b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b><br>
 1. Acetaminophen 500 milligrams PO q6h (scheduled).<br>
 2. Gabapentin 300mg (--> up to 1200mg if already on home dose) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
@@ -128,28 +154,8 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 7. Morphine 4mg IV q3 hours PRN severe pain.<br>
 8. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
 9. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
-  <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
-10. <i><b>S</b> = S</i>tatin medication.<br>
-11. <i><b>A</b>= A</i>spirin 81mg and possibly <i>A</i>ntibiotic:systemic (perioperative x24h + isolate-directed) ± topical (cadexomer iodine).<br>
-12. <i><b>V</b>= V</i>itamin C 500mg PO BID and, if diabetes diagnosis, <i>V</i>itamin D3 25mg PO daily also. <br>
-13. <i><b>E</b>= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
-14. <i><b>T</b>= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
-15. <i><b>He</b>= H</i>eparin subcutaneous q8h and <i>H</i>ome medications.<br>
-16. <i><b>L</b>= L</i>actobacillus 2 capsules PO BID.<br>
-17. <i><b>I</b>= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale until on solid food diet, then resume home regimen.<br>
-18. <i><b>M</b>= M</i>ultivitamin 1 cap daily.<br>
-19. <i><b>B</b>= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
-<b>Other orders:</b><br>
-20. NS @ ~0.5mL/kg/hr x12 hours.<br>
-21. Solid food diet.<br>
-22. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR. (In active orders, not delayed order set.)<br>
-23. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
-24. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
-25. <i>Text order</i>: "Please do not manipulate leg wrap. Do not move or adjust wrap to find Doppler signals that do not already have windows for monitoring." (for patients with leg wrap)<br>
-26. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br> (if present in groin wound)
-27. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br>
-28. <i>Text order</i>: "Up to chair with assistance for at least three hours daily. Thank you."<br>
-29. <i>Activity order</i>: "Weight bearing on affected foot only with offloading shoe or boot".<br>
+
+
   
   
 </tt></blockquote>
