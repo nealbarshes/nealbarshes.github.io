@@ -125,7 +125,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 <b>AS NEEDED components of the multimodal analgesia bundle:</b><br>
 5. Tramadol 50 or 100 mg PO q6h PRN mild pain. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
 6. Codeine 30mg tablet (i.e. without acetaminophen) q6h PRN moderate pain.<br>
-7. Morphine 4mg IV q3 hours PRN severe pain.
+7. Morphine 4mg IV q3 hours PRN severe pain.<br>
 8. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
 9. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
   <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
@@ -142,7 +142,7 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 <b>Other orders:</b><br>
 20. NS @ ~0.5mL/kg/hr x12 hours.<br>
 21. Solid food diet.<br>
-22. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
+22. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR. (In active orders, not delayed order set.)<br>
 23. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
 24. Prophylaxis against DVT: subcutaneous enoxaparin q12. Daily dosing if eGFR<30.<br>
 25. <i>Text order</i>: "Please do not manipulate leg wrap. Do not move or adjust wrap to find Doppler signals that do not already have windows for monitoring." (for patients with leg wrap)<br>
@@ -176,8 +176,9 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepine
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, post-operative day #2:</b><br>
 1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.<br>
-2. Prosthetics consult for DH walker (if patient does not already have one). Look under "Footwear", and "Urgent Footwear".<br>
-3. <i>Text order</i>: "To 2B-300 prosthetics department via wheelchair and escort for DH walker offloading boot".<br>
+2. Change acetaminophen order from scheduled to PRN q6h.
+3. Prosthetics consult for DH walker (if patient does not already have one). Look under "Footwear", and "Urgent Footwear".<br>
+4. <i>Text order</i>: "To 2B-300 prosthetics department via wheelchair and escort for DH walker offloading boot".<br>
 </tt></blockquote>
 <br>
 <br>
