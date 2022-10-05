@@ -116,7 +116,10 @@ The bundle we've employed to [reduce surgical site infections by 67%](https://gi
 
 <b>Immediate post-op:</b> . 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
-Admit = 5E or 5B (not 5A unless specific criteria are met); Diagnosis = s/p; Condition; Vitals qshift; do NOT request strict Is &Os; Notify physician for SBP>160mmHg or <90mmHg, diastolic>100mmHg, pulse <55 or >110/min, urine = N/A.<br>
+Admit = 5E or 5B (not 5A unless specific criteria are met).<br> 
+  Diagnosis = s/p ___, Condition = ___.<br>
+  Vitals qshift; do NOT request strict Is &Os.<br>
+  Notify physician for SBP>160mmHg or <90mmHg, diastolic>100mmHg, pulse <55 or >110/min, urine = N/A.<br>
 <br>
 <i>Activity order</i>: "Weight bearing on affected foot only with offloading shoe or boot".<br>
 <i>Nursing text order</i>: "Please do not manipulate leg wrap. Do not move or adjust wrap to find Doppler signals that do not already have windows for monitoring." (for patients with leg wrap)<br>
