@@ -29,7 +29,7 @@ In the clinic, know:<br>
 5. arterial pulse exam<br>
 6. eGFR (if CKD) vs weekly hemodialysis schedule (if ESRD)<br>
 
-We will do Duplex US in clinic for vein mapping for all patients. If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
+We will do Duplex US in clinic for vein mapping for all patients. Cephalic in upper arm preferred over wrist/forearm unless <65 and no diabetes. If basilic caliber is good, map to look for [type 3 variant anatomy](https://pubmed.ncbi.nlm.nih.gov/21144691/). If ESRD: make a plan for hemodialysis within 24 hours prior to case.<br>
 
 Before the case, let’s discuss the aforementioned data. Mark the vein and artery <b>before</b> arrival to operating room. Nerve block by anesthesiology for all patients. For ALL patients: verify venous blood gas potassium is <5 <b><u>before</u></b> the patient goes to the operating room.<br>
 
