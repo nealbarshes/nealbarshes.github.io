@@ -32,12 +32,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <br>
 <hr>
 
-### Best Practices:
-1. No abbreviations whatsoever in O.R. postings or consent forms.
-2. Always use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.
-
-
-### Regarding consents:
+### Best Practices for Informed Consent and O.R. Postings:
 <p style="color:green"><b>DO / ALWAYS:</b></p>
 <ol>
   <li>Include any relevant possibles:</li>
@@ -57,8 +52,12 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 
 <p style="color:red"></b>Do NOT:</b></p>
 <ol>
+  <li>Consents on morning of surgery (so-called "stretcher consent").</li>
   <li>Type in "all indicated procedures" as part of the procedure.</li>
+  <li>Use any abbreviations whatsoever.</li>
   </ol>
+
+<hr>
 
 ### Habits that lead to satisfied patients that trust you:
 1. Introduce yourself and state your role.
@@ -68,7 +67,6 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 5. Explain <b>everything</b> you are going to do.
 6. Make sure someone will call family / friend after the case.
 <br>
-
 <hr>
 
 ### Expectation of all trainees:
@@ -101,6 +99,7 @@ Commit to:
 <li>Vascular surgery consults 24/7.</li>
 <li>New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on Tuesdays, Fridays and Saturdays.</li>
 <li>Diabetic foot infection consults for patients previously seen by our team for infection 24/7.</li>
+<li>Use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.</li>
 </ul>
   </ul>
   
