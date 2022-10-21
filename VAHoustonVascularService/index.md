@@ -55,7 +55,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
   <li>Select "Patient information will be disclosed to device manufacturer ..." for EVAR and TCAR cases.</li>
 </ol>
 
-<b><p style="color:red">Do NOT:</p></b>
+<p style="color:red"></b>Do NOT:</b></p>
 <ol>
   <li>Type in "all indicated procedures" as part of the procedure.</li>
   </ol>
