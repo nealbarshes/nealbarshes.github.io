@@ -41,11 +41,11 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <b><p style="color:green">DO / ALWAYS:</p></b>
 <ol>
   <li>Include any relevant possibles:</li>
-  <ol>
+  <ul>
     <li>Surgical bypass: possible angiogram with peripheral intervention.</li>
     <li>AV graft: possible AV fistula.</li>
     <li>AV fistula: possible AV graft ONLY if E.S.R.D., not if CKD5.</li>
-  </ol>
+  </ul>
   <li>Include names of three staff surgeons.</li>
   <li>Select "anesthesia practicioner will be present ..."</li>
   <li>SPELL OUT any/all anatomic locations without abbreviating.</li>
@@ -59,7 +59,6 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <ol>
   <li>Type in "all indicated procedures" as part of the procedure.</li>
   </ol>
-</p>
 
 ### Habits that lead to satisfied patients that trust you:
 1. Introduce yourself and state your role.
@@ -70,6 +69,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 6. Make sure someone will call family / friend after the case.
 <br>
 
+<hr>
 
 ### Expectation of all trainees:
 
