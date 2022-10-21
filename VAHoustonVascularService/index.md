@@ -32,6 +32,45 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <br>
 <hr>
 
+### Best Practices:
+1. No abbreviations whatsoever in O.R. postings or consent forms.
+2. Always use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.
+
+
+### Regarding consents:
+<b><p style="color:green">DO / ALWAYS:</p></b>
+<ol>
+  <li>Include any relevant possibles:</li>
+  <ol>
+    <li>Surgical bypass: possible angiogram with peripheral intervention.</li>
+    <li>AV graft: possible AV fistula.</li>
+    <li>AV fistula: possible AV graft ONLY if E.S.R.D., not if CKD5.</li>
+  </ol>
+  <li>Include names of three staff surgeons.</li>
+  <li>Select "anesthesia practicioner will be present ..."</li>
+  <li>SPELL OUT any/all anatomic locations without abbreviating.</li>
+  <li>Discuss "YES. The patient (or surrogate) consents for the use of blood products" for <i>all</i> cases. </li>
+  <li>Select "Vendor will be present ..." for peripheral endovascular, EVAR and TCAR cases.</li>
+  <li>Select "YES" for "Tissues will be disposed of"</li>
+  <li>Select "Patient information will be disclosed to device manufacturer ..." for EVAR and TCAR cases.</li>
+</ol>
+
+<b><p style="color:red">Do NOT:</p></b>
+<ol>
+  <li>Type in "all indicated procedures" as part of the procedure.</li>
+  </ol>
+</p>
+
+### Habits that lead to satisfied patients that trust you:
+1. Introduce yourself and state your role.
+2. Make no promises you can't keep. (In general, underpromising and overproducing is much preferred to the reverse). 
+3. Be comfortable saying "I don't know, but I'll find out." Then find out and follow through.
+4. Spend 50% of your interaction with a patient <b>listening</b>.
+5. Explain <b>everything</b> you are going to do.
+6. Make sure someone will call family / friend after the case.
+<br>
+
+
 ### Expectation of all trainees:
 
 NEVER: 
@@ -191,51 +230,6 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 <br>
 <br>
-
-<hr>
-### Best Practices:
-1. No abbreviations whatsoever in O.R. postings or consent forms.
-2. Always use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.
-
-
-### Regarding consents:
-<p style="color:green">DO / ALWAYS:</p>
-<ol>
-  <li>Include any relevant possibles:</li>
-  <ol>
-    <li>Surgical bypass: possible angiogram with peripheral intervention.</li>
-    <li>AV graft: possible AV fistula.</li>
-    <li>AV fistula: possible AV graft ONLY if E.S.R.D., not if CKD5.</li>
-  </ol>
-  <li>Include names of three staff surgeons.</li>
-  <li>Select "anesthesia practicioner will be present ..."</li>
-  <li>SPELL OUT any/all anatomic locations without abbreviating.</li>
-  <li>Discuss "YES. The patient (or surrogate) consents for the use of blood products" for <i>all</i> cases. </li>
-  <li>Select "Vendor will be present ..." for peripheral endovascular, EVAR and TCAR cases.</li>
-  <li>Select "YES" for "Tissues will be disposed of"</li>
-  <li>Select "Patient information will be disclosed to device manufacturer ..." for EVAR and TCAR cases.</li>
-</ol>
-
-Common 
-
-
-<p style="color:red">Do NOT:</p>
-<ol>
-  <li>Type in "all indicated procedures" as part of the procedure.</li>
-  </ol>
-</p>
-
-### Habits that lead to satisfied patients that trust you:
-1. Introduce yourself and state your role.
-2. Make no promises you can't keep. (In general, underpromising and overproducing is much preferred to the reverse). 
-3. Be comfortable saying "I don't know, but I'll find out." Then find out and follow through.
-4. Spend 50% of your interaction with a patient <b>listening</b>.
-5. Explain everything you are going to do.
-6. Make sure someone will call family / friend after the case.
-7. Put family / friend on the COVID visitation list for the patient.
-<br>
-<br>
-
 <hr>
 ### Uncommon but Important Scenarios: 
 <br>
