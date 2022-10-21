@@ -199,18 +199,36 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 2. Always use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.
 3. Avoid prescribing Flexaril (cyclobenzaprine) for pain control.
 
+### Regarding consents:
+<p style="color:green">DO / ALWAYS:</p>
+<ol>
+  <li>Include any relevant possibles:</li>
+  <ol>Surgical bypass: possible angiogram with peripheral intervention.</li>
+    
+  </ol>
+  <li>Include names of three staff surgeons.</li>
+  <li>Select "anesthesia practicioner will be present ..."</li>
+  <li>Select "Consent for blood" </li>
+</ol>
 
-<br>
-Video instructions (19 minutes) on best practices in <b>documenting written informed consent</b> and in site marking:
-<p>
-  <a href="https://www.youtube.com/watch?v=yZEoV2PtRLQ" title="YouTube Primer on Identifying Foot Infections">
-    <img src="/assets/YouTubeConsentTips.jpg" alt="YouTube" />
-  </a>
+Common 
+
+
+<p style="color:red">This is demo content.</p>Do <b><i><u>NOT<u></i></b>:</p>
+<ol>
+  <li>Type in "all indicated procedures" as part of the procedure.</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  </ol>
+
+
+
 </p>
 
-Habits that lead to <b>satisfied patients</b> that <b>trust you</b>:
+### Habits that lead to satisfied patients that trust you:
 1. Introduce yourself and state your role.
-2. Make no promises you can't keep. (In general, underpromise and overproduce is much preferred to the reverse). 
+2. Make no promises you can't keep. (In general, underpromising and overproducing is much preferred to the reverse). 
 3. Be comfortable saying "I don't know, but I'll find out." Then find out and follow through.
 4. Spend 50% of your interaction with a patient <b>listening</b>.
 5. Explain everything you are going to do.
