@@ -203,12 +203,18 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <p style="color:green">DO / ALWAYS:</p>
 <ol>
   <li>Include any relevant possibles:</li>
-  <ol>Surgical bypass: possible angiogram with peripheral intervention.</li>
-    
+  <ol>
+    <li>Surgical bypass: possible angiogram with peripheral intervention.</li>
+    <li>AV graft: possible AV fistula.</li>
+    <li>AV fistula: possible AV graft ONLY if E.S.R.D., not if CKD5.</li>
   </ol>
   <li>Include names of three staff surgeons.</li>
   <li>Select "anesthesia practicioner will be present ..."</li>
-  <li>Select "Consent for blood" </li>
+  <li>SPELL OUT any/all anatomic locations without abbreviating.</li>
+  <li>Discuss "YES. The patient (or surrogate) consents for the use of blood products" for <i>all</i> cases. </li>
+  <li>Select "Vendor will be present ..." for peripheral endovascular, EVAR and TCAR cases.</li>
+  <li>Select "YES" for "Tissues will be disposed of"</li>
+  <li>Select "Patient information will be disclosed to device manufacturer ..." for EVAR and TCAR cases.</li>
 </ol>
 
 Common 
@@ -217,9 +223,6 @@ Common
 <p style="color:red">This is demo content.</p>Do <b><i><u>NOT<u></i></b>:</p>
 <ol>
   <li>Type in "all indicated procedures" as part of the procedure.</li>
-  <li></li>
-  <li></li>
-  <li></li>
   </ol>
 
 
