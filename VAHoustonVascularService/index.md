@@ -38,7 +38,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 
 
 ### Regarding consents:
-<b><p style="color:green">DO / ALWAYS:</p></b>
+<p style="color:green"><b>DO / ALWAYS:</b></p>
 <ol>
   <li>Include any relevant possibles:</li>
   <ul>
