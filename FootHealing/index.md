@@ -110,7 +110,7 @@ Includes diabetes management that is largely concordant with recommendations fro
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 1. chlorhexidine (Hibiclens) solution for skin preparation to the ankle, <i>NOT</i> iodine-povidine solution<br>
 2. mini bone instrument set, <i><b><u>NOT</u></b></i> the leg amputation instrument set please<br>
-3. micro-oscillating saw with 1cm blade<br>
+3. micro-oscillating saw with 10mm or 4.5mm blade<br>
 4. methylene blue in a sterile cup, on the field<br>
 5. swabs x2 (for application of methylene blue on the field, not for microbiology specimen)
 6. sterile specimen cups for microbiology specimen x1 open; another in the room<br>
