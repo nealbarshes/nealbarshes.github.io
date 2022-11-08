@@ -32,7 +32,9 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <br>
 <hr>
 
-### Best Practices for Informed Consent and O.R. Postings:
+### Best Practices:
+
+#### For iMed Consents and LST notes:
 <p style="color:green"><b>DO / ALWAYS:</b></p>
 <ol>
   <li>Include any relevant possibles:</li>
@@ -57,6 +59,16 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
   <li>Use any abbreviations whatsoever.</li>
   </ol>
 
+#### For clinical care:
+<p style="color:green"><b>DO / ALWAYS:</b></p>
+<ol>
+  <li>Use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.</li>
+</ol>
+
+<p style="color:red"><b>Do NOT:</b></p>
+<ol>
+  <li>Discontinue clopidogrel or ticagrelor before reviewing initial indication (esp. recent drug-eluting coronary stents.</li>
+  </ol>
 <hr>
 
 ### Habits that lead to satisfied patients that trust you:
@@ -69,7 +81,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <br>
 <hr>
 
-### Expectation of all trainees:
+### Comportment expected of all trainees:
 
 NEVER: 
 <ul>
@@ -90,7 +102,7 @@ Commit to:
 </ul>
 
 
-### Expectations for Daytime/Inpatient Interns: 
+### Roles, duties and expectations for Daytime/Inpatient Interns: 
 <ul>  
 <li>Working in a dyad with your paired senior trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR, and you should be doing face-to-face or telephone encounters when he or she is assigned to cover a clinic day. You should both see consults together.</li>
 <li>On Thursdays, in clinic for face-to-face outpatient encounters.</li>
@@ -99,7 +111,6 @@ Commit to:
 <li>Vascular surgery consults 24/7.</li>
 <li>New diabetic foot infection consults (not previously seen by a surgical team at MEDVAMC for the infected site in question) on Tuesdays, Fridays and Saturdays.</li>
 <li>Diabetic foot infection consults for patients previously seen by our team for infection 24/7.</li>
-<li>Use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.</li>
 </ul>
   </ul>
   
@@ -111,7 +122,7 @@ Notes:
 <li>You should write OCL History and Physicals for new admissions and consults.</li>
 </ul>
   
-### Expectations of the Night Float Intern: 
+### Roles, duties and expectations of the Night Float Intern: 
 <ul>
   <li>Initial evaluation of new consults after 6pm.</li>
     <li>Complete post-operative checks (with notes) on all patients who have come out of the operating room after 3pm.</li>
@@ -119,7 +130,7 @@ Notes:
   <li>Avoid ordering daily labs on inpatients.</li>
 </ul>
 
-### Expectations and Objectives for PGY-2 Residents: 
+### Roles, duties and expectations for PGY-2 Residents: 
 <ul>
 <li>Able to independently perform vein mapping for hemodialysis access.</li>
 <li>In addition to dialysis access cases assigned, double-scrubbing as many cases as many other vascular cases.</li>
@@ -127,7 +138,7 @@ Notes:
 <li>Present Monday through Friday until at least 3pm. Utilize non-clinical time for robotic training and reading on vascular topics. </li>
 </ul>
   
-### Expectations for PGY-4-7 Senior Trainees: 
+### Roles, duties and expectations for PGY-4-7 Senior Trainees: 
 <b>Always / every day weekday:</b>
 
 <ul>
