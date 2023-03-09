@@ -45,7 +45,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
   </ul>
   <li>Include names of three staff surgeons.</li>
   <li>Select "anesthesia practicioner will be present ..."</li>
-  <li>SPELL OUT any/all anatomic locations without abbreviating.</li>
+  <li>SPELL OUT any/all anatomic locations without abbreviating. For limbs, this means "left" or "right" and "foot", "calf", "heel", "lower extremity", or other anatomic descriptor. For digits, i.e. toes, SPECIFY WHICH: "Left first and second toes", for example.</li>
   <li>Discuss "YES. The patient (or surrogate) consents for the use of blood products" for <i>all</i> cases. </li>
   <li>Select "Vendor will be present ..." for peripheral endovascular, EVAR and TCAR cases.</li>
   <li>Select "YES" for "Tissues will be disposed of"</li>
