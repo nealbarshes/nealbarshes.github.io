@@ -244,7 +244,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 ### Uncommon but Important Scenarios: 
 <br>
 #### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
-Thank you to Dr. Zachary Chizmar for helping develop this material!
+Thank you to Drs. Jessica Rea and Zachary Chizmar for helping develop this material.
 
 Transitioning clinical responsibilities is <i>mandatory</i> when:
 1. ill or fatigued
@@ -260,6 +260,8 @@ P= | Patient summary
 A= | Action list 
 S= | Situational awareness
 S= | Synthesis by receiver
+
+If a senior surgical trainee stays past 10pm, the on-call staff surgeon should be notified. Handoff using the aforementioned I-PASS acronym should be given to the night float resident. At 6am the following morning, the night float resident should then contact the incoming senior trainee to round on the patients of the senior surgical trainee that stayed late. This senior surgical trainee should come in 10 hours from leaving the hospital (ex. 10am if left at midnight, noon if left at 2am). 
 
 
 #### Sharps injury, in operating room or anywhere else: 
