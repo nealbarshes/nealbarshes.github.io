@@ -49,6 +49,9 @@ This brochure is written with plain language and no undefined technical terms. W
 18. [Bewachen Sie Ihre Füße, German](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/18%20Bewachen%20Sie%20Ihre%20Fu%CC%88%C3%9Fe%20%5BGerman%5D.pdf)
 19. [ចូរƳរljរ េជង របស់អƒក, Khmer (Cambodian)](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/19%20Guard%20Your%20Feet%20%5BKhmer%5D.pdf)
 20. [Jaga dan selamatkan kaki anda, Indonesian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/20%20Jaga%20dan%20selamatkan%20kaki%20anda%20%5BIndonesian%2C%20Yunir%5D.pdf)
+21. [あなたの足を守り ましょう, Japanese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/21%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E8%B6%B3%E3%82%92%E5%AE%88%E3%82%8A%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%5BJapanese%2C%20McMillan%5D.pdf)
+22. [Ayaklarini koru, Turkish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/22%20Ayaklarini%20koru%20%5BTurkish%2C%20Crawford%5D.pdf)
+23. [Берегите ваши Ноги, Russian]()
 
 
 
