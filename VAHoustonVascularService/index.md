@@ -39,7 +39,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <ol>
   <li>Include any relevant possibles:</li>
   <ul>
-    <li>Surgical bypass: possible angiogram with peripheral intervention.</li>
+    <li>Surgical bypass: possible completion angiogram with peripheral intervention.</li>
     <li>AV graft: possible AV fistula.</li>
     <li>AV fistula: possible AV graft ONLY if E.S.R.D., not if CKD5.</li>
   </ul>
@@ -67,7 +67,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 
 <p style="color:red"><b>Do NOT:</b></p>
 <ol>
-  <li>Discontinue clopidogrel or ticagrelor before reviewing initial indication (esp. recent drug-eluting coronary stents.</li>
+  <li>Discontinue clopidogrel or ticagrelor before reviewing initial indication (esp. recent drug-eluting coronary stents).</li>
   </ol>
 <hr>
 
@@ -116,7 +116,7 @@ Commit to:
   
 Notes:
 <ul>
-<li>Per hospital policy, ER consults must be seen within 30 mins and have written plans (note or admission orders within 120 minutes).</li>
+<li>Per hospital policy, ER consults must be seen within 30 mins and have written plans (note or admission orders) within 120 minutes.</li>
 <li>You should work as a team with the on-call senior resident and on-call staff vascular surgeon. Discuss foot infection consults directly with staff surgeon, then discuss with on-call senior resident.</li>
 <li>You should go to the OR to talk if that is where the on-call senior or staff surgeon is.</li>
 <li>You should write OCL History and Physicals for new admissions and consults.</li>
@@ -130,11 +130,12 @@ Notes:
   <li>Avoid ordering daily labs on inpatients.</li>
 </ul>
 
-### Roles, duties and expectations for PGY-2 Residents: 
+### Roles, duties and expectations for PGY-2/3 Residents: 
 <ul>
 <li>Able to independently perform vein mapping for hemodialysis access.</li>
 <li>In addition to dialysis access cases assigned, double-scrubbing as many cases as many other vascular cases.</li>
-<li>In daytime, see dialysis access and venous disease consults if not in the OR.</li>
+<li>Take daytime call on days when general surgery PGY-4 is on-call at night.</li>
+<li>All other weekdays, see dialysis access and venous disease consults when not in the OR.</li>
 <li>Present Monday through Friday until at least 3pm. Utilize non-clinical time for robotic training and reading on vascular topics. </li>
 </ul>
   
@@ -194,7 +195,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <br>
 <b>Monday:</b>
 <ul>
-<li>7:45am table rounds in 5D (Green elevator side).</li>
+<li>7:45am table rounds in 5A-321.</li>
 <li>Post-op/tele clinic: clinic senior and junior.</li>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2/BU: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
@@ -202,6 +203,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 <b>Tuesday:</b>
 <ul>
+<li>7:45am table rounds in 5A-321.</li>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2/BU: OR2 senior and junior.</li>
 <li>Tele-clinic: clinic senior and junior.</li>
@@ -217,8 +219,8 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 <b>Thursday:</b>
 <ul>
-<li>7:45am: table rounds in 5D (Green elevator side).</li>
-<li>8:15am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call. Fellow/4th year and all available.</li>
+<li>7:45am table rounds in 5A-321.</li>
+<li>8:00am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call. Fellow/4th year and all available.</li>
 <li>OR1: on-call senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2/back-up: OR2 senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
 <li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference.</li>
@@ -226,6 +228,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 <b>Friday:</b>
 <ul>
+<li>7:45am table rounds in 5A-321.</li>
 <li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR3 (when it occurs): back-up senior and/or junior residents.</li>
