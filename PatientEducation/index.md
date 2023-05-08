@@ -44,7 +44,7 @@ If you HAVE a foot ulcer, this video gives some information about some of the tr
   </a>
 </p>
 
-# If you SMOKE TOBACCO
+# If you SMOKE TOBACCO / CIGARETTES
 
 One man's challenges and success in quitting:
 <p>
@@ -66,7 +66,7 @@ Bill's story about smoking and leg amputation:
   </a>
 </p>
 
-Working with a <b>smoking cessation counsellor</b> can <b><u>double</u></b> your chances of successfully quitting tobacco use. There are two sources of FREE help available to you: 
+Working with a <b>smoking cessation counselor</b> can <b><u>double</u></b> your chances of successfully quitting tobacco use. There are two sources of FREE help available to you: 
 1. [YesQuit.org webpage](https://www.yesquit.org) (phone 877-YES-QUIT or 877-937-7848), from the Texas Department of State Health Services and the American Cancer Society. <u>This is the best option if you want coaching via phone</u>.
 
 2. [SmokeFree.gov webpage](https://www.smokefree.gov) (phone 800-QUIT-NOW or 800-784-8669), from the U.S. Department of Health and Human Services and the National Cancer Institute. This webpage provides excellent online resources, including these [free phone apps](https://smokefree.gov/tools-tips/apps) that can also help you help you with quitting.
