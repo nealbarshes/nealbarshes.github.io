@@ -223,7 +223,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 
 <b>Thursday:</b>
 <ul>
-<li>7:45am table rounds in 5A-321.</li>
+<li>7:45am table rounds in the 5C clinic conference room.</li>
 <li>8:00am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call. Fellow/4th year and all available.</li>
 <li>OR1: on-call senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
 <li>OR2/back-up: OR2 senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
