@@ -59,7 +59,7 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <p style="color:red"><b>Do NOT:</b></p>
 <ol>
   <li>Consents on morning of surgery (so-called "stretcher consent").</li>
-  <li>Type in "all indicated procedures" as part of the procedure.</li>
+  <li>Type in "all indicated procedures" as part of the procedure. (We've clarified with the hospital Ethics Committee that this and other forms of blanket consent are not allowed). </li>
   <li>Use any abbreviations whatsoever.</li>
   </ol>
 
