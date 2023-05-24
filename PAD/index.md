@@ -188,7 +188,7 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), benzodiazepine
 <b>Post-Operative Day #2:</b> Ensure out or bed. Remove and replace leg wrap (ok to give patient break for a few hours) and foot dressing, conforming to [contemporary strategies for wound healing](https://nealbarshes.github.io/FootHealing/). Tell patient to make plans to get home day 4 or work with case manager, social worker, and nurse practicioner to identify other discharge plans. 
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, post-operative day #2:</b><br>
-1. Order POD #3 AM hematocrit +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.<br>
+1. Order POD #3 AM hemoglobin +/- repeat BNP. BMP only if ESRD, prior electrolyte abnormalities, or other clinical indication.<br>
 2. Change acetaminophen order from scheduled to PRN q6h.
 3. Prosthetics consult for DH walker (if patient does not already have one). Look under "Footwear", and "Urgent Footwear".<br>
 4. <i>Text order</i>: "To 2B-300 prosthetics department via wheelchair and escort for DH walker offloading boot".<br>
