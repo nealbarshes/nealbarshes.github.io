@@ -27,7 +27,7 @@ Health professionals interested in getting a more comprehensive summary of the n
 
 <i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with understanding how diabetes can lead to foot ulcers and infections. It helps people reduce their amputation risk, recognize a foot infection, and develop a contingency plan if infection does develop.
 
-This brochure is written with plain language and no undefined technical terms. We have incorporated feedback from patients who have graciously reviewed it. Fantastic colleagues here in Houston have helped translate it from English into 22 additional languages that represent the languages spoken by 96.9% of the United States population. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients or to learn about your condition.
+This brochure is written with plain language and no undefined technical terms. We have incorporated feedback from patients who have graciously reviewed it. Fantastic colleagues here in Houston have helped translate it from English into 22 additional languages that represent the languages spoken by 97.2% of the United States population. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients or to learn about your condition.
 
 1.  [Guard your Feet, English](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
 2.  [Proteja los Pies, Spanish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/02%20Protega%20los%20Pies%20%5BSpanish%5D.pdf)
