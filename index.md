@@ -52,6 +52,9 @@ This brochure is written with plain language and no undefined technical terms. W
 21. [あなたの足を守り ましょう, Japanese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/21%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E8%B6%B3%E3%82%92%E5%AE%88%E3%82%8A%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%5BJapanese%2C%20McMillan%5D.pdf)
 22. [Ayaklarini koru, Turkish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/22%20Ayaklarini%20koru%20%5BTurkish%2C%20Crawford%5D.pdf)
 23. [Берегите ваши Ноги, Russian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/23%20%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%B8%D1%82%D0%B5%20%D0%B2%D0%B0%D1%88%D0%B8%20%D0%9D%D0%BE%D0%B3%D0%B8%20%5BRussian%2C%20Alrabaa%5D.pdf)
+24. [તમારા પગનું રક્ષણ કરો, Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/24%20%E0%AA%A4%E0%AA%AE%E0%AA%BE%E0%AA%B0%E0%AA%BE%20%E0%AA%AA%E0%AA%97%E0%AA%A8%E0%AB%81%E0%AA%82%20%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%A3%20%E0%AA%95%E0%AA%B0%E0%AB%8B%20%5BGujarati%2C%20Patel%5D.pdf)
+25. [Guard Your Feet, Farsi/Persian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/25%20Guard%20your%20Feet%20%5BPersian%2C%20Zamani%5D.pdf)
+26. [Bantayan ang Mga Paa, Tagalog/Filipino](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/26%20Bantayan%20ang%20Mga%20Paa%20%5BTagalog%2C%20Reyes%5D.pdf)
 
 
 
