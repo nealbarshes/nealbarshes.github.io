@@ -131,12 +131,11 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 6. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
 7. Order hemoglobin for AM of POD #2 only if severe anemia was present prior to the operation.<br>
 8. Consult vascular medicine for best medical management.<br>
-9. Start rivaroxaban 2.5mg PO BID, as [patients with a history of leg amputation have a rate of cerebrovascular and coronary events that is higher than any other subgroup with peripheral artery disease](https://pubmed.ncbi.nlm.nih.gov/32997098/).<br>
 </tt></blockquote>
 <br>
 <br>
-<b>POD#2:</b> CHANGE WRAP on POD#2, replace with Webril and ACE. Text order for nurses to weigh patient and document weight in the chart.
+<b>POD#2:</b> CHANGE WRAP on POD#2, replace with Webril and ACE. Text order for nurses to weigh patient and document weight in the chart. <b>Start planning discharge disposition.</b> 
 
-<b>POD#3:</b> Ask anesthesiology block team to remove nerve block catheter. Start planning discharge disposition. If the amputation was done for foot infection, ensure a 7 total days operative culture-specific antibiotics.
+<b>POD#3:</b> Ask anesthesiology block team to remove nerve block catheter. If the amputation was done for foot infection, ensure a 7 total days operative culture-specific antibiotics. Start rivaroxaban 2.5mg PO BID, as [patients with a history of leg amputation have a rate of cerebrovascular and coronary events that is higher than any other subgroup with peripheral artery disease](https://pubmed.ncbi.nlm.nih.gov/32997098/). The patient is not ready for discharge until pain is controlled for 24 hours (no higher than level 5) with oral pain medications only (i.e. no intravenous PRN pain medications). 
 
 Incisional wound VAC off no later than day 5. Discharge with 25 tablets of tramadol or 15 tablets of Tylenol #3.
