@@ -127,7 +127,7 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 2. If present: Foley out / condom catheter off.<br>
 3. Saline (<i>not</i> heparin) lock IV.<br>
 4. Consider furosemide if edema present.<br>
-5. Resume home insulin regimen.
+5. Resume home insulin regimen.<br>
 6. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
 7. Order hemoglobin for AM of POD #2 only if severe anemia was present prior to the operation.<br>
 8. Consult vascular medicine for best medical management.<br>
