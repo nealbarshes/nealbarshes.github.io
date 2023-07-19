@@ -123,18 +123,20 @@ MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiaze
 <b>Post-Operative Day #1:</b> Main goals are generally out of bed to chair. Ensure this has happened by afternoon rounds.
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>Additional orders, post-operative day #1:</b><br>
-1. Out of bed to cardiac chair by 9AM.<br>
-2. Foley out, wean any O2.<br>
+1. Out of bed to chair by 9AM.<br>
+2. If present: Foley out / condom catheter off.<br>
 3. Saline (<i>not</i> heparin) lock IV.<br>
 4. Consider furosemide if edema present.<br>
 5. Resume home insulin regimen.
 6. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
 7. Order hemoglobin for AM of POD #2 only if severe anemia was present prior to the operation.<br>
+8. Consult vascular medicine for best medical management.<br>
+9. Start rivaroxaban 2.5mg PO BID, as [patients with a history of leg amputation have a rate of cerebrovascular and coronary events that is higher than any other subgroup with peripheral artery disease](https://pubmed.ncbi.nlm.nih.gov/32997098/).<br>
 </tt></blockquote>
 <br>
 <br>
 <b>POD#2:</b> CHANGE WRAP on POD#2, replace with Webril and ACE. Text order for nurses to weigh patient and document weight in the chart.
 
-<b>POD#3:</b> Ask anesthesiology block team to remove nerve block catheter. Start planning discharge disposition. +/- 7 day course of abx directed to operative culture results.
+<b>POD#3:</b> Ask anesthesiology block team to remove nerve block catheter. Start planning discharge disposition. If the amputation was done for foot infection, ensure a 7 total days operative culture-specific antibiotics.
 
 Incisional wound VAC off no later than day 5. Discharge with 25 tablets of tramadol or 15 tablets of Tylenol #3.
