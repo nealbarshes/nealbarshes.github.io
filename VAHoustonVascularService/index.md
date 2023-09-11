@@ -134,16 +134,8 @@ Notes:
   <li>Avoid ordering daily labs on inpatients.</li>
 </ul>
 
-### Roles, duties and expectations for PGY-2/3 Residents: 
-<ul>
-<li>Able to independently perform vein mapping for hemodialysis access.</li>
-<li>In addition to dialysis access cases assigned, double-scrubbing as many cases as many other vascular cases.</li>
-<li>Take daytime call on days when general surgery PGY-4 is on-call at night.</li>
-<li>All other weekdays, see dialysis access and venous disease consults when not in the OR.</li>
-<li>Present Monday through Friday until at least 3pm. Utilize non-clinical time for robotic training and reading on vascular topics. </li>
-</ul>
   
-### Roles, duties and expectations for PGY-4-7 Senior Trainees: 
+### Roles, duties and expectations for PGY-3 to -7 Senior Trainees: 
 <b>Always / every day weekday:</b>
 
 <ul>
