@@ -183,14 +183,19 @@ Notes:
 Please note that all patients admitted or otherwise evaluated are assigned to the on-call senior resident, including foot infections. In other words, there are no longer any “intern patients” as our service used to do with the diabetic foot service we used to run. Interns should be actively involved in the care of patients assigned to the senior trainee he or she is working with, but the intern does not assume sole responsibility.
 
 <br>
+
 <b>When not on-call:</b>
 <ul>  
 <li>In operating room as much as possible.</li>
 <li>Present in the hospital until 3pm when not in the operating room.</li>
 <li>Face-to-face or telephone hand-off to on-call senior resident; this is NOT to be done via text, email or any other modality.</li>
 <li>Discuss the next day's operative plans, inpatient management with staff surgeons.</li>
-<li>Read. Fellows, read from Rutherford's Vascular Surgery. Surgery residents, read our [recommended chapters from Cameron's Current Surgical Therapy](). </li>
+<li>Read. Fellows, read from Rutherford's Vascular Surgery. Surgery residents, read our Cameron's Current Surgical Therapy. </li>
 </ul>
+
+Our [recommended list of chapters from Cameron's Current Surgical Therapy](https://nealbarshes.github.io/VAHoustonVascularService/RecommendedReadings.md).
+
+
 <br>
 <br>
 
