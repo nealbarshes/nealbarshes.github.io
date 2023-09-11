@@ -190,6 +190,7 @@ Please note that all patients admitted or otherwise evaluated are assigned to th
 <li>Present in the hospital until 3pm when not in the operating room.</li>
 <li>Face-to-face or telephone hand-off to on-call senior resident; this is NOT to be done via text, email or any other modality.</li>
 <li>Discuss the next day's operative plans, inpatient management with staff surgeons.</li>
+<li>Read from Cameron's Current Surgical Therapy. These are the readings we recommend for PGY-3 and PGY-4 levels.</li>
 </ul>
 <br>
 <br>
