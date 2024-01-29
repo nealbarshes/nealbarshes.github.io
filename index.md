@@ -39,7 +39,7 @@ This brochure is written with plain language and no undefined technical terms. W
 8.  [आपके पेरोंकी रक्षा करे, Hindi](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/08%20Guard%20your%20Feet%20%5BHindi%2C%20Zope%5D.pdf)
 9.  [Guarda dos seu Pes, Brazilian Portuguese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/09%20Guarda%20dos%20seu%20Pes%20%5BPortuguese%2C%20Branco%5D.pdf)
 10. [护理您的脚, Mandarin Chinese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
-11. [Uita-te atent la picioarele tale, Romanian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/11%20Uita-te%20atent%20la%20picioarele%20tale%20%5BRomanian%5D%20.pdf)
+11. [Uita-te atent la picioarele tale, Romanian]([https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/11%20Uita-te%20atent%20la%20picioarele%20tale%20%5BRomanian, Mindru%5D%20.pdf](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/11%20Uita-te%20atent%20la%20picioarele%20tale%20%5BRomanian%2C%20Mindru%5D.pdf))
 12. [Protegez Vos Pieds, French](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/12%20Protegez%20Vos%20Pieds%20%5BFrench%2C%20Charland%5D.pdf)
 13. [Chroń swoje stopy, Polish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/13%20Chro%C5%84%20swoje%20stopy%20%5BPolish%2C%20Starosolska%5D.pdf)
 14. [발을 보호 하세요, Korean](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/14%20Guard%20your%20Feet%20%5BKorean%2C%20Lim%5D.pdf)
@@ -53,7 +53,7 @@ This brochure is written with plain language and no undefined technical terms. W
 22. [Ayaklarini koru, Turkish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/22%20Ayaklarini%20koru%20%5BTurkish%2C%20Crawford%5D.pdf)
 23. [Берегите ваши Ноги, Russian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/23%20%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%B8%D1%82%D0%B5%20%D0%B2%D0%B0%D1%88%D0%B8%20%D0%9D%D0%BE%D0%B3%D0%B8%20%5BRussian%2C%20Alrabaa%5D.pdf)
 24. [તમારા પગનું રક્ષણ કરો, Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/24%20%E0%AA%A4%E0%AA%AE%E0%AA%BE%E0%AA%B0%E0%AA%BE%20%E0%AA%AA%E0%AA%97%E0%AA%A8%E0%AB%81%E0%AA%82%20%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%A3%20%E0%AA%95%E0%AA%B0%E0%AB%8B%20%5BGujarati%2C%20Patel%5D.pdf)
-25. [Guard Your Feet, Farsi/Persian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/25%20Guard%20your%20Feet%20%5BFarsi%2C%20Zamani%5D.pdf)
+25. [Guard Your Feet, Farsi/Persian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/25%20Guard%20Your%20Feet%20%20%5BFarsi%2C%20Zamani%5D.pdf)
 26. [Bantayan ang Mga Paa, Tagalog/Filipino](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/26%20Bantayan%20ang%20Mga%20Paa%20%5BTagalog%2C%20Reyes%5D.pdf)
 
 
