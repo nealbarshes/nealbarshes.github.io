@@ -30,7 +30,7 @@ Health professionals interested in getting a more comprehensive summary of the n
 This brochure is written with plain language and no undefined technical terms. We have incorporated feedback from patients who have graciously reviewed it. Fantastic colleagues here in Houston have helped translate it from English into 22 additional languages that represent the languages spoken by 97.2% of the United States population. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients or to learn about your condition.
 
 1.  [Guard your Feet, English](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
-2.  [Proteja los Pies, Spanish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/02%20Protega%20los%20Pies%20%5BSpanish%5D.pdf)
+2.  [Proteja los Pies, Spanish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/02%20Proteja%20los%20Pies%20%5BSpanish%5D.pdf)
 3.  [Bảo vệ của bạn Đôi chân, Vietnamese](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/03%20B%E1%BA%A3o%20v%E1%BB%87%20c%E1%BB%A7a%20b%E1%BA%A1n%20%C4%90%C3%B4i%20ch%C3%A2n%20%5BVietnamese%2C%20Pham%20family%5D.pdf)
 4.  [Chebe ụkwụ gị, Igbo](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/04%20Chebe%20%E1%BB%A5kw%E1%BB%A5%20g%E1%BB%8B%20%5BIgbo%2C%20Onuoha%5D.pdf)
 5.  [Shọ Ẹsẹ Rẹ, Yoruba](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/05%20Sh%E1%BB%8D%20%E1%BA%B8s%E1%BA%B9%20R%E1%BA%B9%20%5BYoruba%2C%20Vaughn%20family%5D.pdf)
@@ -53,7 +53,7 @@ This brochure is written with plain language and no undefined technical terms. W
 22. [Ayaklarini koru, Turkish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/22%20Ayaklarini%20koru%20%5BTurkish%2C%20Crawford%5D.pdf)
 23. [Берегите ваши Ноги, Russian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/23%20%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%B8%D1%82%D0%B5%20%D0%B2%D0%B0%D1%88%D0%B8%20%D0%9D%D0%BE%D0%B3%D0%B8%20%5BRussian%2C%20Alrabaa%5D.pdf)
 24. [તમારા પગનું રક્ષણ કરો, Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/24%20%E0%AA%A4%E0%AA%AE%E0%AA%BE%E0%AA%B0%E0%AA%BE%20%E0%AA%AA%E0%AA%97%E0%AA%A8%E0%AB%81%E0%AA%82%20%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%A3%20%E0%AA%95%E0%AA%B0%E0%AB%8B%20%5BGujarati%2C%20Patel%5D.pdf)
-25. [Guard Your Feet, Farsi/Persian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/25%20Guard%20your%20Feet%20%5BPersian%2C%20Zamani%5D.pdf)
+25. [Guard Your Feet, Farsi/Persian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/25%20Guard%20your%20Feet%20%5BFarsi%2C%20Zamani%5D.pdf)
 26. [Bantayan ang Mga Paa, Tagalog/Filipino](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/26%20Bantayan%20ang%20Mga%20Paa%20%5BTagalog%2C%20Reyes%5D.pdf)
 
 
