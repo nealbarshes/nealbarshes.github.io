@@ -86,8 +86,7 @@ Hard copy packet with:
 
 <br>
 ---------------------------------------------
-
-## Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).
+Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).
 ---------------------------------------------
 <br>
 
