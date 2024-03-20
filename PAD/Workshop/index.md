@@ -18,6 +18,7 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 ## Course Content Overview
 ---------------------------------------------
 <br>
+
 ### PART 1: Arterial Tree Anatomy & Anatomic Imaging
 
 - How normal macrovascular and microvascular anatomy supplies blood to soft tissue of the foot. 
@@ -25,35 +26,34 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 - Hagen–Poiseuille equation. Newer understanding of pathologic changes that impair perfusion.
 - A primer on anatomic imaging of the arterial tree: tibial & pedal arteries, "wound blush", medial artery calcifications, and atherosclerotic occlusive disease on diagnostic angiograms. CTAs and MRAs.
 
-Exercise: Review x-rays and angiograms to identify significant lesions, angiosome-directed flow, "wound blush" and medial artery calcifications.
+<b>Exercise:</b> Review x-rays and angiograms to identify significant lesions, angiosome-directed flow, "wound blush" and medial artery calcifications.
 
 
 
 ### PART 2: Physiology and Physiologic Testing: Methods, Accuracy and Limitations
 <br>
-2a) The cardiac cycle and the normal arterial waveform
-2b) Perfusion vs. flow vs. velocity; determinants of oxygen and nutrient delivery.
-2c) How much blood flow is needed? Metabolic demands in wound healing and infection. Pathergy.
-2d) Methods, interpretation, diagnostic accuracy, and limitations of pressure-based modalities.
-    2d-1: ankle-brachial indices, 
-    2d-2: toe-(digit-) brachial indices
-    2d-3: skin perfusion pressures
-    2d-4: transcutaneous oximetry
-    2d-5: plethysmography & systolic slopes
+- The cardiac cycle and the normal arterial waveform
+- Perfusion vs. flow vs. velocity; determinants of oxygen and nutrient delivery.
+- How much blood flow is needed? Metabolic demands in wound healing and infection. Pathergy.
+- Methods, interpretation, diagnostic accuracy, and limitations of pressure-based modalities.
+  - ankle-brachial indices, 
+  - toe (digit-) brachial indices
+  - skin perfusion pressures
+  - transcutaneous oximetry
+  - plethysmography & systolic slopes
 
-Exercise: Review sample reports from non-invasive testing to identify peripheral artery disease in patients with non-healing foot ulcers.
+<b>Exercise:</b> Review sample reports from non-invasive testing to identify peripheral artery disease in patients with non-healing foot ulcers.
 
 
 
 ### PART 3: Signs, Signals, Suggested Strategies and Specific Situations
 
-3a: Bedside assessments: exam findings, pedal pulse exam, and handheld Doppler signals (incl. nomenclature).
-3b: Suggested strategies for PAD identification.
-3c: A rank-ordering of arterial flow from revascularization procedures: normal, AT+PT, angiosome-directed, peroneal only, "in-line" to the ankle, etc..
-3d: Special situations: dorsum & heel wounds; partial foot (transmetatarsal/TMA) amputations.
+- Bedside assessments: exam findings, pedal pulse exam, and handheld Doppler signals (incl. nomenclature).
+- Suggested strategies for PAD identification.
+- A rank-ordering of arterial flow from revascularization procedures: normal, AT+PT, angiosome-directed, peroneal only, "in-line" to the ankle, etc..
+- Special situations: dorsum & heel wounds; partial foot (transmetatarsal/TMA) amputations.
 
-Exercise: Review clinical vignettes, then identify best testing modality and discuss wound healing prognosis for the given situation. 
-
+<b>Exercise:</b> Review clinical vignettes, then identify best testing modality and discuss wound healing prognosis for the given situation. 
 
 
 ### PART 4: Summary, final Q&A.
