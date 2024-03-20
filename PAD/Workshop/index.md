@@ -63,11 +63,11 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 ## Course Faculty
 ---------------------------------------------
 
-Neal R. Barshes, M.D., M.P.H.<br>
+[Neal R. Barshes, M.D., M.P.H.](https://www.bcm.edu/people-search/neal-barshes-18065)<br>
 Associate Professor of Surgery<br>
 Baylor College of Medicine<br>
 
-Besma Nejim, M.D., M.P.H.<br>
+[Besma J. Nejim, M.D., M.P.H.](https://www.bcm.edu/people-search/besma-nejim-156031)<br>
 Assistant Professor of Surgery<br>
 Baylor College of Medicine<br>
 
@@ -75,8 +75,10 @@ Baylor College of Medicine<br>
 ## Course Materials Provided
 ---------------------------------------------
 
-Hard copy packet with 
-glossary, 
-normal values, diagnostic accuracy
+Hard copy packet with:
+- normal values, diagnostic accuracy of commonly-used non-invasive tests
+- essential concepts: a summary
+- glossary of terms
 
+## Register with [this link](www.surveymonkey.com/r/8HWZKPQ).
 
