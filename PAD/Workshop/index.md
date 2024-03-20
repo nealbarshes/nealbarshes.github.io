@@ -62,7 +62,7 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 
 ### PART 4: Summary, final Q&A.
 
-== Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).==
+=Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).=
 
 ---------------------------------------------
 ## Course Faculty
