@@ -12,7 +12,10 @@
 
 # Arterial Diagnostics Workshop
 
-We are excited to offer a half-day workshop on arterial diagnostic -- contemporary strategies to identify lower extremity peripheral artery disease. Our goal is to teach participants how to accurately incorporate findings from physical exam, bedside evaluation, non-invasive arterial testing (ex. ankle-brachial indices, or ABIs) into care for patients with patients with foot ulcers or gangrene.
+We are excited to offer a half-day workshop on arterial diagnostic -- contemporary strategies to identify lower extremity peripheral artery disease. 
+
+*Our goal for the workshop:* 
+> to teach participants how to accurately incorporate findings from physical exam, bedside evaluation, non-invasive arterial testing (ex. ankle-brachial indices, or ABIs) into care for patients with patients with foot ulcers or gangrene.
 
 ---------------------------------------------
 ## Course Content Overview
