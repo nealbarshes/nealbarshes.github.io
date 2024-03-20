@@ -87,12 +87,12 @@ Hard copy packet with:
 <br>
 ---------------------------------------------
 
-## Register with [this link](www.surveymonkey.com/r/8HWZKPQ).
+## Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).
 ---------------------------------------------
 <br>
 
 <blockquote style="border: 2px solid #103B58; font-style: normal; padding: 20px; font-size:16px; background-color: #ADBED3;">
-<span style="color:red">Register with</span>  [this link](www.surveymonkey.com/r/8HWZKPQ).</blockquote>.
+<span style="color:red">Register with</span>  [this link](https://www.surveymonkey.com/r/8HWZKPQ).</blockquote>.
 
 <br>
 <br>
