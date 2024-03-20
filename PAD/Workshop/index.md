@@ -15,9 +15,9 @@
 We are excited to offer a half-day workshop on arterial diagnostic -- contemporary strategies to identify lower extremity peripheral artery disease. Our goal is to teach participants how to accurately incorporate findings from physical exam, bedside evaluation, non-invasive arterial testing (ex. ankle-brachial indices, or ABIs) into care for patients with patients with foot ulcers or gangrene.
 
 ---------------------------------------------
-Course Content Overview
+## Course Content Overview
 ---------------------------------------------
-## PART 1: Arterial Tree Anatomy & Anatomic Imaging
+### PART 1: Arterial Tree Anatomy & Anatomic Imaging
 
 1a: How normal macrovascular and microvascular anatomy supplies blood to soft tissue of the foot. 
 1b: The “angiosome” concept. The three angiosomes of the foot. Empiric studies on angiosomes.
@@ -28,7 +28,7 @@ Exercise: Review x-rays and angiograms to identify significant lesions, angiosom
 
 
 
-## PART 2: Physiology and Physiologic Testing: Methods, Accuracy and Limitations
+### PART 2: Physiology and Physiologic Testing: Methods, Accuracy and Limitations
 
 2a: The cardiac cycle and the normal arterial waveform
 2b: Perfusion vs. flow vs. velocity; determinants of oxygen and nutrient delivery.
@@ -44,7 +44,7 @@ Exercise: Review sample reports from non-invasive testing to identify peripheral
 
 
 
-## PART 3: Signs, Signals, Suggested Strategies and Specific Situations
+### PART 3: Signs, Signals, Suggested Strategies and Specific Situations
 
 3a: Bedside assessments: exam findings, pedal pulse exam, and handheld Doppler signals (incl. nomenclature).
 3b: Suggested strategies for PAD identification.
@@ -55,9 +55,27 @@ Exercise: Review clinical vignettes, then identify best testing modality and dis
 
 
 
-## PART 4: Summary, final Q&A.
+### PART 4: Summary, final Q&A.
 
 
 ---------------------------------------------
 Course Faculty
 ---------------------------------------------
+
+Neal R. Barshes, M.D., M.P.H.
+Associate Professor of Surgery
+Baylor College of Medicine
+
+Besma Nejim, M.D., M.P.H.
+Assistant Professor of Surgery
+Baylor College of Medicine
+
+---------------------------------------------
+Course Materials Provided
+---------------------------------------------
+
+Hard copy packet with 
+glossary, 
+normal values, diagnostic accuracy
+
+
