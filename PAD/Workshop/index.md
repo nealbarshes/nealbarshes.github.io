@@ -86,9 +86,7 @@ Hard copy packet with:
 - glossary of terms
 
 <br>
-
-<blockquote style="border: 2px solid #103B58; font-style: normal; padding: 20px; font-size:16px; background-color: #ADBED3;">
-<span style="color:red">Looking forward to seeing you there!.</blockquote>.
+![Houston / DeBakey Vascular Surgery Team](/assets/VAhoustonVascularLogo3.jpg "Houston / DeBakey Vascular Surgery Team")
 
 <br>
 <br>
