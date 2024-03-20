@@ -20,7 +20,7 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 
 <mark>Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).</mark>
 
-<span style="color:red;font-weight:700;font-size:20px">Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).</span><
+<span style="color:red;font-weight:700;font-size:20px">Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).</span>
 
 ---------------------------------------------
 ## Course Content Overview
