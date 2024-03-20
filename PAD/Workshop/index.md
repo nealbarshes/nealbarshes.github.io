@@ -18,7 +18,9 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 <span style="color:red">Our goal for the workshop:</span> to teach participants how to accurately incorporate findings from <b>physical exam</b>, bedside <b>Doppler evaluation</b>, and <b>non-invasive arterial testing</b> (ex. <b>ABIs</b>s) into care for patients with patients with foot ulcers or gangrene.</blockquote>
 <br>
 
-<mark><span style="color:red;font-weight:700;font-size:20px">Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).</span></mark>
+<mark>Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).</mark>
+
+<span style="color:red;font-weight:700;font-size:20px">Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).</span><
 
 ---------------------------------------------
 ## Course Content Overview
