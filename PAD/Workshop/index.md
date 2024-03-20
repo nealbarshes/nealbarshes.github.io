@@ -80,5 +80,11 @@ Hard copy packet with:
 - essential concepts: a summary
 - glossary of terms
 
+<br>
+---------------------------------------------
 ## Register with [this link](www.surveymonkey.com/r/8HWZKPQ).
+---------------------------------------------
+<br>
+<br>
+<br>
 
