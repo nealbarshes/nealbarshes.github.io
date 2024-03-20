@@ -20,10 +20,10 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 <br>
 ### PART 1: Arterial Tree Anatomy & Anatomic Imaging
 
-1a: How normal macrovascular and microvascular anatomy supplies blood to soft tissue of the foot. 
-1b: The “angiosome” concept. The three angiosomes of the foot. Empiric studies on angiosomes.
-1c: Hagen–Poiseuille equation. Newer understanding of pathologic changes that impair perfusion.
-1d: A primer on anatomic imaging of the arterial tree: tibial & pedal arteries, "wound blush", medial artery calcifications, and atherosclerotic occlusive disease on diagnostic angiograms. CTAs and MRAs.
+- How normal macrovascular and microvascular anatomy supplies blood to soft tissue of the foot. 
+- The “angiosome” concept. The three angiosomes of the foot. Empiric studies on angiosomes.
+- Hagen–Poiseuille equation. Newer understanding of pathologic changes that impair perfusion.
+- A primer on anatomic imaging of the arterial tree: tibial & pedal arteries, "wound blush", medial artery calcifications, and atherosclerotic occlusive disease on diagnostic angiograms. CTAs and MRAs.
 
 Exercise: Review x-rays and angiograms to identify significant lesions, angiosome-directed flow, "wound blush" and medial artery calcifications.
 
