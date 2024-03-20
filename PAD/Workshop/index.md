@@ -17,6 +17,7 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 ---------------------------------------------
 ## Course Content Overview
 ---------------------------------------------
+<br>
 ### PART 1: Arterial Tree Anatomy & Anatomic Imaging
 
 1a: How normal macrovascular and microvascular anatomy supplies blood to soft tissue of the foot. 
@@ -29,11 +30,11 @@ Exercise: Review x-rays and angiograms to identify significant lesions, angiosom
 
 
 ### PART 2: Physiology and Physiologic Testing: Methods, Accuracy and Limitations
-
-2a: The cardiac cycle and the normal arterial waveform
-2b: Perfusion vs. flow vs. velocity; determinants of oxygen and nutrient delivery.
-2c: How much blood flow is needed? Metabolic demands in wound healing and infection. Pathergy.
-2d: Methods, interpretation, diagnostic accuracy, and limitations of pressure-based modalities: 
+<br>
+2a) The cardiac cycle and the normal arterial waveform
+2b) Perfusion vs. flow vs. velocity; determinants of oxygen and nutrient delivery.
+2c) How much blood flow is needed? Metabolic demands in wound healing and infection. Pathergy.
+2d) Methods, interpretation, diagnostic accuracy, and limitations of pressure-based modalities.
     2d-1: ankle-brachial indices, 
     2d-2: toe-(digit-) brachial indices
     2d-3: skin perfusion pressures
@@ -59,7 +60,7 @@ Exercise: Review clinical vignettes, then identify best testing modality and dis
 
 
 ---------------------------------------------
-Course Faculty
+## Course Faculty
 ---------------------------------------------
 
 Neal R. Barshes, M.D., M.P.H.
@@ -71,7 +72,7 @@ Assistant Professor of Surgery
 Baylor College of Medicine
 
 ---------------------------------------------
-Course Materials Provided
+## Course Materials Provided
 ---------------------------------------------
 
 Hard copy packet with 
