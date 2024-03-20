@@ -63,13 +63,13 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 ## Course Faculty
 ---------------------------------------------
 
-Neal R. Barshes, M.D., M.P.H.
-Associate Professor of Surgery
-Baylor College of Medicine
+Neal R. Barshes, M.D., M.P.H.<br>
+Associate Professor of Surgery<br>
+Baylor College of Medicine<br>
 
-Besma Nejim, M.D., M.P.H.
-Assistant Professor of Surgery
-Baylor College of Medicine
+Besma Nejim, M.D., M.P.H.<br>
+Assistant Professor of Surgery<br>
+Baylor College of Medicine<br>
 
 ---------------------------------------------
 ## Course Materials Provided
