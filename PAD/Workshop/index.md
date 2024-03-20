@@ -1,4 +1,18 @@
-hello world
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YPLVGC5FDP');
+</script>
+</head>
+
+# Arterial Diagnostics Workshop
+
+We are excited to offer a half-day workshop on arterial diagnostic -- contemporary strategies to identify lower extremity peripheral artery disease. Our goal is to teach participants how to accurately incorporate findings from physical exam, bedside evaluation, non-invasive arterial testing (ex. ankle-brachial indices, or ABIs) into care for patients with patients with foot ulcers or gangrene.
 
 ---------------------------------------------
 Course Content Overview
