@@ -55,11 +55,11 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 ### PART 3: Signs, Signals, Suggested Strategies and Specific Situations
 
 - Bedside assessments: exam findings, pedal pulse exam, and handheld Doppler signals (incl. nomenclature).
-- Suggested strategies for PAD identification.
-- A rank-ordering of arterial flow from revascularization procedures: normal, AT+PT, angiosome-directed, peroneal only, "in-line" to the ankle, etc..
-- Special situations: dorsum & heel wounds; partial foot (transmetatarsal/TMA) amputations.
+- Recommended strategies for PAD identification.
+- A rank-ordering of arterial flow from revascularization procedures.
+- Special situations: dorsum & heel wounds; partial foot (transmetatarsal/TMA) amputations, others.
 
-<b>Exercise:</b> Review clinical vignettes, then identify best testing modality and discuss wound healing prognosis for the given situation. 
+<b>Exercise:</b> Use clinical vignettes and audio samples determine best testing modality and discuss wound healing prognosis. 
 
 
 ### PART 4: Summary, final Q&A.
