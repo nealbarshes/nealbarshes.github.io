@@ -18,6 +18,8 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 <span style="color:red">Our goal for the workshop:</span> to teach participants how to accurately incorporate findings from <b>physical exam</b>, bedside <b>Doppler evaluation</b>, and <b>non-invasive arterial testing</b> (ex. <b>ABIs</b>s) into care for patients with patients with foot ulcers or gangrene.</blockquote>
 <br>
 
+<mark><span style="color:red;font-weight:700;font-size:20px">Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).</span></mark>
+
 ---------------------------------------------
 ## Course Content Overview
 ---------------------------------------------
@@ -62,7 +64,6 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 
 ### PART 4: Summary, final Q&A.
 
-<mark><span style="color:red;font-weight:700;font-size:20px">Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).</span></mark>
 
 ---------------------------------------------
 ## Course Faculty
@@ -79,21 +80,16 @@ Baylor College of Medicine<br>
 ---------------------------------------------
 ## Course Materials Provided
 ---------------------------------------------
-
 Hard copy packet with:
 - normal values, diagnostic accuracy of commonly-used non-invasive tests
 - essential concepts: a summary
 - glossary of terms
 
 <br>
----------------------------------------------
-Register with [this link](https://www.surveymonkey.com/r/8HWZKPQ).
----------------------------------------------
-<br>
 
 <blockquote style="border: 2px solid #103B58; font-style: normal; padding: 20px; font-size:16px; background-color: #ADBED3;">
-<span style="color:red">Register with</span>  [this link](https://www.surveymonkey.com/r/8HWZKPQ).</blockquote>.
+<span style="color:red">Looking forward to seeing you there!.</blockquote>.
 
 <br>
 <br>
-test at page bottom
+
