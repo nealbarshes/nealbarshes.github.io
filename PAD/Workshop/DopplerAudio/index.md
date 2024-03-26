@@ -17,7 +17,7 @@
 <p>Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular <a href ="https://pubmed.ncbi.nlm.nih.gov/32667274/">consensus statement</a> [Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506].
 </p>
 
-        <h4>Contents:</h4>
+        <h4>Doppler waveform parameters:</h4>
         <p>
         <ul class='toc'>
             <li><a href='#section-1'>Phasicity</a></li>
