@@ -13,17 +13,15 @@
 
     <div class='section'>
         <h1>Listening to Doppler signals</h1>
-<p>Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop. Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular Ultrasound [consensus statement](https://pubmed.ncbi.nlm.nih.gov/32667274/) [Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506. doi: 10.1177/1358863X20937665; PMID 32667274].
+<p>Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop. Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular Ultrasound (consensus statement)[https://pubmed.ncbi.nlm.nih.gov/32667274/] [Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506. doi: 10.1177/1358863X20937665; PMID 32667274].
 </p>
 
         <h4>Contents:</h4>
         <p>
         <ul class='toc'>
-            <li><a href='#section-1'>Normal</a></li>
-            <li><a href='#section-2'>Mildly Impaired</a></li>
-            <li><a href='#section-3'>Moderately Impaired</a></li>
-            <li><a href='#section-4'>Severely Impaired</a></li>
-            
+            <li><a href='#section-1'>Phasicity</a></li>
+            <li><a href='#section-2'>Resistance</a></li>
+            <li><a href='#section-3'>Other Findings</a></li>
         </ul>
         </p>
 
