@@ -1,23 +1,23 @@
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <title>Doppler audio files</title>
 
-  gtag('config', 'G-YPLVGC5FDP');
-</script>
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-# Listening to Doppler signals
+<body>
 
-Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop.</p>
+    <div class='section'>
+        <h1>Listening to Doppler signals</h1>
+<p>Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop.</p>
 <p>Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular Ultrasound [consensus statement](https://pubmed.ncbi.nlm.nih.gov/32667274/) Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506. doi: 10.1177/1358863X20937665; PMID 32667274.
+</p>
 
-html_tag_audio("Files/Moderate01.mp3", type = "mp3")
-
-#### Contents:
+        <h4>Contents:</h4>
         <p>
         <ul class='toc'>
             <li><a href='#section-1'>Phasicity</a></li>
@@ -25,9 +25,19 @@ html_tag_audio("Files/Moderate01.mp3", type = "mp3")
             <li><a href='#section-3'>Other Findings</a></li>
         </ul>
         </p>
+
+        <h4>Notes:</h4>
+        <p>
+        <ul>
+            <li>Continuous-wave Doppler audio and plethysmography waveforms generated using Parks Flo-Lab System 2100-SX2 system and SonovaE software.</li>
+            <li>Recorded using a Yeti USB stereo microphone and Audacity software version 2.4.2. Noise reduction used to enhance sound quality. </li>
+            <li>Recorded, edited and uploaded spring 2024.</li>
+        </ul>
         </p>
     </div>
+
     <hr>
+
 
 
     <div id='section-1' class='section'>
@@ -99,16 +109,10 @@ html_tag_audio("Files/Moderate01.mp3", type = "mp3")
 
     <hr>
 
-        <h4>Notes:</h4>
-        <p>
-        <ul>
-            <li>Continuous-wave Doppler audio and plethysmography waveforms generated using Parks Flo-Lab System 2100-SX2 system and SonovaE software.</li>
-            <li>Recorded using a Yeti USB stereo microphone and Audacity software version 2.4.2. Noise reduction used to enhance sound quality. </li>
-            <li>Recorded, edited and uploaded spring 2024.</li>
-        </ul>
 
 
 
+</body>
 
 <script>
 document
