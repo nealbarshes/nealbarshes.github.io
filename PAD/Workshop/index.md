@@ -12,9 +12,9 @@
 <body>
 
     <div class='section'>
-        <h1>Listening to Doppler signals</h1>
+<h1>Listening to Doppler signals</h1>
 <p>Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop.</p>
-<p>Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular Ultrasound [consensus statement](https://pubmed.ncbi.nlm.nih.gov/32667274/) Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506. doi: 10.1177/1358863X20937665; PMID 32667274.
+<p>Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular Ultrasound <a href ="https://pubmed.ncbi.nlm.nih.gov/32667274/">consensus statement</a> [Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506. doi: 10.1177/1358863X20937665; PMID 32667274.]
 </p>
 
         <h4>Contents:</h4>
