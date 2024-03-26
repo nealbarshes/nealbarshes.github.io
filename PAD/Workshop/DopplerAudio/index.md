@@ -25,18 +25,13 @@
             <li><a href='#section-3'>Other Findings</a></li>
         </ul>
         </p>
-
-
-
     </div>
-
     <hr>
 
-
-
-    <div id='section-1' class='section'>
+<div id='section-1' class='section'>
 <h2>Phasicity</h2>
-        <p>Normal findings.</p>
+
+<p>Phasicity refers to ....</p>
 
 <h3>Multiphasic (Normal)</h3>
         <p>Examples with no download option 1 and loop.</p>
