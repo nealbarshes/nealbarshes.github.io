@@ -13,12 +13,12 @@
 <body>
 
     <div class='section'>
-# Listening to Doppler signals<
+# Listening to Doppler signals
 
 Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop.</p>
 <p>Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular Ultrasound [consensus statement](https://pubmed.ncbi.nlm.nih.gov/32667274/) Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506. doi: 10.1177/1358863X20937665; PMID 32667274.
 
-        <h4>Contents:</h4>
+#### Contents:
         <p>
         <ul class='toc'>
             <li><a href='#section-1'>Phasicity</a></li>
