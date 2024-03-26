@@ -45,7 +45,7 @@
         <p>Normal findings.</p>
 
 <h3>Multiphasic (Normal)</h3>
-        <p>Examples with .</p>
+        <p>Brisk systolic upstroke, followed by brief reversal in early diastole. These are Doppler signals that would have previously been referred to as "triphasic".</p>
         <div class='playlist'>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='Files/Moderate01.mp3' type='audio/mpeg'></audio></div>
         </div>
