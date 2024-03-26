@@ -29,7 +29,7 @@
         <p>
         <ul>
             <li>Continuous-wave Doppler audio and plethysmography waveforms generated using Parks Flo-Lab System 2100-SX2 system and SonovaE software.</li>
-            <li>Recorded using Yeti USB stereo microphone and Audacity software. Noise reduction done to reduce background noise. </li>
+            <li>Recorded using a Yeti USB stereo microphone and Audacity software version 2.4.2. Noise reduction used to enhance sound quality. </li>
             <li>Recorded, edited and uploaded spring 2024.</li>
         </ul>
         </p>
