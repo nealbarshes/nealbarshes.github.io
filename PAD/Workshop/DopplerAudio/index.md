@@ -1,12 +1,13 @@
 <head>
-    <title>Doppler audio files</title>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="index.css">
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  gtag('config', 'G-YPLVGC5FDP');
+</script>
 </head>
 
 <body>
@@ -26,13 +27,7 @@
         </ul>
         </p>
 
-        <h4>Notes:</h4>
-        <p>
-        <ul>
-            <li>Continuous-wave Doppler audio and plethysmography waveforms generated using Parks Flo-Lab System 2100-SX2 system and SonovaE software.</li>
-            <li>Recorded using a Yeti USB stereo microphone and Audacity software version 2.4.2. Noise reduction used to enhance sound quality. </li>
-            <li>Recorded, edited and uploaded spring 2024.</li>
-        </ul>
+
         </p>
     </div>
 
@@ -109,7 +104,13 @@
 
     <hr>
 
-
+        <h4>Notes:</h4>
+        <p>
+        <ul>
+            <li>Continuous-wave Doppler audio and plethysmography waveforms generated using Parks Flo-Lab System 2100-SX2 system and SonovaE software.</li>
+            <li>Recorded using a Yeti USB stereo microphone and Audacity software version 2.4.2. Noise reduction used to enhance sound quality. </li>
+            <li>Recorded, edited and uploaded spring 2024.</li>
+        </ul>
 
 
 </body>
