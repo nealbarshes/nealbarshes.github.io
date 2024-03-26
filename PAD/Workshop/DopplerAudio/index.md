@@ -10,9 +10,6 @@
 </script>
 </head>
 
-<body>
-
-    <div class='section'>
 # Listening to Doppler signals
 
 Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop.</p>
@@ -26,13 +23,9 @@ Audio files and accompanying plethysmography waveforms that are an adjunct to th
             <li><a href='#section-3'>Other Findings</a></li>
         </ul>
         </p>
-
-
         </p>
     </div>
-
     <hr>
-
 
 
     <div id='section-1' class='section'>
@@ -113,7 +106,7 @@ Audio files and accompanying plethysmography waveforms that are an adjunct to th
         </ul>
 
 
-</body>
+
 
 <script>
 document
