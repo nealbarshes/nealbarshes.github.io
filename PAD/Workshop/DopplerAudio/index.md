@@ -14,7 +14,7 @@
     <div class='section'>
         <h1>Listening to Doppler signals</h1>
 <p>Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop.</p>
-<p>Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular ,a href ="https://pubmed.ncbi.nlm.nih.gov/32667274/">consensus statement</a> [Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506].
+<p>Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular <a href ="https://pubmed.ncbi.nlm.nih.gov/32667274/">consensus statement</a> [Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506].
 </p>
 
         <h4>Contents:</h4>
@@ -26,13 +26,7 @@
         </ul>
         </p>
 
-        <h4>Notes:</h4>
-        <p>
-        <ul>
-            <li>Continuous-wave Doppler audio and plethysmography waveforms generated using Parks Flo-Lab System 2100-SX2 system and SonovaE software.</li>
-            <li>Recorded using a Yeti USB stereo microphone and Audacity software version 2.4.2. Noise reduction used to enhance sound quality. </li>
-            <li>Recorded, edited and uploaded spring 2024.</li>
-        </ul>
+
         </p>
     </div>
 
@@ -108,7 +102,14 @@
     </div>
 
     <hr>
-
+    
+        <h4>Notes:</h4>
+        <p>
+        <ul>
+            <li>Continuous-wave Doppler audio and plethysmography waveforms generated using Parks Flo-Lab System 2100-SX2 system and SonovaE software.</li>
+            <li>Recorded using a Yeti USB stereo microphone and Audacity software version 2.4.2. Noise reduction used to enhance sound quality. </li>
+            <li>Recorded, edited and uploaded spring 2024. Thank you to RVTs Dalia Demarco and Mark Evans!</li>
+        </ul>
 
 
 
