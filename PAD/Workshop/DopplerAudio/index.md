@@ -64,10 +64,7 @@
         <div class='playlist'>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='Files/Severe01.mp3' type='audio/mpeg'></audio></div>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_primed/sample-1.mp3' type='audio/mpeg'></audio></div>
-
-        </div>
-
-        
+      
     </div>
 
     <hr>
