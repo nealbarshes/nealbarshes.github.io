@@ -46,7 +46,7 @@
         <h3>Normal</h3>
         <p>Samples with normal waveforms.</p>
         <div class='playlist'>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-0.mp3' type='audio/mpeg'></audio></div>
+            <div class='labeled-audio'><audio preload='metadata' controls><source src='Files/Moderate01.mp3' type='audio/mpeg'></audio></div>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-1.mp3' type='audio/mpeg'></audio></div>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-2.mp3' type='audio/mpeg'></audio></div>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-3.mp3' type='audio/mpeg'></audio></div>
