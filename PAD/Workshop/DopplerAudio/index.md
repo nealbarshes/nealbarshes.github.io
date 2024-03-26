@@ -45,9 +45,9 @@
         <p>Normal findings.</p>
 
 <h3>Multiphasic (Normal)</h3>
-        <p>Examples with no download option 1.</p>
+        <p>Examples with no download option 1 and loop.</p>
         <div class='playlist'>
-            <div class='labeled-audio'><audio preload='metadata' controls controlsList="nodownload"><source src='Files/Moderate01.mp3' type='audio/mpeg' ></audio></div>
+            <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/Moderate01.mp3' type='audio/mpeg' ></audio></div>
         </div>
 
 <h3>Monophasic: Mildly Impaired </h3>
