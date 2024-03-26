@@ -63,11 +63,7 @@
         <div class='playlist'>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='Files/Moderate01.mp3' type='audio/mpeg'></audio></div>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_primed/sample-1.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_primed/sample-2.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_primed/sample-3.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_primed/sample-4.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_primed/sample-5.mp3' type='audio/mpeg'></audio></div>
-        </div>
+
 
 <h3>Monophasic: Severe Impairment </h3>
 
