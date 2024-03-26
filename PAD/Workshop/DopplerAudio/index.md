@@ -37,14 +37,19 @@
         <p>Examples with no download option 1 and loop.</p>
         <div class='playlist'>
             <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/Moderate01.mp3' type='audio/mpeg' ></audio></div>
+
         </div>
+
+
+<br>
+
 
 <h3>Monophasic: Mildly Impaired </h3>
         <p>Samples from the model using a bias of 1.0.</p>
         <div class='playlist'>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_biased/sample-0.mp3' type='audio/mpeg'></audio></div>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_biased/sample-1.mp3' type='audio/mpeg'></audio></div>
-            
+           
         </div>
 <br>
 <h3>Monophasic: Moderate Impairment </h3>
