@@ -29,9 +29,9 @@
         <h4>Notes:</h4>
         <p>
         <ul>
-            <li>Continuous-wave Doppler generated using Parks FlowLab System 2100-SX2.</li>
-            <li>Recorded using Yeti USB stereo microphone and Audacity software.  </li>
-            <li>Done spring 2024.</li>
+            <li>Continuous-wave Doppler audio and plethysmography waveforms generated using Parks Flo-Lab System 2100-SX2 system and SonovaE software.</li>
+            <li>Recorded using Yeti USB stereo microphone and Audacity software. Noise reduction done to reduce background noise. </li>
+            <li>Recorded, edited and uploaded spring 2024.</li>
         </ul>
         </p>
     </div>
@@ -47,11 +47,6 @@
         <p>Samples with normal waveforms.</p>
         <div class='playlist'>
             <div class='labeled-audio'><audio preload='metadata' controls><source src='Files/Moderate01.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-1.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-2.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-3.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-4.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_unconditional/sample-5.mp3' type='audio/mpeg'></audio></div>
         </div>
 
         <h3>Mild Impairment </h3>
