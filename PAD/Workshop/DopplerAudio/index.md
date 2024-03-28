@@ -31,9 +31,9 @@
 <div id='section-1' class='section'>
 <h2>Phasicity</h2>
 
-<p>Phasicity generally refers to a change in the direction or velocity of a wave. For lower extremity arterial waveforms, this mainly pertains to the <b>systolic</b>component of the waveform. The new consensus nomenclature seems to apply the term phasicity mainly for the direction. If flow reversal in late systole is appreciated, the waveform can be described as "multiphasic" (bidirectional). Otherwise, the waveform's phasicity should be referred to as "monophasic" using this new consensus terminology. </p>
+<p>Phasicity generally refers to a change in the direction or velocity of a wave. For lower extremity arterial waveforms, this mainly pertains to the <b>systolic</b> component of the waveform. The new consensus nomenclature seems to apply the term phasicity mainly for the direction. If flow reversal in late systole is appreciated, the waveform can be described as "multiphasic" (bidirectional). Otherwise, the waveform's phasicity should be referred to as "monophasic" using this new consensus terminology.</p>
 
-<p>The velocity of the early part of the systolic component is described by the "upstroke" in the new consensus terminology. slope of the systolic upstroke  </p>
+<p>The velocity of the early part of the systolic component is described by the "upstroke" in the new consensus terminology. The velocity of the systolic upstroke can also be quantified in various ways in the vascular laboratoyr, including systolic acceleration time (seconds) and as a slope / rate of velocity increase (cm/s<sup>2</sup>. "Rapid upstroke" versus "prolonged upstroke" are the consensus terms used to describe these attributes of the early part of the systolic component  </p>
 
 <h3>Multiphasic (Normal)</h3>
         <p>__ year-old man for screening ABIs. Example link to scanned waveform 
