@@ -46,12 +46,12 @@
 
         </div>
 <br>
-<h3>Multiphasic Doppler signals within the "borderline" range (ABI 0.90-0.99)</h3>
+<h3>Doppler signals within the "borderline" range (ABI 0.90-0.99)</h3>
 
 <p>64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right posterior tibial artery Doppler signal with ABI of 0.98</p>
             <a href = "../../../assets/PADalgorithm1.jpg" 
                 target="popup" 
-                onclick="window.open('../../../assets/PADalgorithm1.jpg', 'popup', 'width=600,height=400,scrollbars=no,resizable=no'); return false;">here</a>..</p>
+                onclick="window.open('../../../assets/PADalgorithm1.jpg', 'popup', 'width=600,height=400,scrollbars=no,resizable=no'); return false;">here</a>..
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
 
