@@ -161,7 +161,7 @@
 </p>
 <br>
 <br>
-![Arterial Diagnostics: A Workshop](../PADworkshop_logo.png "Arterial Diagnostics: A Workshop")
+<img src="../PADworkshop_logo.png" alt= "Arterial Diagnostics: A Workshop")
 
 
 <script>
