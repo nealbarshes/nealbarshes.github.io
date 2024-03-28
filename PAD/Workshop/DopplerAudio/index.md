@@ -44,6 +44,10 @@
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_117_P002LDP.mp3' type='audio/mpeg' ></audio></div>
 
+<p><u>Example #2</u>: 71 year-old man foot pains. History of hypertension, gout and bunions. No diabetes, no tobacco history. Posterior tibial Doppler signal was multiphasic. ABI was 1.12. </p>
+        <div class='playlist'>
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_112_P003RPT.mp3' type='audio/mpeg' ></audio></div>
+
         </div>
 <br>
 <h3>Doppler signals within the "borderline" range (ABI 0.90-0.99)</h3>
