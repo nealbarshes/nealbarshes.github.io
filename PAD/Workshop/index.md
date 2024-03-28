@@ -12,7 +12,7 @@
 
 # Arterial Diagnostics Workshop
 
-![Arterial Diagnostics: A Workshop](/PADworkshop_logo.png "Arterial Diagnostics: A Workshop")
+![Arterial Diagnostics: A Workshop](PADworkshop_logo.png "Arterial Diagnostics: A Workshop")
 
 We are excited to offer a half-day workshop on arterial diagnostic -- contemporary strategies to identify lower extremity peripheral artery disease. 
 
