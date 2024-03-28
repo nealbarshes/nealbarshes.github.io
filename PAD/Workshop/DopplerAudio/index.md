@@ -44,15 +44,17 @@
 <div id='section-1' class='section'>
 <h3>Multiphasic Doppler signals within the normal range (ABI 1.0-1.3)</h3>
 
-<p>If flow reversal in late systole is appreciated, the waveform can be described as "multiphasic" (bidirectional). Otherwise, the waveform's phasicity should be referred to as "monophasic" using this new consensus terminology.</p>
-
 <p><u>Example #1</u>: 56 year-old man with diabetes and non-healing ulcers of the calf and lateral foot. No tobacco history. Mild aortic valve stenosis with normal ejection fraction. Exam findings consistent with venous insufficiency and lymphedema. Severe edema of the affected extremity. Dorsalis pedis Doppler signal was multiphasic. ABI was 1.17. </p>
+
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_117_P002LDP.mp3' type='audio/mpeg' ></audio></div>
 
             <br>
             
 <p><u>Example #2</u>: 71 year-old man foot pains. History of atrial fibrillation, hypertension, gout and bunions. No diabetes, no tobacco history. Posterior tibial Doppler signal was multiphasic. ABI was 1.12. </p>
+
+<p>Listen for two distinct sounds during systole in this audio sample. The waveform can be described as "multiphasic" (bidirectional) because of this second sound (representing flow reversal in late systole) can be appreciated. Prior to the consensus nomenclature, this type of waveform had been referred to as "triphasic".</p>
+
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_112_P003RPT.mp3' type='audio/mpeg' ></audio></div>
 
