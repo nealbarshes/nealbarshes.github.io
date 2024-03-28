@@ -160,7 +160,7 @@
         </ul>
 </p>
 
-![Arterial Diagnostics: A Workshop](PADworkshop_logo.png "Arterial Diagnostics: A Workshop")
+![Arterial Diagnostics: A Workshop](../PADworkshop_logo.png "Arterial Diagnostics: A Workshop")
 
 
 <script>
