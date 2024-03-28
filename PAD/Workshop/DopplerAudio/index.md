@@ -131,7 +131,7 @@
 <div id='section-5' class='section'>
 <h3>Doppler signals in "severely impaired" range (ABI <0.50)</h3>
 
-<p>The examples of signals in this range are notable for decreasing phasicity  </p>
+<p>The examples of signals in this range are clearly abnormal: minimal amplitude and very prolonged systolic upstroke. Prior to the consensus nomenclature, these would have been referred to as "monophasic."</p>
     
 <p><u>Example #9</u>: Contralateral limb of aforementioned 66 year-old man with bilateral calf claudication, diabetes, history of tobacco use, and stage 3 chronic kidney disease. Posterior tibial artery Doppler signal with ABI of 0.46</p>
 
