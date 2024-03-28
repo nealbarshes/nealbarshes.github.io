@@ -58,6 +58,7 @@
 
         </div>
 <br>
+    <hr>
 <div id='section-2' class='section'>
 <h3>Doppler signals within the "borderline" range (ABI 0.90-0.99)</h3>
 
@@ -69,6 +70,7 @@
 
 
 <br>
+    <hr>
 <div id='section-3' class='section'>
 <h3>Doppler signals in "mildly impaired" range (ABI 0.70-0.89)</h3>
 
@@ -86,7 +88,7 @@
           
         </div>
 <br>
-
+    <hr>
 <div id='section-4' class='section'>
 <h3>Doppler signals in "moderately impaired" range (ABI 0.50-0.69)</h3>
 <p><u>Example #6</u>: 71 year-old man with a history of tobacco use. No history of diabetes, heart disease, or kidney disease. Posterior tibial artery Doppler signal with ABI of 0.67</p>
@@ -105,7 +107,7 @@
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>
         </div>
 <br>
-
+    <hr>
 <div id='section-5' class='section'>
 <h3>Doppler signals in "severely impaired" range (ABI <0.50)</h3>
 <p><u>Example #9</u>: Contralateral limb of aforementioned 66 year-old man with bilateral calf claudication, diabetes, history of tobacco use, and stage 3 chronic kidney disease. Posterior tibial artery Doppler signal with ABI of 0.46</p>
@@ -122,12 +124,10 @@
 <br>
 
 
-    <hr>
-    <div id='section-2' class='section'>
-    
+  
 
     <hr>
-<div id='section-1' class='section'>    
+<div id='section-6' class='section'>    
         <h4>Notes:</h4>
         <p>
         <ul>
