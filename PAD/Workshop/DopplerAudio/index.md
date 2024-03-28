@@ -58,6 +58,9 @@
 
         </div>
 <br>
+<br>
+<br>
+<br>
     <hr>
 <div id='section-2' class='section'>
 <h3>Doppler signals within the "borderline" range (ABI 0.90-0.99)</h3>
@@ -67,8 +70,9 @@
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
 
-
-
+<br>
+<br>
+<br>
 <br>
     <hr>
 <div id='section-3' class='section'>
@@ -87,6 +91,9 @@
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_072_P006RDP.mp3' type='audio/mpeg' ></audio></div>
           
         </div>
+<br>
+<br>
+<br>
 <br>
     <hr>
 <div id='section-4' class='section'>
@@ -107,6 +114,9 @@
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>
         </div>
 <br>
+<br>
+<br>
+<br>
     <hr>
 <div id='section-5' class='section'>
 <h3>Doppler signals in "severely impaired" range (ABI <0.50)</h3>
@@ -122,9 +132,9 @@
 
         </div>
 <br>
-
-
-  
+<br>
+<br>
+<br>
 
     <hr>
 <div id='section-6' class='section'>    
