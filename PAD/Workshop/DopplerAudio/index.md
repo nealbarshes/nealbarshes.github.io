@@ -106,12 +106,12 @@
 <p><u>Example #9</u>: Contralateral limb of aforementioned 66 year-old man with bilateral calf claudication, diabetes, history of tobacco use, and stage 3 chronic kidney disease. Posterior tibial artery Doppler signal with ABI of 0.53</p></p>
 
         <div class='playlist'>
-        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_061_P001LDP.mp3' type='audio/mpeg' ></audio></div>        
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>        
 <br>
 <p><u>Example #10</u>: Contralateral limb of aforementioned 71 year-old man with a history of tobacco use. No history of diabetes, heart disease, or kidney disease. Posterior tibial artery Doppler signal with ABI of 0.38</p></p>
 
         <div class='playlist'>
-        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_038_P005RDP.mp3' type='audio/mpeg' ></audio></div>
 
         </div>
 <br>
