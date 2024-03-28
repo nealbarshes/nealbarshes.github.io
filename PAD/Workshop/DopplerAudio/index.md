@@ -40,9 +40,9 @@
                 onclick="window.open('../../../assets/PADalgorithm1.jpg', 'popup', 'width=600,height=400,scrollbars=no,resizable=no'); return false;">here</a>..
 
 <h3>Multiphasic Doppler signals within the normal range (ABI 1.0-1.3)</h3>
-<p></p>
+<p><u>Example #1</u>: 56 year-old man with diabetes and non-healing ulcers of the calf and lateral foot. No tobacco history. Mild aortic valve stenosis with normal ejection fraction. Exam findings consistent with venous insufficiency and lymphedema. Severe edema of the affected extremity. Dorsalis pedis Doppler signal was multiphasic. ABI was 1.17. </p>
         <div class='playlist'>
-        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_117_P002LDP.mp3' type='audio/mpeg' ></audio></div>
 
         </div>
 <br>
