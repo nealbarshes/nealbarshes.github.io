@@ -12,8 +12,8 @@
 <body>
 
     <div class='section'>
-        <h1>Listening to Phasicity Doppler signals</h1>
-<p><i><u>Note</u>u>: This page is a supplement to the <a href="https://nealbarshes.github.io/PAD/Workshop/">"Arterial Diagnostics" workshop</a>.</i></p>
+        <h1>Listening to Phasicity and Amplitude in Doppler signals (audio output)</h1>
+<p><i><u>Note</u>: This page is a supplement to the <a href="https://nealbarshes.github.io/PAD/Workshop/">"Arterial Diagnostics" workshop</a>.</i></p>
 
 <p><b>Phasicity</b> generally refers to a change in the direction or velocity of a wave. For lower extremity arterial waveforms, this mainly pertains to the <b>systolic</b> component of the waveform.</p> 
 
@@ -69,6 +69,8 @@
 
 <p><u>Example #3</u>: 64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Posterior tibial artery Doppler signal with ABI of 0.98</p>
 
+<p>Despite the ABI result, the upstroke sounds prolonged and the amplitude of sytole sounds small. This waveform may be a good demonstration of some of the difficulties in using audio output only in the quantification of arterial flow.</p>
+
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
 
@@ -89,6 +91,8 @@
 
 <p><u>Example #5</u>: Aforementioned 64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Dorsalis pedis artery Doppler signal with ABI of 0.72</p>
 
+<p>Don't be distracted by the volume of the signal during diastole -- this reflection of outflow resistance at the time of the exam, not the pulse wave arriving at the location of the Doppler probe. If you focus on the systolic upstroke, you'll begin to appreciate a lower slope (i.e. not as "sharp" or rapid an upstroke) compared to previous examples. </p>
+
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_072_P006RDP.mp3' type='audio/mpeg' ></audio></div>
           
@@ -100,6 +104,9 @@
     <hr>
 <div id='section-4' class='section'>
 <h3>Doppler signals in "moderately impaired" range (ABI 0.50-0.69)</h3>
+
+<p>The examples in this range should be notable for a prolonged upstroke and lower amplitude. </p>
+    
 <p><u>Example #6</u>: 71 year-old man with a history of tobacco use. No history of diabetes, heart disease, or kidney disease. Posterior tibial artery Doppler signal with ABI of 0.67</p>
 
         <div class='playlist'>
@@ -112,6 +119,8 @@
 <br>
 <p><u>Example #8</u>: Contralateral limb of aforementioned 64 year-old man with diabetes and history of tobacco use. Exam done for foot pains. Normal ejection fraction and kidney function. Dorsalis pedis artery Doppler signal with ABI of 0.53</p>
 
+<p>As in Example #5, there seems to be forward flow throughout diastole in this example. This and the elevated heart rate may give one an impression of normality. Focus on the systolic upstroke, however, and you should be able to appreciate the still-lower slope (prolonged upstroke) heard here. </p>
+
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>
         </div>
@@ -122,6 +131,9 @@
     <hr>
 <div id='section-5' class='section'>
 <h3>Doppler signals in "severely impaired" range (ABI <0.50)</h3>
+
+<p>The examples of signals in this range are notable for decreasing phasicity  </p>
+    
 <p><u>Example #9</u>: Contralateral limb of aforementioned 66 year-old man with bilateral calf claudication, diabetes, history of tobacco use, and stage 3 chronic kidney disease. Posterior tibial artery Doppler signal with ABI of 0.46</p>
 
         <div class='playlist'>
