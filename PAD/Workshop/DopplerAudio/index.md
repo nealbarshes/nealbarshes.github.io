@@ -13,9 +13,11 @@
 
     <div class='section'>
         <h1>Listening to Phasicity Doppler signals</h1>
-<p>Audio files and accompanying plethysmography waveforms accompanying the "Arterial Diagnostics" workshop.</p>
+<p><i><u>Note</u>u>: This page is a supplement to the <a href="https://nealbarshes.github.io/PAD/Workshop/">"Arterial Diagnostics" workshop</a>.</i></p>
 
-<p><b>Phasicity</b> generally refers to a change in the direction or velocity of a wave. For lower extremity arterial waveforms, this mainly pertains to the <b>systolic</b> component of the waveform. The the Society for Vascular Medicine and Society for Vascular Ultrasound <a href ="https://pubmed.ncbi.nlm.nih.gov/32667274/">consensus statement</a> [Kim ES, et al. <i>Vasc Med</i> 2020;25:484-506] seems to apply the term phasicity mainly for the direction. 
+<p><b>Phasicity</b> generally refers to a change in the direction or velocity of a wave. For lower extremity arterial waveforms, this mainly pertains to the <b>systolic</b> component of the waveform.</p> 
+
+<p>The Society for Vascular Medicine and Society for Vascular Ultrasound <a href ="https://pubmed.ncbi.nlm.nih.gov/32667274/">consensus statement</a> [Kim ES, et al. <i>Vasc Med</i> 2020;25:484-506] seems to apply the term phasicity mainly for the direction. 
 
 <p>The velocity of the early part of the systolic component is described by the "upstroke" in the new consensus terminology. The velocity of the systolic upstroke can also be quantified in various ways in the vascular laboratoyr, including systolic acceleration time (seconds) and as a slope / rate of velocity increase (cm/s<sup>2</sup>). "Rapid upstroke" versus "prolonged upstroke" are the consensus terms used to describe these attributes of the early part of the systolic component  </p>
 
