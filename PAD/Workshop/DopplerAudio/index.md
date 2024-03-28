@@ -36,7 +36,7 @@
 <h3>Multiphasic (Normal)</h3>
         <p>__ year-old man for screening ABIs. Example link to scanned waveform 
             <a href = "../assets/PADalgorithm1.jpg" 
-                target="popup" onclick="window.open('nealbarshes.github.io/assets/PADalgorithm1.jpg' 'waveform','width=600,height=400')">here</a>..</p>
+                target="popup" onclick="window.open('../../../assets/PADalgorithm1.jpg' 'waveform','width=600,height=400')">here</a>..</p>
         <div class='playlist'>
             <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/Moderate01.mp3' type='audio/mpeg' ></audio></div>
 
