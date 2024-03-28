@@ -35,12 +35,12 @@
 
 <p>The velocity of the early part of the systolic component is described by the "upstroke" in the new consensus terminology. The velocity of the systolic upstroke can also be quantified in various ways in the vascular laboratoyr, including systolic acceleration time (seconds) and as a slope / rate of velocity increase (cm/s<sup>2</sup>). "Rapid upstroke" versus "prolonged upstroke" are the consensus terms used to describe these attributes of the early part of the systolic component  </p>
 
-<h3>Multiphasic Doppler signals within the normal range (ABI 1.0-1.3)</h3>
-
-<p></p>
             <a href = "../../../assets/PADalgorithm1.jpg" 
                 target="popup" 
-                onclick="window.open('../../../assets/PADalgorithm1.jpg', 'popup', 'width=600,height=400,scrollbars=no,resizable=no'); return false;">here</a>..</p>
+                onclick="window.open('../../../assets/PADalgorithm1.jpg', 'popup', 'width=600,height=400,scrollbars=no,resizable=no'); return false;">here</a>..
+
+<h3>Multiphasic Doppler signals within the normal range (ABI 1.0-1.3)</h3>
+<p></p>
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
 
@@ -49,9 +49,7 @@
 <h3>Doppler signals within the "borderline" range (ABI 0.90-0.99)</h3>
 
 <p>64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right posterior tibial artery Doppler signal with ABI of 0.98</p>
-            <a href = "../../../assets/PADalgorithm1.jpg" 
-                target="popup" 
-                onclick="window.open('../../../assets/PADalgorithm1.jpg', 'popup', 'width=600,height=400,scrollbars=no,resizable=no'); return false;">here</a>..
+
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
 
@@ -60,9 +58,11 @@
 <br>
 
 <h3>Doppler signals in "mildly impaired" range (ABI 0.70-0.89)</h3>
-        <p>64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right posterior tibial artery Doppler signal with ABI of 0.98</p>
+<p>Aforementioned 64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right dorsalis pedis artery Doppler signal with ABI of 0.72</p>
+
         <div class='playlist'>
-        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_072_P006RDP.mp3' type='audio/mpeg' ></audio></div>
+
            
         </div>
 <br>
@@ -70,10 +70,12 @@
 
 
 <h3>Doppler signals in "moderately impaired" range (ABI 0.50-0.69)</h3>
-        <p>Samples from the model using a bias of 1.0.</p>
+<p>Aforementioned 64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right dorsalis pedis artery Doppler signal with ABI of 0.72</p>
+
         <div class='playlist'>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_biased/sample-0.mp3' type='audio/mpeg'></audio></div>
-            <div class='labeled-audio'><audio preload='metadata' controls><source src='samples/mp3/blizzard_biased/sample-1.mp3' type='audio/mpeg'></audio></div>
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>
+
+
            
         </div>
 <br>
