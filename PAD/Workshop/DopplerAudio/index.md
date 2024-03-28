@@ -44,7 +44,9 @@
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_117_P002LDP.mp3' type='audio/mpeg' ></audio></div>
 
-<p><u>Example #2</u>: 71 year-old man foot pains. History of hypertension, gout and bunions. No diabetes, no tobacco history. Posterior tibial Doppler signal was multiphasic. ABI was 1.12. </p>
+            <br>
+            
+<p><u>Example #2</u>: 71 year-old man foot pains. History of atrial fibrillation, hypertension, gout and bunions. No diabetes, no tobacco history. Posterior tibial Doppler signal was multiphasic. ABI was 1.12. </p>
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_112_P003RPT.mp3' type='audio/mpeg' ></audio></div>
 
@@ -62,6 +64,14 @@
 <br>
 
 <h3>Doppler signals in "mildly impaired" range (ABI 0.70-0.89)</h3>
+
+<p>58 year-old man with diabetes and advanced heart failure (ejection fraction 20-25%). No history of tobacco use, no significant kidney disease. Evaluation part of a determining heart transplant candidacy. Posterior tibial artery Doppler signal with ABI of 0.85</p>
+
+        <div class='playlist'>
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_085_P004RPT.mp3' type='audio/mpeg' ></audio></div>
+
+<br>
+
 <p>Aforementioned 64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right dorsalis pedis artery Doppler signal with ABI of 0.72</p>
 
         <div class='playlist'>
@@ -73,7 +83,7 @@
 
 
 <h3>Doppler signals in "moderately impaired" range (ABI 0.50-0.69)</h3>
-<p>Aforementioned 64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. No prior arterial intervention on this contralateral limb. Left dorsalis pedis artery Doppler signal with ABI of 0.53</p>
+<p>Aforementioned 64 year-old man with diabetes and advanced heart failure (ejection fraction 20-25%). No history of tobacco use, no significant kidney disease. Posterior tibial artery Doppler signal with ABI of 0.53</p>
 
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>
