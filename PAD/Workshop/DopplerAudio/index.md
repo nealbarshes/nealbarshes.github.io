@@ -33,20 +33,30 @@
 
 <p>Phasicity generally refers to a change in the direction or velocity of a wave. For lower extremity arterial waveforms, this mainly pertains to the <b>systolic</b> component of the waveform. The new consensus nomenclature seems to apply the term phasicity mainly for the direction. If flow reversal in late systole is appreciated, the waveform can be described as "multiphasic" (bidirectional). Otherwise, the waveform's phasicity should be referred to as "monophasic" using this new consensus terminology.</p>
 
-<p>The velocity of the early part of the systolic component is described by the "upstroke" in the new consensus terminology. The velocity of the systolic upstroke can also be quantified in various ways in the vascular laboratoyr, including systolic acceleration time (seconds) and as a slope / rate of velocity increase (cm/s<sup>2</sup>. "Rapid upstroke" versus "prolonged upstroke" are the consensus terms used to describe these attributes of the early part of the systolic component  </p>
+<p>The velocity of the early part of the systolic component is described by the "upstroke" in the new consensus terminology. The velocity of the systolic upstroke can also be quantified in various ways in the vascular laboratoyr, including systolic acceleration time (seconds) and as a slope / rate of velocity increase (cm/s<sup>2</sup>). "Rapid upstroke" versus "prolonged upstroke" are the consensus terms used to describe these attributes of the early part of the systolic component  </p>
 
-<h3>Multiphasic (Normal)</h3>
-        <p>__ year-old man for screening ABIs. Example link to scanned waveform 
+<h3>Multiphasic Doppler signals within the normal range (ABI 1.0-1.3)</h3>
+
+<p>64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right posterior tibial artery Doppler signal with ABI of 0.98</p>
             <a href = "../../../assets/PADalgorithm1.jpg" 
                 target="popup" 
                 onclick="window.open('../../../assets/PADalgorithm1.jpg', 'popup', 'width=600,height=400,scrollbars=no,resizable=no'); return false;">here</a>..</p>
         <div class='playlist'>
-            <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/Moderate01.mp3' type='audio/mpeg' ></audio></div>
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
 
         </div>
 
 
 <br>
+
+<h3>Doppler signals in "mildly impaired" range (ABI 0.70-0.89)</h3>
+        <p>64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right posterior tibial artery Doppler signal with ABI of 0.98</p>
+        <div class='playlist'>
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_098_P006RPT.mp3' type='audio/mpeg' ></audio></div>
+           
+        </div>
+<br>
+
 
 
 <h3>Monophasic: Mildly Impaired </h3>
