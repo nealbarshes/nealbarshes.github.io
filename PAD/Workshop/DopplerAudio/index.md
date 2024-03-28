@@ -62,15 +62,14 @@
 
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_072_P006RDP.mp3' type='audio/mpeg' ></audio></div>
-
-           
+          
         </div>
 <br>
 
 
 
 <h3>Doppler signals in "moderately impaired" range (ABI 0.50-0.69)</h3>
-<p>Aforementioned 64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. Prior stent in superficial femoral artery and toe amputation for advanced osteomyelitis nearly two years prior. This area remains healed. Right dorsalis pedis artery Doppler signal with ABI of 0.72</p>
+<p>Aforementioned 64 year-old man with diabetes and tobacco use history. Normal ejection fraction and kidney function. No prior arterial intervention on this contralateral limb. Left dorsalis pedis artery Doppler signal with ABI of 0.53</p>
 
         <div class='playlist'>
         <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>
