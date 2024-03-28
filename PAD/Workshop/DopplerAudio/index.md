@@ -12,10 +12,17 @@
 <body>
 
     <div class='section'>
-        <h1>Listening to Doppler signals</h1>
-<p>Audio files and accompanying plethysmography waveforms that are an adjunct to the "Arterial Diagnostics" workshop.</p>
-<p>Paramaters and nomenclature used here focuses primarily on the Society for Vascular Medicine and Society for Vascular <a href ="https://pubmed.ncbi.nlm.nih.gov/32667274/">consensus statement</a> [Kim ES, et al. <i>Vasc Med</i> 2020 Oct;25(5):484-506].
+        <h1>Listening to Phasicity Doppler signals</h1>
+<p>Audio files and accompanying plethysmography waveforms accompanying the "Arterial Diagnostics" workshop.</p>
+
+<p>Parameters and nomenclature uses those recommended in .
 </p>
+
+
+<p><b>Phasicity</b> generally refers to a change in the direction or velocity of a wave. For lower extremity arterial waveforms, this mainly pertains to the <b>systolic</b> component of the waveform. The the Society for Vascular Medicine and Society for Vascular Ultrasound <a href ="https://pubmed.ncbi.nlm.nih.gov/32667274/">consensus statement</a> [Kim ES, et al. <i>Vasc Med</i> 2020;25:484-506] seems to apply the term phasicity mainly for the direction. If flow reversal in late systole is appreciated, the waveform can be described as "multiphasic" (bidirectional). Otherwise, the waveform's phasicity should be referred to as "monophasic" using this new consensus terminology.</p>
+
+<p>The velocity of the early part of the systolic component is described by the "upstroke" in the new consensus terminology. The velocity of the systolic upstroke can also be quantified in various ways in the vascular laboratoyr, including systolic acceleration time (seconds) and as a slope / rate of velocity increase (cm/s<sup>2</sup>). "Rapid upstroke" versus "prolonged upstroke" are the consensus terms used to describe these attributes of the early part of the systolic component  </p>
+
 
         <h4>Doppler waveform parameters:</h4>
         <p>
@@ -31,9 +38,7 @@
 <div id='section-1' class='section'>
 <h2>Phasicity</h2>
 
-<p>Phasicity generally refers to a change in the direction or velocity of a wave. For lower extremity arterial waveforms, this mainly pertains to the <b>systolic</b> component of the waveform. The new consensus nomenclature seems to apply the term phasicity mainly for the direction. If flow reversal in late systole is appreciated, the waveform can be described as "multiphasic" (bidirectional). Otherwise, the waveform's phasicity should be referred to as "monophasic" using this new consensus terminology.</p>
 
-<p>The velocity of the early part of the systolic component is described by the "upstroke" in the new consensus terminology. The velocity of the systolic upstroke can also be quantified in various ways in the vascular laboratoyr, including systolic acceleration time (seconds) and as a slope / rate of velocity increase (cm/s<sup>2</sup>). "Rapid upstroke" versus "prolonged upstroke" are the consensus terms used to describe these attributes of the early part of the systolic component  </p>
 
             <a href = "../../../assets/PADalgorithm1.jpg" 
                 target="popup" 
@@ -103,10 +108,10 @@
         </div>
 <br>
 <h3>Doppler signals in "severely impaired" range (ABI <0.50)</h3>
-<p><u>Example #9</u>: Contralateral limb of aforementioned 66 year-old man with bilateral calf claudication, diabetes, history of tobacco use, and stage 3 chronic kidney disease. Posterior tibial artery Doppler signal with ABI of 0.53</p></p>
+<p><u>Example #9</u>: Contralateral limb of aforementioned 66 year-old man with bilateral calf claudication, diabetes, history of tobacco use, and stage 3 chronic kidney disease. Posterior tibial artery Doppler signal with ABI of 0.46</p></p>
 
         <div class='playlist'>
-        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_053_P006LDP.mp3' type='audio/mpeg' ></audio></div>        
+        <div class='labeled-audio'><audio preload='metadata' controls loop controlsList="nodownload"><source src='Files/ABI_046_P001RPT.mp3' type='audio/mpeg' ></audio></div>        
 <br>
 <p><u>Example #10</u>: Contralateral limb of aforementioned 71 year-old man with a history of tobacco use. No history of diabetes, heart disease, or kidney disease. Posterior tibial artery Doppler signal with ABI of 0.38</p></p>
 
