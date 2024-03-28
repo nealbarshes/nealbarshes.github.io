@@ -33,7 +33,6 @@
             <li><a href='#section-6'>Recording notes</a></li>
         </ul>
         </p>
-    </div>
     <hr>
 
 <div id='section-1' class='section'>
@@ -161,7 +160,7 @@
         </ul>
 </p>
 
-
+![Arterial Diagnostics: A Workshop](PADworkshop_logo.png "Arterial Diagnostics: A Workshop")
 
 
 <script>
