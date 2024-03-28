@@ -71,19 +71,26 @@ We are excited to offer a half-day workshop on arterial diagnostic -- contempora
 ---------------------------------------------
 
 [Neal R. Barshes, M.D., M.P.H.](https://www.bcm.edu/people-search/neal-barshes-18065)<br>
-Associate Professor of Surgery<br>
+Associate Professor of Surgery; Registered Physician in Vascular Interpretation (RPVI)
+Division of Vascular Surgery and Endovascular Therapy<br>
+Michael E. DeBakey Department of Surgery<br>
 Baylor College of Medicine<br>
+Houston, Texas (U.S.A.)<br>
+
 
 [Besma J. Nejim, M.D., M.P.H.](https://www.bcm.edu/people-search/besma-nejim-156031)<br>
-Assistant Professor of Surgery<br>
+Assistant Professor of Surgery; Registered Physician in Vascular Interpretation (RPVI)
+Division of Vascular Surgery and Endovascular Therapy<br>
+Michael E. DeBakey Department of Surgery<br>
 Baylor College of Medicine<br>
+Houston, Texas (U.S.A.)<br>
 
 ---------------------------------------------
 ## Course Materials Provided
 ---------------------------------------------
 Hard copy packet with:
-- normal values, diagnostic accuracy of commonly-used non-invasive tests
 - essential concepts: a summary
+- normal values, diagnostic accuracy of commonly-used non-invasive tests
 - glossary of terms
 
 <br>
