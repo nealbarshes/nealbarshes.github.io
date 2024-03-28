@@ -159,7 +159,8 @@
             <li>Recorded, edited and uploaded spring 2024. Thank you to RVTs Dalia Demarco and Mark Evans!</li>
         </ul>
 </p>
-
+<br>
+<br>
 ![Arterial Diagnostics: A Workshop](../PADworkshop_logo.png "Arterial Diagnostics: A Workshop")
 
 
