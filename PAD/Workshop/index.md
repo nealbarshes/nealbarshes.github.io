@@ -10,7 +10,6 @@
 </script>
 </head>
 
-# Arterial Diagnostics Workshop
 
 ![Arterial Diagnostics: A Workshop](PADworkshop_logo.png "Arterial Diagnostics: A Workshop")
 
@@ -88,7 +87,7 @@ Hard copy packet with:
 - glossary of terms
 
 <br>
-![Houston / DeBakey Vascular Surgery Team](/assets/VAhoustonVascularLogo3.jpg "Houston / DeBakey Vascular Surgery Team")
+![Houston / DeBakey Vascular Surgery Team](/assets/VAvascularTeamLogo.png "Houston / DeBakey Vascular Surgery Team")
 
 <br>
 <br>
