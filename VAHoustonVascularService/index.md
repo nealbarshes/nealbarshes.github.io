@@ -296,7 +296,7 @@ The [BCM MED Department of Surgery reporting of “near-misses", errors and safe
 <ol>
 <li>Talk with one of the staff surgeons.</li>
 <li>Talk with one of the senior trainees.</li>
-<li>Talk with Dr. Barshes (vascular fellowship program director) or Dr. Kougias (general surgery residency rotation director).</li>
+<li>Talk with Dr. Barshes (vascular fellowship program director. surgery resident site director), Dr. Mills (vascular surgery residency director or Dr. Pallister (vascular surgery residency associate director).</li>
 <li>Provide written feedback on your end-of-rotation summary.</li>
 <li>Provide feedback on the annual (spring) annual residency program survey.</li>
 </ol>
