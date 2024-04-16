@@ -164,7 +164,7 @@ Notes:
 
 <b>When assigned to clinic:</b>
 <ul>
-<li>Work with your assigned PGY-1/2/4, the outpatient clinic-assigned nurse practicioner, and the clinic-assigned staff surgeon to complete telephone and any face-to-face consults.</li>
+<li>Work with the outpatient clinic-assigned nurse practicioner, and the clinic-assigned staff surgeon to complete telephone and any face-to-face consults.</li>
 <li>Once finished with clinic and seeing any inpatient consults, go to the OR. to get involved with cases. On-call senior should probably plan to do cases anticipated to go late.</li>
 <li>Receive late afternoon or evening check-out from off-call seniors and discuss to-do activities with on-call nighttime intern.</li>
 <li>On weekends, rounds on all inpatients.</li>
@@ -192,54 +192,50 @@ Our [recommended list of chapters from Cameron's Current Surgical Therapy](https
 <br>
 
 <hr>
-### The Weekly Schedule:
+### Weekly Clinical and Educational Activities:
 <br>
 <b>Monday:</b>
 <ul>
 <li>7:45am table rounds in 5A-321.</li>
-<li>Post-op/tele clinic: clinic senior and junior.</li>
-<li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
-<li>OR2/BU: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
+<li>Post-op face-to-face and telephone clinic</li>
+<li>OR8a cases.</li>
 </ul>
 
 <b>Tuesday:</b>
 <ul>
 <li>7:45am table rounds in 5A-321.</li>
-<li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
-<li>OR2/BU: OR2 senior and junior.</li>
-<li>Tele-clinic: clinic senior and junior.</li>
+<li>OR8a.</li>
+<li>Tele-clinic.</li>
 </ul>
 
 <b>Wednesday:</b>
 <ul>
-<li>7-10am: General surgery residents away for education.</li>
-<li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
-<li>OR2: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
-<li>Tele-clinic: clinic senior and junior.</li>
+<li>7-10am: General surgery resident education at Baylor.</li>
+<li>OR8a.</li>
+<li>OR4.</li>
 </ul>
 
 <b>Thursday:</b>
 <ul>
 <li>7:45am table rounds in the 5C clinic conference room.</li>
 <li>8:00am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call. Fellow/4th year and all available.</li>
-<li>OR1: on-call senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
-<li>OR2/back-up: OR2 senior and/or junior (multiple trainees for aortic/bypass procedures).</li>
-<li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and prelimiary residents attend weekly vascular surgery conference.</li>
+<li>OR8a.</li>
+<li>Noon "indications" conference in the 5C clinic conference room.</li>
+<li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and medical student attend weekly vascular surgery conference.</li>
 </ul>
 
 <b>Friday:</b>
 <ul>
 <li>7:45am table rounds in 5A-321.</li>
-<li>OR1: on-call senior and junior (multiple trainees for aortic/bypass procedures).</li>
-<li>OR2: OR2 senior and junior (multiple trainees for aortic/bypass procedures).</li>
-<li>OR3 (when it occurs): back-up senior and/or junior residents.</li>
+<li>OR8a.</li>
+<li>OR4.</li>
 <li>Weekend sign-out to on-call team.</li>
 </ul>
 
 <b>Weekends:</b>
 <ul>
 <li>On-call senior to round with intern and speak with on-call attending.</li>
-<li>All weekend admissions and consults go to the on-call senior service.</li>
+<li>All weekend new admissions and new consults go to the on-call senior's service.</li>
 </ul>
 
 <br>
@@ -248,7 +244,7 @@ Our [recommended list of chapters from Cameron's Current Surgical Therapy](https
 ### Uncommon but Important Scenarios: 
 <br>
 #### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
-Thank you to Drs. Jessica Rea and Zachary Chizmar for helping develop this material.
+Thank you to Drs. Jessica Rea, Zachary Chizmar and Jorge Miranda for helping develop this material.
 
 Transitioning clinical responsibilities is <i>mandatory</i> when:
 1. ill or fatigued
@@ -305,4 +301,4 @@ The [BCM MED Department of Surgery reporting of “near-misses", errors and safe
 </ol>
 
 <hr>
-So glad you've read through all of this document! Now please complete [this quiz](https://www.surveymonkey.com/r/N5R9H9X) to ensure understanding of this. 
+So glad you've read through all of this document!  
