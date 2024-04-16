@@ -291,6 +291,7 @@ Know that within the VA system, [verbal consent from the patient IS required for
 The [BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx) should be used for quality improvement related to these events.
 
 <br>
+
 #### Options for giving feedback on the rotation: 
 <ol>
 <li>Talk with one of the staff surgeons.</li>
