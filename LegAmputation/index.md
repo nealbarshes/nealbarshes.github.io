@@ -57,6 +57,7 @@ Suction on Neptune to high, smoke evacuator option at 100%.
 <b>Pre-op preparation:</b>
 Before day of surgery: x-ray of planned level of amputation (look for hardware).
 Day of surgery: Check laterality. Then double check it. Then triple check it.
+Tizanidine (Zanaflex) 4mg PO once NOW for pre-op holding (one hour before procedure)
 
 <b>First part of a two-stage leg ampuation:</b>
 Done as an ankle disarticulation through the tibiotalar joint. See this plastic surgeon Dr. Attinger's [description of ankle disarticulation technique](https://pubmed.ncbi.nlm.nih.gov/32600566/) for details. Tissue ±fluid from removed specimen sent in sterile saline for microbiology. 
@@ -76,40 +77,41 @@ Please see this plastic surgeon Dr. Attinger's [excellent description of a knee 
 
 <b>Post-operative orders:</b>
 
+(Thank you to pharmacy resident Tiffany Dinh for contributing information on medications for muscle spasms!)
+
 <blockquote style="padding: 10px; font-style: normal; color: #2C3E50; background-color: #ccc;"><tt>
 <b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b><br>
 1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br>
 2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
-3. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
-4. Docusate 100 mg PO every 12 hours.<br>
-5. Senna 2 mg PO every 12 hours.<br>
-<br>
+3. Tizanidine (Zanaflex) 2mg PO every 8 hours scheduled x48 hours. Avoid if advanced CKD (GFR<30) or any liver disease.<br>
+4. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
+5. Docusate 50 mg/ Sennosides 8.6mg combination tablet PO every 12 hours.<br>
 <b>AS NEEDED components of the multimodal analgesia bundle:</b><br>
-7. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
-8. Tylenol #3 one tablet q6h PRN severe pain.<br>
+6. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
+7. Tylenol #3 one tablet q6h PRN severe pain.<br>
 9. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
-10. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
+8. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
 <b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
-11. <i>S = S</i>tatin medication.<br>
-12. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
-13. <i>V= V</i>itamin C 500mg PO BID. <br>
-14. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
-15. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
-16. <i>He= H</i>eparin subcutaneous q8h. Do not hold for OR.<br>
-17. <i>L= L</i>actobacillus 2 caps PO BID.<br>
-18. <i>I= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale.<br>
-19. <i>M= M</i>ultivitamin 1 cap daily.<br>
-20. <i>B= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
+9. <i>S = S</i>tatin medication.<br>
+10. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
+11. <i>V= V</i>itamin C 500mg PO BID. <br>
+12. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
+13. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
+14. <i>He= H</i>eparin subcutaneous q8h. Do not hold for OR.<br>
+15. <i>L= L</i>actobacillus 2 caps PO BID.<br>
+16. <i>I= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale.<br>
+17. <i>M= M</i>ultivitamin 1 cap daily.<br>
+18. <i>B= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
 <b>Other orders:</b><br>
-21. NS @ ~0.5mL/kg/hr x12 hours.<br>
-22. Solid food diet.<br>
-23. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
-24. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
-25. Consult physical therapy, occupational therapy.
-26. <i>Text order</i>: "Out of bed to chair in AM."<br>
-27. <i>Text order</i>: "Do not manipulate leg wrap. Leave knee immobilizer in place most of day."<br>
-28. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br>
-29. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br> 
+19. NS @ ~0.5mL/kg/hr x12 hours.<br>
+20. Solid food diet.<br>
+21. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
+22. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
+23. Consult physical therapy, occupational therapy.
+24. <i>Text order</i>: "Out of bed to chair in AM."<br>
+25. <i>Text order</i>: "Do not manipulate leg wrap. Leave knee immobilizer in place most of day."<br>
+26. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br>
+27. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br> 
 </tt></blockquote>
 <br>
 <br>
