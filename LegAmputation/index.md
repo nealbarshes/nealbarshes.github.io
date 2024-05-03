@@ -35,7 +35,7 @@ Ask about baseline mobility, stairs leading to or inside the patient's home, and
 7.  Zimmer oscillating saw w 25mm width blade<br>
 8.  2-0 Vicryl on CT1 needle x6 for thin calf transtibial, x8 for large thigh transfemoral<br>
 9.  2-0 Nylon on FSLX needle x4<br>
-10. skin stapler
+10. skin stapler<br>
 11. KCI wound VAC with medium black sponge<br>
 12. Adaptec x1<br>
 13. Mastisol x2<br>
