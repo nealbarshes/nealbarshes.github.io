@@ -85,7 +85,7 @@ Please see this plastic surgeon Dr. Attinger's [excellent description of a knee 
 2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
 3. Tizanidine (Zanaflex) 2mg PO every 8 hours scheduled x48 hours. Avoid if advanced CKD (GFR<30) or any liver disease.<br>
 4. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
-5. Docusate 50 mg/ Sennosides 8.6mg combination tablet PO every 12 hours.<br>
+5. Docusate 50 mg/ Sennosides 8.6mg combination tablet PO every 12 hours.<br><br>
 <b>AS NEEDED components of the multimodal analgesia bundle:</b><br>
 6. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
 7. Tylenol #3 one tablet q6h PRN severe pain.<br>
