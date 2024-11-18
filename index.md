@@ -10,24 +10,26 @@
 </script>
 </head>
 
-As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations. This contains a portfolio of resources I am sharing to help others interested in reducing the rate of leg amputations. 
+As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations. This contains a portfolio of resources I am sharing to help others with similar interests. 
 
 ### Tenets of Treatment for Health Care Providers
-Pages providing practical guidance with rationale/evidence/support. Included here both to make this easily available amongst our teams and colleagues, but also with the hope that increasingly consistent approaches to diagnosis and treatment might help decrease the [racial and ethnic disparities in leg amputation rates](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
+Pages providing practical guidance with rationale and evidence. Included here both for routine clinical care, and also with the hope that consistent, evidence-based management might help decrease the [racial and ethnic disparities in leg amputation rates](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
 
 1. [Deep infections get drained/incised.](https://nealbarshes.github.io/FootInfection/) 
 2. [Ensure or establish adequate arterial inflow.](https://nealbarshes.github.io/PAD/)
 3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
 4. Maintain mobility  -- even if [amputation](https://nealbarshes.github.io/LegAmputation/) is performed.
 
-Health professionals interested in getting a more comprehensive summary of the nature of the disease and the spectrum of care that may help prevent leg amputations can read our 2013 ["System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) or our 2011 ["framework" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf). This 2019 ["Advances in PAD" paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%20%26%20Grant%2C%20PAD%20advances%202019.pdf) describes state-of-the-art developments in management.
+This is a summary[ of our current approach and evidence supporting it](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes_EvidencedManagementSummary.pdf). An overview of the foot ulcer-limb loss disease process is in our ["System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) and our ["framework" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf).  summarizes clinical outcomes in patients with foot ulcers and peripheral artery disease.
 
 ### Information for People with Diabetes
 [These videos](https://nealbarshes.github.io/PatientEducation/) are aimed at helping people avoid complications from diabetes- and circulation-related foot problems. They also summarize how foot ulcers are often treated and how to develop a strategy to quit smoking.
 
 <i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with understanding how diabetes can lead to foot ulcers and infections. It helps people reduce their amputation risk, recognize a foot infection, and develop a contingency plan if infection does develop.
 
-This brochure is written with plain language and no undefined technical terms. We have incorporated feedback from patients who have graciously reviewed it. Fantastic colleagues here in Houston have helped translate it from English into 25 additional languages that represent the languages spoken by 97.2% of the United States population. Please feel free to download and distribute these brochures. Use them to start a conversation with your patients or to learn about your condition.
+![Guard Your Feet!](/assets/GuardYourFootLogo03_200dpi.png) "Guard Your Feet!")
+
+This brochure is written with plain language and no undefined technical terms. Feedback from kind patients with foot ulcers was incorporated into the initial English language version. Fantastic colleagues have since helped translate it into 27 additional languages spoken by 98% of the United States population. 
 
 1.  [Guard your Feet, English](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
 2.  [Proteja los Pies, Spanish](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/02%20Proteja%20los%20Pies%20%5BSpanish%5D.pdf)
@@ -55,7 +57,7 @@ This brochure is written with plain language and no undefined technical terms. W
 24. [તમારા પગનું રક્ષણ કરો, Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/24%20%E0%AA%A4%E0%AA%AE%E0%AA%BE%E0%AA%B0%E0%AA%BE%20%E0%AA%AA%E0%AA%97%E0%AA%A8%E0%AB%81%E0%AA%82%20%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%A3%20%E0%AA%95%E0%AA%B0%E0%AB%8B%20%5BGujarati%2C%20Patel%5D.pdf)
 25. [Guard Your Feet, Farsi/Persian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/25%20Guard%20Your%20Feet%20%20%5BFarsi%2C%20Zamani%5D.pdf)
 26. [Bantayan ang Mga Paa, Tagalog/Filipino](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/26%20Bantayan%20ang%20Mga%20Paa%20%5BTagalog%2C%20Reyes%5D.pdf)
-27. [24 તમારા પગનું રક્ષણ કરો Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/27%20Guard%20Your%20Feet%20%5BBengali%2C%20Mitra%5D.pdf)
+27. [24 તમારા પગનું રક્ષણ કરો, Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/27%20Guard%20Your%20Feet%20%5BBengali%2C%20Mitra%5D.pdf)
 
 
 
