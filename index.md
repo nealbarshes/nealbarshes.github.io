@@ -27,8 +27,6 @@ This is a summary[ of our current approach and evidence supporting it](https://g
 
 <i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with understanding how diabetes can lead to foot ulcers and infections. It helps people reduce their amputation risk, recognize a foot infection, and develop a contingency plan if infection does develop.
 
-![Guard Your Feet!](/assets/GuardYourFootLogo03_200dpi.png) "Guard Your Feet!")
-
 This brochure is written with plain language and no undefined technical terms. Feedback from kind patients with foot ulcers was incorporated into the initial English language version. Fantastic colleagues have since helped translate it into 27 additional languages spoken by 98% of the United States population. 
 
 1.  [Guard your Feet, English](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
@@ -57,7 +55,7 @@ This brochure is written with plain language and no undefined technical terms. F
 24. [તમારા પગનું રક્ષણ કરો, Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/24%20%E0%AA%A4%E0%AA%AE%E0%AA%BE%E0%AA%B0%E0%AA%BE%20%E0%AA%AA%E0%AA%97%E0%AA%A8%E0%AB%81%E0%AA%82%20%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%A3%20%E0%AA%95%E0%AA%B0%E0%AB%8B%20%5BGujarati%2C%20Patel%5D.pdf)
 25. [Guard Your Feet, Farsi/Persian](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/25%20Guard%20Your%20Feet%20%20%5BFarsi%2C%20Zamani%5D.pdf)
 26. [Bantayan ang Mga Paa, Tagalog/Filipino](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/26%20Bantayan%20ang%20Mga%20Paa%20%5BTagalog%2C%20Reyes%5D.pdf)
-27. [24 તમારા પગનું રક્ષણ કરો, Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/27%20Guard%20Your%20Feet%20%5BBengali%2C%20Mitra%5D.pdf)
+27. [તમારા પગનું રક્ષણ કરો, Gujarati](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/27%20Guard%20Your%20Feet%20%5BBengali%2C%20Mitra%5D.pdf)
 
 
 
