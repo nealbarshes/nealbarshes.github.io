@@ -27,9 +27,7 @@
 
 We have [team morning report](https://dvagov-my.sharepoint.com/:t:/g/personal/neal_barshes_va_gov/EXh08bg0uidLouFBK3qD1UkBgfTFWGJ5WqDRYjGEKDxuXA?e=fE0W82) Mondays and Thursdays starting at 0745am.  
 
-Please use this folder of perioperative documents and reference materials to ensure your patient management is thorough and consistent. 
- 
-For continuous improvement and patient safety: use this slide template for M&M presentations. Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F) to report systems issues. Also Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
+For <b>continuous improvement</b> and <b>patient safety</b>: use this slide template for M&M presentations. Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F) to report systems issues. Also Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
 
 Our team’s contingency plans for [needlestick/sharps injuries](https://nealbarshes.github.io/Team/ContingencyPlans/Needlestick), [intraoperative site contamination](https://nealbarshes.github.io/Team/ContingencyPlans/Contamination), and [weather events](https://nealbarshes.github.io/Team/ContingencyPlans/WeatherEvents/). 
 
