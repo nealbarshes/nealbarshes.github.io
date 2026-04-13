@@ -13,7 +13,7 @@
 |05 | [Pre-op checklist](http://nealbarshes.github.io/Team/Protocols_AllPatients/05_PreOpChecklist_AllPatients) |
 |06 | Case log CPTs |
 |07 | [<b>Post-op orders</b>](http://nealbarshes.github.io/Team/Protocols_AllPatients/07_PostOpOrders_AllPatients) |
-|08 | Post-op problems: protocols |
+|08 | [Post-op problems: protocols](http://nealbarshes.github.io/Team/Protocols_AllPatients/08_PostOpProblems_AllPatients.md) |
 |08 | Inpatient SOAP note template |
 |10 | Discharge planning |
 |11 | [Patient discharge instructions](http://nealbarshes.github.io/Team/Protocols_AllPatients/10_DischargeInstructions_AllPatients.md) |
