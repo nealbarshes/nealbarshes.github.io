@@ -1,9 +1,9 @@
 ### ALL-PATIENTS
  1[ ] OR schedule posting  
  2[ ] complete blood count (CBC), 90d  
- >      |LR WBC 1Y NULL|  
- >      |LR HEMOGLOBIN 1Y NULL|  
- >      |LR PLT 1Y NULL|  
+       |LR WBC 1Y NULL|  
+       |LR HEMOGLOBIN 1Y NULL|  
+       |LR PLT 1Y NULL|  
  3[ ] basic metabolic profile (BMP), 90d  
         |LR POTASSIUM 1Y NULL|  
         |LR CO2 1Y NULL|  
