@@ -1,4 +1,4 @@
-# U R G E N T   P R O B L E M S
+# U R G E N T     P R O B L E M S
 
 ### hypotension (<90mmHg systolic):
 ASSESS THE PATIENT IMMEDIATELY.
@@ -28,7 +28,7 @@ Order EKG and look for: peaked T waves, esp. V2 (sometimes higher than QRS). Inc
 
 
 
-# C O M M O N, N O N - U R G E N T   P R O B L E M S
+# C O M M O N,   N O N - U R G E N T   P R O B L E M S
 
 ### hyponatremia
 Look for and treat sources of infection.
