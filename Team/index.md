@@ -1,17 +1,5 @@
 ### Welcome to the DeBakey VA Vascular Surgery Team. 
 
-Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s[{1}](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ).  Ours has been the busiest VA vascular surgery service in the United States, and our Operative Care Line outcomes has been recognized as a “low outlier” (risk-adjusted mortality and mortality rates than significantly lower than expected) frequently over the past 10 years.  
-
-We are proud to serve a diverse patient population: 55% of our limb salvage population comprised of people categorized as Black or Hispanic[{2}](https://pubmed.ncbi.nlm.nih.gov/36759932/), and many travel here from throughout southeast Texas and Louisiana [{3}](https://nealbarshes.github.io/Maps/Interactive/MEDVAMCzips/MEDVAMCCBOCsLeafletMap.html).  
-
-The tenets guiding our service are: 
-1. Providing outstanding patient care.  
-2. Respect for all persons through speech and actions.  
-3. Clearly delineated roles and responsibilities. 
-4. Feedback as a necessity for growth and learning. 
-
-
-
 | <b>Core resources for our team:</b> |
 |---|
 |1. [roster](https://dvagov-my.sharepoint.com/:w:/g/personal/neal_barshes_va_gov/EWOepLgwomhCpGkVNxiDmusBOtmFvgRcy_gSczzoW9qksg?e=rILDjG)|
@@ -22,19 +10,39 @@ The tenets guiding our service are:
 
 
 
+| <b>Service-specific guidance for clinical care</b> |
+| --- |
+| #1 <b>ALL PATIENTS (default settings)</b>|
+| #2 lower extremity revascularization |
+| #3 lower extremity amputation |
+| #4 carotid |
+| #5 aortic |
+| #6 dialysis access |
+| #7 venous |
+
+
 
 We have [team morning report](https://dvagov-my.sharepoint.com/:t:/g/personal/neal_barshes_va_gov/EXh08bg0uidLouFBK3qD1UkBgfTFWGJ5WqDRYjGEKDxuXA?e=fE0W82) Mondays and Thursdays starting at 0745am.  
 
-![team logo](https://nealbarshes.github.io/assets/VAhoustonVascularLogo3.jpg)
-
 Please use this folder of perioperative documents and reference materials to ensure your patient management is thorough and consistent. 
  
-For continuous improvement and patient safety: 
+For continuous improvement and patient safety: use this slide template for M&M presentations. VHA “Joint Patient Safety Reporting” (JPSR) to report systems issues. Also BCM MED DOS: “Voluntary Reporting of Errors and Safety Issues”. 
 
-List of pending cases to review and discuss at BCM Vascular M&M. Please use this slide template.		 
+Our team’s contingency plans, including needlestick/sharps injuries and weather events. 
 
-VHA “Joint Patient Safety Reporting” (JPSR). 
+![team logo](https://nealbarshes.github.io/assets/VAhoustonVascularLogo3.jpg)
 
-BCM MED DOS: “Voluntary Reporting of Errors and Safety Issues”. 
+The tenets guiding our service are: 
+1. Providing outstanding patient care.  
+2. Respect for all persons through speech and actions.  
+3. Clearly delineated roles and responsibilities. 
+4. Feedback as a necessity for growth and learning. 
 
-Our team’s contingency plans and checklists. 
+Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s[{1}](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ).  Ours has been the busiest VA vascular surgery service in the United States, and our Operative Care Line outcomes has been recognized as a “low outlier” (risk-adjusted mortality and mortality rates than significantly lower than expected) frequently over the past 10 years.  
+
+We are proud to serve a diverse patient population: 55% of our limb salvage population comprised of people categorized as Black or Hispanic[{2}](https://pubmed.ncbi.nlm.nih.gov/36759932/), and many travel here from throughout southeast Texas and Louisiana [{3}](https://nealbarshes.github.io/Maps/Interactive/MEDVAMCzips/MEDVAMCCBOCsLeafletMap.html).  
+
+
+
+
+
