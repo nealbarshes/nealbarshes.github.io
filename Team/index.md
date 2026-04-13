@@ -29,7 +29,7 @@ We have [team morning report](https://nealbarshes.github.io/Team/OtherFiles/Morn
 
 For <b>continuous improvement</b> and <b>patient safety</b>: use [this slide template for M&M presentations](https://nealbarshes.github.io/Team/MMconference/VascularTeam_Mtg_M&M_SlideTemplate.pptx). Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F) to report systems issues. Also Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
 
-These are our team’s <b>contingency plans<b> for [needlestick/sharps injuries](https://nealbarshes.github.io/Team/ContingencyPlans/Needlestick), [intraoperative site contamination](https://nealbarshes.github.io/Team/ContingencyPlans/Contamination), and [weather events](https://nealbarshes.github.io/Team/ContingencyPlans/WeatherEvents/). 
+These are our team’s <b>contingency plans</b> for [needlestick/sharps injuries](https://nealbarshes.github.io/Team/ContingencyPlans/Needlestick), [intraoperative site contamination](https://nealbarshes.github.io/Team/ContingencyPlans/Contamination), and [weather events](https://nealbarshes.github.io/Team/ContingencyPlans/WeatherEvents/). 
 
 ![team logo](https://nealbarshes.github.io/assets/VAhoustonVascularLogo3.jpg)
 
