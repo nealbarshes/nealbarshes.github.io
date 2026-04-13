@@ -1,0 +1,180 @@
+Show ^ Title ^ Vascular Surgery Chart Review   
+
+Show ^Text ^Note: This is bottom-up chart review, intended to a complement top-down problem-focused scripts(ex. limb salvage script) by identifying health problems that are: (1) not yet identified by the provider; and (2) potentially-relevant to vascular health outcomes.
+
+Show ^Text ^
+Show ^ Heading ^ Age  
+{Age}                                                                                                                                                 
+Show ^ Demographics ^Sex
+
+Show ^ Text ^       
+Show ^ Demographics ^Address
+Show ^ Demographics ^County  
+
+Show ^ Text ^   
+Show ^Heading ^ Critical Alerts
+Show ^Alerts ^Critical                  
+                                                  
+                       
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Title ^ Vascular Surgery Progress & Operative Notes
+Show ^ Heading ^ Previous Vascular Surgery Team Notes
+Show ^ ProgressNoteTitlesList ^ Vascular Surgery ^ StartDateOffset=1095 ^ ExcludeIfTitleIncludes = Ultrasound; Lab ^Count = 5       
+Show ^ Text ^    
+Show ^ Heading ^ Operative Notes      
+Show ^ ProgressNoteTitlesList ^ Surgery Brief ^ StartDateOffset=3654 ^ ExcludeIfTitleIncludes = Teleph; secure; nurs ^ Count = 5
+Show ^ Text ^   
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Title ^ Contemporary Medical Management
+
+Show ^ Text ^  
+Show ^ Heading ^ Aspirin / Anti-platelet medications  
+show ^IsOnRx ^Aspirin
+show ^IsOnRx ^Clopidogrel 
+show ^IsOnRx ^Ticagrelor
+show ^IsOnRx ^Prasugrel 
+
+Show ^ Text ^  
+Show ^ Heading ^ Blood Pressure   
+Show ^ Vitals ^BP  ^Count = 5 ^ Indent=4     
+
+
+Show ^ Text ^  
+Show ^ Heading ^ Cholesterol
+Show ^ Lab Profile ^ Lipid Profile  ^ Count = 2      
+Show ^ Text ^ 
+Show ^ RxGroup ^ STATIN ^ Indent = 4          
+
+Show ^ Text ^ 
+Show ^Heading ^Diabetes  
+{DM}   
+Show ^ Text ^ 
+Show ^ Lab ^ _A1c ^ Count = 3 ^ Indent=4  
+Show ^ Lab ^ _Glucose ^ Count = 20 ^ Indent=4   
+
+Show ^ Heading ^ Diabetic Medications (Active Rx if any)
+Show ^ RxGroup ^ DIABETES MELLITUS RX ^ Indent = 4  
+Show ^ Text ^   
+         
+Show ^Heading ^Eliminate tobacco
+{Tobacco use}    
+Show ^HF ^Tobacco; ^Category = Tobacco ^Count=99  ^HideCategoryName = Yes                      
+
+
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Title ^ Vascular Findings   
+                            
+Show ^ Text ^           
+Show ^Heading ^Lower extremity P.A.D.
+{PVD}           
+Show ^ Text ^             
+Show ^HighlightWords ^Toe pressure; ABI; carotid  
+Show ^SearchWords ^Toe pressure | ABI                   
+
+Show ^ProgressNoteTextByTitle ^VASCULAR SURGERY LAB, ^Count=2  
+Show ^ Text ^  
+
+Show ^ Text ^           
+Show ^Heading ^Carotid Disease 
+Show ^ Text ^ Chart diagnosis of carotid disease?  
+{Carotid Stenosis}
+{Cerebrovascular disease}
+Show ^ Text ^
+Show ^ProgressNoteTextByTitle ^VASCULAR/CAROTID ULTRASOUND, ^Count=2
+Show ^ Text ^
+Show ^CopyImagingTextBlock ^Report:; Dx codes|Signed by|Electronically:Staff:;3 ^IfTitleIncludes = CT angiography, neck/ ^Count = 3 ^IncludeBlockEndMarkerLine = No
+Show ^II ^_CT ANGIO NECK  ^Count=1  
+Show ^II ^Carotid          
+
+Show ^ Text ^
+Show ^Text ^Risk Factors: 2% if none, 67% if four [Jacobowitz GR, et al, J Vasc Surg 2003; 38:705]
+Show ^ Text ^
+Show ^ Text ^ 1. Tobacco use
+{Tobacco use}
+Show ^ Text ^ 2. Prior stroke or TIA
+{Cerebrovascular disease}
+Show ^ Text ^ 3. Peripheral Artery disease
+{PVD}
+Show ^ Text ^ 4. Left main coronary artery disease
+Show ^Outpatient Dx ^I25.14 ^Count = 1 
+Show ^ Text ^ 5. Female gender 
+Show ^ Demographics ^Sex   ^Indent = 16
+                              
+      
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Title ^ Aortic Aneurysm Imaging  
+Show ^ Text ^ Chart diagnosis of aortic aneurysm?  
+Show ^Outpatient Dx ^I71.4 ^Count = 2  
+Show ^ Heading ^Thoracic Aorta Imaging (if any)
+Show ^CopyImagingTextBlock ^Report:; Dx codes|Signed by|Electronically:Staff:;3 ^IfTitleIncludes = CT Chest / Thorax ^Count = 3 ^IncludeBlockEndMarkerLine = No
+Show ^II ^_CT Thor ^Count=1  
+Show ^II ^_CT Chest ^Count=1    
+
+Show ^Heading ^Abdominal Aorta Imaging (if any)
+Show ^CopyImagingTextBlock ^Impression:; Dx codes|Signed by|Electronically:Staff:;50 ^IfTitleIncludes = CT Angio Abdomen; CT abdomen; US Abdl Aorta ^IncludeBlockEndMarkerLine = No
+Show ^Text ^                                                     
+                      
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Title ^ Cardiac Testing 
+Show ^ Text ^ Chart diagnosis of CAD or CHF?    
+{CAD}           
+Show ^ Lab ^ _BNP ^ Count = 3 ^ Indent=4   
+Show ^ Text ^ 
+SHow ^ Heading ^ Cardiology Reports 
+Show ^Reports List ^Holter;Echo;Stress;Myocardial Perfusion; CARDIAC CATHETERIZATION; MULTIPLE SPECT CARDIAC; ECG; EKG; CARDIAC; MUSE; ELECTROPHYSIOLO  ^INDENT = 4  ^Count = 5             
+Show ^ Text ^                                              
+SHow ^ Heading ^ Cardiology Progress Notes
+Show ^ ProgressNoteTitlesList ^ Cardiology ^ StartDateOffset=1095 ^ ExcludeIfTitleIncludes = Teleph; secure; nurs; Diagnos; Non-invas ^ Count = 5
+SHow ^ Heading ^ Highlighted Words
+Show ^HighlightWords ^EKG; ECG; Holter; Stress T; Echo; Cardiac Cath; myocardial  ^ COUNT = 5
+SHow ^ Heading ^ Search
+Show ^SearchWords ^EKG; ECG; Holter; Stress T; Echo; Cardiac Cath; myocardial ^ COUNT = 5
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Title ^ Other laboratory results                 
+     
+Show ^ Heading ^ GFR (Max: 5. If n/a here, use Brillians Med Calculators)
+Show ^ LAB Names Like ^ GFR  ^ COUNT = 4^ INDENT = 4     
+
+Show ^ Heading ^ Hemoglobin
+Show ^ Lab ^ _Hgb ^Count= 3 ^ Indent=4          
+            
+Show ^ Heading ^ CRP    
+Show ^ LabNamesLike ^ CRP; Reactive; ^ Count = 2 ^ Indent = 4 ^ ShowSelectionCriteria = No  
+                                  
+                       
+Show ^ Heading ^ Albumin                       
+Show ^ Lab ^ _Albumin ^ Count = 3^ Indent=4  
+
+Show ^ Text ^ 
+Show ^ Heading ^ Urinalysis Profile (showing max: 3, if available)
+Show ^ LabProfile ^ UA Profile  ^ Count = 3     
+      
+Show ^Text ^                 
+SHow ^ Heading ^Liver Profile
+Show ^ LABPROFILE ^ Liver Profile  ^ COUNT = 1 ^ InformIfNoData = Yes
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Title ^ Other problems 
+
+Show ^Heading ^Active Problems
+Show ^ProblemList ^All ^ProblemStatus = Active   
+Show ^Heading ^Inactive Problems
+Show ^ProblemList ^All ^ProblemStatus = Inactive
+
+
+Show ^Text ^
+; Medications List
+ImportQuery ^xxImport-TIU DataObject-Active Meds.txt    
+    
+Show ^ Text ^          
+{PC Team}          
+{PC Provider}   
+Show ^Text ^
+Show ^Text ^Inpatient team & diagnosis (if applicable):
+
+
+                                                                      

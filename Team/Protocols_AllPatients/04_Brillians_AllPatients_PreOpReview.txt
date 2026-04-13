@@ -1,0 +1,264 @@
+Show ^ HighlightWords ^ No data
+Show ^ BoldFontWords ^ No data; infiltrate
+                                                      
+Show ^ Title ^ Vascular Surgery Pre-Operative Review     
+                               
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 02[___] complete blood count (CBC), 90d
+
+Show ^Text ^              
+Show ^ Lab ^ _Hgb ^ Count = 5 ^ Indent=4    ^ StartDateOffset = 83
+Show ^Text ^          
+Show ^ Lab ^ _Platelets ^ Count = 5 ^ Indent=4     ^ StartDateOffset = 83
+                       
+         
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 03[___] basic metabolic profile (BMP), 90d
+Show ^ Lab ^ _Potassium ^ Count = 5 ^ Indent=5 
+Show ^ Lab ^ _eGFR ^ Count = 5 ^ Indent=5 
+Show ^Lab ^Electrolyte Profile ^Count =1 ^Indent = 4
+Show ^Lab ^UA Profile ^Count =1 ^Indent = 4                                   
+
+Show ^ All ABnormal Labs ^ ALL ^StartDateOffset = 90
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 04[___] PT/INR, PTT, 90d
+Show ^ Lab Names Like ^ INR; PTT ^ Count = 3                                                          
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 05[___] type & screen, 90d
+Show ^Text ^      
+Show ^Vista Data ^TS 
+Show ^HF ^Type/Screen
+Show ^HF ^Type/Cross
+Show ^Text ^     
+Show ^CopyAdhocSummaryTextLines ^BLO ^IfLineContains = Type; Screen ^Indent = 11 ^Count = 2              
+                       
+Show ^ Heading  ^ 07[___] chest x-ray, 90d
+Show ^II ^_CXR ^Count=1  ^Indent = 11       
+Show ^II ^_CT Thor ^Count=1  ^Indent = 11      
+Show ^CopyImagingTextBlock ^Report:; Dx codes|Signed by|Electronically:Staff:;100 ^IfTitleIncludes = Chest ^Count = 1 ^IncludeBlockEndMarkerLine = No
+           
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 08[___] pacemaker nurse evaluation note, 6 mos. 
+Show ^Text ^
+Show ^HF ^Pacemaker
+Show ^Text ^
+Show ^ ProgressNoteTitlesList ^ Pacemake ^ StartDateOffset=180 ^ Count = 1 ^Indent = 5
+Show ^ ProgressNoteTitlesList ^ Pacemake ^ StartDateOffset=3653 ^ Count = 2 ^Indent = 5         
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 09[___] iMed consent, 60d 
+Show ^Text ^ 
+Show ^HF ^Blood Consent
+Show ^Text ^
+Show ^ ProgressNoteTitlesList ^ Consent Clinical Imed ^ StartDateOffset=60 ^ ExcludeIfTitleIncludes = Teleph; secure; nurs ^ Count = 2 ^Indent = 5      
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 10[___] LST documentation, lifetime
+Show ^ Text ^ If available, click on the Document ID link to open it. ^ Indent = 4 
+Show ^ ProgressNoteTitlesList ^ Sustaining | Lst ^ StartDateOffset=5000 ^ ExcludeIfTitleIncludes = Teleph; secure; nurs ^ Count = 1 ^ indent = 5     
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 11[___] contrast allergy history, any
+Show ^Vista Data ^ADR ^ indent = 5   
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 12[___] OCL template history and physical, 30d
+Show ^ ProgressNoteTitlesList ^ OCL History  ^ StartDateOffset=30 ^ ExcludeIfTitleIncludes = Update ^ Count = 3 ^ indent = 5              
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 13[___] anesthesiology clinic evaluation, 30d 
+Show ^HF ^Pre-Op Evaluation Clinic
+Show ^ ProgressNoteTitlesList ^ Anesth| Lst ^ StartDateOffset=30 ^ ExcludeIfTitleIncludes = Update ^ Count = 3 ^ indent = 5
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 16[___] antiplatelet/anticoagulant medication plan
+Show ^ Text ^
+Show ^ Text ^CONTINUE aspirin, INCLUDING on DAY OF SURGERY: ^Indent = 5
+show ^IsOnRx ^Aspirin    ^Indent = 5
+                                    
+Show ^ Text ^DISCUSS instructions for these medications: ^Indent = 5 
+show ^IsOnRx ^Clopidogrel ^Indent = 5
+show ^IsOnRx ^Ticagrelor  ^Indent = 5
+show ^IsOnRx ^Prasugrel  ^Indent = 5           
+Show ^ RxGroup ^ Anti-Coagulant ^Indent = 5  
+Show ^Text ^   
+Show ^Hyperlink ^ The HAS-BLED2 calculator for anticoagulation-associated bleeding risk |https://www.mdcalc.com/has-bled-score-major-bleeding-risk ^Indent=4
+Show ^Text ^   
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 17___] SGLT2-I and GLP-1 agonist  medication plan
+Show ^ Text ^DO NOT TAKE these weekly medications ONE WEEK before surgery: ^Indent = 5 
+Show ^Text ^Trulicity:  ^Indent = 5
+Show ^IsOnRx ^Dulaglutide  ^Indent = 5
+Show ^Text ^Mounjaro:  ^Indent = 5    
+Show ^IsOnRx ^Tirzepatide  ^Indent = 5
+
+Show ^ Text ^DO NOT TAKE ONE WEEK before to surgery if taken weekly vs. ONE DAY before if taken daily: ^Indent = 5                    
+Show ^Text ^Byetta (weekly) vs. Bydureon bcise (daily):  ^Indent = 5
+Show ^IsOnRx ^Exenatide  ^Indent = 5    
+Show ^Text ^Ozempic (weekly) vs. Rybelsus (daily):  ^Indent = 5
+Show ^IsOnRx ^Semaglutide  ^Indent = 5     
+
+Show ^ Text ^DO NOT TAKE these medications for THREE DAYS before surgery: ^Indent = 5 
+Show ^Text ^Jardiance: ^indent = 5 
+Show ^IsOnRx ^Empagliflozin ^Indent = 5
+Show ^Text ^Invokana: ^indent = 5 
+Show ^IsOnRx ^Canagliflozin ^Indent = 5
+Show ^Text ^Farxiga: ^indent = 5 
+Show ^IsOnRx ^Dapagliflozin ^Indent = 5
+Show ^Text ^Brenzavvy: ^indent = 5
+Show ^IsOnRx ^Bexaglifoxin    ^Indent = 5
+Show ^Text ^Steglatro: ^indent = 5 
+Show ^IsOnRx ^Ertugliflozin ^Indent = 5
+                                
+Show ^ Text ^DO NOT TAKE these daily medications on the DAY OF surgery: ^Indent = 5 
+Show ^Text ^Victoza / Saxenda: ^indent = 5 
+Show ^IsOnRx ^Liraglutide  ^Indent = 5  
+Show ^Text ^Adlyxin:  ^Indent = 5
+Show ^IsOnRx ^Lixisenatide  ^Indent = 5   
+
+Show ^ Text ^                 
+Show ^ Text ^      
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Heading  ^ 18___]                                          
+Show ^HF ^Sda/Sacc Orders
+Show ^ Text ^                 
+Show ^ Text ^                
+Show ^ Text ^                 
+Show ^ Text ^ 
+Show ^ Text ^                 
+Show ^ Text ^     
+
+Show ^ Title ^*******************************************************************************
+Show ^ Title ^ Day of Surgery 
+Show ^ Title ^******************************************************************************
+
+Show ^ Text ^                
+Show ^ Text ^23[ ] OCL H&P update, day of             
+Show ^ Text ^24[ ] site marking by surgeon or involved trainee, day of   
+Show ^ Text ^25[ ] venous blood gas for K+ (ESRD patients, by anesthesiology)                 
+Show ^ Text ^  
+
+Show ^ Text ^PACU Nick (first starts)            222.981                
+Show ^ Text ^Pre-op holding, beds 1-3 (Melissa)               
+Show ^ Text ^Pre-op holding, beds ___ (Nick)     
+Show ^ Text ^Ascom (for anesthesiology)           22.1570                 
+Show ^ Text ^ 
+
+Show ^ Text ^                
+Show ^ Text ^                 
+Show ^ Text ^ 
+Show ^ Text ^                 
+Show ^ Text ^  
+
+Show ^ Title ^*******************************************************************************
+Show ^ Title ^ O.R. Timeout 
+Show ^ Title ^******************************************************************************
+
+Show ^ Text ^01[ ] team identification
+Show ^ Text ^02[ ] patient: identification
+Show ^ Text ^03[ ] patient: allergies 
+Show ^VistaData ^MRT5     ^ Indent = 7    
+Show ^ Text ^04[ ] visualize marking
+Show ^ Text ^05[ ] patient: description of procedure
+Show ^ Text ^06[ ] operative plan
+Show ^ Text ^07[ ] iMed consent
+Show ^ Text ^08[ ] staff note
+Show ^ Text ^09[ ] duration
+Show ^ Text ^10[ ] disposition 
+Show ^ Text ^ 
+Show ^ Heading ^Anesthesiology
+Show ^ Text ^11[ ] anesthetic plan
+Show ^ Text ^12[ ] ASA class  
+{Age}^ Indent = 11
+Show ^Alerts ^Critical       
+Show ^ Lab ^ _BNP ^ Count = 3     
+{CAD}    
+{CHF} 
+{Carotid Stenosis}       
+{Cerebrovascular disease} 
+Show ^ OPT Dx ^ stroke; aneurysm; dissection; amputation; cancer; heart failure; emphysema; COPD; CHF ^ Count = 1 ^Indent = 7    
+Show ^ Text ^
+Show ^ Text ^13[ ] antibiotic
+Show ^ Text ^14[ ] heparin / ACTs  
+Show ^ Vitals ^Weight  ^Count = 1 ^ Indent=7   
+Show ^ Text ^15[N] K+ level
+Show ^ Lab ^Potassium ^ Count = 3 ^ INDENT = 7  
+Show ^ Text ^ 
+Show ^ Heading ^Tech team
+Show ^ Text ^16[ ] instruments  
+Show ^ Text ^17[ ] special equipment 
+Show ^ Text ^ 
+Show ^ Heading^Nursing team
+Show ^ Text ^18[ ] type & screen / cross request
+Show ^ Lab ^ _Hgb ^ Count = 3 ^ Indent=7     
+Show ^ Lab ^ _Platelets ^ Count = 3 ^ Indent=7                  
+Show ^ Text ^19[ ] type & screen specimen status
+Show ^ Text ^20[ ] prep site 
+Show ^ Text ^21[ ] prep solution
+Show ^ Text ^22[ ] Foley catheter 
+Show ^ Text ^23[ ] SCDs       
+Show ^ Text ^24[ ] tourniquet    
+Show ^ Text ^25[ ] imaging            
+Show ^ Text ^26[ ] contrast medium  
+Show ^ LAB Names Like ^ GFR  ^ COUNT = 5 ^ INDENT = 7 
+Show ^ Heading^Concluding
+Show ^ Text ^27[ ] surgical implants
+Show ^ Text ^28[ ] delay           
+Show ^ Text ^29[ ] questions or concerns?
+
+                           
+Show ^ Text ^ 
+Show ^ Heading ^ Needlestick precautions
+Show ^ Lab Names Like ^ HIV; CD4; CD8; Helper ^ Count = 3 ^ StartDateOffset = 1095 ^ ShowSelectionCriteria = Yes
+
+Show ^ Text ^
+Show ^ Lab Names Like ^ HepC; HCV ^ Count = 3 ^ StartDateOffset = 1095 ^ ShowSelectionCriteria = Yes
+
+Show ^ Text ^                 
+Show ^ Text ^                                
+Show ^ Text ^
+Show ^ Title ^*******************************************************************************
+Show ^ Title ^ Surgical Planning
+Show ^ Title ^******************************************************************************
+
+Show ^ Text ^ 
+Show ^ Text ^                 
+Show ^ Text ^ 
+             
+      
+Show ^ Title ^**************************************************************************
+Show ^ Title ^O.R. Debrief
+Show ^ Title ^**************************************************************************
+Show ^ Text ^a[ ] EBL
+Show ^ Text ^b[ ] clean/contaminated/infected
+Show ^ Text ^c[ ] specimens
+Show ^ Text ^d[ ] CPT codes
+Show ^ Text ^e[ ] equipment issues
+Show ^ Text ^f[ ] who is "primary"
+Show ^ Text ^g[ ] goal time in next case
+Show ^Text ^
+Show ^ Text ^Concluding
+Show ^ Text ^h[ ] ___ brief op note
+Show ^ Text ^i[ ] ___ orders +/- discharge instructions
+Show ^ Text ^j[ ] ___ talk to family
+Show ^ Text ^k[ ] ___ full op note
+Show ^ Text ^k[ ] case logs x2
+
+Show ^ Text ^                 
+Show ^ Text ^  
+      
+Show ^ Text ^----------------------------------------------------------------------------- 
+Show ^ Title ^ Contact Information 
+Show ^ Text ^              
+Show ^ Demographics ^Address    ^ Indent = 4
+Show ^ Demographics ^County    ^ Indent = 4            
+Show ^ Demographics ^Phone     ^ Indent = 4           
+                              
+Show ^VistaData ^CON  
+Show ^ Text ^
+
+Show ^ Text ^              
+ ^ Indent = 4 {PC Team}    ^ Indent = 4            
+ ^ Indent = 4 {PC Provider}    ^ Indent = 4    
+
+
+                     

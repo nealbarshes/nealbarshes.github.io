@@ -1,0 +1,64 @@
+General notes: 
+Enoxaparin preferred; subcutaneous heparin for patients with eGFR <30.
+Outpatient pre-operative therapeutic bridge preferred to inpatient.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Patients taking THERAPEUTIC D.O.A.C.s 
+for any indication OTHER than 
+D.V.T. or P.E. within past 3 months
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last dose of therapeutic DOAC day 3 prior to the operation (i.e. at least 48 hours between dosing and operation) for the majority of patients, except:
+
+Last dose of therapeutic dabigatran day 5 prior to the operation (i.e. at least 4 days between dosing and operation) if eGFR <50mL/min [? check -- was given as CrCl].
+
+NO "BRIDGING" BEFORE THE OPERATION.
+NO "BRIDGING" AFTER THE OPERATION, only prophylaxis-dose enoxaparin or heparin for DVT prevention starting ______.
+
+Restart prior DOAC dosing day 3 or after.
+Reduce dose of apixiban from 5mg to 2.5mg if serum creatinine >1.5 and EITHER: 
+(1) age >80 years; or
+(2) weight <60kg / 133 lbs.
+
+Note on restarting prior therapeutic DOAC in patients who should be started on second antiplatelet agents (ex. clopidogrel) following stent placement: would recommend limiting second antiplatelet agent to 30-90 days.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Patients taking THERAPEUTIC D.O.A.C.s or WARFARIN
+a history of D.V.T. or P.E. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DVT or PE within past three months: consider IVC filter placement +/- subcutaneous enoxaparin or heparin.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Patients taking "VOYAGER trial-dose" rivaroxaban
+(e.g. 2.5mg BID)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Last dose two days prior to the operation.
+Restart day 3 or later.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Patients taking WARFARIN for chronic atrial fibrillation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bridging AFTER the operation only if:
+1. CHADS-VASC2 score 7+
+2. CHADS-VASC 5-6 and low risk of bleeding
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Patients taking WARFARIN for MECHANICAL VALVES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bridging BEFORE the operation:
+1. Last dose of warfarin 6 DAYS before the operation.
+2. No warfarin, no bridging days 5 and 4 prior to the operation.
+3. Bridging with therapeutic subcutaneous enoxaparin or heparin days 3 and 2 prior to the operation.
+4. No anticoagulation for 24+ hours prior to the operation.
+
+Bridging AFTER the operation:
+1. Restart warfarin at home dose on post-operative day 2 if no concern for surgical bleeding.
+2. Prophylaxis-dose subcutaneous enoxaparin or heparin starting day 2, then transition to:
+3. Therapeutic-dose subcutaneous enoxaparin or heparin day 3.

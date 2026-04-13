@@ -1,0 +1,132 @@
+Show ^Hyperlink ^ Online NSO Surgical Risk Calculator | https://dvagov.sharepoint.com/sites/VHANSOVASQIP/SitePages/RiskCalculator.aspx                               
+Show ^Text ^  Note: NOT in logical order, but rather in order as listed in the online calculator.                     
+          
+       
+Show ^Text ^                                            
+Show ^Heading ^procedure
+Show ^Text ^
+Show ^Heading ^Age        
+{Age}                          
+Show ^Text ^
+Show ^Heading ^BMI
+Show ^ Vitals  ^ Weight ^ Count = 1
+Show ^Text ^
+Show ^Heading ^albumin                          
+Show ^ Lab Names Like ^ albumin ^ Count = 1  ^IgnoreIfNameIncludes=URINE  
+Show ^Text ^
+Show ^Heading ^alk phos         
+Show ^ Lab Names Like ^ alkaline ^ Count = 1  
+Show ^Text ^
+Show ^Heading ^tbili
+SHow ^ Lab Names Like ^  tot. bilirubin ^ Count = 1   ^IgnoreIfNameIncludes=direct
+Show ^Text ^
+Show ^Heading ^BUN                
+SHow ^ Lab Names Like ^BUN^ Count = 1 ^IgnoreIfNameIncludes=iBun                                 
+Show ^Text ^
+Show ^Heading ^creatine
+SHow ^ Lab Names Like ^ creatinine ^ Count = 1  ^IgnoreIfNameIncludes=iCreat; urine; 24h   
+Show ^Text ^                                   
+Show ^Heading ^hct
+Show ^ Lab Names Like ^ hematocrit ^ Count = 1  
+Show ^Text ^      
+Show ^Heading ^INR
+Show ^ Lab Names Like ^ INR ^ Count = 1  ^IgnoreIfNameIncludes=INR(BMT)   
+Show ^Text ^
+Show ^Heading ^platelet
+Show ^ Lab Names Like ^ platelet ^ Count = 1  
+Show ^Text ^
+Show ^Heading ^PTT
+Show ^ Lab Names Like ^ PTT ^ Count = 1  
+Show ^Text ^
+Show ^Heading ^SGOT         
+Show ^ Lab Names Like ^ AST; SGOT ^ Count = 1 ^IgnoreIfNameIncludes=HYALINE 
+Show ^Text ^
+Show ^Heading ^Na
+Show ^ Lab Names Like ^ sodium ^ Count = 1  ^IgnoreIfNameIncludes=iSodium
+Show ^Text ^
+Show ^Heading ^WBC
+Show ^ Lab Names Like ^ WBC ^ Count = 1 ^IgnoreIfNameIncludes=Urine    
+                                                                                       
+
+Show ^Text ^     
+Show ^Text ^  Note: for most of these, assume it is absent unless data demonstrates otherwise.
+Show ^Text ^                              
+Show ^Heading ^angina
+Show ^ Outpatient Dx ^ Angina 
+Show ^Heading ^ASA 
+Show ^Text ^Typically 3 or 4 for our patients.
+Show ^Heading ^malignancy
+Show ^ Outpatient Dx ^ Cancer 
+Show ^Heading ^prior surgical repair / carotid artery obstruction
+{Carotid Stenosis}
+Show ^Heading ^dyspnea                 
+Show ^ Outpatient Dx ^ Dyspnea 
+Show ^Heading ^impaired cognitive function
+Show ^Heading ^operative time 
+Show ^Heading ^PAD w/wo hx./ angioplasty, revasc, amp    
+Show ^Heading ^prior MI                             
+Show ^ Outpatient Dx ^ Myocardial infarct  ^ StartDateOffset=5000       
+Show ^Heading ^sleep apnea                         
+Show ^ Outpatient Dx ^ Apnea  
+Show ^Heading ^residence: acute care, LTAC, homeless
+Show ^HF ^Homeless
+Show ^Heading ^wound class             
+Show ^Heading ^bleeding disorder
+Show ^Heading ^current pneumonia 
+Show ^Heading ^dialysis in most recent 2 weeks
+Show ^Heading ^disseminated cancer                                   
+Show ^Heading ^DNR
+Show ^ ProgressNoteTitlesList ^ Sustaining | Lst ^ StartDateOffset=5000 ^ ExcludeIfTitleIncludes = Teleph; secure; nurs ^ Count = 1 ^ indent = 5    
+Show ^Heading ^CHF exacerbation within last month
+Show ^ Outpatient Dx ^ CHF; heart fail  ^ StartDateOffset=30
+Show ^Heading ^severe COPD
+{CHF}         
+{COPD}                                
+Show ^Heading ^impaired sensorium
+Show ^Heading ^one or more surgeries in same operative field
+Show ^Heading ^pre-op sepsis in 48 hours pre-op
+Show ^Heading ^acute renal failure
+Show ^Heading ^rest pain/gangrene in 30 days pre-op  
+Show ^Heading ^steroid use for chronic condition in 30 days pre-op   
+Show ^Heading ^transfusions >4rbc in past 3 days
+Show ^Heading ^ventilator dependence during prior 48 hours
+Show ^Heading ^>10% weight loss in 6 months pre-op    
+
+
+Show ^Text ^Outputs are 30 and 180 day mortality & morbidity; 30day SSI; and estimates of post-op ICU & inpatient stays 
+
+
+Show ^ Text ^---------------------------------------------------------------------------------------------------------------------
+Show ^ Title ^ Patient Selection 
+Show ^Text ^
+Show ^Hyperlink ^ SVS VQI INFRA calculator for risk of in-hospital post-operative MI | https://svs-vqi.shinyapps.io/CRICalculators/                               
+Show ^Text ^  Note: NOT in logical order, but rather in order as listed in the online calculator.                     
+
+Show ^ Heading ^MAJOR RISK FACTORS   
+Show ^ Heading ^1. Age >=80          
+{Age}   
+Show ^Heading ^3. Diabetes: ^indent = 5 
+{DM}
+Show ^IsOnRx ^Insulin ^Indent = 5
+Show ^IsOnRx ^Metformin ^Indent = 5
+
+
+                    
+
+
+                                 
+Show ^ Heading ^ 5. Smoking
+{Tobacco use}             
+
+
+Show ^Heading ^7. Statin: ^indent = 5 
+Show ^IsOnRx ^Statin ^Indent = 5   
+Show ^ RxGroup ^ STATIN ^ Indent = 4    
+
+Show ^Text ^  
+Show ^Text ^Low risk (0-3 points) = <=2 minor; 90+% 5-year survival 
+Show ^Text ^Medium risk (4-11) = 1 major + <=3 minor; 75% 5-year survival 
+Show ^Text ^High risk (12+ points) = 3 major or 2 major + 2+ minor; <60% 5-year survival   
+Show ^Text ^          
+Show ^Text ^
+Show ^Text ^    
