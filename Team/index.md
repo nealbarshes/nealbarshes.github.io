@@ -29,9 +29,9 @@ We have [team morning report](https://dvagov-my.sharepoint.com/:t:/g/personal/ne
 
 Please use this folder of perioperative documents and reference materials to ensure your patient management is thorough and consistent. 
  
-For continuous improvement and patient safety: use this slide template for M&M presentations. VHA “Joint Patient Safety Reporting” (JPSR) to report systems issues. Also BCM MED DOS: “Voluntary Reporting of Errors and Safety Issues”. 
+For continuous improvement and patient safety: use this slide template for M&M presentations. Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F) to report systems issues. Also Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
 
-Our team’s contingency plans for [needlestick/sharps injuries]() and weather events. 
+Our team’s contingency plans for [needlestick/sharps injuries](https://nealbarshes.github.io/Team/ContingencyPlans/Needlestick), [intraoperative site contamination](https://nealbarshes.github.io/Team/ContingencyPlans/Contamination), and [weather events](https://nealbarshes.github.io/Team/ContingencyPlans/WeatherEvents/). 
 
 ![team logo](https://nealbarshes.github.io/assets/VAhoustonVascularLogo3.jpg)
 
