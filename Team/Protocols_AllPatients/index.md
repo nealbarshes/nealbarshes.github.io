@@ -9,9 +9,9 @@
 |02 | Patient instructions, pre-op |
 |03 | Patient education, pre-op |
 |04 | Brillians code |
-|05 | [Pre-op checklist](http://nealbarshes.github.io/Team/Protocols_AllPatients/05_PreOpChecklist_AllPatients.md) |
+|05 | [Pre-op checklist](http://nealbarshes.github.io/Team/Protocols_AllPatients/05_PreOpChecklist_AllPatients) |
 |06 | Case log CPTs |
-|07 | <b>Post-op orders</b> |
+|07 | [<b>Post-op orders</b>](http://nealbarshes.github.io/Team/Protocols_AllPatients/07_PostOpOrders_AllPatients) |
 |08 | Post-op problems: protocols |
 |09 | Discharge planning |
 |10 | Patient instructions, post-op |
