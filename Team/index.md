@@ -31,7 +31,7 @@ Please use this folder of perioperative documents and reference materials to ens
  
 For continuous improvement and patient safety: use this slide template for M&M presentations. VHA “Joint Patient Safety Reporting” (JPSR) to report systems issues. Also BCM MED DOS: “Voluntary Reporting of Errors and Safety Issues”. 
 
-Our team’s contingency plans, including needlestick/sharps injuries and weather events. 
+Our team’s contingency plans for [needlestick/sharps injuries]() and weather events. 
 
 ![team logo](https://nealbarshes.github.io/assets/VAhoustonVascularLogo3.jpg)
 
