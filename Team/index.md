@@ -10,16 +10,24 @@ The tenets guiding our service are:
 3. Clearly delineated roles and responsibilities. 
 4. Feedback as a necessity for growth and learning. 
 
-Core resources for our team:<ol>
-<li>1.[current team roster](https://dvagov-my.sharepoint.com/:w:/g/personal/neal_barshes_va_gov/EWOepLgwomhCpGkVNxiDmusBOtmFvgRcy_gSczzoW9qksg?e=rILDjG) </li>
-<li>2. team [schedule](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ESRAqVRn2DBIjt3UjByYPWoBuwdnmQ7z4zldQHDqAxmKWQ?e=spYbAW)</li>
-<li>3. [inpatient list](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ET6QmP7q2EhNgUnzmBfik5kB5QQhS9TTqMkWnsGOlgbreg?e=1E1lkR) and our [Microsoft Teams channel](https://teams.microsoft.com/l/team/19%3AUWt1rm95aZuBXSEtKOAjI2mfFsXebgf5Y7EmWnAMOmA1%40thread.tacv2/conversations?groupId=67fda0c4-93c6-4b8f-bea3-0aef3553d290&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf). </li>
-<li>4. [Qgenda](https://app.qgenda.com/landingpage/medva) for on-call schedule and contact information for _other_ teams.  </li>
-</ol>
+
+
+| <b>Core resources for our team:</b> |
+|---|
+|[roster](https://dvagov-my.sharepoint.com/:w:/g/personal/neal_barshes_va_gov/EWOepLgwomhCpGkVNxiDmusBOtmFvgRcy_gSczzoW9qksg?e=rILDjG)|
+|[schedule](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ESRAqVRn2DBIjt3UjByYPWoBuwdnmQ7z4zldQHDqAxmKWQ?e=spYbAW)|
+|[list](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ET6QmP7q2EhNgUnzmBfik5kB5QQhS9TTqMkWnsGOlgbreg?e=1E1lkR)| 
+|[Teams channel](https://teams.microsoft.com/l/team/19%3AUWt1rm95aZuBXSEtKOAjI2mfFsXebgf5Y7EmWnAMOmA1%40thread.tacv2/conversations?groupId=67fda0c4-93c6-4b8f-bea3-0aef3553d290&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+
+5. [Qgenda](https://app.qgenda.com/landingpage/medva) for on-call schedule and contact information for _other_ teams. 
+
+
+
 
 
 We have [team morning report](https://dvagov-my.sharepoint.com/:t:/g/personal/neal_barshes_va_gov/EXh08bg0uidLouFBK3qD1UkBgfTFWGJ5WqDRYjGEKDxuXA?e=fE0W82) Mondays and Thursdays starting at 0745am.  
 
+![team logo](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/assets/VAhoustonVascularLogo3.jpg)
 
 Please use this folder of perioperative documents and reference materials to ensure your patient management is thorough and consistent. 
  
