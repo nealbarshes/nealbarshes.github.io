@@ -1,4 +1,4 @@
-# default orders / protocols for ALL vascular patients
+### default orders / protocols for ALL vascular patients
 <br>
 
 
@@ -10,7 +10,7 @@
 |04 | Brillians code | X |
 |05 | Pre-op checklist | X |
 |06 | Case log CPTs | X |
-|07 | Post-op orders | X |
+|07 | <b>Post-op orders</b> | X |
 |08 | Post-op problems: protocols | X |
 |09 | Discharge planning | X |
 |10 | Patient instructions, post-op | X |
