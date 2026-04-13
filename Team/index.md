@@ -15,7 +15,7 @@
 
 | <b>Service-specific guidance for clinical care</b> |
 | --- |
-| #1 <b>[ALL PATIENTS ("default settings")](https://nealbarshes.github.io/Team/Protocols_AllPatients/index.md)</b>|
+| #1 <b>[ALL PATIENTS ("default settings")](https://nealbarshes.github.io/Team/Protocols_AllPatients/)</b>|
 | #2 lower extremity revascularization |
 | #3 lower extremity amputation |
 | #4 carotid |
