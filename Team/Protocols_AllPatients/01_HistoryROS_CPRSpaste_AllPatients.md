@@ -1,6 +1,9 @@
+This is intended to streamline the recording of a patient's responses on a printed [review of systems questionnaire](http://nealbarshes.github.io/Team/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf).
 
-### These are the patient's answers to a printed review of systems questionnaire (#VascularSurgeryROS):
+### Copy everything below here and mark the "X" responses entered by the patient:
 
+
+#VascularSurgeryROS
 X for "Yes" response
 
 Have you had these medical conditions or procedures? 
