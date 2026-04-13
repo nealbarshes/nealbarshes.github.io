@@ -1,4 +1,6 @@
 ### Welcome to the DeBakey VA Vascular Surgery Team. 
+<br>
+<br>
 
 | <b>Core resources for our team:</b> |
 |---|
@@ -8,7 +10,10 @@
 |4. [Teams channel](https://teams.microsoft.com/l/team/19%3AUWt1rm95aZuBXSEtKOAjI2mfFsXebgf5Y7EmWnAMOmA1%40thread.tacv2/conversations?groupId=67fda0c4-93c6-4b8f-bea3-0aef3553d290&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 |5. [Qgenda](https://app.qgenda.com/landingpage/medva) for on-call schedule and contact information for _other_ teams.| 
 
-
+<br>
+<br>
+<br>
+<br>
 
 | <b>Service-specific guidance for clinical care</b> |
 | --- |
@@ -20,6 +25,8 @@
 | #6 dialysis access |
 | #7 venous |
 
+<br>
+<br>
 
 
 We have [team morning report](https://dvagov-my.sharepoint.com/:t:/g/personal/neal_barshes_va_gov/EXh08bg0uidLouFBK3qD1UkBgfTFWGJ5WqDRYjGEKDxuXA?e=fE0W82) Mondays and Thursdays starting at 0745am.  
