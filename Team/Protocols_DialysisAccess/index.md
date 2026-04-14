@@ -16,7 +16,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
 |10 | [Patient discharge instructions: AVF or AVG](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/10_DischargeInstructions_AVFAVG.md) |
-|10 | [Patient discharge instructions: peritoneal dialysis catheter](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/10_DischargeInstructions_PDcatheter) |
+|10 | [Patient discharge instructions: peritoneal dialysis catheter](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/10_DischargeInstructions_PDcatheter.md) |
 |11 | [Patient education, post-op, LEFT arm](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/11_PostOpPtInfo_AVF-AVG_LEFTarm.pdf) |
 |11 | [Patient education, post-op, RIGHT arm](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/11_PostOpPtInfo_AVF-AVG_RIGHTarm.pdf) |
-|12 | [Clinic follow-up: estimating volume-flow with SonoSite](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/12_Clinic_VolumeFlowSonosite) |
+|12 | [Clinic follow-up: estimating volume-flow with SonoSite](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/12_Clinic_VolumeFlowSonosite.md) |
