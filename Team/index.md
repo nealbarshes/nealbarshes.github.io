@@ -2,13 +2,14 @@
 <br>
 
 | <b>Core resources for our team:</b> |
-|---|
-|Note: Due to identifiers, these documents are on VA OneDrive and therefore only open on VA computers|
+|:---|
+|Note: Due to identifiers, these documents are on VA OneDrive and therefore <b>only open on VA computers</b>|
 |1. [roster](https://dvagov-my.sharepoint.com/:w:/g/personal/neal_barshes_va_gov/EWOepLgwomhCpGkVNxiDmusBOtmFvgRcy_gSczzoW9qksg?e=rILDjG)|
 |2. [schedule](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ESRAqVRn2DBIjt3UjByYPWoBuwdnmQ7z4zldQHDqAxmKWQ?e=spYbAW)|
 |3. [inpatient list](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ET6QmP7q2EhNgUnzmBfik5kB5QQhS9TTqMkWnsGOlgbreg?e=1E1lkR)| 
 |4. [Teams channel](https://teams.microsoft.com/l/team/19%3AUWt1rm95aZuBXSEtKOAjI2mfFsXebgf5Y7EmWnAMOmA1%40thread.tacv2/conversations?groupId=67fda0c4-93c6-4b8f-bea3-0aef3553d290&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 |5. [Qgenda](https://app.qgenda.com/landingpage/medva) for on-call schedule and contact information for _other_ teams.| 
+|6. [CPT and ICD-10 code sheet](https://nealbarshes.github.io/Team/OtherFiles/NRB_OR_CPTcodesV2-1.pdf)
 
 <br>
 <br>
