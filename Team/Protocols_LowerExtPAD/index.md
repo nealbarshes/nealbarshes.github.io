@@ -17,9 +17,9 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |07 | Post-op problems: protocols |
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
-|10 | [Patient discharge instructions: angiogram/intervention](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio) |
-|10 | [Patient discharge instructions: leg bypass](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_LegBypass) |
-|10 | [Patient discharge instructions: wound VAC](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_WoundVAC) |
+|10 | [Patient discharge instructions: angiogram/intervention](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio.md) |
+|10 | [Patient discharge instructions: leg bypass](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_LegBypass.md) |
+|10 | [Patient discharge instructions: wound VAC](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_WoundVAC.md) |
 |11 | [Patient education, post-op: "Guard Your Feet" brochure](https://nealbarshes.github.io/main/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf) |
 |11 | [Patient education, post-op: ulcer or incision](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/11_PtInfo_WoundCare_UlcerIncision.pdf) |
 |11 | [Patient education, post-op: wound VAC](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/11_PtInfo_WoundCare_VAC.pdf)|
