@@ -1,7 +1,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
 gtag('config', 'G-YPLVGC5FDP'); </script>
 
-### default orders / protocols for aortic procedures: EVAR, TEVAR, FEVAR, open surgical repairs for aneurysms
+### orders / protocols for aortic procedures: EVAR, TEVAR, FEVAR, open surgical repairs for aneurysms
 
 
 |num| Component |
