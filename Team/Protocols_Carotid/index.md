@@ -9,12 +9,13 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |01 | History/ROS, additional info to solicit |
 |02 | Patient instructions, pre-op |
 |03 | Patient education, pre-op |
-|04 | Brillians code  |
-|05 | Pre-op checklist, additional items |
-|06 | <b>Post-op orders</b> |
-|07 | Post-op problems: protocols |
+|04 | [Brillians code: carotid w/ risk calculators](https://nealbarshes.github.io/Team/Protocols_Carotid/04_BrilliansCode_Carotid.md)  |
+|05 | [Pre-op checklist, additional for CEA-TCAR](https://nealbarshes.github.io/Team/Protocols_Carotid/05_PreOpChecklist_CEA-TCAR.md) |
+|05 | [Pre-op checklist, additional for BaroStim](https://nealbarshes.github.io/Team/Protocols_Carotid/05_PreOpChecklist_Barostim.md) |
+|06 | [<b>Post-op orders: CEA-TCAR</b>](https://nealbarshes.github.io/Team/Protocols_Carotid/06_PostOpOrders_Carotid.md) |
+|07 | [Post-op problems: protocols](https://nealbarshes.github.io/Team/Protocols_Carotid/09_PostOpProblems_Carotid.md) |
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
-|10 | Patient discharge instructions |
+|10 | [Patient discharge instructions](https://nealbarshes.github.io/Team/Protocols_Carotid/10_DischargeInstructions_Carotid.md) |
 |11 | Patient education, post-op |
 |12 | Clinic follow-up |
