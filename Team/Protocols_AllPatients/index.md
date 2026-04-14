@@ -1,3 +1,6 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
+gtag('config', 'G-YPLVGC5FDP'); </script>
+
 ### default orders / protocols for ALL vascular patients
 
 
@@ -11,12 +14,10 @@
 |04 | Brillians code: Pre-op review |
 |04 | Brillians code: "ABCDE" review |
 |05 | [Pre-op checklist](http://nealbarshes.github.io/Team/Protocols_AllPatients/05_PreOpChecklist_AllPatients) |
-|06 | Case log CPTs |
-|07 | [<b>Post-op orders</b>](http://nealbarshes.github.io/Team/Protocols_AllPatients/07_PostOpOrders_AllPatients) |
-|08 | [Post-op problems: protocols](http://nealbarshes.github.io/Team/Protocols_AllPatients/08_PostOpProblems_AllPatients.md) |
+|06 | [<b>Post-op orders</b>](http://nealbarshes.github.io/Team/Protocols_AllPatients/07_PostOpOrders_AllPatients) |
+|07 | [Post-op problems: protocols](http://nealbarshes.github.io/Team/Protocols_AllPatients/08_PostOpProblems_AllPatients.md) |
 |08 | Inpatient SOAP note template |
-|10 | Discharge planning |
-|11 | [Patient discharge instructions](http://nealbarshes.github.io/Team/Protocols_AllPatients/10_DischargeInstructions_AllPatients.md) |
-|12 | Patient education, post-op |
-|13 | Clinic follow-up |
-|14 | Other |
+|09 | Discharge planning |
+|10 | [Patient discharge instructions](http://nealbarshes.github.io/Team/Protocols_AllPatients/10_DischargeInstructions_AllPatients.md) |
+|11 | Patient education, post-op |
+|12 | Clinic follow-up |
