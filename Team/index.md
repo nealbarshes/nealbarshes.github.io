@@ -23,7 +23,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | #2 [lower extremity revascularization](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD) |
 | #3 [leg amputation](https://nealbarshes.github.io/Team/Protocols_LowerExtAmp) |
 | #4 [carotid](https://nealbarshes.github.io/Team/Protocols_Carotid) |
-| #5 [aortic]((https://nealbarshes.github.io/Team/Protocols_Aortic) |
+| #5 [aortic](https://nealbarshes.github.io/Team/Protocols_Aortic) |
 | #6 [dialysis access](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/) |
 | #7 [venous](https://nealbarshes.github.io/Team/Protocols_Venous/) |
 
