@@ -20,12 +20,12 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | <b>Service-specific guidance for clinical care</b> |
 | --- |
 | #1 <b>[ALL PATIENTS ("default settings")](https://nealbarshes.github.io/Team/Protocols_AllPatients/)</b>|
-| #2 lower extremity revascularization |
-| #3 lower extremity amputation |
-| #4 carotid |
-| #5 aortic |
-| #6 dialysis access |
-| #7 venous |
+| #2 [lower extremity revascularization](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD) |
+| #3 [leg amputation](https://nealbarshes.github.io/Team/Protocols_LowerExtAmp) |
+| #4 [carotid](https://nealbarshes.github.io/Team/Protocols_Carotid) |
+| #5 [aortic]((https://nealbarshes.github.io/Team/Protocols_Aortic) |
+| #6 [dialysis access](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/) |
+| #7 [venous](https://nealbarshes.github.io/Team/Protocols_Venous/) |
 
 <br>
 
