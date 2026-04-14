@@ -21,3 +21,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |10 | [Patient discharge instructions](http://nealbarshes.github.io/Team/Protocols_AllPatients/10_DischargeInstructions_AllPatients.md) |
 |11 | Patient education, post-op |
 |12 | Clinic follow-up |
+
+
+![team logo](https://nealbarshes.github.io/Team/OtherFiles/DeBakeyDecal02.jpg)
+
