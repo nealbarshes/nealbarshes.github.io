@@ -5,7 +5,7 @@
 #### Objective Shared awareness of active clinical problems among inpatients.
 
 
-Complications & unexpected clinical events ("critical" or "watchers" in [I-PASS](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html) terminology).   
+Complications & unexpected clinical events ("critical" or "watchers", in the terminology of [I-PASS](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html)).   
   
 New admissions and consults, presented by the senior resident responsible for the patient.  
   
