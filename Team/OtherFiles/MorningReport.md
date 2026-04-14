@@ -1,23 +1,41 @@
-## The format:
+## The format and objectives:
+
+### 1. Inpatient Service updates _since last morning report_
+
+#### Objective Shared awareness of active clinical problems among inpatients.
 
 
-### Inpatient Services: 
-  1. Events, new patients, "watchers", complications. 
-  2. Complex discharges. 
-  3. Transfers out of SICU and 5A. 
-  4. Planned admissions.  
+Complications & unexpected clinical events ("critical" or "watchers" in [I-PASS](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html) terminology).   
+  
+New admissions and consults, presented by the senior resident responsible for the patient.  
+  
+ICU patients, presented in organ-system format, presented by the senior resident responsible for the patient.  
+  
+All remaining inpatients, presented by each service's intern: _In general, more like Axios news headlines, less like Tolstoy novels. Problems/working diagnosis up front. ALL problems should have a working diagnosis or differential. Data to justify statements, not as pointless recitation_.  
+  
+Planned admissions between today and next morning report, presented by Nurse Practitioner working on ORC / pre-op planning.
 
-### Operating room:  
-  1. Yellow or red for this week.  
-  2. First case admission orders.  
-  3. Yellow or red for next week.  
-  4. Inpatients pending OR time.  
 
-### Outpatient activities:  
-  1. Outpatient clinic Monday and Tuesday.  
+### 2. Discharge Planning 
 
-### Education:  
-  1. Conferences: Tuesday pre-op and Friday M&M.  
-  2. Reminder about Thursday 12:30 conference. Food at 12:15.  
-  3. surgery resident SMART goals.  
-  4. VSCORE TWIS topic.  
+#### Optimizing the transition from inpatient to outpatient care.
+
+Patients that should be transferred from SICU or 5A to 5E or 5B.
+
+Specific needs for complex discharges planned between today and next morning report.
+
+
+
+### 3. Coordinating team efforts.
+
+Vacation coverage.
+Clinic volumes, coverage.
+OR cases, plans for add-ons or second rooms.
+
+
+### Ensuring Continuous Education :  
+
+Conferences: Tuesday pre-op and Friday M&M.  
+Reminder about Thursday 12:30 conference. Food at 12:15.  
+Check-in on surgery resident SMART goals.  
+VSCORE TWIS topic.  
