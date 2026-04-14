@@ -8,7 +8,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | --- | --- |
 |01 | History/ROS, additional info to solicit |
 |02 | Patient instructions, pre-op |
-|03 | Patient education, pre-op |
+|03 | [Patient education, pre-op:SVS AAA flyer](https://nealbarshes.github.io/Team/Protocols_Aortic/03_PtInfo_SVS_AAA.pdf) |
 |04 | Brillians code  |
 |05 | Pre-op checklist, additional items |
 |06 | <b>Post-op orders</b> |
