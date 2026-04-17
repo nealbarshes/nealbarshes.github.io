@@ -52,7 +52,8 @@ Text order: "Up to chair with assistance for at least three hours daily."
 >2. Complete blood count (CBC) with or without differential
 >3. PT/INR and PTT.
 >4. Type & screen.
->5. Consider brain naturetic peptide (BNP), procalcitonin, c-reactive protein (CRP), MRSA nasal swab and/or baseline urinalysis.
+>5. Brain naturetic peptide (BNP) for patients with ejection fraction <40%.
+>6. Consider procalcitonin, c-reactive protein (CRP), MRSA nasal swab and/or baseline urinalysis.
 
 Please do NOT enter daily pan-lab orders for inpatients; generally, 2x/week is sufficient for patients with oral intake who are not on hemodialysis.
 
