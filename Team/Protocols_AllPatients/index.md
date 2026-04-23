@@ -9,7 +9,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | --- | --- |
 |01 | [History/ROS patient form for clinic](http://nealbarshes.github.io/Team/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf) |
 |01 | [History/ROS answer key for CPRS paste](http://nealbarshes.github.io/Team/Protocols_AllPatients/01_HistoryROS_CPRSpaste_AllPatients.md) |
-|02 | [Patient instructions, pre-op](http://nealbarshes.github.io/Team/OtherFiles/PreOpVascular_PatientInstructions_v6.1.pdf) |
+|02 | [Patient instructions, pre-op](http://nealbarshes.github.io/Team/OtherFiles/VascularTeam_PatientInstructionsPreOp.pdf) |
 |03 | [Patient education, pre-op: anatomy drawing template](http://nealbarshes.github.io/Team/Protocols_AllPatients/02_PatientInfo_AllPatients_VascularAnatomy.pdf) |
 |04 | Brillians code: Pre-op review |
 |04 | Brillians code: "ABCDE" review |
