@@ -8,6 +8,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | --- | --- |
 |01 | History/ROS, additional info to solicit |
 |02 | Patient instructions, pre-op |
+|03 | [Patient education, pre-op: anatomy drawing template](http://nealbarshes.github.io/Team/Protocols_AllPatients/02_PatientInfo_AllPatients_VascularAnatomy.pdf) |
 |03 | [Patient education: claudication](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/03_PtInfo_ClaudicationBrochureSharath.pdf) |
 |03 | [Patient education: leg bypass pre-op](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/03_PtInfo_LegBypassPreOp.pdf) |
 |04 | [Brillians code: limb salvage chart review](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/04_Brillians_LimbSalvage.md)  |
