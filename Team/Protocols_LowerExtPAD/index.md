@@ -8,6 +8,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | --- | --- |
 |01 | History/ROS, additional info to solicit |
 |02 | Patient instructions, pre-op |
+|03 | [Patient education, post-op: "Guard Your Feet" brochure](https://nealbarshes.github.io/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf) |
 |03 | [Patient education, pre-op: anatomy drawing template](http://nealbarshes.github.io/Team/Protocols_AllPatients/02_PatientInfo_AllPatients_VascularAnatomy.pdf) |
 |03 | [Patient education: claudication](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/03_PtInfo_ClaudicationBrochureSharath.pdf) |
 |03 | [Patient education: leg bypass pre-op](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/03_PtInfo_LegBypassPreOp.pdf) |
@@ -21,7 +22,6 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |10 | [Patient discharge instructions: angiogram/intervention](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio.md) |
 |10 | [Patient discharge instructions: leg bypass](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_LegBypass.md) |
 |10 | [Patient discharge instructions: wound VAC](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/10_DischargeInstructions_WoundVAC.md) |
-|11 | [Patient education, post-op: "Guard Your Feet" brochure](https://nealbarshes.github.io/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf) |
 |11 | [Patient education, post-op: ulcer or incision](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/11_PtInfo_WoundCare_UlcerIncision.pdf) |
 |11 | [Patient education, post-op: wound VAC](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/11_PtInfo_WoundCare_VAC.pdf)|
 |11 | [Patient education, post-op: skin graft](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD/11_PtInfo_WoundCare_STSG.pdf) |
