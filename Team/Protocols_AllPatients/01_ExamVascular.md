@@ -6,11 +6,10 @@ Then copy everything below this line and paste it into the CPRS template text bo
 --------------------------------------------------------------------------------------
 
 
-LOWER EXTREMITY: {FLD:RADIO BUTTON RIGHT/LEFT}
-
 @VascularSurgery_PulseExam
 
-{FLD:LEFT/RIGHT*}
+{FLD:LEFT/RIGHT*} LOWER EXTREMITY
+
 
 --PALPATION-----------
 femoral:
