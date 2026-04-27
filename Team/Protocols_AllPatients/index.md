@@ -16,7 +16,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |05 | [Pre-op checklist](http://nealbarshes.github.io/Team/Protocols_AllPatients/05_PreOpChecklist_AllPatients) |
 |06 | [<b>Post-op orders</b>](http://nealbarshes.github.io/Team/Protocols_AllPatients/07_PostOpOrders_AllPatients) |
 |07 | [Post-op problems: protocols](http://nealbarshes.github.io/Team/Protocols_AllPatients/08_PostOpProblems_AllPatients.md) |
-|08 | Inpatient SOAP note template |
+|08 | [Inpatient SOAP note template] |(http://nealbarshes.github.io/Team/Protocols_AllPatients/08_InpatientProgressNote_AllPatients.md)
 |09 | Discharge planning |
 |10 | [Patient discharge instructions](http://nealbarshes.github.io/Team/Protocols_AllPatients/10_DischargeInstructions_AllPatients.md) |
 |11 | Patient education, post-op |
