@@ -14,9 +14,9 @@ _________________________________________________________________________
 VASCULAR SURGERY INPATIENT PROGRESS NOTE
 
 For questions, please contact: 
-{FLD:CHECK [X/0]}Vascular Surgery RED team, pager 
-{FLD:CHECK [X/0]}Vascular Surgery BLUE team, pager 
-{FLD:CHECK [X/0]}Vascular Surgery SILVER team: pager 
+{FLD:CHECK [X/0]}Vascular Surgery RED team, pager *5 1699
+{FLD:CHECK [X/0]}Vascular Surgery BLUE team, pager *5 1700
+{FLD:CHECK [X/0]}Vascular Surgery SILVER team
 
 the TLDR SUMMARY:
 
