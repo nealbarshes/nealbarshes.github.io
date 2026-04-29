@@ -295,20 +295,29 @@ Assessment/Diagnoses/Problem list and Management Plan:
 {FLD:WP 4 LINES 60,IND 6,WP}
 
 
-The recommended antiplatelet and anticoagulant medication plan is:
+The current antiplatelet and anticoagulant medication plan is:
 
-1. {FLD:YES  OR  NO1}aspirin 81mg daily for a duration of {FLD:TEXT (1-15 CHAR)}.
-2. {FLD:YES  OR  NO1}clopidogrel (Plavix) 75mg daily for a duration of {FLD:TEXT (1-15 CHAR)}.
-3. {FLD:YES  OR  NO1}rivaroxaban 2.5mg BID indefinitely. 
-
-[NOTE: This dosing is based on lowered cardiovascular and limb events in in the VOYAGER trial. It is a low dose and is NOT considered therapeutic 
-anticoagulation].  
-
-Other antiplatelets or antiplatelets, with dosage, duration, and indication here:
+1. aspirin 81mg daily?  {FLD:NO/YES,}.
+2. clopidogrel (Plavix)? {FLD:NO/YES,} 75mg daily for a duration of {FLD:TEXT (1-15 CHAR)}.
+3. rivaroxaban (Xarelto) 2.5mg BID. {FLD:NO/YES,} NOTE: This dosing is based on lowered cardiovascular and limb events in in the VOYAGER trial. It is 
+a low dose and is NOT considered therapeutic anticoagulation.  
+4. Other antiplatelets or antiplatelets, with dosage, duration, and indication here:
 {FLD:TEXT 3 LINES}
 
 
-Return to vascular surgery clinic in ____
+The patient is on antiplatelet or anticoagulant medications for OTHER reasons (i.e. not related to peripheral artery disease or a procedure done for 
+peripheral artery disease):
+{FLD:NO YES VERTICAL}
+{FLD:WP 3 FL 50}
+
+
+
+Planned return to vascular clinic:
+{FLD:NO YES VERTICAL}
+In 
+{FLD:TEXT (1-40 CHAR)}
+
+
 
 Upcoming appointments:
 |FUTURE APPOINTMENTS|
