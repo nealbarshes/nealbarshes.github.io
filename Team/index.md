@@ -29,7 +29,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 
 <br>
 
-Please review these orientation materials for your rotation. We have [team morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport.md) Mondays and Thursdays starting at 0745am. We have in-person [clinic](https://nealbarshes.github.io/Team/OtherFiles/VascularTeam_Clinic_SwimLanes.pdf) every Thursday and every Monday morning. 
+Please review these orientation materials for your rotation. We have [team morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport.md) Mondays and Thursdays starting at 0745am. We have in-person [clinic](https://nealbarshes.github.io/Team/OtherFiles/VascularTeam_Clinic_SwimLanes.docx) every Thursday and every Monday morning. 
 
 For <b>continuous improvement</b> and <b>patient safety</b>: use [this slide template for M&M presentations](https://nealbarshes.github.io/Team/MMconference/VascularTeam_Mtg_M&M_SlideTemplate.pptx). Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F) to report systems issues. Also Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
 
