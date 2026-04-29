@@ -76,6 +76,8 @@ Start subcutaneous enoxaparin q12 or heparin q8 for DVT prophylaxis.
 
 Hint: Back out from the "Vascular Surgery" order set <-- Surgery orders <-- then "Medications, Inpatient", then --> "ANALGESICS" to make it easy to find these. COPY THE TEXT in quotations to paste under "Comments" to give specifics on the PRN dosing.
 
+#### DeBakey Vascular Multimodal Pain regimen
+
 From the "Pain Medication Orders order set":
 >1. Acetaminophen 500 milligrams PO q6h scheduled x 48 hours, then PRN "pain (pain score level 4+)".
 >2. Tramadol 50mg PO q3h PRN "pain (level 4+), second line after acetaminophen". For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.
