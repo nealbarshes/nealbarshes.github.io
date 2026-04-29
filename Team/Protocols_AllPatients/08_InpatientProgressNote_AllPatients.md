@@ -10,43 +10,56 @@ Then copy everything below this line and paste it into the CPRS template text bo
 _________________________________________________________________________
 *************************************************************************
 
-
 VASCULAR SURGERY INPATIENT PROGRESS NOTE
 
 For questions, please contact: 
-{FLD:CHECK [X/0]}Vascular Surgery RED team, pager *5 1699
-{FLD:CHECK [X/0]}Vascular Surgery BLUE team, pager *5 1700
-{FLD:CHECK [X/0]}Vascular Surgery SILVER team
+{FLD:CHECK [X/0]}Vascular Surgery RED team, pager 
+{FLD:CHECK [X/0]}Vascular Surgery BLUE team, pager 
+{FLD:CHECK [X/0]}Vascular Surgery SILVER team: pager 
 
-the TLDR SUMMARY:
+
+============================================================================
+the CONCISE SUMMARY:
+============================================================================
+
 
 >>  |PATIENT NAME| is a |PATIENT AGE| y/o |PATIENT SEX| 
 
->>  |ADMIT DX|
- 
-Active inpatient problems and plans for next 72 hours include:
-1. Problem 1:{FLD:TEXT (1-40 CHAR)}
-     Plans: 
-{FLD:WP 4 LINES 60,IND 6,WP}
+>>   with an admission diagnosis of |ADMIT DX|.
 
-2. Problem 2:{FLD:TEXT (1-40 CHAR)}
-     Plans: 
-{FLD:WP 4 LINES 60,IND 6,WP}
 
-3. Problem 3:{FLD:TEXT (1-40 CHAR)}
-     Plans: 
-{FLD:WP 4 LINES 60,IND 6,WP}
+This section:
+A. Hospital events, progress, testing over past 24 hours:
+B. Concise day-by-day summary of events, progress and testing during this hospitalization
+C. Numbered list of ACTIVE inpatient problems and their related management plans:
 
-4. Problem 4:{FLD:TEXT (1-40 CHAR)}
-     Plans: 
-{FLD:WP 4 LINES 60,IND 6,WP}
+{FLD:WP 5/74MAN}
 
-5. Problem 5:{FLD:TEXT (1-40 CHAR)}
-     Plans: 
-{FLD:WP 4 LINES 60,IND 6,WP}
 
 
 Anticipated date of discharge: ^^^^{FLD:DATE  REQ}^^^
+
+We anticipate that patient will be discharged to:
+{FLD:CHECK [X/0]} the place where the patient lived immediately prior to discharge (typically: home).
+{FLD:CHECK [X/0]} a skilled nursing facility or other location NEW to the patient.
+{FLD:CHECK [X/0]} undetermined at this time.
+
+The current antiplatelet and anticoagulant medication plan is:
+
+1. aspirin 81mg daily?  {FLD:NO/YES,}.
+2. clopidogrel (Plavix)? {FLD:NO/YES,} 75mg daily for a duration of {FLD:TEXT (1-15 CHAR)}.
+3. rivaroxaban (Xarelto) 2.5mg BID. {FLD:NO/YES,} NOTE: This dosing is based on lowered cardiovascular and limb events in in the VOYAGER trial. It is 
+a low dose and is NOT considered therapeutic anticoagulation.  
+4. Other antiplatelets or antiplatelets, with dosage, duration, and indication here:
+{FLD:TEXT 3 LINES}
+
+
+The patient is on antiplatelet or anticoagulant medications for OTHER reasons (i.e. not related to peripheral artery disease or a procedure done for 
+peripheral artery disease):
+{FLD:NO YES VERTICAL}
+{FLD:WP 3 FL 50}
+
+
 _________________________________________________________________________
 *************************************************************************
 
@@ -68,14 +81,6 @@ Pain level today, as recorded by nursing notes: |PAIN TODAY|
 
 
 
-============================================================================
-HOSPITAL COURSE
-============================================================================
-Hospital events, progress, testing over past 24 hours:
-{FLD:580 IMS WP 65X2}
-
-Concise chronological summary of events during this hospitalization:
-{FLD:WORD PROCESS (REQUIRED)}
 
 
 ============================================================================
@@ -105,14 +110,15 @@ Abdominal exam:
 {FLD:CHECK [X/0]}Abdomen is tender.
 {FLD:CHECK [X/0]}Not assessed.
 
-Surgical Site(s):
+Surgical Site(s)?
+{FLD:NO YES VERTICAL}
 Locations= {FLD:TEXT (1-40 CHAR) REQ}
 Appearance=
-{FLD:YES/NO/UNKNOWN (REQ)} intact
-{FLD:YES/NO/UNKNOWN (REQ)} dehiscence
-{FLD:YES/NO/UNKNOWN (REQ)} contiguous erythema
-{FLD:YES/NO/UNKNOWN (REQ)} swelling or fluctuance
-{FLD:YES/NO/UNKNOWN (REQ)} drainage
+{FLD:YES/NO/NS/NA REQ} intact
+{FLD:YES/NO/NS/NA REQ} dehiscence
+{FLD:YES/NO/NS/NA REQ} contiguous erythema
+{FLD:YES/NO/NS/NA REQ} swelling or fluctuance
+{FLD:YES/NO/NS/NA REQ} drainage
 Text description (optional):
 {FLD:WP 4 LINES 60,IND 6,WP}
 
