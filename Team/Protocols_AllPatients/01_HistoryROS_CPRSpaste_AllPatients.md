@@ -1,3 +1,6 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
+gtag('config', 'G-YPLVGC5FDP'); </script>
+
 This is intended to streamline the recording of a patient's responses on a printed [review of systems questionnaire](http://nealbarshes.github.io/Team/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf).
 
 ### Copy everything below here and mark the "X" responses entered by the patient:
