@@ -11,7 +11,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |03 | [Patient education, pre-op:SVS AAA flyer](https://nealbarshes.github.io/Team/Protocols_Aortic/03_PtInfo_SVS_AAA.pdf) |
 |04 | Brillians code  |
 |05 | Pre-op checklist, additional items |
-|06 | [<b>Post-op orders</b>](https://nealbarshes.github.io/Team/Protocols_Aortic/07_PostOpOrders_AorticOpenSurgery.md) |
+|06 | [<b>Post-op orders</b>](https://nealbarshes.github.io/Team/Protocols_Aortic/06_PostOpOrders_AorticOpenSurgery.md) |
 |07 | Post-op problems: protocols |
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
