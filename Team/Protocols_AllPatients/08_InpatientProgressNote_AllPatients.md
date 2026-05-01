@@ -11,6 +11,7 @@ Then copy everything below this line and paste it into the CPRS template text bo
 
 
 _________________________________________________________________________
+_________________________________________________________________________
 *************************************************************************
 
 VASCULAR SURGERY INPATIENT PROGRESS NOTE
@@ -47,7 +48,7 @@ We anticipate that patient will be discharged to:
 {FLD:CHECK [X/0]} a skilled nursing facility or other location NEW to the patient.
 {FLD:CHECK [X/0]} undetermined at this time.
 
-The current antiplatelet and anticoagulant medication plan is:
+Our current recommended plan for antiplatelet and anticoagulant medications related to PERIPHERAL ARTERY DISEASE management or related to PROCEDURES done for peripheral vascular pathologies is:
 
 1. aspirin 81mg daily?  {FLD:NO/YES,}.
 2. clopidogrel (Plavix)? {FLD:NO/YES,} 75mg daily for a duration of {FLD:TEXT (1-15 CHAR)}.
@@ -388,5 +389,6 @@ Upcoming appointments:
             \\\  ///  \\\        Department of Veterans Affairs
              \\\///    \\\       2002 Holcombe Blvd
               \///   \\\\\\      Houston, Texas 77030
+
 
 
