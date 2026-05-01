@@ -46,13 +46,8 @@ Clinic enrollments: |PATIENT CLINIC ENROLLMENTS|
 Service connection (relevant to CLC eligibility): |PATIENT SVC CONN %|
 
 ============================================================================
-IDENTIFYING INFORMATION & CLINIC HISTORY
+PREVIOUS HOSPITAL ADMISSIONS AT MEDVAMC
 ============================================================================
-
-Last podiatry or vascular appointment (w/in 2 years): |MOST RECENT PODIATRY/VASCULAR APPT;2Y|
-
-Outpatient appointments in the past year:
-|OUTPT APPTS PAST YR| 
 
 Previous admissions with LOS (reverse chronological order):
 |PREVIOUS ADMISSIONS|
@@ -66,18 +61,9 @@ primary reason for appointment: : |PATIENT NAME| is a |PATIENT AGE| year-old
 |PATIENT SEX| who is being seen in our vascular surgery clinic for 
  {FLD:TEXT (1-40 CHAR) REQ}.
 
-Current + recent clinical history, symptoms: 
+Current + recent clinical history, symptoms. Please use OLDCARTS-type descriptors for pain: Onset, Location, Duration, Character, Aggravating factors, 
+Relieving factors, Timing/frequency, and Severity. 
 {FLD:WP 10/70}
-
-Description of {FLD:TEXT (1-20 CHAR)}  pain (using OLDCARTS mnemonic):
-O= Onset:{FLD:TEXT (1-60 CHAR)}
-L= Location:{FLD:TEXT (1-60 CHAR)}
-D= Duration:{FLD:TEXT (1-60 CHAR)}
-C= Character:{FLD:TEXT (1-60 CHAR)}
-A= Aggravating factors:{FLD:TEXT (1-50 CHAR)}
-R= Relieving factors:{FLD:TEXT (1-50 CHAR)}
-T= Timing/frequency:{FLD:TEXT (1-50 CHAR)}
-S= Severity:{FLD:TEXT (1-60 CHAR)}
 
 
 
@@ -108,7 +94,7 @@ Patient weights:
 {FLD:CHECK [X/0]}obvious lower extremity weakness on {FLD:LEFT/RIGHT/BOTH} side(s)
 {FLD:CHECK [X/0]}other: {FLD:TEXT (1-40 CHAR)}
 
-3. Speech: [ ]tangential [ ]disoriented [ ]aphasia [ ]none
+3. Speech: 
 {FLD:CHECK [X/0]}fluent, logical, coherent
 {FLD:CHECK [X/0]}aphasic
 {FLD:CHECK [X/0]}other: {FLD:TEXT (1-40 CHAR)}
@@ -118,33 +104,33 @@ Patient weights:
 {FLD:CHECK [X/0]}symmetric smile
 {FLD:CHECK [X/0]}other: {FLD:TEXT (1-40 CHAR)}
 
-4. Oral cavity: 
+5. Oral cavity: 
 {FLD:CHECK [X/0]}not assessed
 {FLD:CHECK [X/0]}no obvious loose teeth or caries
 {FLD:CHECK [X/0]}tongue deviation toward {FLD:LEFT RIGHT RADIO}
 {FLD:CHECK [X/0]}bifid uvula
 {FLD:CHECK [X/0]}other:{FLD:TEXT (1-40 CHAR)}
 
-5. Neck: 
+6. Neck: 
 {FLD:CHECK [X/0]}not assessed
 {FLD:CHECK [X/0]}no obvious abnormalities
 {FLD:CHECK [X/0]}carotid bruit on {FLD:LEFT/RIGHT/BOTH} side(s)
 {FLD:CHECK [X/0]}other:{FLD:TEXT (1-40 CHAR)}
 
-6. Lungs:
+7. Lungs:
 {FLD:CHECK [X/0]}not assessed
 {FLD:CHECK [X/0]}no obvious abnormalities
 {FLD:CHECK [X/0]}tachypneic and/or dyspneic
 {FLD:CHECK [X/0]}wheezing or crackles on {FLD:LEFT/RIGHT/BOTH} side(s)
 {FLD:CHECK [X/0]}other:{FLD:TEXT (1-40 CHAR)}
 
-7. Cardiac
+8. Cardiac
 {FLD:CHECK [X/0]}not assessed
 {FLD:CHECK [X/0]}regular rhythm, no murmurs
 {FLD:CHECK [X/0]}irregular rhythm
 {FLD:CHECK [X/0]}other:{FLD:TEXT (1-40 CHAR)}
 
-8. Abdomen
+9. Abdomen
 {FLD:CHECK [X/0]}not assessed
 {FLD:CHECK [X/0]}no scars, no tenderness
 {FLD:CHECK [X/0]}surgical scars:{FLD:TEXT (1-30 CHAR)}
@@ -153,14 +139,14 @@ Patient weights:
 {FLD:CHECK [X/0]}tenderness in {FLD:TEXT (1-30 CHAR)}
 {FLD:CHECK [X/0]}other:{FLD:TEXT (1-40 CHAR)}
 
-9. Legs
+10. Legs
 {FLD:CHECK [X/0]}not assessed
 {FLD:CHECK [X/0]}prior leg amputation on {FLD:LEFT/RIGHT/BOTH} side(s)
 {FLD:CHECK [X/0]}pretibial edema on {FLD:LEFT/RIGHT/BOTH} side(s)
 {FLD:CHECK [X/0]}dermatoliposclerosis on {FLD:LEFT/RIGHT/BOTH} side(s)
 {FLD:CHECK [X/0]}other:{FLD:TEXT (1-40 CHAR)}
 
-10. Vascular exam (@VascularSurgery_PulseExam)
+11. Vascular exam (@VascularSurgery_PulseExam)
 
 
 RIGHT LOWER EXTREMITY, 
@@ -256,7 +242,7 @@ fibular (peroneal), ant. communicating branch:
 {FLD:CHECK [X/0]}absent
 {FLD:CHECK [X/0]}not assessed
 
-12. Foot wound:{FLD:YES/NO/UNKNOWN} {FLD:LEFT/RIGHT/BOTH}
+12. Foot wound:  {FLD:YES/NO/UNKNOWN}  {FLD:LEFT/RIGHT/BOTH}
 {FLD:CHECK [X/0]} healthy red tissue at base. 
 {FLD:CHECK [X/0]} covered with eschar and/or non-viable debris.
 {FLD:CHECK [X/0]} surrounding erythema
@@ -267,7 +253,7 @@ fibular (peroneal), ant. communicating branch:
 Text description (optional):
 {FLD:WP 4 LINES 60,IND 6,WP}
 
-13. Surgical Site(s):
+13. Surgical Site(s):    {FLD:NO/YES,}.
 Location(s)= {FLD:TEXT (1-40 CHAR)}
 Text description (optional):
 {FLD:WP 4 LINES 60,IND 6,WP}
@@ -298,7 +284,8 @@ Assessment/Diagnoses/Problem list and Management Plan:
 {FLD:WP 4 LINES 60,IND 6,WP}
 
 
-The current antiplatelet and anticoagulant medication plan is:
+Our current recommended plan for antiplatelet and anticoagulant medications related to PERIPHERAL ARTERY DISEASE management or related to PROCEDURES 
+done for peripheral vascular pathologies is:
 
 1. aspirin 81mg daily?  {FLD:NO/YES,}.
 2. clopidogrel (Plavix)? {FLD:NO/YES,} 75mg daily for a duration of {FLD:TEXT (1-15 CHAR)}.
@@ -306,12 +293,6 @@ The current antiplatelet and anticoagulant medication plan is:
 a low dose and is NOT considered therapeutic anticoagulation.  
 4. Other antiplatelets or antiplatelets, with dosage, duration, and indication here:
 {FLD:TEXT 3 LINES}
-
-
-The patient is on antiplatelet or anticoagulant medications for OTHER reasons (i.e. not related to peripheral artery disease or a procedure done for 
-peripheral artery disease):
-{FLD:NO YES VERTICAL}
-{FLD:WP 3 FL 50}
 
 
 
@@ -521,7 +502,3 @@ ALLERGIES
             \\\  ///  \\\        Department of Veterans Affairs
              \\\///    \\\       2002 Holcombe Blvd
               \///   \\\\\\      Houston, Texas 77030
-
-
-
-
