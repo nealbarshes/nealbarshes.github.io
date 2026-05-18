@@ -8,7 +8,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | --- | --- |
 |01 | History/ROS, additional info to solicit |
 |02 | Patient instructions, pre-op |
-|03 | Patient education, pre-op |
+|03 | [Patient education, pre-op: cerebrovascular anatomy memo](https://nealbarshes.github.io/Team/Protocols_Carotid/03_PtInfo_VascularAnatomy_CarotidArtery.pdf) |
 |04 | [Brillians code: carotid w/ risk calculators](https://nealbarshes.github.io/Team/Protocols_Carotid/04_BrilliansCode_Carotid.md)  |
 |05 | [Pre-op checklist, additional for CEA-TCAR](https://nealbarshes.github.io/Team/Protocols_Carotid/05_PreOpChecklist_CEA-TCAR.md) |
 |05 | [Pre-op checklist, additional for BaroStim](https://nealbarshes.github.io/Team/Protocols_Carotid/05_PreOpChecklist_Barostim.md) |
