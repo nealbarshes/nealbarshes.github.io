@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Default layout
+
 ## The format and objectives:
 
 ### 1. Inpatient Service updates _since last morning report_
