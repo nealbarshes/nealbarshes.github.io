@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Default layout
 
 ## The format and objectives:
 
