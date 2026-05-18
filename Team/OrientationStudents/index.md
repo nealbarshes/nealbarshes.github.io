@@ -23,12 +23,12 @@ Morning Rounds: Start at the _same time as the daytime residents on your team_. 
 |time| Mon | Tue | Wed | Thu | Fri |
 | --- | --- | --- | --- | --- | --- |
 |**morning conference**| 745 VA morning report | 0700 pre-op conf., THI auditorium | 700 BCM grand rounds + student didactics | 745 VA morning report, clinic | 700 M&M, VA 5B-166 |
-|**OR time?** | Y 0730a | Y 0730a | Y 0830a | Y 0730a | Y 0730a |
-| **in-person clinic?** | Y - 0830-noon | N | N | Y - 0800-1500 | N |
+|**OR time?** | Yes, 0730am start | Yes, 0730am start | Yes, 0830am start | Yes, 0730am start | Yes, 0730am start |
+| **in-person clinic?** | Yes, 0830-noon | No | No | Yes, 0800am-0300pm | No |
 
-Weekends: Make rounds one day on one weekend during the first or second week on the rotation.
+**Weekends:** Make rounds one day on one weekend during the first or second week on the rotation.
  
-Evaluations required during your rotation consist of:
+#### Evaluations required during your rotation consist of:
 1.      DO: This would entail observation of distal signals in the foot by the faculty.
 2.      Feedback: provide midpoint feedback in the early part of the second week with a staff you have spent most time with Mon-Wed followed by end of rotation
 3.      ART: If not completed by your ACTA team them please ensure to complete one with me. Please present a patient with a focus on the assessment and plan. This includes 3 top differentials with reasoning and management, starting from most likely to least.
