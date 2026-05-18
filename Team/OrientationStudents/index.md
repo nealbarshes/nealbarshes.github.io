@@ -35,10 +35,6 @@ In general, go to the operating room when the senior trainees on your team are o
 3. **ART:** If not completed by your ACTA team, them please ensure to complete one with Dr. Hansraj. Please present a patient with a focus on the assessment and plan. This includes three top differential diagnses with reasoning and management, starting from most likely to least likely.
 
  
-### Recommended supplemental reading:
- 
-1. [Lower extremity peripheral artery disease, including claudication,	 primer by Dr. Barshes](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnealbarshes.github.io%2FPAD%2F&data=05%7C02%7Cnbarshes%40bcm.edu%7C016ed56e732f4562c22608deaaa3147d%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639135814562715078%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ulSUUHdc8UzB6uWq93qGMihGL%2BXfZPgk5IRU5szmQ9Q%3D&reserved=0)
-2. [Aneurysms of the thoracic and abdominal aorta: APDVS Medical Student Chapter by Dr. Greenleaf](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapdvsebook.quarto.pub%2Fthe-apdvs-medical-student-curriculum%2FAAA2.html&data=05%7C02%7Cnbarshes%40bcm.edu%7C016ed56e732f4562c22608deaaa3147d%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639135814562739178%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5HxjsVJDa6NktsqtqyPXRzoUv43RzgQuO1bbPEdY2h8%3D&reserved=0)
 
 
 #### Actively participate to optimize your learning in the operating room by:
@@ -59,6 +55,16 @@ In general, go to the operating room when the senior trainees on your team are o
 2. Spending additional time in the afternoon further understanding your patients and their management by: talking with them further to get more detailed history; reading about their pathology or management; reviewing their imaging (Vista function in CPRS/Tools); and writing progress notes (which can supplement the note written by the resident).
 3. Seeing consults with the on-call resident and present to the on-call attending surgeon.
 4. Presenting a brief summary of your inpatient(s) or consult(s) at [morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport.md). Again, much of the evaluation we are asked to complete at the end of your rotation focuses on your ability to give verbal presentations, write clear notes, and communicate effectively. <u>Outstanding students know all the details of the inpatients they follow</u>.
+
+
+#### Recommended supplemental reading:
+1. [Lower extremity peripheral artery disease, including claudication,	 primer by Dr. Barshes](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnealbarshes.github.io%2FPAD%2F&data=05%7C02%7Cnbarshes%40bcm.edu%7C016ed56e732f4562c22608deaaa3147d%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639135814562715078%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ulSUUHdc8UzB6uWq93qGMihGL%2BXfZPgk5IRU5szmQ9Q%3D&reserved=0)
+2. [Aneurysms of the thoracic and abdominal aorta: APDVS Medical Student Chapter by Dr. Greenleaf](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapdvsebook.quarto.pub%2Fthe-apdvs-medical-student-curriculum%2FAAA2.html&data=05%7C02%7Cnbarshes%40bcm.edu%7C016ed56e732f4562c22608deaaa3147d%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639135814562739178%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5HxjsVJDa6NktsqtqyPXRzoUv43RzgQuO1bbPEdY2h8%3D&reserved=0)
+
+
+
+
+
  
   
 Good luck on your rotation! We are looking forward to working with you. Please contact us with any questions or feedback.
