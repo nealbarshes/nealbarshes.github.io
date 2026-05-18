@@ -2,6 +2,7 @@
 gtag('config', 'G-YPLVGC5FDP'); </script>
 
 ### Welcome to the DeBakey VA Vascular Surgery Team. 
+These are our orientation materials for senior trainees, interns, and [students](https://nealbarshes.github.io/Team/OrientationStudents/index.md).
 <br>
 
 | <b>Core resources for our team:</b> |
