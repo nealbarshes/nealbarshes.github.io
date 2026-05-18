@@ -69,18 +69,18 @@ In general, go to the operating room when the senior trainees on your team are o
   
 Good luck on your rotation! We are looking forward to working with you. Please contact us with any questions or feedback.
  
-**Natasha Hansraj, M.D.**
-Assistant Professor of Surgery
-Site director for MEDVAMC Vascular Surgery Rotation
+**Natasha Hansraj, M.D.**  
+Assistant Professor of Surgery  
+Site director for MEDVAMC Vascular Surgery Rotation  
 
-**Neal R. Barshes, M.D., M.P.H.**
-Associate Professor of Surgery
-Program Director, Vascular Surgery and Endovascular Therapy Fellowship Program
-Service Chief, MEDVAMC Vascular Surgery
+**Neal R. Barshes, M.D., M.P.H.**  
+Associate Professor of Surgery  
+Program Director, Vascular Surgery and Endovascular Therapy Fellowship Program  
+Service Chief, MEDVAMC Vascular Surgery  
  
-**Erin K. Greenleaf, M.D., M.P.H.**
-Assistant Professor of Surgery
+**Erin K. Greenleaf, M.D., M.P.H.**  
+Assistant Professor of Surgery  
  
-**Besma Nejim, M.D., M.P.H.**
-Assistant Professor of Surgery 
+**Besma Nejim, M.D., M.P.H.**  
+Assistant Professor of Surgery  
 
