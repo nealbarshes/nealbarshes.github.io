@@ -9,6 +9,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |01 | [History/ROS, additional info to solicit](https://nealbarshes.github.io/Team/Protocols_Venous/01_History_VenousSuperficial.md) |
 |02 | Patient instructions, pre-op |
 |03 | [Patient education: SVS varicose vein flyer](https://nealbarshes.github.io/Team/Protocols_Venous/03_PtInfo_SVS_VaricoseVeins.pdf) |
+|03 | [Patient education, pre-op: lower extremity arteries & veins anatomy memo](https://nealbarshes.github.io/Team/Protocols_Venous/03_PtInfo_VascularAnatomy_LEarteriesveins.pdf) |
 |04 | Brillians code  |
 |05 | Pre-op checklist, additional items |
 |06 | [<b>Post-op orders</b>](https://nealbarshes.github.io/Team/Protocols_Venous/06_PostOpOrders_VenousAblation) |
