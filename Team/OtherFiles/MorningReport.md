@@ -1,9 +1,12 @@
+---
+layout: default
+---
+
 ## The format and objectives:
 
 ### 1. Inpatient Service updates _since last morning report_
 
 #### Objective Shared awareness of active clinical problems among inpatients.
-
 
 Complications & unexpected clinical events ("critical" or "watchers", in the terminology of [I-PASS](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/ipass.html)).   
   
