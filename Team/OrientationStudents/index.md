@@ -18,25 +18,15 @@ You’ll work as part of one of the two mini-teams, Vascular Surgery "Red Team" 
  
 In general, go to the operating room when the senior trainees on your team are operating. Go to the outpatient clinic if your senior trainees are there on Thursdays. Work with the intern on inpatient care on the Mondays or Tuesdays that your senior residents are assigned to Telephone Clinic.
  
-Morning Rounds: Start at the same time as the day residents on your team. You CANNOT do any form of preround. Meet in the team’s workroom at 6am.
-
-Time 
+Morning Rounds: Start at the _same time as the daytime residents on your team_. You are **NOT** allowed to "preround". 
+ 
 |time| Mon | Tue | Wed | Thu | Fri |
 | --- | --- | --- | --- | --- | --- |
-|morning conference| 745 VA morning report | 0700 pre-op conf., THI auditorium | 700 BCM grand rounds + student didactics | 745 VA morning report, clinic | 700 M&M, VA 5B-166 |
+|**morning conference**| 745 VA morning report | 0700 pre-op conf., THI auditorium | 700 BCM grand rounds + student didactics | 745 VA morning report, clinic | 700 M&M, VA 5B-166 |
+|**OR time?** | Y 0730a | Y 0730a | Y 0830a | Y 0730a | Y 0730a |
+| **in-person clinic?** | Y - 0830-noon | N | N | Y - 0800-1500 | N |
 
-
-
-There are table rounds at 7:45 AM on Monday in the 5A-321 conference room and Thursday in the 5C clinic.
-Surgery begins at 07:30AM on Monday, Tuesday, Thursday and Friday, and 08:30AM on Wednesdays. You typically won’t be in the operating room every day of the week.
-Wednesdays: You typically are at didactics in the am. Please contact your teams upon your return.
-Thursday in-person clinic begins at 8:00AM on Thursdays.
-
-Didactics: We are aware of your seminars on Wednesday mornings. Ensure you also attend any chairman rounds that Dr. Rosengart plans during your rotation. 
- 
-Weekends:
-Make rounds one day on one weekend during the first or second week on the rotation.
- 
+Weekends: Make rounds one day on one weekend during the first or second week on the rotation.
  
 Evaluations required during your rotation consist of:
 1.      DO: This would entail observation of distal signals in the foot by the faculty.
@@ -47,7 +37,6 @@ Our recommended reading plan:
  
 Week	Topic	pages  from Surgery: A Case Based Clinical Review	Additional resources
 1	Lower extremity peripheral artery disease, including claudication,	 	Dr. Barshes practical primer
-
 1	Acute limb ischemia	 	 
 1	Wound healing	 	 
 2	Carotid artery disease	 	 
@@ -56,7 +45,7 @@ Week	Topic	pages  from Surgery: A Case Based Clinical Review	Additional resource
 3	DVT and PE	 	 
 3	Establishing permanent dialysis access	 	 
  
-Actively participate to optimize your learning in the operating room by:
+#### Actively participate to optimize your learning in the operating room by:
  
 1.      Asking questions based on what you’ve read about the pathology, the management, post-operative complications.
 2.      Finding out how to help with patient positioning and preparation, including Foley catheter placement (if done as part of the operation).
@@ -64,13 +53,12 @@ Actively participate to optimize your learning in the operating room by:
 4.      Identifying educational and/or technical objectives for each case. Outstanding students will often work with the fellows or faculty to identify educational or technical objectives before every case.
 5.      Note: Wear the two-piece (wrap-around style) lead aprons and a thyroid shield for any case involving fluoroscopic imaging. Even though the contemporary imaging equipment and the multiple additional safeguards we use reduce radiation exposure to very low levels, these two-piece lead aprons give you circumferential coverage – in contrast to the older one-piece (apron-style) lead aprons that are still occasionally found in our operating rooms. Use the aprons that are labelled “vascular trainee”; do not use one with someone else’s name labelled. We have plenty of lead aprons; if you don’t see one available, please ask!
  
- 
-Actively participate to optimize your learning in the clinic by:
+#### Actively participate to optimize your learning in the clinic by:
 6.      Seeing a patient with the resident, present a verbal summary of the history and exam findings to an attending surgeon.
 7.      Writing an “OCL History/Physical” note, review it with an attending surgeon, and ask for feedback.
 8.      Noting that much of the evaluation we are asked to complete at the end of your rotation focuses on your ability to elicit a surgical history, perform and interpret physical exam findings, give verbal presentations, write clear notes, and communicate effectively, so being involved in this on a daily basis will give us plenty of opportunities for feedback and evaluation. Outstanding students know all the details of the patients they see in the clinic.  
  
-Actively participating to optimize your learning on the surgical units, on rounds, etc.
+#### Actively participating to optimize your learning on the surgical units, on rounds, etc.
  
 9.      Talking to your senior resident to identify two inpatients you can follow closely; read about their pathology and management, write notes, and be involved in formulating the plan of care.
 10. Spending additional time in the afternoon further understanding your patients and their management by: talking with them further to get more detailed history; reading about their pathology or management; reviewing their imaging (Vista function in CPRS/Tools); and writing progress notes (which can supplement the note written by the resident).
@@ -81,21 +69,18 @@ Actively participating to optimize your learning on the surgical units, on round
  
 Good luck on your rotation! We are looking forward to working with you. Please contact us with any questions or feedback.
  
-Natasha Hansraj, M.D.
+**Natasha Hansraj, M.D.**
 Assistant Professor of Surgery
 Site director for MEDVAMC Vascular Surgery Rotation
-Natasha.Hansraj@bcm.edu
- 
-Neal R. Barshes, M.D., M.P.H.
+
+**Neal R. Barshes, M.D., M.P.H.**
 Associate Professor of Surgery
 Program Director, Vascular Surgery and Endovascular Therapy Fellowship Program
 Service Chief, MEDVAMC Vascular Surgery
-Neal.Barshes@bcm.edu
  
-Erin K. Greenleaf, M.D., M.P.H.
+**Erin K. Greenleaf, M.D., M.P.H.**
 Assistant Professor of Surgery
-Erin.Greenleaf@bcm.edu
  
-Besma Nejim, M.D., M.P.H.
+**Besma Nejim, M.D., M.P.H.**
 Assistant Professor of Surgery 
-Besma.Nejim@bcm.edu
+
