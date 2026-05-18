@@ -18,12 +18,17 @@ You’ll work as part of one of the two mini-teams, Vascular Surgery "Red Team" 
  
 In general, go to the operating room when the senior trainees on your team are operating. Go to the outpatient clinic if your senior trainees are there on Thursdays. Work with the intern on inpatient care on the Mondays or Tuesdays that your senior residents are assigned to Telephone Clinic.
  
-1.      Morning Rounds: Start at the same time as the day residents on your team. You CANNOT do any form of preround. Meet in the team’s workroom at 6am.
-2.      There are table rounds at 7:45 AM on Monday in the 5A-321 conference room and Thursday in the 5C clinic.
-3.      Surgery begins at 07:30AM on Monday, Tuesday, Thursday and Friday, and 08:30AM on Wednesdays. You typically won’t be in the operating room every day of the week.
-4.      Wednesdays: You typically are at didactics in the am. Please contact your teams upon your return.
-5.      Thursday in-person clinic begins at 8:00AM on Thursdays.
-6.      Didactics: We are aware of your seminars on Wednesday mornings. Ensure you also attend any chairman rounds that Dr. Rosengart plans during your rotation. 
+Morning Rounds: Start at the same time as the day residents on your team. You CANNOT do any form of preround. Meet in the team’s workroom at 6am.
+
+Time 
+
+
+There are table rounds at 7:45 AM on Monday in the 5A-321 conference room and Thursday in the 5C clinic.
+Surgery begins at 07:30AM on Monday, Tuesday, Thursday and Friday, and 08:30AM on Wednesdays. You typically won’t be in the operating room every day of the week.
+Wednesdays: You typically are at didactics in the am. Please contact your teams upon your return.
+Thursday in-person clinic begins at 8:00AM on Thursdays.
+
+Didactics: We are aware of your seminars on Wednesday mornings. Ensure you also attend any chairman rounds that Dr. Rosengart plans during your rotation. 
  
 Weekends:
 Make rounds one day on one weekend during the first or second week on the rotation.
