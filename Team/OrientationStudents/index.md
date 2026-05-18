@@ -21,6 +21,10 @@ In general, go to the operating room when the senior trainees on your team are o
 Morning Rounds: Start at the same time as the day residents on your team. You CANNOT do any form of preround. Meet in the team’s workroom at 6am.
 
 Time 
+|time| Mon | Tue | Wed | Thu | Fri |
+| --- | --- | --- | --- | --- | --- |
+|morning conference| 745 VA morning report | 0700 pre-op conf., THI auditorium | 700 BCM grand rounds + student didactics | 745 VA morning report, clinic | 700 M&M, VA 5B-166 |
+
 
 
 There are table rounds at 7:45 AM on Monday in the 5A-321 conference room and Thursday in the 5C clinic.
