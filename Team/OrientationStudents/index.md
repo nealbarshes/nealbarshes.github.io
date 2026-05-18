@@ -15,10 +15,12 @@ Our rotation began as part of the Baylor College of Medicine peripheral vascular
 ## A typical weekday:
  
 You’ll work as part of one of the two mini-teams, Vascular Surgery "Red Team" or Vascular Surgery "Blue Team". Each of these teams typically has two senior residents (usually a combination of residents or fellows from the vascular surgery and general surgery training programs) and one intern.
- 
-In general, go to the operating room when the senior trainees on your team are operating. Go to the outpatient clinic if your senior trainees are there on Thursdays. Work with the intern on inpatient care on the Mondays or Tuesdays that your senior residents are assigned to Telephone Clinic.
- 
-Morning Rounds: Start at the _same time as the daytime residents on your team_. You are **NOT** allowed to "preround". 
+
+Start morning rounds at the _same time as the daytime residents on your team_. You are **NOT** allowed to "preround". After rounds, attend the same conferences as the senior vascular trainees (see table, below).
+
+In general, go to the operating room when the senior trainees on your team are operating. Go to the outpatient clinic if your senior trainees are there on Thursdays. Work with the intern on inpatient care on the Mondays or Tuesdays that your senior residents are assigned to Telephone Clinic. 
+
+**Weekends:** Make rounds one day on one weekend during the first or second week on the rotation.
  
 |time| Mon | Tue | Wed | Thu | Fri |
 | --- | --- | --- | --- | --- | --- |
@@ -26,24 +28,17 @@ Morning Rounds: Start at the _same time as the daytime residents on your team_. 
 |**OR time?** | Yes, 0730am start | Yes, 0730am start | Yes, 0830am start | Yes, 0730am start | Yes, 0730am start |
 | **in-person clinic?** | Yes, 0830-noon | No | No | Yes, 0800am-0300pm | No |
 
-**Weekends:** Make rounds one day on one weekend during the first or second week on the rotation.
  
 #### Evaluations required during your rotation consist of:
-1.      DO: This would entail observation of distal signals in the foot by the faculty.
-2.      Feedback: provide midpoint feedback in the early part of the second week with a staff you have spent most time with Mon-Wed followed by end of rotation
-3.      ART: If not completed by your ACTA team them please ensure to complete one with me. Please present a patient with a focus on the assessment and plan. This includes 3 top differentials with reasoning and management, starting from most likely to least.
+1. **Direct Observation (DO):** A BCM faculty surgeon observing you listening to Doppler signals in the foot by the faculty. Can be done in the operating room or in clinic. The direct observation of a complete history and physical will be done on your three-week general/pediatric surgery rotation, _not_ on this specialty surgery rotation.
+2. **Midpoint feedback:** provide midpoint feedback in the early part of the second week with a staff you have spent most time, followed by another evaluation at the end of your rotation.
+3. **ART:** If not completed by your ACTA team, them please ensure to complete one with Dr. Hansraj. Please present a patient with a focus on the assessment and plan. This includes three top differential diagnses with reasoning and management, starting from most likely to least likely.
  
-Our recommended reading plan:
+### Recommended supplemental reading:
  
 Week	Topic	pages  from Surgery: A Case Based Clinical Review	Additional resources
-1	Lower extremity peripheral artery disease, including claudication,	 	Dr. Barshes practical primer
-1	Acute limb ischemia	 	 
-1	Wound healing	 	 
-2	Carotid artery disease	 	 
-2	Aneurysms of the thoracic and abdominal aorta	 	APDVS Medical Student Chapter by Dr. Greenleaf
-
-3	DVT and PE	 	 
-3	Establishing permanent dialysis access	 	 
+1. [Lower extremity peripheral artery disease, including claudication,	 primer by Dr. Barshes](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnealbarshes.github.io%2FPAD%2F&data=05%7C02%7Cnbarshes%40bcm.edu%7C016ed56e732f4562c22608deaaa3147d%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639135814562715078%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ulSUUHdc8UzB6uWq93qGMihGL%2BXfZPgk5IRU5szmQ9Q%3D&reserved=0)
+2. [Aneurysms of the thoracic and abdominal aorta: APDVS Medical Student Chapter by Dr. Greenleaf](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapdvsebook.quarto.pub%2Fthe-apdvs-medical-student-curriculum%2FAAA2.html&data=05%7C02%7Cnbarshes%40bcm.edu%7C016ed56e732f4562c22608deaaa3147d%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639135814562739178%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5HxjsVJDa6NktsqtqyPXRzoUv43RzgQuO1bbPEdY2h8%3D&reserved=0)
  
 #### Actively participate to optimize your learning in the operating room by:
  
