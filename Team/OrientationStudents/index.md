@@ -24,7 +24,7 @@ In general, go to the operating room when the senior trainees on your team are o
  
 |time| Mon | Tue | Wed | Thu | Fri |
 | --- | --- | --- | --- | --- | --- |
-|**morning conference**| [745 VA morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport.md) | 0700 pre-op conf., THI auditorium | 700 BCM grand rounds + student didactics | [745 VA morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport.md) | 700 M&M, VA 5B-166 |
+|**morning conference**| [745 VA morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport) | 0700 pre-op conf., THI auditorium | 700 BCM grand rounds + student didactics | [745 VA morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport) | 700 M&M, VA 5B-166 |
 |**OR time?** | Yes, 0730am start | Yes, 0730am start | Yes, 0830am start | Yes, 0730am start | Yes, 0730am start |
 | **in-person clinic?** | Yes, 0830-noon | No | No | Yes, 0800am-0300pm | No |
 
@@ -54,7 +54,7 @@ In general, go to the operating room when the senior trainees on your team are o
 1. Talking to your senior resident to identify two inpatients you can follow closely; read about their pathology and management, write notes, and be involved in formulating the plan of care.
 2. Spending additional time in the afternoon further understanding your patients and their management by: talking with them further to get more detailed history; reading about their pathology or management; reviewing their imaging (Vista function in CPRS/Tools); and writing progress notes (which can supplement the note written by the resident).
 3. Seeing consults with the on-call resident and present to the on-call attending surgeon.
-4. Presenting a brief summary of your inpatient(s) or consult(s) at [morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport.md). Again, much of the evaluation we are asked to complete at the end of your rotation focuses on your ability to give verbal presentations, write clear notes, and communicate effectively. <u>Outstanding students know all the details of the inpatients they follow</u>.
+4. Presenting a brief summary of your inpatient(s) or consult(s) at [morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport). Again, much of the evaluation we are asked to complete at the end of your rotation focuses on your ability to give verbal presentations, write clear notes, and communicate effectively. <u>Outstanding students know all the details of the inpatients they follow</u>.
 
 
 #### Recommended supplemental reading:
