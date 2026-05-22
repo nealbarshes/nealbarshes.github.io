@@ -1,8 +1,5 @@
-test
-
-
-Welcome to your rotation on the Vascular Surgery service at the Michael E. DeBakey Veterans Affairs Medical Center (MEDVAMC)!
- 
+**Welcome to your rotation on the Vascular Surgery service at the Michael E. DeBakey Veterans Affairs Medical Center (MEDVAMC)!
+** 
 Vascular surgery is an exciting, rapidly-evolving specialty. We operate with open surgical and percutaneous/endovascular techniques in virtually all areas of the body for a wide range of pathologies. These pathologies overlap with most medical and surgical specialties, especially internal medicine, emergency medicine, family practice, infectious diseases, endocrinology, nephrology, orthopedic surgery, plastic surgery, cardiac surgery, cardiology, and interventional radiology.
  
 Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s. It is currently the busiest VA vascular surgery service in the country. With 55% of our limb salvage population comprised of people categorized as Black or Hispanic, and many traveling here from throughout southeast Texas and Louisiana, we serve very diverse patient population. You will have an unparalleled opportunity to learn about the surgical management of vascular disease and gain operative skills.
