@@ -24,9 +24,10 @@ This page describes the service structure and roles.
 
 The tenets guiding our service structure are:  
 1. Providing outstanding patient care. 
-2. Respecting for all persons. 
-3. Personal responsibility and [disintermediation](https://en.wikipedia.org/wiki/Disintermediation).
-4. Feedback as a necessity for growth and learning.
+2. Respecting for all persons.. 
+3. Taking the ownership afforded by clearly defined, level-appropriate roles.
+4. "Disintermediation": Direct action and communication with least possible hierarchy.
+5. Feedback as a necessity for growth and learning.
 
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:12px; background-color: ##fdffde;">
 "The acquisition of skills requires a regular environment, and adequate opportunity to practice, and <b>rapid and unequivocal feedback about the correctness of thoughts and actions</b>. When these conditions are fullfilled, skill eventually develops, and the intuitive judgments and choices that quickly come to mind will mostly be accurate.” Daniel Kahneman, <i>Thinking Fast and Slow</i></blockquote>
