@@ -24,7 +24,7 @@ This page describes the service structure and roles. There are additional pages 
 
 The tenets guiding our service structure are:  
 1. Providing outstanding patient care. 
-2. Respecting all persons (and having comportment that demonstrates this). 
+2. Respecting for all persons. 
 3. Personal responsibility and [disintermediation](https://en.wikipedia.org/wiki/Disintermediation).
 4. Feedback as a necessity for growth and learning.
 
@@ -46,9 +46,10 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
     <li>Surgical bypass: possible completion angiogram with peripheral intervention.</li>
     <li>AV graft: possible AV fistula.</li>
     <li>AV fistula: possible AV graft ONLY if E.S.R.D., not if CKD5.</li>
+    <li>vein ablation: possible laser ablation, possible radiofrequency ablation, possible schlerotherapy, possible stab phlebectomies.</li>
   </ul>
-  <li>Include names of three staff surgeons.</li>
-  <li>Select "anesthesia practicioner will be present ..."</li>
+  <li>Include names of all five staff surgeons.</li>
+  <li><b><u>ALWAYS</u></b> select "anesthesia practicioner will be present ..."</li>
   <li>SPELL OUT any/all anatomic locations without abbreviating. For limbs, this means "left" or "right" and "foot", "calf", "heel", "lower extremity", or other anatomic descriptor. For digits, i.e. toes, SPECIFY WHICH: "Left first and second toes", for example.</li>
   <li>Discuss "YES. The patient (or surrogate) consents for the use of blood products" for <i>all</i> cases. </li>
   <li>Select "Vendor will be present ..." for peripheral endovascular, EVAR and TCAR cases.</li>
