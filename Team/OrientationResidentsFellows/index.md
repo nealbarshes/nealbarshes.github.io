@@ -159,8 +159,9 @@ Our [recommended list of chapters from Cameron's Current Surgical Therapy](https
 
 <b>Tuesday:</b>
 <ul>
-<li>7:45am table rounds in 5A-321.</li>
+<li>0700 pre-op conference, THI auditorium.</li>
 <li>OR8a.</li>
+<li>OR4, afternoon only.</li>
 <li>Tele-clinic.</li>
 </ul>
 
@@ -174,15 +175,14 @@ Our [recommended list of chapters from Cameron's Current Surgical Therapy](https
 <b>Thursday:</b>
 <ul>
 <li>7:45am table rounds in the 5C clinic conference room.</li>
-<li>8:00am: ALL trainees not assigned to the OR, log in to a computer vascular surgery clinic and be ready to see patients by 0830am; on-call. Fellow/4th year and all available.</li>
+<li>8:00am: face-to-face vascular surgery clinic.</li>
 <li>OR8a.</li>
-<li>Noon "indications" conference in the 5C clinic conference room.</li>
-<li>16:15: all vascular trainees (integrated vascular residents and fellows) +/- general surgery residents and medical student attend weekly vascular surgery conference.</li>
+<li>Noon: vascular education conference -- focused on general surgery residents and students --  in the 5C clinic conference room.</li>
 </ul>
 
 <b>Friday:</b>
 <ul>
-<li>7:45am table rounds in 5A-321.</li>
+<li>Vascular surgery M&M conference, either in 5B-166 or 5A-321 conference rooms.</li>
 <li>OR8a.</li>
 <li>OR4.</li>
 <li>Weekend sign-out to on-call team.</li>
@@ -236,7 +236,7 @@ If a senior surgical trainee stays past 10pm, the on-call staff surgeon should b
 <br>
 Know that within the VA system, [verbal consent from the patient IS required for HIV testing](https://www.hiv.va.gov/provider/topics/testing-faq-occupational-exposures.asp). Therefore, <b>do NOT</b> ask for a needlestick exposure panel during the case; someone from the surgery team must obtain verbal consent when the patient has decision-making capacity. 
 
-#### Tips for working with our nurse practicioners: (<i>pending content</i>)
+#### Tips for working with our nurse practitioners: (<i>pending content</i>)
 <br>
 
 #### Requesting a parking hangtag: 
