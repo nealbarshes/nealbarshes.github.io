@@ -54,7 +54,7 @@ Commit to:
   <li>Discuss operative plans with involved staff surgeon <b>before</b> the day of the operation.</li>
   <li>Consuming, digesting and integrating all aspects of our patient’s history, exam findings, lab results, imaging, and hospital course.</li>
   <li>Calling sharps BEFORE passing back a sharp, and doing for 100% of sharps. </li>
-  <li>Utilizing down-time for more reading and dedicated practice of surgical skills.</li>
+  <li>Utilizing down-time for [recommended reading](https://nealbarshes.github.io/Team/OtherFiles/RecommendedReadings.md) and dedicated practice of surgical skills.</li>
   <li>Developing two technical and one non-technical S.M.A.R.T. goal to be submitted by the end of your first week on rotation.</li>
   <li>Contributing to leave the service -- and the call room/work room --- better than how you found it.</li>
 </ul>
