@@ -16,7 +16,7 @@
 
 Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s{[1](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ)}. It is currently the busiest VA vascular surgery service in the country. With 55% of our limb salvage population comprised of people categorized as Black or Hispanic{[2](https://pubmed.ncbi.nlm.nih.gov/36759932/)}, and many traveling here from [throughout southeast Texas and Louisiana](https://nealbarshes.github.io/Maps/Interactive/MEDVAMCzips/MEDVAMCCBOCsLeafletMap.html), we serve very diverse patient population. You will have an unparalleled opportunity to learn about the surgical management of vascular disease and gain operative skills.  
 
-This page describes the service structure and roles. There are additional pages for [limb salvage protocols](https://nealbarshes.github.io) and for [everything else](https://nealbarshes.github.io/EverythingElse/). 
+This page describes the service structure and roles. 
 
 ![Houston / DeBakey VA Vascular](/assets/VAhoustonVascularLogo3.jpg "Houston / DeBakey VA Vascular")
 
@@ -36,57 +36,8 @@ As of February 2021 we have transitioned from the “mega-team” model to the �
 <br>
 <hr>
 
-### Best Practices:
 
-#### For iMed Consents and LST notes:
-<p style="color:green"><b>DO / ALWAYS:</b></p>
-<ol>
-  <li>Include any relevant possibles:</li>
-  <ul>
-    <li>Surgical bypass: possible completion angiogram with peripheral intervention.</li>
-    <li>AV graft: possible AV fistula.</li>
-    <li>AV fistula: possible AV graft ONLY if E.S.R.D., not if CKD5.</li>
-    <li>vein ablation: possible laser ablation, possible radiofrequency ablation, possible schlerotherapy, possible stab phlebectomies.</li>
-  </ul>
-  <li>Include names of all five staff surgeons.</li>
-  <li><b><u>ALWAYS</u></b> select "anesthesia practicioner will be present ..."</li>
-  <li>SPELL OUT any/all anatomic locations without abbreviating. For limbs, this means "left" or "right" and "foot", "calf", "heel", "lower extremity", or other anatomic descriptor. For digits, i.e. toes, SPECIFY WHICH: "Left first and second toes", for example.</li>
-  <li>Discuss "YES. The patient (or surrogate) consents for the use of blood products" for <i>all</i> cases. </li>
-  <li>Select "Vendor will be present ..." for peripheral endovascular, EVAR and TCAR cases.</li>
-  <li>Select "YES" for "Tissues will be disposed of"</li>
-  <li>Select "Patient information will be disclosed to device manufacturer ..." for EVAR and TCAR cases.</li>
-</ol>
-
-<p style="color:red"><b>Do NOT:</b></p>
-<ol>
-  <li>Consents on morning of surgery (so-called "stretcher consent").</li>
-  <li>Type in "all indicated procedures" as part of the procedure. (We've clarified with the hospital Ethics Committee that this and other forms of blanket consent are not allowed). </li>
-  <li>Use any abbreviations whatsoever.</li>
-  </ol>
-
-#### For clinical care:
-<p style="color:green"><b>DO / ALWAYS:</b></p>
-<ol>
-  <li>Use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.</li>
-</ol>
-
-<p style="color:red"><b>Do NOT:</b></p>
-<ol>
-  <li>Discontinue clopidogrel or ticagrelor before reviewing initial indication (esp. recent drug-eluting coronary stents).</li>
-  </ol>
-<hr>
-
-### Habits that lead to satisfied patients that trust you:
-1. Introduce yourself and state your role.
-2. Make no promises you can't keep. (In general, underpromising and overproducing is much preferred to the reverse). 
-3. Be comfortable saying "I don't know, but I'll find out." Then find out and follow through.
-4. Spend 50% of your interaction with a patient <b>listening</b>.
-5. Explain <b>everything</b> you are going to do.
-6. Make sure someone will call family / friend after the case.
-<br>
-<hr>
-
-### Comportment expected of all trainees:
+### Behavior and attitudes expected of all trainees:
 
 NEVER: 
 <ul>
@@ -102,7 +53,9 @@ Commit to:
   <li>Saying “I don’t know, but I'll find out” when you aren't 100% confident in being 100% factually correct about something.</li> 
   <li>Discuss operative plans with involved staff surgeon <b>before</b> the day of the operation.</li>
   <li>Consuming, digesting and integrating all aspects of our patient’s history, exam findings, lab results, imaging, and hospital course.</li>
-  <li>Utilizing down-time for more reading and dedicated practice of surgical skills, less social media.</li>
+  <li>Calling sharps BEFORE passing back a sharp, and doing for 100% of sharps. </li>
+  <li>Utilizing down-time for more reading and dedicated practice of surgical skills.</li>
+  <li>Developing two technical and one non-technical S.M.A.R.T. goal to be submitted by the end of your first week on rotation.</li>
   <li>Contributing to leave the service -- and the call room/work room --- better than how you found it.</li>
 </ul>
 
@@ -110,7 +63,8 @@ Commit to:
 ### Roles, duties and expectations for Daytime/Inpatient Interns: 
 <ul>  
 <li>Working in a dyad with your paired senior trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR, and you should be doing face-to-face or telephone encounters when he or she is assigned to cover a clinic day. You should both see consults together.</li>
-<li>On Thursdays, in clinic for face-to-face outpatient encounters.</li>
+<li>Write inpatient notes using the inpatient template on this website. Update daily events using log entry-type statements: ex. "4/19= worked with physical therapy; surgical dressing removed. 4/20= drain removed; no IV pain medications needed."  </li>  
+<li>On <i>selected</i> Mondays and Thursdays, in clinic for face-to-face outpatient encounters.</li>
 <li>For initial evaluation of new inpatient or emergency room consults:</li>
   <ul>
 <li>Vascular surgery consults 24/7.</li>
