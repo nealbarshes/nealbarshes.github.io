@@ -107,7 +107,7 @@ Notes:
 <li>Guiding and teaching any daytime intern assigned to you. He or she should be in the OR when you are in the OR. You should both see consults together. You should divide work equitably and according to experience.  Interns should be assigned a week at a time by seniority, with PGY-7, then PGY-6 or vascular PGY-4 or general PGY-4.  When two or more senior of equal level are on service, intern assignment will alternate by week.</li>
 <li>Vascular residents and fellows: Identify educational, professional and technical goals using the updated ACGME Vascular Milestones document (expanded version). Understand how to optimize educational feedback.</li> 
 <li>When assigned, help organize and conduct the outpatient telephone clinic (Monday, Tuesday and/or Wednesday) or the in-person clinic (Monday and Thursdays). Please note that this does NOT preclude you from physically going to the OR to see or participate in critical portions of cases. If a patient of yours is scheduled for surgery when you are on-call, however, consider a 1:1 swap of daytime call with another senior trainee.</li>
-<li>Read our [recommended list of chapters from Cameron's Current Surgical Therapy](https://nealbarshes.github.io/Team/OtherFiles/RecommendedReadings.md)</li>  
+<li>Read our https://nealbarshes.github.io/Team/OtherFiles/RecommendedReadings.md recommended list of chapters from Cameron's Current Surgical Therapy</a></li>
 </ul>
 <br>
 
