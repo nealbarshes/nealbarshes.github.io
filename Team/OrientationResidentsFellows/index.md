@@ -64,6 +64,7 @@ Commit to:
 <ul>  
 <li>Working in a dyad with your paired senior trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR, and you should be doing face-to-face or telephone encounters when he or she is assigned to cover a clinic day. You should both see consults together.</li>
 <li>Write inpatient notes using the inpatient template on this website. Update daily events using log entry-type statements: ex. "4/19= worked with physical therapy; surgical dressing removed. 4/20= drain removed; no IV pain medications needed."  </li>  
+<li>Present at morning report, keeping it [concise and focused](https://www.youtube.com/watch?v=l1-cGmKAP8s&list=PL65JmypVmSg7gEVB9zfNl-HEbnIUKVoxC).</li>
 <li>On <i>selected</i> Mondays and Thursdays, in clinic for face-to-face outpatient encounters.</li>
 <li>For initial evaluation of new inpatient or emergency room consults:</li>
   <ul>
@@ -244,6 +245,13 @@ Know that within the VA system, [verbal consent from the patient IS required for
 
 #### Quality Improvement
 The [BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx) should be used for quality improvement related to these events.
+
+#### "Out-boarding" at the end of the rotation: 
+<ol>
+<li>Clear ALL your CPRS alerts.</li>
+<li>Sign all D/C summaries and orders.</li>
+<li>Assign a "surrogate" signer: under "Tools", "Options", "Surrogates" tab. Should be the resident taking over your role. </li>
+</ol>ol>
 
 <br>
 
