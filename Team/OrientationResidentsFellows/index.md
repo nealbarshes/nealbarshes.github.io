@@ -252,7 +252,7 @@ The [BCM MED Department of Surgery reporting of “near-misses", errors and safe
 <li>Clear ALL your CPRS alerts.</li>
 <li>Sign all D/C summaries and orders.</li>
 <li>Assign a "surrogate" signer: under "Tools", "Options", "Surrogates" tab. Should be the resident taking over your role. </li>
-</ol>ol>
+</ol>>
 
 <br>
 
