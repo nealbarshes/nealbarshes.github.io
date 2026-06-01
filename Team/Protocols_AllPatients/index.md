@@ -26,6 +26,17 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 
 ![team logo](https://nealbarshes.github.io/Team/OtherFiles/DeBakeyDecal02.jpg)
 
+### Habits that lead to satisfied patients that trust you:
+1. Introduce yourself and state your role.
+2. Make no promises you can't keep. (In general, underpromising and overproducing is much preferred to the reverse). 
+3. Be comfortable saying "I don't know, but I'll find out." Then find out and follow through.
+4. Spend 50% of your interaction with a patient <b>listening</b>.
+5. Explain <b>everything</b> you are going to do.
+6. Make sure someone will call family / friend after the case.
+<br>
+<hr>
+
+
 ### Best Practices:
 
 #### For iMed Consents and LST notes:
