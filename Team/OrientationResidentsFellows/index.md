@@ -60,6 +60,7 @@ Commit to:
   <li>Contributing to leave the service -- and the call room/work room --- better than how you found it.</li>
 </ul>
 
+<hr>
 
 ### Roles, duties and expectations for Daytime/Inpatient Interns: 
 <ul>  
@@ -83,6 +84,8 @@ Notes:
 <li>You should go to the OR to talk if that is where the on-call senior or staff surgeon is.</li>
 <li>You should write OCL History and Physicals for new admissions and consults.</li>
 </ul>
+
+<hr>
   
 ### Roles, duties and expectations of the Night Float Intern: 
 <ul>
@@ -92,6 +95,7 @@ Notes:
   <li>Avoid ordering daily labs on inpatients.</li>
 </ul>
 
+<hr>
   
 ### Roles, duties and expectations for PGY-3 to -7 Senior Trainees: 
 <b>Always / every day weekday:</b>
@@ -150,6 +154,7 @@ Our [recommended list of chapters from Cameron's Current Surgical Therapy](https
 <br>
 
 <hr>
+
 ### Weekly Clinical and Educational Activities:
 <br>
 <b>Monday:</b>
@@ -199,9 +204,12 @@ Our [recommended list of chapters from Cameron's Current Surgical Therapy](https
 <br>
 <br>
 <hr>
+
 ### Uncommon but Important Scenarios: 
 <br>
+
 #### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
+
 Thank you to Drs. Jessica Rea, Zachary Chizmar and Jorge Miranda for helping develop this material.
 
 Transitioning clinical responsibilities is <i>mandatory</i> when:
