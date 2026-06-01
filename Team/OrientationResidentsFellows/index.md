@@ -95,12 +95,14 @@ Notes:
 ### Roles, duties and expectations for PGY-3 to -7 Senior Trainees: 
 <b>Always / every day weekday:</b>
 
+- Twice-daily rounds, daily notes and orders.
+  - Round with your junior resident twice a day and divide daily notes and orders equitably.
+- Teach and delegate level-appropriate responsibilities.
+- When appropriate, guide your junior resident through parts of procedures.
+- Daily list run with relevant staff surgeon, Inpatient nurse practicioner (<span>&#177;</span>social worker <span>&#177;</span>case manager <span>&#177;</span>pharmacist).
+
+- 
 <ul>
-<li>Twice-daily rounds, daily notes and orders.</li>
-  <li>Round with your junior resident twice a day and divide daily notes and orders equitably.</li>
-<li>Teach and delegate level-appropriate responsibilities.</li>
-<li>When appropriate, guide your junior resident through parts of procedures.</li>
-<li>Daily list run with relevant staff surgeon, Inpatient nurse practicioner (<span>&#177;</span>social worker <span>&#177;</span>case manager <span>&#177;</span>pharmacist).</li>
 <li>If you will be in OR or otherwise unable to do time-sensitive work, request the help of the inpatient intern assigned to you on that given day, the inpatient nurse practicioner, or the relevant staff surgeon. </li>
 <li>Write the initial post-operative orders for any operations you do as primary resident -- even if you are working with the inpatient intern.</li>
   <li>Be judicious in the use of lab testing. Follow recommendations in our protocols. If not otherwise specified, chemistries and blood counts every Monday and Thursday for patients not on hemodialysis. If on hemodialysis: chemistries daily, blood counts Monday and Friday.</li>
