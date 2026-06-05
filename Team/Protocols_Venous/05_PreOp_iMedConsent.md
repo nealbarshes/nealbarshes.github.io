@@ -1,7 +1,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
 gtag('config', 'G-YPLVGC5FDP'); </script>
 
-For varicose vein procedures, all three should be include in the consent: 
+For varicose vein procedures, **all four** should be include in the consent: 
 
 
 | possible? | number | Document Title |
