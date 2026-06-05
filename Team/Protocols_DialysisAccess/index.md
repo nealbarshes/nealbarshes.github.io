@@ -10,7 +10,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |02 | [Patient instructions, pre-op: flyer for no blood draws](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/03_PatientInstructions_NoArmBloodDraws.pdf) |
 |03 | Patient education, pre-op |
 |04 | Brillians code  |
-|05 | Pre-op checklist, additional items |
+|05 | [Pre-op: iMed consent](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/05_DialysisAccess_PreOp_iMed.md) |
 |06 | <i>Post-op orders: n/a (typically outpatient surgery only)</i> |
 |07 | Post-op problems: protocols |
 |08 | <i>Inpatient SOAP note template: n/a (typically outpatient surgery only)</i> |
