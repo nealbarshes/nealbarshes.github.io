@@ -1,20 +1,23 @@
-# U R G E N T     P R O B L E M S
+=============================================
+# Urgent Problems
+=============================================
+NOTE: All of these should be seen by the senior resident. The on-call staff surgeon should be updated in real-time as well. 
 
-### hypotension (<90mmHg systolic):
-ASSESS THE PATIENT IMMEDIATELY.
-CALL SENIOR RESIDENT AND/OR ON-CALL STAFF SURGEON.
-
-### ANY COMBINATION OF:
-sinus tachycardia (>120/min sinus)
-chest pressure or pain
-tachypnea >22/min 
-hypoxemia <92% pulse oximeter on room air
-subjective dyspnea
+### hypotension (<90mmHg systolic) or any combination of:
+- sinus tachycardia (>120/min sinus)
+- chest pressure or pain
+- tachypnea >22/min 
+- hypoxemia <92% pulse oximeter on room air
+- subjective dyspnea
 
 Order: 
-CBC
-CXR
-12-lead EKG:
+1. complete blood count (CBC) with differential: look for anemia
+2. basic metabolic profile (BMP)
+3. procalcintonin
+4. brain naturetic peptide (BNP)
+5. chest x-ray: if general anesthesia or any respiratory symptoms or signs
+6. 12-lead EKG
+7. d
 EKG for MI: ST depressions or elevations.
 EKG for PE: tachycardia; inverted T waves in V2-V4 (right heart strain pattern); ST depressions; RBBB pattern.
 
@@ -27,9 +30,9 @@ Order EKG and look for: peaked T waves, esp. V2 (sometimes higher than QRS). Inc
 
 
 
-
-# C O M M O N,   N O N - U R G E N T   P R O B L E M S
-
+=======================================================
+# Common, Non-Urgent Problems
+=======================================================
 ### hyponatremia
 Look for and treat sources of infection.
 
