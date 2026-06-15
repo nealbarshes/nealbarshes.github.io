@@ -13,7 +13,7 @@ These are our orientation materials for [general surgery residents, vascular res
 |3. [inpatient list](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ET6QmP7q2EhNgUnzmBfik5kB5QQhS9TTqMkWnsGOlgbreg?e=1E1lkR)| 
 |4. [Teams channel](https://teams.microsoft.com/l/team/19%3AUWt1rm95aZuBXSEtKOAjI2mfFsXebgf5Y7EmWnAMOmA1%40thread.tacv2/conversations?groupId=67fda0c4-93c6-4b8f-bea3-0aef3553d290&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 |5. [Qgenda](https://app.qgenda.com/landingpage/medva) for on-call schedule and contact information for _other_ teams.| 
-|6. [CPT and ICD-10 code sheet](https://nealbarshes.github.io/Team/OtherFiles/NRB_OR_CPTcodesV2-1.pdf)
+|6. [CPT and ICD-10 code sheet](https://dvagov-my.sharepoint.com/:b:/g/personal/neal_barshes_va_gov/IQCjqnwQajnnTL5e4dWpesWUAfn0XbWPC5MNdwPlRt8GaWU?e=NyXwCY)
 
 <br>
 <br>
