@@ -3,7 +3,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 
 ### This page has moved. 
 
-<meta http-equiv="refresh" content="5; url=/https://nealbarshes-protocols.github.io/" />
+<meta http-equiv="refresh" content="5; url='https://nealbarshes-protocols.github.io/'" />
 
 You will be directed in 5 seconds. If no, [click here](https://nealbarshes-protocols.github.io/).
 
