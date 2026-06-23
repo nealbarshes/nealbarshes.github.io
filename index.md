@@ -20,7 +20,7 @@ Pages providing practical guidance with rationale and evidence. Included here bo
 3. [Reconstruct, reestablishing intact epithelium over the entire extremity.](https://nealbarshes.github.io/FootHealing/)
 4. Maintain mobility  -- even if [amputation](https://nealbarshes.github.io/LegAmputation/) is performed.
 
-This is a summary[ of our current approach and evidence supporting it](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes_EvidencedManagementSummary.pdf). An overview of the foot ulcer-limb loss disease process is in our ["System of Care" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) and our ["framework" review paper](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf).  summarizes clinical outcomes in patients with foot ulcers and peripheral artery disease.
+This is a summary[ of our current approach and evidence supporting it](https://nealbarshes.github.io/main/articles/Barshes_EvidencedManagementSummary.pdf). An overview of the foot ulcer-limb loss disease process is in our ["System of Care" review paper](https://nealbarshes.github.io/main/articles/Barshes%2C%20system%20of%20care%202013.pdf) and our ["framework" review paper](https://nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf).  summarizes clinical outcomes in patients with foot ulcers and peripheral artery disease.
 
 ### Information for People with Diabetes
 [These videos](https://nealbarshes.github.io/PatientEducation/) are aimed at helping people avoid complications from diabetes- and circulation-related foot problems. They also summarize how foot ulcers are often treated and how to develop a strategy to quit smoking.
@@ -31,7 +31,7 @@ This brochure is written with plain language and no undefined technical terms. F
 
 1.  [Guard your Feet, English](https://nealbarshes.github.io/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
 2.  [Proteja los Pies, Spanish]([https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures/](https://nealbarshes.github.io/brochures/02%20Proteja%20los%20Pies%20%5BSpanish%5D.pdf)
-3.  [Bảo vệ của bạn Đôi chân, Vietnamese]([https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures](https://nealbarshes.github.io/brochures/03%20B%E1%BA%A3o%20v%E1%BB%87%20c%E1%BB%A7a%20b%E1%BA%A1n%20%C4%90%C3%B4i%20ch%C3%A2n%20%5BVietnamese%2C%20Pham%20family%5D.pdf)
+3.  [Bảo vệ của bạn Đôi chân, Vietnamese]([https://nealbarshes.github.io/blob/main/brochures](https://nealbarshes.github.io/brochures/03%20B%E1%BA%A3o%20v%E1%BB%87%20c%E1%BB%A7a%20b%E1%BA%A1n%20%C4%90%C3%B4i%20ch%C3%A2n%20%5BVietnamese%2C%20Pham%20family%5D.pdf)
 4.  [Chebe ụkwụ gị, Igbo]([https://github.com/nealbarshes/nealbarshes.github.io/blob/main/brochures](https://nealbarshes.github.io/brochures/04%20Chebe%20%E1%BB%A5kw%E1%BB%A5%20g%E1%BB%8B%20%5BIgbo%2C%20Onuoha%5D.pdf)
 5.  [Shọ Ẹsẹ Rẹ, Yoruba](https://nealbarshes.github.io/brochures/05%20Sh%E1%BB%8D%20%E1%BA%B8s%E1%BA%B9%20R%E1%BA%B9%20%5BYoruba%2C%20Vaughn%20family%5D.pdf)
 6.  [گارڈ آپ پاؤں, Urdu](https://nealbarshes.github.io/brochures/06%20Guard%20your%20Feet%20%5BUrdu%5D.pdf)
