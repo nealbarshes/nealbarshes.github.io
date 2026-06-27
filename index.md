@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Neal Barshes, MD"
+permalink: /
+author_profile: false
+classes: wide
+---
+
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
@@ -10,13 +18,7 @@
 </script>
 </head>
 
----
-layout: single
-title: "Neal Barshes, MD"
-permalink: /
-author_profile: false
-classes: wide
----
+
 
 # Neal Barshes, MD, MPH
 
