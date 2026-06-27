@@ -24,6 +24,12 @@ kramdown:
 include:
   - _pages
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-YPLVGC5FDP"
+    anonymize_ip: false
+
 defaults:
   - scope:
       path: ""
