@@ -1,7 +1,33 @@
-title: Healing Feet, Avoiding Amputation
-title_image: Guard Your Feet
-logo: /assets/FeetForGitHub2.jpg
-description: 
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "air"
+
+locale: "en-US"
+title: "Neal Barshes, MD"
+title_separator: "-"
+subtitle: "Vascular Surgery • Limb Preservation • Outcomes Research"
+name: "Neal Barshes"
+description: "Vascular surgeon focused on limb preservation, outcomes research, education, and health systems improvement."
+
+url: "https://nealbarshes.github.io"
+baseurl: ""
+repository: "nealbarshes/nealbarshes.github.io"
+
+search: true
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
