@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /Publications/
+  - title: "Maps"
+    url: /Maps/
