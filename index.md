@@ -1,26 +1,10 @@
 ---
 layout: single
-title: "Neal Barshes, MD"
+title: "Neal Barshes, MD, MPH"
 permalink: /
 author_profile: false
 classes: wide
 ---
-
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YPLVGC5FDP');
-</script>
-</head>
-
-
-
-# Neal Barshes, MD, MPH
 
 
 As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations. This contains a portfolio of resources I am sharing to help others with similar interests. 
