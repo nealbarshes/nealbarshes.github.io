@@ -10,6 +10,17 @@
 </script>
 </head>
 
+---
+layout: single
+title: "Neal Barshes, MD"
+permalink: /
+author_profile: false
+classes: wide
+---
+
+# Neal Barshes, MD, MPH
+
+
 As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations. This contains a portfolio of resources I am sharing to help others with similar interests. 
 
 ### Tenets of Treatment for Health Care Providers
