@@ -43,7 +43,7 @@ This brochure is written with plain language and no undefined technical terms. F
 12. [Protegez Vos Pieds, French](https://nealbarshes.github.io/brochures/12%20Protegez%20Vos%20Pieds%20%5BFrench%2C%20Charland%5D.pdf)
 13. [Chroń swoje stopy, Polish](https://nealbarshes.github.io/brochures/13%20Chro%C5%84%20swoje%20stopy%20%5BPolish%2C%20Starosolska%5D.pdf)
 14. [발을 보호 하세요, Korean](https://nealbarshes.github.io/brochures/14%20Guard%20your%20Feet%20%5BKorean%2C%20Lim%5D.pdf)
-15. [Gad Pye Ou, Haitian Creole]([https://nealbarshes.github.io/blob/](https://nealbarshes.github.io/brochures/15%20Gad%20Pye%20Ou%20%5BHaitian%20Kreyol%2C%20Lataillade%26Bonnegue%5D.pdf)
+15. [Gad Pye Ou, Haitian Creole](https://nealbarshes.github.io/brochures/15%20Gad%20Pye%20Ou%20%5BHaitian%20Kreyol%2C%20Lataillade%26Bonnegue%5D.pdf)
 16. [Ilaali Lugahaad, Somali](https://nealbarshes.github.io/brochures/16%20Ilaali%20Lugahaad%20%5BSomali%2C%20Roble%26Abdirahman%5D.pdf)
 17. [உங்கள் பாதங்களை காத்தக்கொள்ளுங்கள், Tamil](https://nealbarshes.github.io/brochures/17%20%E0%AE%89%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%88%20%E0%AE%95%E0%AE%BE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%5BTamil%2C%20Sharath%20family%20translation%5D.pdf)
 18. [Bewachen Sie Ihre Füße, German](https://nealbarshes.github.io/brochures/18%20Bewachen%20Sie%20Ihre%20Fu%CC%88%C3%9Fe%20%5BGerman%2C%20Brlecic%5D.pdf)
@@ -56,6 +56,7 @@ This brochure is written with plain language and no undefined technical terms. F
 25. [Guard Your Feet, Farsi/Persian](https://nealbarshes.github.io/brochures/25%20Guard%20Your%20Feet%20%20%5BFarsi%2C%20Zamani%5D.pdf)
 26. [Bantayan ang Mga Paa, Tagalog/Filipino](https://nealbarshes.github.io/brochures/26%20Bantayan%20ang%20Mga%20Paa%20%5BTagalog%2C%20Reyes%5D.pdf)
 27. [Guard Your Feet, Bengali](https://nealbarshes.github.io/brochures/27%20Guard%20Your%20Feet%20%5BBengali%2C%20Mitra%5D.pdf)
+
 
 
 
