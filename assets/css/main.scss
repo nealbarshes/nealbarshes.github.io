@@ -1,0 +1,20 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+:lang(ja) {
+  font-family: "Noto Sans JP", system-ui, sans-serif;
+}
+
+:lang(ko) {
+  font-family: "Noto Sans KR", system-ui, sans-serif;
+}
+
+:lang(zh),
+:lang(zh-CN) {
+  font-family: "Noto Sans SC", system-ui, sans-serif;
+}
