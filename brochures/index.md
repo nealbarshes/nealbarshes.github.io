@@ -1,4 +1,3 @@
-text
 ### Patient Education Brochures
 
 <i>Guard your Feet</i> is a ~500 word brochure written to help persons at risk for foot ulcers and amputation with understanding how diabetes can lead to foot ulcers and infections. It helps people reduce their amputation risk, recognize a foot infection, and develop a contingency plan if infection does develop.
