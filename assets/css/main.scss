@@ -6,6 +6,18 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+body {
+  font-family: "Manrope", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.page__title,
+.archive__item-title {
+  font-family: "Crimson Pro", Georgia, serif;
+  letter-spacing: -0.015em;
+}
+
 :lang(ja) {
   font-family: "Noto Sans JP", system-ui, sans-serif;
 }
