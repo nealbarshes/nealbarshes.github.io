@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Neal Ryan Barshes"
+classes: wide home
 header:
   overlay_filter: false
 author_profile: false
