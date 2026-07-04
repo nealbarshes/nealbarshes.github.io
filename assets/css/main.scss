@@ -51,40 +51,15 @@ body {
 
 
 .home-hero {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
   width: 100%;
   margin: 2rem auto 3rem;
   padding: 0;
+  text-align: center;
 }
 
 .home-hero__image {
   display: block;
-
-  width: min(90vw, 900px);
+  width: min(70vw, 520px);
   height: auto;
-}
-
-.home-hero__text {
-  margin-top: 2rem;
-  text-align: center;
-}
-
-.home-hero__text h1 {
-  margin: 0;
-
-  font-family: "League Spartan", sans-serif;
-  font-size: clamp(2.5rem, 6vw, 4.5rem);
-  font-weight: 700;
-  letter-spacing: -0.03em;
-}
-
-.home-hero__text p {
-  margin-top: .75rem;
-
-  font-family: "Source Serif 4", serif;
-  font-size: clamp(1.1rem, 2vw, 1.5rem);
-  font-weight: 300;
+  margin: 0 auto;
 }
