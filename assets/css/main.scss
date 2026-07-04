@@ -71,13 +71,13 @@ body {
 }
 
 .home-hero__bio {
-  max-width: 520px;
-  margin: 0;
+  max-width: 18ch;
+
   font-family: "Raleway", system-ui, sans-serif;
-  font-size: clamp(2rem, 4vw, 4rem);
-  font-weight: 500;
-  line-height: 1.05;
-  letter-spacing: -0.035em;
+  font-size: clamp(4.8rem, 8vw, 8rem);
+  font-weight: 300;
+  line-height: 0.92;
+  letter-spacing: -0.04em;
   color: #20262e;
 }
 
@@ -92,9 +92,13 @@ body {
     width: min(76vw, 300px);
   }
 
+@media (max-width: 700px) {
   .home-hero__bio {
-    max-width: 92vw;
+    max-width: 90vw;
     text-align: center;
-    font-size: clamp(1.9rem, 9vw, 3.2rem);
+
+    font-size: clamp(3rem, 12vw, 5rem);
+    line-height: 0.95;
   }
+}
 }
