@@ -5,9 +5,10 @@ permalink: /
 author_profile: false
 classes: wide
 ---
-<section class="home-hero_inner">
-  <div class="home-hero__image"></div>
-  <div class="home-hero__text">
+<section class="home-hero">
+  <img src="/assets/hero-knights-desktop.png"
+       alt="Medieval surgeons"
+       class="home-hero__image">
     <h1>Neal Ryan Barshes,</h1>
     <h1>MD, MPH</h1>
     <p>Vascular Surgery · Author · Educator</p>
