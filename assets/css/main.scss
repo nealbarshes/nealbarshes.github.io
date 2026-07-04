@@ -54,20 +54,24 @@ body {
   width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
-
-  min-height: 34vh;
-  padding: 3rem 6vw;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 4vw;
-
+  padding: 0;
   background: linear-gradient(135deg, #173A62 0%, #4F79A8 72%, #B68A4A 100%);
   overflow: hidden;
 }
 
+.home-hero__inner {
+  min-height: 36vh;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 3rem 5vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4vw;
+}
+
 .home-hero__image {
-  flex: 0 1 52%;
+  flex: 0 1 58%;
   min-height: 800px;
   background-image: url("http://nealbarshes.github.io/assets/HeroKnights1500px.png");
   background-repeat: no-repeat;
@@ -76,7 +80,7 @@ body {
 }
 
 .home-hero__text {
-  flex: 0 1 40%;
+  flex: 0 1 38%;
   color: #fff;
   text-align: left;
 }
@@ -84,7 +88,7 @@ body {
 .home-hero__text h1 {
   margin: 0;
   font-family: "League Spartan", system-ui, sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(2.4rem, 6vw, 5rem);
   letter-spacing: -0.035em;
   line-height: 0.9;
@@ -98,7 +102,7 @@ body {
 }
 
 @media (max-width: 700px) {
-  .home-hero {
+  .home-hero_inner {
     min-height: 52vh;
     padding: 2rem 1.5rem;
     flex-direction: column;
