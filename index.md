@@ -7,13 +7,18 @@ header:
 author_profile: false
 classes: wide
 ---
+
 <section class="home-hero">
   <img src="/assets/FootGoldOnlyNoOutlineShadow.png"
        alt="Keep the Foot emblem"
        class="home-hero__image">
+
+  <p class="home-hero__bio">
+    As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations.
+  </p>
 </section>
     
-As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations. 
+
 
 # Tenets of Treatment
 Pages providing practical guidance with rationale and evidence. Included here both for routine clinical care, and also with the hope that consistent, evidence-based management might help decrease the [racial and ethnic disparities in leg amputation rates](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20TX%20disparities%20NIHMS.pdf) in Texas and elsewhere. 
