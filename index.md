@@ -1,20 +1,17 @@
 ---
 layout: single
-title: "Neal Barshes, MD, MPH"
-permalink: /
+title: "Neal Ryan Barshes"
+header:
+  overlay_filter: false
 author_profile: false
 classes: wide
 ---
 <section class="home-hero">
-  <img src="https://nealbarshes.github.io/assets/FootGoldOnlyNoOutlineShadow.png"
-       alt="Keep the Foot"
+  <img src="/assets/FootGoldOnlyNoOutlineShadow.png"
+       alt="Keep the Foot emblem"
        class="home-hero__image">
-    <h1>Neal Ryan Barshes,</h1>
-    <h1>MD, MPH</h1>
-    <p>Vascular Surgery · Author · Educator</p>
-  </div>
 </section>
-
+    
 As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations. 
 
 # Tenets of Treatment
