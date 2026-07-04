@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Neal Ryan Barshes"
+title: ""
 classes: wide home
 header:
   overlay_filter: false
