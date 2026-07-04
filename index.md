@@ -7,9 +7,8 @@ classes: wide
 ---
 <section class="home-hero">
   <div class="home-hero__image"></div>
-
   <div class="home-hero__text">
-    <h1>Neal Ryan Barshes, MD, MPH</h1>
+    <h2>Neal Ryan Barshes, MD, MPH</h2>
     <p>Vascular Surgery · Author · Educator</p>
   </div>
 </section>
