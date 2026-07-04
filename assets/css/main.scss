@@ -54,25 +54,23 @@ body {
   width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
-  padding: 0;
   background: linear-gradient(135deg, #173A62 0%, #4F79A8 72%, #B68A4A 100%);
   overflow: hidden;
 }
 
 .home-hero__inner {
-  min-height: 36vh;
+  min-height: 38vh;
   max-width: 1400px;
   margin: 0 auto;
-  padding: 3rem 5vw;
+  padding: 2rem 6vw;
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 4vw;
 }
 
 .home-hero__image {
-  flex: 0 1 58%;
-  min-height: 800px;
+  flex: 0 1 50%;
+  min-height: 320px;
   background-image: url("http://nealbarshes.github.io/assets/HeroKnights1500px.png");
   background-repeat: no-repeat;
   background-position: center left;
@@ -80,8 +78,8 @@ body {
 }
 
 .home-hero__text {
-  flex: 0 1 38%;
-  color: #fff;
+  flex: 0 1 42%;
+  color: white;
   text-align: left;
 }
 
