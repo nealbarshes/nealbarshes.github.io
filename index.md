@@ -6,8 +6,8 @@ author_profile: false
 classes: wide
 ---
 <section class="home-hero">
-  <img src="/assets/hero-knights-desktop.png"
-       alt="Medieval surgeons"
+  <img src="https://nealbarshes.github.io/assets/FootBWShadow.png"
+       alt="Keep the Foot"
        class="home-hero__image">
     <h1>Neal Ryan Barshes,</h1>
     <h1>MD, MPH</h1>
