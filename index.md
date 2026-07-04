@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 <section class="home-hero">
-  <img src="https://nealbarshes.github.io/assets/FootBWShadow.png"
+  <img src="https://nealbarshes.github.io/assets/FootGoldOnlyNoOutlineShadow.png"
        alt="Keep the Foot"
        class="home-hero__image">
     <h1>Neal Ryan Barshes,</h1>
