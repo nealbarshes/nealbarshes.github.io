@@ -51,80 +51,40 @@ body {
 
 
 .home-hero {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  background: linear-gradient(135deg, #173A62 0%, #4F79A8 72%, #B68A4A 100%);
-  overflow: hidden;
-}
-
-.home-hero__inner {
-  min-height: 38vh;
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 2rem 6vw;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 4vw;
+
+  width: 100%;
+  margin: 2rem auto 3rem;
+  padding: 0;
 }
 
 .home-hero__image {
-  flex: 0 1 50%;
-  min-height: 320px;
-  background-image: url("http://nealbarshes.github.io/assets/HeroKnights1500px.png");
-  background-repeat: no-repeat;
-  background-position: center left;
-  background-size: contain;
+  display: block;
+
+  width: min(90vw, 900px);
+  height: auto;
 }
 
 .home-hero__text {
-  flex: 0 1 42%;
-  color: white;
-  text-align: left;
+  margin-top: 2rem;
+  text-align: center;
 }
 
 .home-hero__text h1 {
   margin: 0;
-  font-family: "League Spartan", system-ui, sans-serif;
-  font-weight: 600;
-  font-size: clamp(2.4rem, 6vw, 5rem);
-  letter-spacing: -0.035em;
-  line-height: 0.9;
+
+  font-family: "League Spartan", sans-serif;
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
 }
 
 .home-hero__text p {
-  margin-top: 0.75rem;
-  font-family: "Source Serif 4", Georgia, serif;
+  margin-top: .75rem;
+
+  font-family: "Source Serif 4", serif;
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
   font-weight: 300;
-  font-size: clamp(1rem, 2vw, 1.4rem);
-}
-
-@media (max-width: 700px) {
-  .home-hero_inner {
-    min-height: 52vh;
-    padding: 2rem 1.5rem;
-    flex-direction: column;
-    justify-content: center;
-    gap: 1rem;
-    background: linear-gradient(180deg, #173A62 0%, #4F79A8 70%, #B68A4A 100%);
-  }
-
-  .home-hero__image {
-    width: 100%;
-    flex: none;
-    min-height: 300px;
-    background-image: url("http://nealbarshes.github.io/assets/HeroKnights1500.png");
-    background-position: center;
-    background-size: contain;
-  }
-
-  .home-hero__text {
-    width: 100%;
-    flex: none;
-    text-align: center;
-  }
-
-  .home-hero__text h1 {
-    font-size: clamp(2.2rem, 12vw, 3.6rem);
-  }
 }
