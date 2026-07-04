@@ -5,7 +5,14 @@ permalink: /
 author_profile: false
 classes: wide
 ---
+<section class="home-hero">
+  <div class="home-hero__image"></div>
 
+  <div class="home-hero__text">
+    <h1>Neal Ryan Barshes, MD, MPH</h1>
+    <p>Vascular Surgery · Author · Educator</p>
+  </div>
+</section>
 
 As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations. 
 
