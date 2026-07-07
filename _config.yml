@@ -2,10 +2,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin: "dirt"
 
 locale: "en-US"
-title: "Neal Barshes, MD"
+title: "Neal Ryan Barshes"
 title_separator: "-"
-subtitle: "Vascular Surgery • Limb Preservation • Outcomes Research"
-name: "Neal Barshes"
+subtitle: "Vascular Surgeon • Educator • Author"
+name: "Neal Ryan Barshes"
 description: "Vascular surgeon focused on limb preservation, outcomes research, education, and health systems improvement."
 
 url: "https://nealbarshes.github.io"
