@@ -8,14 +8,15 @@ author_profile: false
 classes: wide
 ---
 
-<section class="home-hero">
-  <img src="/assets/FootGoldOnlyNoOutlineShadow.png"
-       alt="Keep the Foot emblem"
-       class="home-hero__image">
-
-  <p class="home-hero__bio">
-    As an academic vascular surgeon, I work to develop cost-effective, resilient, and equitable strategies to prevent leg amputations.
+<section class="home-hero-text">
+  <p>
+    Developing  cost-effective, resilient, and equitable strategies to prevent leg amputations.
   </p>
+</section>
+
+<section class="home-emblem">
+  <img src="/assets/FootGoldOnlyNoOutlineShadow.png"
+       alt="Keep the Foot emblem">
 </section>
     
 
