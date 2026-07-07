@@ -1,11 +1,11 @@
 ---
 layout: single
 title: ""
+permalink: /
+author_profile: false
 classes: wide home
 header:
   overlay_filter: false
-author_profile: false
-classes: wide
 ---
 
 <section class="home-hero-text">
