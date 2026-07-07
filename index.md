@@ -14,10 +14,6 @@ classes: wide
   </p>
 </section>
 
-<section class="home-emblem">
-  <img src="/assets/FootGoldOnlyNoOutlineShadow.png"
-       alt="Keep the Foot emblem">
-</section>
     
 
 
