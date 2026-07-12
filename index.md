@@ -10,7 +10,7 @@ header:
 
 <section class="home-hero-text">
   <p>
-    Developing cost&#x2011;effective, resilient, and equitable strategies to prevent leg amputations.
+    Developing cost&#x2011;effective, resilient, and equitable strategies to prevent leg<span style="white-space: nowrap;">amputations</span>.
   </p>
 </section>
 
