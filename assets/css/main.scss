@@ -6,17 +6,30 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+
+/* Body typography */
+
 body {
   font-family: "Source Serif 4", Georgia, serif;
   font-weight: 300;
+  letter-spacing: -0.005em;
   font-variant-ligatures: common-ligatures;
   font-feature-settings: "liga" 1, "clig" 1;
 }
 
-h1, h2, h3, h4, h5, h6,
+
+/* Headings and masthead typography */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 .site-title {
   font-size: 1.35em;
 }
+
 .page__title,
 .archive__item-title,
 .masthead__menu-item {
@@ -36,9 +49,8 @@ h1, h2, h3, h4, h5, h6,
   display: none;
 }
 
-body {
-  letter-spacing: -0.005em;
-}
+
+/* Language-specific fonts */
 
 :lang(ja) {
   font-family: "Noto Sans JP", system-ui, sans-serif;
@@ -54,6 +66,8 @@ body {
 }
 
 
+/* Desktop page layout */
+
 .layout--single.wide .page {
   float: none;
   width: 100%;
@@ -68,25 +82,16 @@ body {
 }
 
 
+/* Hero layout */
+
 .home-hero {
   width: 100%;
   margin: 0;
   padding: 0;
   display: flex;
-  align-items: left;
-  justify-content: left;
+  align-items: flex-start;
+  justify-content: flex-start;
   gap: clamp(2rem, 6vw, 5rem);
-}
-
-.home-hero-text p {
-  margin: 0;
-  max-width: 20ch;
-  font-family: "Source Serif 4", serif;
-  font-weight: 400;
-  font-size: clamp(3rem, 7vw, 4rem);
-  line-height: 0.98;
-  letter-spacing: -0.025em;
-  color: #111;
 }
 
 .home-hero-text {
@@ -95,6 +100,20 @@ body {
   padding: 0 1.25rem;
 }
 
+.home-hero-text p {
+  max-width: 20ch;
+  margin: 0;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 400;
+  font-size: clamp(3rem, 7vw, 4rem);
+  line-height: 0.98;
+  letter-spacing: -0.025em;
+  color: #111;
+}
+
+
+/* Mobile layout */
+
 @media (max-width: 700px) {
   .home-hero {
     flex-direction: column;
@@ -102,9 +121,15 @@ body {
     margin: 1.5rem auto 3rem;
   }
 
-  .home-hero__text {
+  .home-hero-text {
     max-width: 90vw;
+    margin: 3rem auto;
+    padding: 0;
     text-align: center;
+  }
+
+  .home-hero-text p {
+    max-width: none;
     font-size: clamp(2rem, 6vw, 3rem);
     line-height: 0.95;
   }
