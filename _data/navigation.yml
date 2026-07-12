@@ -1,7 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Publications"
-    url: /Publications/
-  - title: "Maps"
-    url: /Maps/
+  - title: "Tutorials"
+    url: /Tutorials/
+  - title: "Works"
+    url: /Works/
+- title: "System of Care"
+    url: /System/
+- title: "About"
+    url: /about.md
