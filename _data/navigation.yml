@@ -5,7 +5,7 @@ main:
     url: /Tutorials/
   - title: "Works"
     url: /Works/
-- title: "System of Care"
+  - title: "System of Care"
     url: /System/
-- title: "About"
+  - title: "About"
     url: "/about.md"
