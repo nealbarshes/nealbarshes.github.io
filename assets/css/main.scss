@@ -7,6 +7,10 @@
 @import "minimal-mistakes";
 
 
+/* =========================================================
+   TYPOGRAPHY
+   ========================================================= */
+
 /* Body typography */
 
 body {
@@ -49,8 +53,22 @@ h6,
   display: none;
 }
 
+/* Language-specific fonts */
 
+:lang(ja) {
+  font-family: "Noto Sans JP", system-ui, sans-serif;
+}
+:lang(ko) {
+  font-family: "Noto Sans KR", system-ui, sans-serif;
+}
+:lang(zh),
+:lang(zh-CN) {
+  font-family: "Noto Sans SC", system-ui, sans-serif;
+}
 
+/* =========================================================
+   COLOR PALETTE
+   ========================================================= */
 /* Colors */
 
 html,
@@ -66,18 +84,12 @@ body,
 }
 
 
-/* Language-specific fonts */
 
-:lang(ja) {
-  font-family: "Noto Sans JP", system-ui, sans-serif;
-}
-:lang(ko) {
-  font-family: "Noto Sans KR", system-ui, sans-serif;
-}
-:lang(zh),
-:lang(zh-CN) {
-  font-family: "Noto Sans SC", system-ui, sans-serif;
-}
+
+
+/* =========================================================
+   RESPONSIVE LAYOUTS
+   ========================================================= */
 
 
 /* Desktop page layout */
