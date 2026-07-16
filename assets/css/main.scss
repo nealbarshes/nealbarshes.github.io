@@ -50,16 +50,28 @@ h6,
 }
 
 
+
+/* Colors */
+
+html,
+body,
+.initial-content,
+.page,
+.page__inner-wrap,
+.page__content {
+  background-color: #F8F7F3;
+}
+
+
+
 /* Language-specific fonts */
 
 :lang(ja) {
   font-family: "Noto Sans JP", system-ui, sans-serif;
 }
-
 :lang(ko) {
   font-family: "Noto Sans KR", system-ui, sans-serif;
 }
-
 :lang(zh),
 :lang(zh-CN) {
   font-family: "Noto Sans SC", system-ui, sans-serif;
