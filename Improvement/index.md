@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "System of Care"
-permalink: /system/
+permalink: /Improvement/
 author_profile: false
 classes: wide tufte-page
 ---
