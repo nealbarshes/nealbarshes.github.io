@@ -266,10 +266,6 @@ body,
    HOMEPAGE SECTION LINKS
    ========================================================= */
 
-// Desktop:
-// Left-align the section links and place them on a secondary,
-// slightly indented vertical axis beneath the hero.
-
 .home-sections {
   width: 100%;
   max-width: 980px;
@@ -282,7 +278,7 @@ body,
   margin: 1.1rem 0;
   padding: 0;
 
-  // Minimal Mistakes normally places a thin rule under h2 headings.
+  // Remove Minimal Mistakes h2 rules.
   border: 0;
   border-bottom: 0;
 
@@ -306,13 +302,37 @@ body,
 
 
 /* =========================================================
+   HOMEPAGE HERO
+   ========================================================= */
+
+.home-hero-text {
+  width: 100%;
+  max-width: none;
+  margin: 4rem 0 3rem;
+  padding: 0;
+  text-align: left;
+}
+
+.home-hero-text p {
+  max-width: 20ch;
+  margin: 0;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 400;
+
+  // Approximately 10–15% larger than the prior desktop sizing.
+  font-size: clamp(3.35rem, 7.8vw, 4.5rem);
+
+  line-height: 0.98;
+  letter-spacing: -0.025em;
+  color: #111;
+}
+
+
+/* =========================================================
    HOMEPAGE — MOBILE
    ========================================================= */
 
 @media (max-width: 700px) {
-
-  // Keep the section links left-aligned on mobile,
-  // but use a smaller and proportional inset.
 
   .home-sections {
     width: auto;
@@ -333,18 +353,20 @@ body,
     line-height: 1;
   }
 
-  // Preserve the centered mobile hero while making it slightly larger.
-
   .home-hero-text {
-    max-width: 90vw;
-    margin: 3rem auto;
+    max-width: none;
+    margin: 3rem 1.25rem;
     padding: 0;
-    text-align: center;
+    text-align: left;
   }
 
   .home-hero-text p {
-    max-width: none;
-    font-size: clamp(2.4rem, 9vw, 3.4rem);
+    max-width: 20ch;
+
+    // Approximately 10–15% larger than the prior mobile sizing.
+    font-size: clamp(2.7rem, 10vw, 3.8rem);
+
     line-height: 0.96;
   }
 }
+
