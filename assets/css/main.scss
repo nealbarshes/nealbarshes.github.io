@@ -3,15 +3,48 @@
 
 @charset "utf-8";
 
+/* =========================================================
+   MINIMAL MISTAKES THEME
+   ========================================================= */
+
+// Load the selected Minimal Mistakes skin first.
+// Load the core theme second.
+// All custom rules below these imports override the theme.
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
 
 /* =========================================================
-   TYPOGRAPHY
+   COLOR PALETTE
    ========================================================= */
 
-/* Body typography */
+// Paper background:   #F8F7F3
+// Primary text:       #1A1A1A
+// Secondary text:     #55524D
+// Subtle border:      #D8D5CD
+// Hero text:          #111111
+
+html,
+body,
+.initial-content,
+.page,
+.page__inner-wrap,
+.page__content {
+  background-color: #f8f7f3;
+}
+
+body {
+  color: #1a1a1a;
+}
+
+
+/* =========================================================
+   GLOBAL TYPOGRAPHY
+   ========================================================= */
+
+// Source Serif 4 is used for body text.
+// League Spartan is used for headings, navigation, and titles.
 
 body {
   font-family: "Source Serif 4", Georgia, serif;
@@ -22,7 +55,8 @@ body {
 }
 
 
-/* Headings and masthead typography */
+// Preserve the heading-size hierarchy supplied by Minimal Mistakes.
+// Only the font family, weight, and spacing are changed here.
 
 h1,
 h2,
@@ -30,144 +64,210 @@ h3,
 h4,
 h5,
 h6,
-.site-title {
-  font-size: 1.35em;
+.page__title,
+.archive__item-title,
+.site-title,
+.masthead__menu-item {
+  font-family: "League Spartan", system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
 }
 
 .page__title,
 .archive__item-title,
 .masthead__menu-item {
-  font-family: "League Spartan", system-ui, sans-serif;
   font-weight: 400;
-  letter-spacing: -0.02em;
 }
 
 .site-title,
 .page__title {
   font-weight: 700;
-  font-size: 1.5em;
   letter-spacing: -0.025em;
 }
+
+
+// The homepage uses its custom hero instead of the standard page title.
 
 .home .page__title {
   display: none;
 }
 
-/* Language-specific fonts */
+
+/* =========================================================
+   LANGUAGE-SPECIFIC TYPOGRAPHY
+   ========================================================= */
 
 :lang(ja) {
   font-family: "Noto Sans JP", system-ui, sans-serif;
 }
+
 :lang(ko) {
   font-family: "Noto Sans KR", system-ui, sans-serif;
 }
+
 :lang(zh),
 :lang(zh-CN) {
   font-family: "Noto Sans SC", system-ui, sans-serif;
 }
 
-/* =========================================================
-   COLOR PALETTE
-   ========================================================= */
-/* Colors */
-
-html,
-body,
-.initial-content,
-.page,
-.page__inner-wrap,
-.page__content {
-  background-color: #F8F7F3;
-}
-.page__footer {
-  background-color: #F8F7F3;
-}
-
-
-
-
 
 /* =========================================================
-   RESPONSIVE LAYOUTS
+   WIDE SINGLE-PAGE LAYOUT
    ========================================================= */
 
-
-/* Desktop page layout */
+// Used by pages whose front matter contains:
+// classes: wide
 
 .layout--single.wide .page {
   float: none;
   width: 100%;
-  padding-left: 0;
   padding-right: 0;
+  padding-left: 0;
 }
 
 .layout--single.wide .page__inner-wrap {
   max-width: 980px;
-  margin-left: auto;
   margin-right: auto;
+  margin-left: auto;
 }
 
 
-/* Hero layout */
+/* =========================================================
+   HOMEPAGE HERO
+   ========================================================= */
 
-.home-hero {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: clamp(2rem, 6vw, 5rem);
-}
+// The hero is flush with the normal page-content axis.
+// It has no additional horizontal margin or padding.
 
 .home-hero-text {
   width: 100%;
   max-width: none;
   margin: 4rem 0 3rem;
   padding: 0;
+  text-align: left;
 }
 
 .home-hero-text p {
   max-width: 20ch;
   margin: 0;
+  padding: 0;
+
   font-family: "Source Serif 4", Georgia, serif;
   font-weight: 400;
-  font-size: clamp(3rem, 7vw, 4rem);
+  font-size: clamp(2.7rem, 6.25vw, 3.6rem);
   line-height: 0.98;
   letter-spacing: -0.025em;
   color: #111;
 }
 
 
-/* Mobile layout */
+/* =========================================================
+   HOMEPAGE SECTION LINKS
+   ========================================================= */
+
+// The homepage links sit on a secondary vertical axis,
+// indented relative to the hero statement.
+
+.home-sections {
+  width: 100%;
+  max-width: 980px;
+  margin: 4rem auto 6rem;
+  padding-left: clamp(3rem, 8vw, 7rem);
+  text-align: left;
+}
+
+.home-sections h2 {
+  margin: 1.1rem 0;
+  padding: 0;
+
+  // Remove the default Minimal Mistakes rule below h2 headings.
+
+  border: 0;
+  border-bottom: 0;
+
+  font-family: "League Spartan", system-ui, sans-serif;
+  font-weight: 800;
+  font-size: clamp(2.35rem, 4.1vw, 3.55rem);
+  line-height: 1;
+  letter-spacing: -0.025em;
+}
+
+.home-sections a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.home-sections a:hover,
+.home-sections a:focus {
+  text-decoration: underline;
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.14em;
+}
+
+
+/* =========================================================
+   HOMEPAGE — MOBILE
+   ========================================================= */
 
 @media (max-width: 700px) {
-  .home-hero {
-    flex-direction: column;
-    gap: 1.5rem;
-    margin: 1.5rem auto 3rem;
-  }
+
+  // The hero remains left-aligned and receives no extra indent.
 
   .home-hero-text {
-    max-width: 90vw;
-    margin: 3rem auto;
+    width: 100%;
+    max-width: none;
+    margin: 3rem 0;
     padding: 0;
-    text-align: center;
+    text-align: left;
   }
 
   .home-hero-text p {
+    max-width: 20ch;
+    margin: 0;
+    padding: 0;
+
+    font-size: clamp(2.7rem, 10vw, 3.8rem);
+    line-height: 0.96;
+  }
+
+
+  // The section links retain a modest mobile indent.
+
+  .home-sections {
+    width: auto;
     max-width: none;
-    font-size: clamp(2rem, 6vw, 3rem);
-    line-height: 0.95;
+    margin: 3rem 1.25rem 5rem;
+    padding-left: 1rem;
+    text-align: left;
+  }
+
+  .home-sections h2 {
+    margin: 1rem 0;
+    padding: 0;
+
+    border: 0;
+    border-bottom: 0;
+
+    font-weight: 800;
+    font-size: clamp(1.7rem, 7vw, 2.25rem);
+    line-height: 1;
   }
 }
 
 
 /* =========================================================
-   TUFTE-STYLE PAGES
+   TUFTE-STYLE PAGE LAYOUT
    ========================================================= */
 
-// This layout applies only to pages using:
+// Applies only to pages whose front matter contains:
 // classes: wide tufte-page
 
 .tufte-page .page__inner-wrap {
@@ -191,30 +291,38 @@ body,
    TUFTE SIDENOTES — DESKTOP
    ========================================================= */
 
-// Hide the checkbox itself on all screen sizes.
+// Hide the checkbox input.
+// A label that also has .system-sidenote-number is made
+// visible again by the more specific rule below.
 
 .system-margin-toggle {
   display: none;
 }
 
-// Superscript number in the main text.
+
+// Superscript reference number in the body text.
 
 .system-sidenote-number {
   display: inline;
   position: relative;
   top: -0.35rem;
+
   margin-left: 0.1rem;
+
   font-family: "League Spartan", system-ui, sans-serif;
   font-size: 0.7em;
   line-height: 1;
+
   cursor: pointer;
 }
+
 
 // Place the note in the right margin on wider screens.
 
 .system-sidenote {
   float: right;
   clear: right;
+
   width: 45%;
   margin-right: -60%;
   margin-bottom: 1.5rem;
@@ -235,23 +343,28 @@ body,
     width: 100%;
   }
 
-  // The sidenote starts hidden on a small screen.
+
+  // Hide the sidenote until the reader taps its number.
 
   .system-sidenote {
     display: none;
     float: none;
     clear: both;
+
     width: auto;
     margin: 1rem 0 1.5rem;
     padding: 0.85rem 1rem;
 
     font-size: 0.9rem;
     line-height: 1.5;
+    color: #55524d;
+
     border-left: 2px solid #d8d5cd;
   }
 
-  // Tapping the superscript checks the invisible checkbox.
-  // The adjacent sidenote then becomes visible.
+
+  // The sidenote must immediately follow the checkbox
+  // in the page markup for this selector to work.
 
   .system-margin-toggle:checked + .system-sidenote {
     display: block;
@@ -262,111 +375,21 @@ body,
   }
 }
 
-/* =========================================================
-   HOMEPAGE SECTION LINKS
-   ========================================================= */
-
-.home-sections {
-  width: 100%;
-  max-width: 980px;
-  margin: 4rem auto 6rem;
-  padding-left: clamp(3rem, 8vw, 7rem);
-  text-align: left;
-}
-
-.home-sections h2 {
-  margin: 1.1rem 0;
-  padding: 0;
-
-  // Remove Minimal Mistakes h2 rules.
-  border: 0;
-  border-bottom: 0;
-
-  font-family: "League Spartan", system-ui, sans-serif;
-  font-weight: 700;
-  font-size: clamp(2rem, 3.5vw, 3rem);
-  line-height: 1;
-}
-
-.home-sections a {
-  color: #1a1a1a;
-  text-decoration: none;
-}
-
-.home-sections a:hover,
-.home-sections a:focus {
-  text-decoration: underline;
-  text-decoration-thickness: 0.06em;
-  text-underline-offset: 0.14em;
-}
-
 
 /* =========================================================
-   HOMEPAGE HERO
+   FOOTER
    ========================================================= */
 
-.home-hero-text {
-  width: 100%;
-  max-width: none;
-  margin: 4rem 0 3rem;
-  padding: 0;
-  text-align: left;
+// Keep the footer visually continuous with the paper background.
+// The top rule separates it without creating a colored panel.
+
+.page__footer {
+  background-color: #f8f7f3;
+  color: #55524d;
+  border-top: 1px solid #d8d5cd;
 }
 
-.home-hero-text p {
-  max-width: 20ch;
-  margin: 0;
-  font-family: "Source Serif 4", Georgia, serif;
-  font-weight: 400;
-
-  // Approximately 10–15% larger than the prior desktop sizing.
-  font-size: clamp(3.35rem, 7.8vw, 4.5rem);
-
-  line-height: 0.98;
-  letter-spacing: -0.025em;
-  color: #111;
+.page__footer a,
+.page__footer-copyright {
+  color: #55524d;
 }
-
-
-/* =========================================================
-   HOMEPAGE — MOBILE
-   ========================================================= */
-
-@media (max-width: 700px) {
-
-  .home-sections {
-    width: auto;
-    max-width: none;
-    margin: 3rem 1.25rem 5rem;
-    padding-left: 1rem;
-    text-align: left;
-  }
-
-  .home-sections h2 {
-    margin: 1rem 0;
-    padding: 0;
-    border: 0;
-    border-bottom: 0;
-
-    font-weight: 700;
-    font-size: clamp(1.7rem, 7vw, 2.25rem);
-    line-height: 1;
-  }
-
-  .home-hero-text {
-    max-width: none;
-    margin: 3rem 1.25rem;
-    padding: 0;
-    text-align: left;
-  }
-
-  .home-hero-text p {
-    max-width: 20ch;
-
-    // Approximately 10–15% larger than the prior mobile sizing.
-    font-size: clamp(2.7rem, 10vw, 3.8rem);
-
-    line-height: 0.96;
-  }
-}
-
