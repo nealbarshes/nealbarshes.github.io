@@ -20,6 +20,6 @@ header:
   <h2><a href="/Tutorials/">Tutorials</a></h2>
   <h2><a href="/Works/">Works</a></h2>
   <h2><a href="/System/">System of Care</a></h2>
-  <h2><a href="/Brochure/">Guides</a></h2>
+  <h2><a href="/Brochure/">Brochure</a></h2>
   <h2><a href="/About/">About</a></h2>
 </nav>
