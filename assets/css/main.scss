@@ -261,3 +261,30 @@ body,
     padding: 0.25rem;
   }
 }
+
+/* =========================================================
+   HOMEPAGE SECTION LINKS
+   ========================================================= */
+
+.home-sections {
+  width: 100%;
+  margin: 4rem auto 6rem;
+  text-align: center;
+}
+
+.home-sections h2 {
+  margin: 1.25rem 0;
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1;
+}
+
+.home-sections a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.home-sections a:hover,
+.home-sections a:focus {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
