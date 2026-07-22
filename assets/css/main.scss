@@ -3,13 +3,13 @@
 
 @charset "utf-8";
 
+
 /* =========================================================
    MINIMAL MISTAKES THEME
    ========================================================= */
 
-// Load the selected Minimal Mistakes skin first.
-// Load the core theme second.
-// All custom rules below these imports override the theme.
+// Load the selected skin first and the core theme second.
+// All custom rules below these imports override theme defaults.
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
@@ -55,8 +55,8 @@ body {
 }
 
 
-// Preserve the heading-size hierarchy supplied by Minimal Mistakes.
-// Only the font family, weight, and spacing are changed here.
+// Preserve the heading-size hierarchy supplied by the theme.
+// These rules change only the font family, weight, and tracking.
 
 h1,
 h2,
@@ -94,7 +94,7 @@ h6 {
 }
 
 
-// The homepage uses its custom hero instead of the standard page title.
+// The homepage uses its custom hero rather than a standard page title.
 
 .home .page__title {
   display: none;
@@ -123,7 +123,7 @@ h6 {
    WIDE SINGLE-PAGE LAYOUT
    ========================================================= */
 
-// Used by pages whose front matter contains:
+// Applies to pages whose front matter contains:
 // classes: wide
 
 .layout--single.wide .page {
@@ -144,8 +144,8 @@ h6 {
    HOMEPAGE HERO
    ========================================================= */
 
-// The hero is flush with the normal page-content axis.
-// It has no additional horizontal margin or padding.
+// The hero follows the normal page-content axis.
+// It adds no horizontal margin or padding of its own.
 
 .home-hero-text {
   width: 100%;
@@ -170,104 +170,11 @@ h6 {
 
 
 /* =========================================================
-   HOMEPAGE SECTION LINKS
-   ========================================================= */
-
-// The homepage links sit on a secondary vertical axis,
-// indented relative to the hero statement.
-
-.home-sections {
-  width: 100%;
-  max-width: 980px;
-  margin: 4rem auto 6rem;
-  padding-left: clamp(3rem, 8vw, 7rem);
-  text-align: left;
-}
-
-.home-sections h2 {
-  margin: 1.1rem 0;
-  padding: 0;
-
-  // Remove the default Minimal Mistakes rule below h2 headings.
-
-  border: 0;
-  border-bottom: 0;
-
-  font-family: "League Spartan", system-ui, sans-serif;
-  font-weight: 800;
-  font-size: clamp(2.35rem, 4.1vw, 3.55rem);
-  line-height: 1;
-  letter-spacing: -0.025em;
-}
-
-.home-sections a {
-  color: #1a1a1a;
-  text-decoration: none;
-}
-
-.home-sections a:hover,
-.home-sections a:focus {
-  text-decoration: underline;
-  text-decoration-thickness: 0.06em;
-  text-underline-offset: 0.14em;
-}
-
-
-/* =========================================================
-   HOMEPAGE — MOBILE
-   ========================================================= */
-
-@media (max-width: 700px) {
-
-  // The hero remains left-aligned and receives no extra indent.
-
-  .home-hero-text {
-    width: 100%;
-    max-width: none;
-    margin: 3rem 0;
-    padding: 0;
-    text-align: left;
-  }
-
-  .home-hero-text p {
-    max-width: 20ch;
-    margin: 0;
-    padding: 0;
-
-    font-size: clamp(2.7rem, 10vw, 3.8rem);
-    line-height: 0.96;
-  }
-
-
-  // The section links retain a modest mobile indent.
-
-  .home-sections {
-    width: auto;
-    max-width: none;
-    margin: 3rem 1.25rem 5rem;
-    padding-left: 1rem;
-    text-align: left;
-  }
-
-  .home-sections h2 {
-    margin: 1rem 0;
-    padding: 0;
-
-    border: 0;
-    border-bottom: 0;
-
-    font-weight: 800;
-    font-size: clamp(1.7rem, 7vw, 2.25rem);
-    line-height: 1;
-  }
-}
-
-
-/* =========================================================
    HOMEPAGE INDEX: LINKS + IMAGE
    ========================================================= */
 
-// Mobile-first default: stack the image below the links.
+// Mobile-first layout:
+// The links appear first and the image follows beneath them.
 
 .home-index-layout {
   display: block;
@@ -286,6 +193,8 @@ h6 {
   margin: 1rem 0;
   padding: 0;
 
+  // Remove the standard Minimal Mistakes h2 rule.
+
   border: 0;
   border-bottom: 0;
 
@@ -302,7 +211,7 @@ h6 {
 }
 
 .home-sections a:hover,
-.home-sections a:focus {
+.home-sections a:focus-visible {
   text-decoration: underline;
   text-decoration-thickness: 0.06em;
   text-underline-offset: 0.14em;
@@ -322,14 +231,46 @@ h6 {
 
 
 /* =========================================================
+   HOMEPAGE — MOBILE
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  // Keep the hero flush with the normal page-content axis.
+
+  .home-hero-text {
+    width: 100%;
+    max-width: none;
+    margin: 3rem 0;
+    padding: 0;
+    text-align: left;
+  }
+
+  .home-hero-text p {
+    max-width: 20ch;
+    margin: 0;
+    padding: 0;
+
+    font-size: clamp(2.7rem, 10vw, 3.8rem);
+    line-height: 0.96;
+  }
+}
+
+
+/* =========================================================
    HOMEPAGE INDEX — DESKTOP
    ========================================================= */
 
 @media (min-width: 701px) {
 
+  // Establish a two-column grid:
+  // navigation on the left and image on the right.
+
   .home-index-layout {
     display: grid;
-    grid-template-columns: minmax(0, 1.15fr) minmax(260px, 0.85fr);
+    grid-template-columns:
+      minmax(0, 1.15fr)
+      minmax(260px, 0.85fr);
     column-gap: clamp(3rem, 7vw, 7rem);
     align-items: center;
 
@@ -340,6 +281,7 @@ h6 {
 
   .home-sections {
     grid-column: 1;
+    min-width: 0;
     margin: 0;
     padding-left: clamp(3rem, 6vw, 6rem);
   }
@@ -351,6 +293,7 @@ h6 {
 
   .home-index-image {
     grid-column: 2;
+    min-width: 0;
     width: 100%;
     max-width: 420px;
     margin: 0;
@@ -388,8 +331,8 @@ h6 {
    ========================================================= */
 
 // Hide the checkbox input.
-// A label that also has .system-sidenote-number is made
-// visible again by the more specific rule below.
+// Labels that also have .system-sidenote-number become visible
+// through the more specific rule that follows.
 
 .system-margin-toggle {
   display: none;
@@ -440,7 +383,7 @@ h6 {
   }
 
 
-  // Hide the sidenote until the reader taps its number.
+  // Hide the note until the reader taps its reference number.
 
   .system-sidenote {
     display: none;
@@ -459,8 +402,8 @@ h6 {
   }
 
 
-  // The sidenote must immediately follow the checkbox
-  // in the page markup for this selector to work.
+  // The sidenote must immediately follow its checkbox
+  // in the HTML for this selector to work.
 
   .system-margin-toggle:checked + .system-sidenote {
     display: block;
@@ -476,8 +419,8 @@ h6 {
    FOOTER
    ========================================================= */
 
-// Keep the footer visually continuous with the paper background.
-// The top rule separates it without creating a colored panel.
+// Keep the footer continuous with the paper background.
+// A thin rule separates it without creating a colored panel.
 
 .page__footer {
   background-color: #f8f7f3;
