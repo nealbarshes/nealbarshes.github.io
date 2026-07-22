@@ -30,4 +30,4 @@ header:
       alt="Keep the Foot"
     >
   </figure>
-  </section>
+
