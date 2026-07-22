@@ -23,3 +23,11 @@ header:
   <h2><a href="/Brochure/">Brochure</a></h2>
   <h2><a href="/About/">About</a></h2>
 </nav>
+
+  <figure class="home-index-image">
+    <img
+      src="assets/FootGoldOnlyNoOutlineShadow.png"
+      alt="Brief description of the image"
+    >
+  </figure>
+  </section>
