@@ -416,6 +416,50 @@ h6 {
 
 
 /* =========================================================
+   MASTHEAD — DESKTOP HAMBURGER
+   ========================================================= */
+
+// On desktop, force all primary navigation links into the
+// existing Minimal Mistakes overflow menu.
+
+@media (min-width: 701px) {
+
+  .greedy-nav .visible-links {
+    flex: 0 0 0;
+    width: 0;
+    min-width: 0;
+    max-width: 0;
+    overflow: hidden;
+  }
+
+  .greedy-nav__toggle {
+    flex: 0 0 auto;
+    margin-left: auto;
+  }
+
+
+  /* -------------------------------------------------------
+     Masthead title and professional designation
+     ------------------------------------------------------- */
+
+  .site-title {
+    font-size: 1.45rem;
+    line-height: 1.05;
+    font-weight: 700;
+  }
+
+  .site-subtitle {
+    display: block;
+    margin-top: 0.15rem;
+
+    font-size: 0.72em;
+    line-height: 1.1;
+    font-weight: 500;
+    letter-spacing: 0;
+  }
+}
+
+/* =========================================================
    FOOTER
    ========================================================= */
 
