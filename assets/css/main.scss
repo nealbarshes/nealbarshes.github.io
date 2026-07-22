@@ -267,28 +267,23 @@ h6 {
    HOMEPAGE INDEX: LINKS + IMAGE
    ========================================================= */
 
-// Desktop layout:
-// Links on the left, image on the right.
+// Mobile-first default: stack the image below the links.
 
 .home-index-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(260px, 0.75fr);
-  gap: clamp(3rem, 7vw, 7rem);
-  align-items: center;
-
+  display: block;
   width: 100%;
-  max-width: 980px;
-  margin: 4rem auto 6rem;
+  margin: 3rem 0 5rem;
 }
 
 .home-sections {
+  width: auto;
   margin: 0;
-  padding-left: clamp(3rem, 6vw, 6rem);
+  padding-left: 1rem;
   text-align: left;
 }
 
 .home-sections h2 {
-  margin: 1.1rem 0;
+  margin: 1rem 0;
   padding: 0;
 
   border: 0;
@@ -296,7 +291,7 @@ h6 {
 
   font-family: "League Spartan", system-ui, sans-serif;
   font-weight: 800;
-  font-size: clamp(2.35rem, 4.1vw, 3.55rem);
+  font-size: clamp(1.7rem, 7vw, 2.25rem);
   line-height: 1;
   letter-spacing: -0.025em;
 }
@@ -313,14 +308,10 @@ h6 {
   text-underline-offset: 0.14em;
 }
 
-
-/* Homepage index image */
-
 .home-index-image {
   width: 100%;
-  max-width: 420px;
-  margin: 0;
-  justify-self: end;
+  max-width: none;
+  margin: 2.5rem 0 0;
 }
 
 .home-index-image img {
@@ -331,44 +322,42 @@ h6 {
 
 
 /* =========================================================
-   HOMEPAGE INDEX — MOBILE
+   HOMEPAGE INDEX — DESKTOP
    ========================================================= */
 
-@media (max-width: 700px) {
-
-  // Stack the image beneath the links.
+@media (min-width: 701px) {
 
   .home-index-layout {
-    display: block;
-    width: auto;
-    max-width: none;
-    margin: 3rem 1.25rem 5rem;
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(260px, 0.85fr);
+    column-gap: clamp(3rem, 7vw, 7rem);
+    align-items: center;
+
+    width: 100%;
+    max-width: 980px;
+    margin: 4rem auto 6rem;
   }
 
   .home-sections {
+    grid-column: 1;
     margin: 0;
-    padding-left: 1rem;
-    text-align: left;
+    padding-left: clamp(3rem, 6vw, 6rem);
   }
 
   .home-sections h2 {
-    margin: 1rem 0;
-    padding: 0;
-
-    border: 0;
-    border-bottom: 0;
-
-    font-weight: 800;
-    font-size: clamp(1.7rem, 7vw, 2.25rem);
-    line-height: 1;
+    margin: 1.1rem 0;
+    font-size: clamp(2.35rem, 4.1vw, 3.55rem);
   }
 
   .home-index-image {
+    grid-column: 2;
     width: 100%;
-    max-width: none;
-    margin: 2.5rem 0 0;
+    max-width: 420px;
+    margin: 0;
+    justify-self: end;
   }
 }
+
 
 /* =========================================================
    TUFTE-STYLE PAGE LAYOUT
