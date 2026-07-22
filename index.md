@@ -14,23 +14,21 @@ header:
   </p>
 </section>
 
-    
+<div class="home-index-layout">
 
-<nav class="home-sections" aria-label="Homepage sections">
-  <h2><a href="/Tutorials/">Tutorials</a></h2>
-  <h2><a href="/Works/">Works</a></h2>
-  <h2><a href="/System/">System of Care</a></h2>
-  <h2><a href="/Brochure/">Brochure</a></h2>
-  <h2><a href="/About/">About</a></h2>
-</nav>
+  <nav class="home-sections" aria-label="Homepage sections">
+    <h2><a href="/Tutorials/">Tutorials</a></h2>
+    <h2><a href="/Works/">Works</a></h2>
+    <h2><a href="/System/">System of Care</a></h2>
+    <h2><a href="/Brochure/">Brochure</a></h2>
+    <h2><a href="/About/">About</a></h2>
+  </nav>
 
   <figure class="home-index-image">
     <img
-      src="assets/FootGoldOnlyNoOutlineShadow.png"
+      src="/assets/FootGoldOnlyNoOutlineShadow.png"
       alt="Keep the Foot"
     >
   </figure>
 
-
 </div>
-
