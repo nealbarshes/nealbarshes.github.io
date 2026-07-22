@@ -27,7 +27,7 @@ header:
   <figure class="home-index-image">
     <img
       src="assets/FootGoldOnlyNoOutlineShadow.png"
-      alt="Brief description of the image"
+      alt="Keep the Foot"
     >
   </figure>
   </section>
