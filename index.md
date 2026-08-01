@@ -60,7 +60,7 @@ classes: wide home
 
   <figure class="home-index-image">
     <img
-      src="/assets/FootGoldOnlyNoOutlineShadow.png"
+      src="/assets/FootGoldOnlyNoOutline.png"
       alt="Keep the Foot emblem"
     >
   </figure>
