@@ -38,11 +38,7 @@ Bengali | [Guard Your Feet](https://nealbarshes.github.io/brochures/27%20Guard%2
 Cambodian/Khmer | [ចូរƳរljរ េជង របស់អƒក](https://nealbarshes.github.io/brochures/19%20Guard%20Your%20Feet%20%5BKhmer%2C%20Tan%5D.pdf)
 Chinese (Mandarin) | [护理您的脚](https://nealbarshes.github.io/brochures/10%20Guard%20your%20Feet%20%5BChinese%2C%20Chen%5D.pdf)
 English | [Guard Your Feet](https://nealbarshes.github.io/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
-Farsi/Persian | <a href="https://nealbarshes.github.io/brochures/25%20Guard%20Your%20Feet%20%20%5BFarsi%2C%20Zamani%5D.pdf"><bdi dir="rtl" lang="fa">مواضب 
-پاهای 
-خودتان
-باشید!
-</bdi></a>
+Farsi/Persian | <a href="https://nealbarshes.github.io/brochures/25%20Guard%20Your%20Feet%20%20%5BFarsi%2C%20Zamani%5D.pdf"><bdi dir="rtl" lang="fa">مواضب پاهای خودتان باشید! </bdi></a>
 French | [Protegez Vos Pieds](https://nealbarshes.github.io/brochures/12%20Protegez%20Vos%20Pieds%20%5BFrench%2C%20Charland%5D.pdf)
 German | [Bewachen Sie Ihre Füße](https://nealbarshes.github.io/brochures/18%20Bewachen%20Sie%20Ihre%20Fu%CC%88%C3%9Fe%20%5BGerman%2C%20Brlecic%5D.pdf)
 Gujarati | [તમારા પગનું રક્ષણ કરો, Gujarati](https://nealbarshes.github.io/brochures/24%20%E0%AA%A4%E0%AA%AE%E0%AA%BE%E0%AA%B0%E0%AA%BE%20%E0%AA%AA%E0%AA%97%E0%AA%A8%E0%AB%81%E0%AA%82%20%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%A3%20%E0%AA%95%E0%AA%B0%E0%AB%8B%20%5BGujarati%2C%20Patel%5D.pdf)
