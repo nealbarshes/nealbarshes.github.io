@@ -5,6 +5,11 @@
 
 The brochure is written with plain language without technical terms. It incorporates feedback from patients with foot ulcers. Kind colleagues have translated it to 26 non-English languages spoken. In all, these provide education in **languages spoken by 98% of the United States population**. 
 
+#### The most frequently-used versions are:
+1. [English](https://nealbarshes.github.io/Brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf)
+2. [Spanish]([Proteja los Pies](https://nealbarshes.github.io/Brochures/02%20Proteja%20los%20Pies%20%5BSpanish%5D.pdf))
+
+
 No. | Language (alphabetical) | Title/link
 --- | --- | --- 
 1. | Arabic | [حارس ك أقدام](https://nealbarshes.github.io/Brochures/07%20Guard%20your%20Feet%20%5BArabic%2C%20Khouqeer%5D.pdf)
