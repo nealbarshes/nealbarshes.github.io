@@ -33,4 +33,4 @@ Urdu | [گارڈ آپ پاؤں](https://nealbarshes.github.io/Brochures/06%20Gua
 Vietnamese | [Bảo vệ của bạn Đôi chân, Vietnamese](https://nealbarshes.github.io/Brochures/03%20B%E1%BA%A3o%20v%E1%BB%87%20c%E1%BB%A7a%20b%E1%BA%A1n%20%C4%90%C3%B4i%20ch%C3%A2n%20%5BVietnamese%2C%20Pham%20family%5D.pdf)
 Yoruba | [Shọ Ẹsẹ Rẹ](https://nealbarshes.github.io/Brochures/05%20Sh%E1%BB%8D%20%E1%BA%B8s%E1%BA%B9%20R%E1%BA%B9%20%5BYoruba%2C%20Vaughn%20family%5D.pdf)
 
-![Guard Your Feet](https://nealbarshes.github.io/assets/GuardYourFootLogo03_200dpi.png
+![Guard Your Feet](https://nealbarshes.github.io/assets/GuardYourFootLogo03_200dpi.png)
