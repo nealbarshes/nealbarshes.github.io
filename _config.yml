@@ -37,3 +37,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+  - scope:
+      path: "Tutorials"
+      type: "pages"
+    values:
+      classes:
+        - tutorial-tech    
