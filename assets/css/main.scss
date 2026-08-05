@@ -183,7 +183,6 @@ h6 {
 // that the theme places the links inside its existing hamburger menu.
 
 @media (min-width: 701px) {
-
   .greedy-nav .visible-links {
     flex: 0 0 0;
     width: 0;
@@ -192,10 +191,14 @@ h6 {
     overflow: hidden;
   }
 
-  .greedy-nav__toggle {
+  .greedy-nav__toggle,
+  .greedy-nav__toggle.hidden {
+    display: block;
+    visibility: visible;
     flex: 0 0 auto;
     margin-left: auto;
   }
+}
 
 
   /* -------------------------------------------------------
