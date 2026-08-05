@@ -764,3 +764,130 @@ body.home {
 .page__footer-copyright {
   color: $text-secondary;
 }
+
+
+/* ==========================================================
+   TUTORIALS — TECHNICAL VISUAL SYSTEM
+   Applies automatically to /Tutorials/ and its descendants
+   ========================================================== */
+
+body.tutorial-tech {
+  background: #ffffff;
+  color: #202124;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.94rem;
+  line-height: 1.7;
+}
+
+/* Keep every major surface genuinely white */
+body.tutorial-tech,
+body.tutorial-tech .initial-content,
+body.tutorial-tech #main,
+body.tutorial-tech .page,
+body.tutorial-tech .page__inner-wrap,
+body.tutorial-tech .page__content {
+  background-color: #ffffff;
+}
+
+/* Technical headings, matching the protocols site */
+body.tutorial-tech .page__title,
+body.tutorial-tech .page__content h1,
+body.tutorial-tech .page__content h2,
+body.tutorial-tech .page__content h3,
+body.tutorial-tech .page__content h4 {
+  font-family: "Space Grotesk", sans-serif;
+  color: #15171a;
+  letter-spacing: -0.025em;
+}
+
+body.tutorial-tech .page__title {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 600;
+  line-height: 1.08;
+  margin-bottom: 1.5rem;
+}
+
+body.tutorial-tech .page__content h2 {
+  margin-top: 2.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #d9dde2;
+  font-size: 1.55rem;
+  font-weight: 600;
+}
+
+body.tutorial-tech .page__content h3 {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+/* More deliberate technical rhythm */
+body.tutorial-tech .page__content p,
+body.tutorial-tech .page__content li {
+  max-width: 78ch;
+}
+
+body.tutorial-tech .page__content ul,
+body.tutorial-tech .page__content ol {
+  padding-left: 1.6rem;
+}
+
+body.tutorial-tech .page__content li {
+  margin-bottom: 0.55rem;
+}
+
+/* Links */
+body.tutorial-tech .page__content a {
+  color: #174a7c;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+body.tutorial-tech .page__content a:hover {
+  color: #8a2432;
+}
+
+/* Tables */
+body.tutorial-tech .page__content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.86rem;
+}
+
+body.tutorial-tech .page__content th {
+  background: #f3f5f7;
+  font-weight: 600;
+  text-align: left;
+}
+
+body.tutorial-tech .page__content th,
+body.tutorial-tech .page__content td {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #d9dde2;
+}
+
+/* Blockquotes become restrained clinical callouts */
+body.tutorial-tech .page__content blockquote {
+  margin: 1.75rem 0;
+  padding: 0.9rem 1.1rem;
+  border-left: 3px solid #174a7c;
+  background: #f6f8fa;
+  color: #353a40;
+  font-style: normal;
+}
+
+/* Inline technical terms */
+body.tutorial-tech .page__content code {
+  padding: 0.12em 0.3em;
+  background: #f1f3f5;
+  border: 1px solid #e0e3e6;
+  border-radius: 2px;
+  color: #8a2432;
+  font-size: 0.9em;
+}
+
+/* Keep the site masthead related to the parent site */
+body.tutorial-tech .masthead {
+  background: #ffffff;
+  border-bottom: 1px solid #e3e5e7;
+}
