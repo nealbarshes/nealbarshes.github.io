@@ -771,21 +771,13 @@ body.home {
    Applies automatically to /Tutorials/ and its descendants
    ========================================================== */
 
+/* Core typography */
 body.tutorial-tech {
-  background: #ffffff;
+  background-color: #ffffff;
   color: #202124;
   font-family: "JetBrains Mono", monospace;
   font-size: 0.86rem;
   line-height: 1.65;
-}
-
-/* Keep body, table, and blockquote text matched on desktop */
-@media (min-width: 701px) {
-  body.tutorial-tech,
-  body.tutorial-tech .page__content table,
-  body.tutorial-tech .page__content blockquote {
-    font-size: 0.688rem;
-  }
 }
 
 /* Keep every major surface genuinely white */
@@ -804,16 +796,16 @@ body.tutorial-tech .page__content h1,
 body.tutorial-tech .page__content h2,
 body.tutorial-tech .page__content h3,
 body.tutorial-tech .page__content h4 {
-  font-family: "Space Grotesk", sans-serif;
   color: #15171a;
+  font-family: "Space Grotesk", sans-serif;
   letter-spacing: -0.025em;
 }
 
 body.tutorial-tech .page__title {
+  margin-bottom: 1.5rem;
   font-size: clamp(2rem, 4vw, 3rem);
   font-weight: 600;
   line-height: 1.08;
-  margin-bottom: 1.5rem;
 }
 
 body.tutorial-tech .page__content h2 {
@@ -830,7 +822,7 @@ body.tutorial-tech .page__content h3 {
   font-weight: 600;
 }
 
-/* More deliberate technical rhythm */
+/* Technical content rhythm */
 body.tutorial-tech .page__content p,
 body.tutorial-tech .page__content li {
   max-width: 78ch;
@@ -852,42 +844,75 @@ body.tutorial-tech .page__content a {
   text-underline-offset: 0.18em;
 }
 
-body.tutorial-tech .page__content a:hover {
+body.tutorial-tech .page__content a:hover,
+body.tutorial-tech .page__content a:focus {
   color: #8a2432;
 }
 
-/* Tables — retained exactly as the visual reference */
+/* ==========================================================
+   TABLES
+   Same font and size as body text, with denser line spacing
+   ========================================================== */
+
 body.tutorial-tech .page__content table {
   width: 100%;
   border-collapse: collapse;
+  font-family: inherit;
   font-size: 0.86rem;
+  line-height: 1.55;
 }
 
-body.tutorial-tech .page__content th {
-  background: #f3f5f7;
+/* Header/top row */
+body.tutorial-tech .page__content thead th {
+  background-color: #dde3e8;
+  color: #15171a;
   font-weight: 600;
   text-align: left;
+}
+
+/* Alternating light-gray body rows */
+body.tutorial-tech .page__content tbody tr:nth-child(odd) td {
+  background-color: #f7f8f9;
+}
+
+body.tutorial-tech .page__content tbody tr:nth-child(even) td {
+  background-color: #eef1f3;
 }
 
 body.tutorial-tech .page__content th,
 body.tutorial-tech .page__content td {
   padding: 0.65rem 0.75rem;
-  border: 1px solid #d9dde2;
+  border: 1px solid #d2d8dd;
+  vertical-align: top;
 }
 
-/* Clinical callouts */
+/* ==========================================================
+   BLOCKQUOTES / CLINICAL CALLOUTS
+   ========================================================== */
+
 body.tutorial-tech .page__content blockquote {
   margin: 1.75rem 0;
   padding: 0.9rem 1.1rem;
   border-left: 3px solid #174a7c;
-  background: #f6f8fa;
+  background-color: #f6f8fa;
   color: #353a40;
+  font-family: inherit;
   font-size: 0.86rem;
   font-style: normal;
   line-height: 1.4;
 }
 
-/* Greater separation between paragraphs inside callouts */
+/*
+   Add space after each explicit line break while keeping
+   wrapped lines within the same statement relatively close.
+*/
+body.tutorial-tech .page__content blockquote br {
+  display: block;
+  content: "";
+  margin-bottom: 0.45em;
+}
+
+/* Greater separation between distinct paragraphs */
 body.tutorial-tech .page__content blockquote p {
   margin-top: 0;
   margin-bottom: 1.5em;
@@ -901,15 +926,29 @@ body.tutorial-tech .page__content blockquote p:last-child {
 /* Inline technical terms */
 body.tutorial-tech .page__content code {
   padding: 0.12em 0.3em;
-  background: #f1f3f5;
   border: 1px solid #e0e3e6;
   border-radius: 2px;
+  background-color: #f1f3f5;
   color: #8a2432;
+  font-family: "JetBrains Mono", monospace;
   font-size: 0.9em;
 }
 
-/* Keep the site masthead related to the parent site */
+/* Keep the masthead related to the parent site */
 body.tutorial-tech .masthead {
-  background: #ffffff;
+  background-color: #ffffff;
   border-bottom: 1px solid #e3e5e7;
+}
+
+/* ==========================================================
+   DESKTOP TYPOGRAPHY
+   Keep this final so it wins in the CSS cascade
+   ========================================================== */
+
+@media (min-width: 701px) {
+  body.tutorial-tech,
+  body.tutorial-tech .page__content table,
+  body.tutorial-tech .page__content blockquote {
+    font-size: 0.688rem;
+  }
 }
