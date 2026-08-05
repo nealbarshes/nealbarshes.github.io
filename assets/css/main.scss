@@ -779,6 +779,15 @@ body.tutorial-tech {
   line-height: 1.65;
 }
 
+/* Keep body, table, and blockquote text matched on desktop */
+@media (min-width: 701px) {
+  body.tutorial-tech,
+  body.tutorial-tech .page__content table,
+  body.tutorial-tech .page__content blockquote {
+    font-size: 0.688rem;
+  }
+}
+
 /* Keep every major surface genuinely white */
 body.tutorial-tech,
 body.tutorial-tech .initial-content,
@@ -866,14 +875,27 @@ body.tutorial-tech .page__content td {
   border: 1px solid #d9dde2;
 }
 
-/* Blockquotes become restrained clinical callouts */
+/* Clinical callouts */
 body.tutorial-tech .page__content blockquote {
   margin: 1.75rem 0;
   padding: 0.9rem 1.1rem;
   border-left: 3px solid #174a7c;
   background: #f6f8fa;
   color: #353a40;
+  font-size: 0.86rem;
   font-style: normal;
+  line-height: 1.4;
+}
+
+/* Greater separation between paragraphs inside callouts */
+body.tutorial-tech .page__content blockquote p {
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+
+/* Avoid excess space after the final paragraph */
+body.tutorial-tech .page__content blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 /* Inline technical terms */
