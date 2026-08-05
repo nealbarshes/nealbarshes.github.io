@@ -768,22 +768,18 @@ body.home {
 
 /* ==========================================================
    TUTORIALS — TECHNICAL VISUAL SYSTEM
-   Applied through the "tutorial-tech" page class
+   Applies automatically to /Tutorials/ and its descendants
    ========================================================== */
 
-/* ---------- Core page typography and color ---------- */
-
 body.tutorial-tech {
-  background-color: #ffffff;
+  background: #ffffff;
   color: #202124;
-  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo,
-    Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: "JetBrains Mono", monospace;
   font-size: 0.86rem;
   line-height: 1.65;
 }
 
-/* Keep all principal page surfaces pure white */
-
+/* Keep every major surface genuinely white */
 body.tutorial-tech,
 body.tutorial-tech .initial-content,
 body.tutorial-tech #main,
@@ -793,93 +789,46 @@ body.tutorial-tech .page__content {
   background-color: #ffffff;
 }
 
-/*
-   Reinforce the technical typeface where Minimal Mistakes or
-   other site-wide rules might otherwise override inheritance.
-*/
-
-body.tutorial-tech .page__content,
-body.tutorial-tech .page__content p,
-body.tutorial-tech .page__content li,
-body.tutorial-tech .page__content dt,
-body.tutorial-tech .page__content dd,
-body.tutorial-tech .page__content table,
-body.tutorial-tech .page__content th,
-body.tutorial-tech .page__content td,
-body.tutorial-tech .page__content blockquote {
-  font-family: inherit;
-}
-
-/* ---------- Headings ---------- */
-
+/* Technical headings, matching the protocols site */
 body.tutorial-tech .page__title,
 body.tutorial-tech .page__content h1,
 body.tutorial-tech .page__content h2,
 body.tutorial-tech .page__content h3,
 body.tutorial-tech .page__content h4 {
+  font-family: "Space Grotesk", sans-serif;
   color: #15171a;
-  font-family: "Space Grotesk", Arial, sans-serif;
-  font-weight: 600;
   letter-spacing: -0.025em;
 }
 
 body.tutorial-tech .page__title {
-  margin-bottom: 1.5rem;
   font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 600;
   line-height: 1.08;
-}
-
-body.tutorial-tech .page__title a {
-  color: inherit;
-  text-decoration: none;
-}
-
-body.tutorial-tech .page__content h1 {
-  margin-top: 2.75rem;
-  margin-bottom: 1rem;
-  font-size: 1.85rem;
-  line-height: 1.15;
+  margin-bottom: 1.5rem;
 }
 
 body.tutorial-tech .page__content h2 {
   margin-top: 2.75rem;
-  margin-bottom: 1rem;
   padding-bottom: 0.4rem;
   border-bottom: 1px solid #d9dde2;
   font-size: 1.55rem;
-  line-height: 1.2;
+  font-weight: 600;
 }
 
 body.tutorial-tech .page__content h3 {
   margin-top: 2rem;
-  margin-bottom: 0.75rem;
   font-size: 1.2rem;
-  line-height: 1.25;
+  font-weight: 600;
 }
 
-body.tutorial-tech .page__content h4 {
-  margin-top: 1.5rem;
-  margin-bottom: 0.6rem;
-  font-size: 1rem;
-  line-height: 1.3;
-}
-
-/* ---------- Paragraphs and lists ---------- */
-
+/* More deliberate technical rhythm */
 body.tutorial-tech .page__content p,
 body.tutorial-tech .page__content li {
   max-width: 78ch;
 }
 
-body.tutorial-tech .page__content p {
-  margin-top: 0;
-  margin-bottom: 1.15rem;
-}
-
 body.tutorial-tech .page__content ul,
 body.tutorial-tech .page__content ol {
-  margin-top: 0.75rem;
-  margin-bottom: 1.25rem;
   padding-left: 1.6rem;
 }
 
@@ -887,37 +836,26 @@ body.tutorial-tech .page__content li {
   margin-bottom: 0.55rem;
 }
 
-body.tutorial-tech .page__content li:last-child {
-  margin-bottom: 0;
-}
-
-/* ---------- Links ---------- */
-
+/* Links */
 body.tutorial-tech .page__content a {
   color: #174a7c;
-  text-decoration-line: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.18em;
 }
 
-body.tutorial-tech .page__content a:hover,
-body.tutorial-tech .page__content a:focus {
+body.tutorial-tech .page__content a:hover {
   color: #8a2432;
 }
 
-/* ---------- Tables ---------- */
-
+/* Tables — retained exactly as the visual reference */
 body.tutorial-tech .page__content table {
   width: 100%;
-  margin: 1.5rem 0;
   border-collapse: collapse;
-  font-size: inherit;
-  line-height: 1.55;
+  font-size: 0.86rem;
 }
 
 body.tutorial-tech .page__content th {
-  background-color: #f3f5f7;
-  color: #15171a;
+  background: #f3f5f7;
   font-weight: 600;
   text-align: left;
 }
@@ -926,58 +864,30 @@ body.tutorial-tech .page__content th,
 body.tutorial-tech .page__content td {
   padding: 0.65rem 0.75rem;
   border: 1px solid #d9dde2;
-  vertical-align: top;
 }
 
-/* ---------- Clinical callouts ---------- */
-
+/* Blockquotes become restrained clinical callouts */
 body.tutorial-tech .page__content blockquote {
   margin: 1.75rem 0;
   padding: 0.9rem 1.1rem;
   border-left: 3px solid #174a7c;
-  background-color: #f6f8fa;
+  background: #f6f8fa;
   color: #353a40;
-  font-size: inherit;
   font-style: normal;
 }
 
-body.tutorial-tech .page__content blockquote > :last-child {
-  margin-bottom: 0;
-}
-
-/* ---------- Inline and block code ---------- */
-
+/* Inline technical terms */
 body.tutorial-tech .page__content code {
   padding: 0.12em 0.3em;
+  background: #f1f3f5;
   border: 1px solid #e0e3e6;
   border-radius: 2px;
-  background-color: #f1f3f5;
   color: #8a2432;
-  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo,
-    Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 0.9em;
 }
 
-body.tutorial-tech .page__content pre {
-  padding: 1rem;
-  overflow-x: auto;
-  border: 1px solid #d9dde2;
-  border-radius: 2px;
-  background-color: #f6f8fa;
-  line-height: 1.55;
-}
-
-body.tutorial-tech .page__content pre code {
-  padding: 0;
-  border: 0;
-  background: transparent;
-  color: inherit;
-  font-size: inherit;
-}
-
-/* ---------- Masthead ---------- */
-
+/* Keep the site masthead related to the parent site */
 body.tutorial-tech .masthead {
-  background-color: #ffffff;
+  background: #ffffff;
   border-bottom: 1px solid #e3e5e7;
 }
