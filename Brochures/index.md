@@ -14,8 +14,7 @@ author_profile: false
 
     <p class="brochure-lede">
       A plain-language guide explaining how diabetes can lead to foot ulcers,
-      infection, and limb loss. Developed with feedback from patients and
-      translated by colleagues into 26 additional languages.
+      infection, and limb loss. 
     </p>
 
     <p class="brochure-impact">
@@ -24,7 +23,7 @@ author_profile: false
     </p>
 
     <div class="brochure-actions" aria-label="Featured brochure downloads">
-      <a class="brochure-button brochure-button--primary" href="/Brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf">
+      <a class="brochure-button brochure-button--primary" href="https://nealbarshes.github.io/Brochures/01%20Guard%20your%20Feet%20[ENGLISH]%20v3.0.pdf">
         English PDF
       </a>
       <a class="brochure-button brochure-button--secondary" href="/Brochures/02%20Proteja%20los%20Pies%20%5BSpanish%5D.pdf" lang="es">
@@ -34,7 +33,7 @@ author_profile: false
   </div>
 
   <figure class="brochure-preview">
-    <a href="/Brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf" aria-label="Open the English Guard Your Feet brochure as a PDF">
+    <a href="https://nealbarshes.github.io/Brochures/01%20Guard%20your%20Feet%20[ENGLISH]%20v3.0.pdf" aria-label="Open the English Guard Your Feet brochure as a PDF">
       <img src="/assets/GuardYourFeet_BrochureScreenshot.png" alt="Preview of the three-panel Guard Your Feet brochure">
     </a>
     <figcaption>English edition</figcaption>
@@ -66,7 +65,7 @@ author_profile: false
     </div>
     <div class="brochure-language" role="listitem">
       <span class="brochure-language__name">English</span>
-      <a class="brochure-language__title" href="/Brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf" lang="en">Guard Your Feet</a>
+      <a class="brochure-language__title" href="https://nealbarshes.github.io/Brochures/01%20Guard%20your%20Feet%20[ENGLISH]%20v3.0.pdf" lang="en">Guard Your Feet</a>
     </div>
     <div class="brochure-language" role="listitem">
       <span class="brochure-language__name">Farsi / Persian</span>
