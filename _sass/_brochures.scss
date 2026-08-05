@@ -152,14 +152,14 @@
   background: #fff;
   border: 1px solid #d8d5cd;
   box-shadow: 0 1.1rem 2.6rem rgba(40, 34, 27, 0.13);
-  transform: rotate(0.7deg);
+  transform: none;
   transition: box-shadow 160ms ease, transform 160ms ease;
 }
 
 @media (hover: hover) {
   .brochure-preview a:hover img {
     box-shadow: 0 1.35rem 3rem rgba(40, 34, 27, 0.17);
-    transform: rotate(0) translateY(-2px);
+    transform: translateY(-4px) scale(1.01);
   }
 }
 
