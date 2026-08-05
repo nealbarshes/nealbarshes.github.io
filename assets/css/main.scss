@@ -775,8 +775,16 @@ body.tutorial-tech {
   background: #ffffff;
   color: #202124;
   font-family: "JetBrains Mono", monospace;
-  font-size: 0.94rem;
-  line-height: 1.7;
+  font-size: 0.82rem; /* ≈13 px; 13% smaller on mobile */
+  line-height: 1.65;
+}
+
+/* Denser technical typography on desktop */
+@media (min-width: 701px) {
+  body.tutorial-tech {
+    font-size: 0.72rem; /* ≈11.5 px; 23% smaller */
+    line-height: 1.6;
+  }
 }
 
 /* Keep every major surface genuinely white */
