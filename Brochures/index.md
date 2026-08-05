@@ -19,15 +19,15 @@ author_profile: false
 
     <p class="brochure-impact">
       <strong>27 translations</strong>
-      <span>serving languages spoken by 98% of the US population</span>
+      <span>representing languages spoken by <b>98% of people</b> in the United States</span>
     </p>
 
     <div class="brochure-actions" aria-label="Featured brochure downloads">
       <a class="brochure-button brochure-button--primary" href="https://nealbarshes.github.io/Brochures/01%20Guard%20your%20Feet%20[ENGLISH]%20v3.0.pdf">
-        English PDF
+        PDF in English
       </a>
       <a class="brochure-button brochure-button--secondary" href="/Brochures/02%20Proteja%20los%20Pies%20%5BSpanish%5D.pdf" lang="es">
-        Español
+        PDF en Español
       </a>
     </div>
   </div>
@@ -36,7 +36,7 @@ author_profile: false
     <a href="https://nealbarshes.github.io/Brochures/01%20Guard%20your%20Feet%20[ENGLISH]%20v3.0.pdf" aria-label="Open the English Guard Your Feet brochure as a PDF">
       <img src="/assets/GuardYourFeet_BrochureScreenshot.png" alt="Preview of the three-panel Guard Your Feet brochure">
     </a>
-    <figcaption>English edition</figcaption>
+    <figcaption>English version</figcaption>
   </figure>
 </section>
 
