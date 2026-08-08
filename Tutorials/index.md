@@ -1,3 +1,10 @@
+---
+layout: single
+title: ""
+permalink: /Tutorials/Tenets/
+classes: tutorial-tech
+---
+
 ## Tutorials | Tenets of Treatment
 
 **Limb salvage** typically consists of these three components:
