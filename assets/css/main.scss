@@ -1075,10 +1075,7 @@ body.tutorial-tech .page__content h4 {
 }
 
 body.tutorial-tech .page__title {
-  margin-bottom: 1.5rem;
-  font-size: clamp(2rem, 4vw, 3rem);
-  font-weight: 600;
-  line-height: 1.08;
+  display: none;
 }
 
 body.tutorial-tech .page__content h2 {
