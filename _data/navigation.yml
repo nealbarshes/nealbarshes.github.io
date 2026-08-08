@@ -1,11 +1,18 @@
 main:
   - title: "Home"
     url: /
+
   - title: "Tutorials"
     url: /Tutorials/
+
   - title: "Works"
     url: /Works/
+
   - title: "System of Care"
-    url: /System/
+    url: /SystemOfCare/
+
+  - title: "Brochure"
+    url: /Brochures/
+
   - title: "About"
-    url: "/about.md"
+    url: /About/
