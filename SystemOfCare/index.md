@@ -9,7 +9,7 @@ classes: wide tufte-page
 <article class="tufte-article">
 
   <p>
-    Hello world! This is the beginning of the System of Care page.
+
 
     <label
       for="system-note-1"
