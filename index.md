@@ -33,7 +33,7 @@ classes: wide home
     </h2>
 
     <h2 class="home-section-item">
-      <a class="home-section-link" href="/SystemOfCare/">
+      <a class="home-section-link" href="/Improvement/">
         <span class="home-section-number">03</span>
         <span class="home-section-divider" aria-hidden="true"></span>
         <span class="home-section-label">System of Care</span>
