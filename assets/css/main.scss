@@ -55,7 +55,7 @@ body,
 .page__inner-wrap,
 .page__content,
 .masthead,
-.greedy-nav {
+.custom-masthead-nav {
   background-color: $paper;
 }
 
@@ -175,49 +175,322 @@ h6 {
 
 
 /* =========================================================
-   MASTHEAD — DESKTOP HAMBURGER
+   MASTHEAD — CONSISTENT SEARCH + HAMBURGER
    ========================================================= */
 
-// Minimal Mistakes ordinarily displays navigation links across the
-// desktop masthead. These rules constrain the visible-link region so
-// that the theme places the links inside its existing hamburger menu.
+// This site intentionally does not use Minimal Mistakes' default
+// "greedy navigation" behavior. Instead, the local
+// _includes/masthead.html file provides one stable masthead on every
+// screen size:
+//
+//   identity at left | search | hamburger at right
+//
+// The hamburger always reads its destinations from
+// _data/navigation.yml. This keeps mobile and desktop synchronized.
+
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu {
+  overflow: visible;
+}
+
+.masthead {
+  position: relative;
+  z-index: 100;
+}
+
+.custom-masthead-nav {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  min-width: 0;
+  overflow: visible;
+  background-color: $paper;
+}
+
+
+/* ---------------------------------------------------------
+   Identity region: name + professional designation
+   --------------------------------------------------------- */
+
+.custom-site-identity {
+  display: block;
+  flex: 0 1 62.5%;
+  width: 62.5%;
+  max-width: 62.5%;
+  min-width: 0;
+
+  margin: 0;
+  padding: 0;
+
+  color: $text-primary;
+  text-decoration: none;
+}
+
+.custom-site-identity:hover,
+.custom-site-identity:focus {
+  color: $text-primary;
+  text-decoration: none;
+}
+
+.site-title__name {
+  display: block;
+
+  font-family: "League Spartan", system-ui, sans-serif;
+  font-size: clamp(1.28rem, 4.5vw, 1.55rem);
+  font-weight: 700;
+  line-height: 1.02;
+  letter-spacing: -0.025em;
+
+  white-space: nowrap;
+}
+
+.site-subtitle {
+  display: block;
+  margin-top: 0.18rem;
+
+  font-family: "League Spartan", system-ui, sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  white-space: nowrap;
+}
+
+
+/* ---------------------------------------------------------
+   Search + hamburger region
+   --------------------------------------------------------- */
+
+.masthead-actions {
+  position: relative;
+
+  display: flex;
+  flex: 0 0 37.5%;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.2rem;
+
+  width: 37.5%;
+  max-width: 37.5%;
+  margin-left: auto;
+}
+
+.masthead-action-button,
+.site-menu__toggle {
+  display: grid;
+  place-items: center;
+
+  box-sizing: border-box;
+  width: 2.75rem;
+  height: 2.75rem;
+  margin: 0;
+  padding: 0;
+
+  color: $text-primary;
+  background: transparent;
+  border: 0;
+  border-radius: 50%;
+
+  cursor: pointer;
+}
+
+.masthead-action-button {
+  font-size: 1rem;
+}
+
+.masthead-action-button:hover,
+.masthead-action-button:focus-visible,
+.site-menu__toggle:hover,
+.site-menu__toggle:focus-visible {
+  background-color: rgba(26, 26, 26, 0.05);
+}
+
+.masthead-action-button:focus-visible,
+.site-menu__toggle:focus-visible {
+  outline: 2px solid rgba(168, 117, 40, 0.7);
+  outline-offset: 2px;
+}
+
+
+/* ---------------------------------------------------------
+   Native details-based hamburger control
+   --------------------------------------------------------- */
+
+.site-menu {
+  position: relative;
+  margin: 0;
+}
+
+.site-menu__toggle {
+  list-style: none;
+}
+
+.site-menu__toggle::-webkit-details-marker {
+  display: none;
+}
+
+.site-menu__toggle::marker {
+  content: "";
+}
+
+.site-menu__icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+.site-menu__icon span {
+  display: block;
+  width: 100%;
+  height: 2px;
+
+  background-color: currentColor;
+  border-radius: 999px;
+
+  transition:
+    transform 150ms ease,
+    opacity 150ms ease;
+}
+
+// Change the hamburger into an X while the menu is open.
+
+.site-menu[open] .site-menu__icon span:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.site-menu[open] .site-menu__icon span:nth-child(2) {
+  opacity: 0;
+}
+
+.site-menu[open] .site-menu__icon span:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+
+/* ---------------------------------------------------------
+   Hamburger dropdown
+   --------------------------------------------------------- */
+
+.site-menu__list {
+  position: absolute;
+  top: calc(100% + 0.65rem);
+  right: 0;
+  z-index: 10000;
+
+  width: min(18rem, calc(100vw - 2rem));
+  margin: 0;
+  padding: 0.4rem;
+
+  list-style: none;
+
+  background-color: $paper;
+  border: 1px solid $border-subtle;
+  border-radius: 0.65rem;
+
+  box-shadow:
+    0 6px 18px rgba(0, 0, 0, 0.08),
+    0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.site-menu__item {
+  margin: 0;
+  padding: 0;
+}
+
+// Home is a return-to-entry command rather than one of the five
+// substantive site sections, so it receives a subtle separator.
+
+.site-menu__item:first-child {
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid $border-subtle;
+}
+
+.site-menu__item a {
+  display: block;
+  margin: 0;
+  padding: 0.75rem 1rem;
+
+  font-family: "League Spartan", system-ui, sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+
+  color: $text-primary;
+  text-decoration: none;
+  border-radius: 0.4rem;
+}
+
+.site-menu__item a:hover,
+.site-menu__item a:focus-visible {
+  color: $text-primary;
+  background-color: rgba(168, 117, 40, 0.08);
+  text-decoration: none;
+}
+
+
+/* ---------------------------------------------------------
+   Desktop masthead sizing
+   --------------------------------------------------------- */
 
 @media (min-width: 701px) {
-  .greedy-nav .visible-links {
-    flex: 0 0 0;
-    width: 0;
-    min-width: 0;
-    max-width: 0;
-    overflow: hidden;
-  }
-
-  .greedy-nav__toggle,
-  .greedy-nav__toggle.hidden {
-    display: block;
-    visibility: visible;
-    flex: 0 0 auto;
-    margin-left: auto;
-  }
-
-
-  /* -------------------------------------------------------
-     Masthead identity
-     ------------------------------------------------------- */
-
-  .site-title {
-    font-size: 1.45rem;
-    line-height: 1.05;
-    font-weight: 700;
+  .site-title__name {
+    font-size: 1.65rem;
   }
 
   .site-subtitle {
-    display: block;
-    margin-top: 0.15rem;
+    font-size: 0.78rem;
+  }
 
-    font-size: 0.72em;
-    line-height: 1.1;
-    font-weight: 500;
-    letter-spacing: 0;
+  .masthead-action-button,
+  .site-menu__toggle {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .masthead-action-button {
+    font-size: 1.08rem;
+  }
+}
+
+
+/* ---------------------------------------------------------
+   Very narrow phone safeguard
+   --------------------------------------------------------- */
+
+@media (max-width: 360px) {
+  .site-title__name {
+    font-size: 1.15rem;
+  }
+
+  .site-subtitle {
+    font-size: 0.64rem;
+  }
+
+  .masthead-action-button,
+  .site-menu__toggle {
+    width: 2.45rem;
+    height: 2.45rem;
+  }
+}
+
+
+/* ---------------------------------------------------------
+   Masthead reduced-motion accessibility
+   --------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .site-menu__icon span {
+    transition: none;
   }
 }
 
