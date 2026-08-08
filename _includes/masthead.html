@@ -1,0 +1,64 @@
+{% assign locale = include.locale | default: site.locale %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="custom-masthead-nav" aria-label="Primary navigation">
+
+        <a class="site-title custom-site-identity" href="{{ '/' | relative_url }}">
+          <span class="site-title__name">
+            {{ site.masthead_title | default: site.title | escape_once | strip }}
+          </span>
+
+          {% if site.subtitle %}
+            <span class="site-subtitle">
+              {{ site.subtitle | escape_once | strip }}
+            </span>
+          {% endif %}
+        </a>
+
+        <div class="masthead-actions">
+
+          {% if site.search == true %}
+            <button class="search__toggle masthead-action-button" type="button">
+              <span class="visually-hidden">
+                {{ site.data.ui-text[locale].search_label | default: "Toggle search" }}
+              </span>
+              <i class="fas fa-search" aria-hidden="true"></i>
+            </button>
+          {% endif %}
+
+          <details class="site-menu">
+            <summary class="site-menu__toggle">
+              <span class="visually-hidden">
+                {{ site.data.ui-text[locale].menu_label | default: "Toggle menu" }}
+              </span>
+
+              <span class="site-menu__icon" aria-hidden="true">
+                <span></span>
+                <span></span>
+                <span></span>
+              </span>
+            </summary>
+
+            <ul class="site-menu__list">
+              {%- for link in site.data.navigation.main -%}
+                <li class="site-menu__item">
+                  <a
+                    href="{{ link.url | relative_url }}"
+                    {% if link.description %}title="{{ link.description }}"{% endif %}
+                    {% if link.target %}target="{{ link.target }}"{% endif %}
+                  >
+                    {{ link.title }}
+                  </a>
+                </li>
+              {%- endfor -%}
+            </ul>
+          </details>
+
+        </div>
+
+      </nav>
+    </div>
+  </div>
+</div>
