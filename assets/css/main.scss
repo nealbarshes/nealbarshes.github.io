@@ -236,14 +236,19 @@ h6 {
 
 .site-title__name {
   display: block;
+  width: 100%;
+  line-height: 0;
+}
 
-  font-family: "League Spartan", system-ui, sans-serif;
-  font-size: clamp(1.28rem, 4.5vw, 1.55rem);
-  font-weight: 700;
-  line-height: 1.02;
-  letter-spacing: -0.025em;
+.site-wordmark {
+  display: block;
 
-  white-space: nowrap;
+  width: auto;
+  max-width: 100%;
+  height: 3.25rem;
+
+  object-fit: contain;
+  object-position: left center;
 }
 
 .site-subtitle {
@@ -443,8 +448,8 @@ h6 {
    --------------------------------------------------------- */
 
 @media (min-width: 701px) {
-  .site-title__name {
-    font-size: 1.65rem;
+  .site-wordmark {
+    height: 4rem;
   }
 
   .site-subtitle {
@@ -468,8 +473,8 @@ h6 {
    --------------------------------------------------------- */
 
 @media (max-width: 360px) {
-  .site-title__name {
-    font-size: 1.15rem;
+  .site-wordmark {
+    height: 2.8rem;
   }
 
   .site-subtitle {
