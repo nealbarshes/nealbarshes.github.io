@@ -118,7 +118,7 @@ classes: wide
     </p>
 
     <figure class="about-page__portrait">
-      <img src="/assets/images/about/neal-barshes-portrait.jpg" alt="Portrait of Neal Barshes">
+      <img src="https://nealbarshes.github.io/assets/profile3.jpg" alt="Neal Ryan Barshes, MD, MPH">
     </figure>
 
     <p>
