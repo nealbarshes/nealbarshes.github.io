@@ -434,11 +434,16 @@ h6 {
    Desktop masthead sizing
    --------------------------------------------------------- */
 @media (min-width: 701px) {
-.site-wordmark {
-  width: min(100%, 42rem);
-  max-width: 100%;
-  height: auto;
-}
+  .masthead__inner-wrap {
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem;
+  }
+
+  .site-wordmark {
+    width: 65%;
+    max-width: 100%;
+    height: auto;
+  }
 
   .masthead-action-button,
   .site-menu__toggle {
