@@ -5,17 +5,21 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="custom-masthead-nav" aria-label="Primary navigation">
 
-        <a class="site-title custom-site-identity" href="{{ '/' | relative_url }}">
-          <span class="site-title__name">
-            {{ site.masthead_title | default: site.title | escape_once | strip }}
-          </span>
+<a class="site-title custom-site-identity" href="{{ '/' | relative_url }}">
+  <span class="site-title__name">
+    <img
+      class="site-wordmark"
+      src="{{ '/assets/Figure_NRBwordlogo.svg' | relative_url }}"
+      alt="{{ site.masthead_title | default: site.title | escape_once | strip }}"
+    >
+  </span>
 
-          {% if site.subtitle %}
-            <span class="site-subtitle">
-              {{ site.subtitle | escape_once | strip }}
-            </span>
-          {% endif %}
-        </a>
+  {% if site.subtitle %}
+    <span class="site-subtitle">
+      {{ site.subtitle | escape_once | strip }}
+    </span>
+  {% endif %}
+</a>
 
         <div class="masthead-actions">
 
