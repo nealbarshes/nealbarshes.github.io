@@ -135,16 +135,16 @@ classes: wide
     <h2 id="current-work-heading">Current work</h2>
     <dl>
       <dt>Field</dt>
-      <dd>Comparative lantern systems</dd>
+      <dd></dd>
 
       <dt>Setting</dt>
-      <dd>The western archive of provisional rivers</dd>
+      <dd>text</dd>
 
       <dt>Practice</dt>
-      <dd>Applied meridian repair and quiet geometries</dd>
+      <dd>text</dd>
 
       <dt>Questions</dt>
-      <dd>Resilient weather, folded maps, and useful asymmetry</dd>
+      <dd>text</dd>
     </dl>
   </section>
 
