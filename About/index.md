@@ -109,12 +109,12 @@ classes: wide
 <div class="about-page">
 
   <p class="about-page__introduction">
-    Vellora imbricata moves quietly through the amber interval, gathering small geometries where the ordinary weather becomes articulate.
+    I am an academic vascular surgeon whose work focuses on developing cost-effective, resilient, and equitable strategies to prevent leg amputations..
   </p>
 
   <div class="about-page__biography">
     <p>
-      Orinthal vespera begins beside the folded meridian, where copper hours and patient stones exchange their unmeasured names. The lantern field turns slowly toward an unnamed harbor, carrying blue distances beneath its cedar grammar. Nothing arrives in sequence, yet every aperture remembers the shape of rain.
+      My clinical practice is based at the Michael E. DeBakey Veterans Affairs Medical Center in Houston, where I care primarily for patients with advanced peripheral artery disease / critical limb-threatening ischemia. Over the course of my career, I have performed nearly 4,000 operations, with a particular emphasis on limb salvage bypass operations
     </p>
 
     <figure class="about-page__portrait">
@@ -122,16 +122,13 @@ classes: wide
     </figure>
 
     <p>
-      Caldrin moths assemble along the western syllable while a minor constellation practices its terrestrial arithmetic. Under the glass orchard, seven pale instruments consider whether the river is a question or merely an elegant postponement. Their answer, if one exists, remains inside the green machinery of afternoon.
+      I serve as Service Line Chief for Vascular Surgery at the DeBakey VA Medical Center and as Program Director of Baylor College of Medicine’s vascular surgery fellowship. Much of my work has involved bringing different specialties together, reducing delays and waste, developing practical clinical guidance, and improving the education of students, residents, and fellows.
     </p>
 
     <p>
-      Meanwhile, the ferric garden develops an affection for asymmetry. Its branches negotiate with wind, limestone, and the occasional republic of sparrows. A corridor of quiet engines extends beyond the visible wall, each one tuned to the frequency of unfinished maps and improbable weather.
+      My academic work includes more than 150 peer-reviewed publications spanning limb salvage, vascular outcomes, health economics, clinical trials, and the organization of vascular care. Across these roles, I am most interested in turning evidence into systems that remain effective under the constraints of real clinical practice..
     </p>
 
-    <p>
-      By evening, the provisional atlas has become almost luminous. Vessels, stairways, and borrowed alphabets converge without explanation, then separate into useful fragments. The work continues wherever the black water touches the white margin and discovers another direction.
-    </p>
   </div>
 
   <section class="about-page__current-work" aria-labelledby="current-work-heading">
