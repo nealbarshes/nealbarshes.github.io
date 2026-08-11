@@ -18,6 +18,8 @@ classes: wide
     --works-gap-y: clamp(2.25rem, 4vw, 4rem);
     --works-text: #202124;
     --works-muted: #6f706d;
+    --works-frame: #d8d8d4;
+    --works-image-ground: #f7f7f4;
     color: var(--works-text);
   }
 
@@ -48,6 +50,12 @@ classes: wide
     margin: 0;
   }
 
+  .works-card__figure {
+    overflow: hidden;
+    border: 1px solid var(--works-frame);
+    background: #fff;
+  }
+
   .works-card__link {
     display: block;
     color: inherit;
@@ -56,7 +64,7 @@ classes: wide
 
   .works-card__image-frame {
     overflow: hidden;
-    background: #ecebe7;
+    background: var(--works-image-ground);
   }
 
   .works-card--landscape .works-card__image-frame {
@@ -77,6 +85,8 @@ classes: wide
   }
 
   .works-card__caption {
+    box-sizing: border-box;
+    width: 100%;
     margin: 0;
     padding: 0.62rem 0.7rem 0.68rem;
     background: #fff;
@@ -91,7 +101,7 @@ classes: wide
   }
 
   .works-card__description {
-    margin: 0.22rem 0 0;
+    margin: 0.16rem 0 0;
     color: var(--works-muted);
     font-size: clamp(0.68rem, 0.8vw, 0.76rem);
     line-height: 1.35;
