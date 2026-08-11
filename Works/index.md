@@ -8,41 +8,44 @@ classes: wide
 
 <style>
   /* ==========================================================
-     WORKS — RESPONSIVE PROJECT INDEX
+     WORKS — VISUAL PROJECT INDEX
      Two columns on desktop; one column on mobile.
+     Add either works-card--landscape or works-card--portrait.
      ========================================================== */
 
   .works-index {
-    --works-gap-x: clamp(1.5rem, 3vw, 3rem);
-    --works-gap-y: clamp(2.75rem, 5vw, 5rem);
+    --works-gap-x: clamp(1.25rem, 2.6vw, 2.75rem);
+    --works-gap-y: clamp(2.25rem, 4vw, 4rem);
     --works-text: #202124;
-    --works-muted: #6b6b68;
-    --works-rule: #d9d8d3;
+    --works-muted: #6f706d;
     color: var(--works-text);
   }
 
   .works-index__intro {
-    max-width: 44rem;
-    margin: 0 0 clamp(2.5rem, 6vw, 5rem);
+    max-width: 37rem;
+    margin: 0 0 clamp(2.25rem, 5vw, 4.5rem);
   }
 
   .works-index__intro p {
     margin: 0;
-    font-size: clamp(1.08rem, 1.5vw, 1.35rem);
-    line-height: 1.55;
+    font-size: clamp(1rem, 1.3vw, 1.2rem);
+    line-height: 1.5;
   }
 
   .works-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: start;
     column-gap: var(--works-gap-x);
     row-gap: var(--works-gap-y);
     margin: 0;
     padding: 0;
   }
 
-  .works-card {
+  .works-card,
+  .works-card__figure {
     min-width: 0;
+    margin: 0;
   }
 
   .works-card__link {
@@ -52,9 +55,16 @@ classes: wide
   }
 
   .works-card__image-frame {
-    aspect-ratio: 3 / 2;
     overflow: hidden;
     background: #ecebe7;
+  }
+
+  .works-card--landscape .works-card__image-frame {
+    aspect-ratio: 3 / 2;
+  }
+
+  .works-card--portrait .works-card__image-frame {
+    aspect-ratio: 4 / 5;
   }
 
   .works-card__image {
@@ -66,49 +76,42 @@ classes: wide
     transition: transform 280ms ease;
   }
 
-  .works-card__body {
-    padding-top: 1rem;
-    border-top: 1px solid transparent;
+  .works-card__caption {
+    margin: 0;
+    padding: 0.62rem 0.7rem 0.68rem;
+    background: #fff;
   }
 
   .works-card__title {
     margin: 0;
     color: var(--works-text);
-    font-size: clamp(1.18rem, 1.8vw, 1.55rem);
-    line-height: 1.18;
-  }
-
-  .works-card__meta {
-    margin: 0.55rem 0 0;
-    color: var(--works-muted);
-    font-size: 0.78rem;
-    line-height: 1.45;
-    letter-spacing: 0.055em;
-    text-transform: uppercase;
+    font-size: clamp(0.92rem, 1.2vw, 1.05rem);
+    font-weight: 600;
+    line-height: 1.2;
   }
 
   .works-card__description {
-    margin: 0.65rem 0 0;
-    color: var(--works-text);
-    font-size: 0.96rem;
-    line-height: 1.55;
+    margin: 0.22rem 0 0;
+    color: var(--works-muted);
+    font-size: clamp(0.68rem, 0.8vw, 0.76rem);
+    line-height: 1.35;
   }
 
   .works-card__link:hover .works-card__image,
   .works-card__link:focus-visible .works-card__image {
-    transform: scale(1.025);
+    transform: scale(1.018);
   }
 
   .works-card__link:hover .works-card__title,
   .works-card__link:focus-visible .works-card__title {
     text-decoration: underline;
     text-decoration-thickness: 1px;
-    text-underline-offset: 0.18em;
+    text-underline-offset: 0.16em;
   }
 
   .works-card__link:focus-visible {
     outline: 2px solid currentColor;
-    outline-offset: 0.4rem;
+    outline-offset: 0.35rem;
   }
 
   @media (max-width: 700px) {
@@ -117,7 +120,7 @@ classes: wide
     }
 
     .works-index__intro {
-      margin-bottom: 2.75rem;
+      margin-bottom: 2.5rem;
     }
   }
 
@@ -130,68 +133,70 @@ classes: wide
 
 <div class="works-index">
   <div class="works-index__intro">
-    <p>Selected work in limb preservation, clinical systems design, research, and open-access education.</p>
+    <p>Selected work in limb preservation, clinical systems, research, and education.</p>
   </div>
 
   <div class="works-grid">
 
-    <!-- PROJECT CARD 1 — Duplicate this entire article to add another project. -->
-    <article class="works-card">
+    <!-- LANDSCAPE CARD — recommended source crop: 1800 × 1200 px -->
+    <article class="works-card works-card--landscape">
       <a class="works-card__link" href="{{ '/SystemOfCare/' | relative_url }}">
-        <div class="works-card__image-frame">
-          <img
-            class="works-card__image"
-            src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&amp;fit=crop&amp;w=1800&amp;q=85"
-            alt="Clinician working in a hospital setting"
-            width="1800"
-            height="1200"
-            loading="eager"
-            decoding="async"
-          >
-        </div>
-        <div class="works-card__body">
-          <h2 class="works-card__title">Houston Limb Preservation System</h2>
-          <p class="works-card__meta">Clinical systems design · 2012–present</p>
-          <p class="works-card__description">A coordinated, adaptable system of care designed to prevent avoidable major amputations.</p>
-        </div>
+        <figure class="works-card__figure">
+          <div class="works-card__image-frame">
+            <img
+              class="works-card__image"
+              src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&amp;fit=crop&amp;w=1800&amp;q=85"
+              alt="Clinician working in a hospital setting"
+              width="1800"
+              height="1200"
+              loading="eager"
+              decoding="async"
+            >
+          </div>
+          <figcaption class="works-card__caption">
+            <h2 class="works-card__title">Houston Limb Preservation System</h2>
+            <p class="works-card__description">A coordinated system of care for preventing major amputation.</p>
+          </figcaption>
+        </figure>
       </a>
     </article>
 
-    <!-- PROJECT CARD 2 -->
-    <article class="works-card">
+    <!-- PORTRAIT CARD — recommended source crop: 1440 × 1800 px -->
+    <article class="works-card works-card--portrait">
       <a class="works-card__link" href="{{ '/Tutorials/' | relative_url }}">
-        <div class="works-card__image-frame">
-          <img
-            class="works-card__image"
-            src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&amp;fit=crop&amp;w=1800&amp;q=85"
-            alt="Anatomical teaching model in a medical classroom"
-            width="1800"
-            height="1200"
-            loading="lazy"
-            decoding="async"
-          >
-        </div>
-        <div class="works-card__body">
-          <h2 class="works-card__title">Clinical Tutorials</h2>
-          <p class="works-card__meta">Open-access surgical education</p>
-          <p class="works-card__description">Practical, evidence-informed teaching resources for clinicians working in limb salvage.</p>
-        </div>
+        <figure class="works-card__figure">
+          <div class="works-card__image-frame">
+            <img
+              class="works-card__image"
+              src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&amp;fit=crop&amp;w=1440&amp;h=1800&amp;q=85"
+              alt="Anatomical teaching model in a medical classroom"
+              width="1440"
+              height="1800"
+              loading="lazy"
+              decoding="async"
+            >
+          </div>
+          <figcaption class="works-card__caption">
+            <h2 class="works-card__title">Clinical Tutorials</h2>
+            <p class="works-card__description">Open-access teaching for clinicians working in limb salvage.</p>
+          </figcaption>
+        </figure>
       </a>
     </article>
 
-    <!-- Add future project cards here. The grid will create new rows automatically. -->
+    <!--
+      Add future cards here. Use one orientation class per card:
+      works-card--landscape  (3:2; crop to 1800 × 1200 px)
+      works-card--portrait   (4:5; crop to 1440 × 1800 px)
+    -->
 
   </div>
 </div>
 
 <!--
-  PLACEHOLDER PHOTOGRAPHY
-  Images are temporarily loaded from Unsplash. Before publication, replace each
-  src with a local site asset, for example:
-
+  Replace each temporary Unsplash URL with a local asset when ready, e.g.:
   src="{{ '/assets/images/works/system-of-care.jpg' | relative_url }}"
 
-  Crop all local thumbnails to 3:2 at 1800 × 1200 px. A minimum of 1200 × 800 px
-  is acceptable. Keep the focal subject away from the extreme edges because
-  object-fit: cover will trim any image that is not already 3:2.
+  The CSS enforces the selected orientation with object-fit: cover. Preparing
+  the source image in the matching ratio gives you exact control of the crop.
 -->
