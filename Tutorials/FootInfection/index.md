@@ -10,9 +10,8 @@
 </script>
 </head>
 
-# Deep Infection? Drain/Incise
+## First: Be vigilant in identifying soft tissue
 
-### First: Be vigilant in identifying soft tissue
 Foot infections are a common precursor to the decision for leg amputation. 
 Infection can cause systemic illness (including [acute kidney injury](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/AKIosteomyelitis.pdf) and [acute coronary syndrome](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/ACSinDFI.pdf)). 
 Surgery is often an important component to the treatment of infection.
@@ -79,8 +78,17 @@ M= | Multivitamin 1 cap daily
 B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 
 
+### Empiric antibiotic treatment
 
-Do not empirically treat for <i>Pseudomonas</i>, as this organism represents [only 3% of isolates at our hospital](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFO%20treatment%20failure.pdf). Similarly, do not empirically treat for methicillin-sensitive <i>Staphylococcus aureus</i> (MRSA). For those with no abscess and negative MRSA nasal swab testing is negative, MRSA has been found in foot microbiology in only [5% of our patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). This increases to [22% with either abscess or MRSA nasal swab findings and to 58% with both](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). 
+Ceftriaxone is the primary empiric antibiotic given to patients who have not yet had operative treatment or whose culture results are pending. 
+
+Empiric treatment of methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) should be reserved for patients going to the operating room 
+
+For those with no fluctuance/abscess and negative MRSA nasal swab testing is negative, MRSA has been found in foot microbiology in only [5% of our patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). This increases to [22% with either abscess or MRSA nasal swab findings and to 58% with both](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). 
+
+Do not empirically treat for <i>Pseudomonas</i>, as this organism represents [only 3% of isolates at our hospital](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFO%20treatment%20failure.pdf). 
+
+Because of our vascular team’s ownership of limb salvage, we have had a primarily surgical approach to the management of foot infections, including osteomyelitis. Specifically, 92% of our patients have had surgical biopsies and cultures taken as part of their operative treatment. These have been used to select an antimicrobial regimen directed to the organisms identified. Antimicrobial regimens have consisted predominately of oral antibiotics (95%) since 2011 . Finally, contrary to guidelines emphasizing the importance of Gram positive organisms, our analyses have shown that Gram negative organisms are associated treatment failure  and that methicillin-resistant Staphylococcus aureus is not ; for this reason, we have focused more attention on improving outcomes in patients with these organisms. We re-biopsy if treatment failure occurs, as we have observed shifts in microbial species involved during treatment .
 
 
 ### Inpatient Management: Operative Treatment of Infection
@@ -103,6 +111,15 @@ Here is a brief (5 minute 3 second) video primer that discusses operative treatm
 </p>
 
 Post-op orders: Continue most admission orders; saline lock IV; add diabetic diet + Glucerna BID, Iodosorb (cadexomer iodine) ointment; Do NOT order labs for POD#1
+
+### Microbiology
+
+![Foot infections: polymicrobial patters](/assets/Barshes_Polymicrobial_VennDiagram_WM2.jpg)
+
+![Foot infections: polymicrobial patters](/assets/Barshes_Polymicrobial_VennDiagram_WM2.jpg)
+
+
+
 
 
 ### Atypical presentations: 
