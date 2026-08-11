@@ -114,9 +114,12 @@ Post-op orders: Continue most admission orders; saline lock IV; add diabetic die
 
 ### Microbiology
 
-![Foot infections: polymicrobial patters](/assets/Barshes_Polymicrobial_VennDiagram_WM2.jpg)
 
 ![Foot infections: polymicrobial patters](/assets/Barshes_Polymicrobial_VennDiagram_WM2.jpg)
+
+
+
+![Foot infections: polymicrobial patters](/assets/Barshes_Polymicrobial_Outcomes_WM.jpeg)
 
 
 
