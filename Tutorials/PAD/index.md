@@ -11,8 +11,8 @@
 </head>
 
 <br>
-<br>
-# Why is it <i>Critical</i> to Identify Peripheral Artery Disease (PAD) in Patients with Foot Ulcers?
+
+# Why is it <i>critical</i> to identify peripheral artery disease (PAD) in patients with foot ulcers?
 
 Among patients foot ulcer or foot gangrene, 1-year rates of leg amputation are [50-60% (see review)](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) if peripheral artery disease (PAD) is <i>untreated</i> or <i>unrecognized</i>. In contrast, 1-year leg amputation rates <i>following revascularization</i> are [90%](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf). 
 
@@ -21,9 +21,8 @@ Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcer
 <br>
 <br>
 <br>
-<br>
 
-# An Evidence-Based Approach to Testing
+# An evidence-based approach to testing
 There currently is no non-invasive test that has perfect diagnostic accuracy for PAD. Because of the negative consequences on limb outcomes that occur when PAD is missed, the ideal strategy toward testing should be:
 1. An initial screening test with 100% **sensitivity**.
 2. A confirmatory test with 100% **specificity**.
@@ -40,7 +39,7 @@ These two [formal decision analysis](https://nealbarshes.github.io/_articles/Bar
 <br>
 <hr>
 
-## The BEST strategy:
+## The BEST identification strategy:
 <b><u>Feel for pedal pulses</u>.</b> 
 1. If at least one pedal pulse is **NORMAL/2+ PALPABLE**: confirm with non-invasive testing to corroborate adequate arterial perfusion. **Angiography** if toe-brachial index >0.7 (see below).
 2. If pedal pulses are <b><u>WEAK</u> or <u>ABSENT</u></b>: **angiography** without the need for non-invasive testing.
@@ -60,31 +59,31 @@ In addition, <b>consider angiography without need for non-invasive testing if an
 <hr>
 
 ## An acceptable alternative:
-<b><u>Non-invasive testing for all patients</u></b>.
-1. **Angiogram** to investigate abnormal results = <b><u>83%</u> sensitivity</b> (i.e. misses the diagnosis of PAD in about <b><u>one out of every six patients</u></b> with PAD.
+Non-invasive testing for **all patients**.
+1. **Angiogram** to investigate abnormal results = <b><u>83%</u> sensitivity</b> (i.e. misses the diagnosis of PAD in about <u>one out of every six patients</u> with PAD.
 
 <hr>
 <br>
 
-Reserving non-invasive testing for patients with weak or absent pedal pulses, then doing angiography only if this is abnormal is associated with a <b>low</b> sensitivity rate in finding PAD. This may be at least partly explained by the poor diagnostic accuracy of palpating for pedal pulses in diabetic feet.
+Findings from the decision analysis suggest that reserving non-invasive testing for use only in further evaluation of patients with weak or absent pedal pulses has a very LOW sensitivity rate in finding PAD. This may be at least partly explained by the poor diagnostic accuracy of palpating for pedal pulses in diabetic feet.
 <br>
 <br>
 
-<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u></b>> to rule out PAD</span>.</blockquote>
+<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">In summary, <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>INSUFFICIENT</u></b> to reliably rule out PAD</span>.</blockquote>
 
 <br>
 <br>
 <br>
 <br>
 
-## Prioritizing the Toe-Brachial Index of 0.7
-Since performing that formal decision analysis, we have corroborated findings in a study that compared angiographic with non-invasive testing results on 100 consecutive patients with non-healing ulcers and suspected PAD. PAD severity as seen on digital subtraction angiography was quantified independently by two board-certified vascular surgeons using the Society for Vascular Surgery Global Limb Anatomic Staging System [GLASS] classification system. Non-invasive pressure testing was done by registered vascular technicians in an ICAVL-approved vascular lab. Medial artery calcification was quantified on foot radiographs. 
+## Preferring the Toe-Brachial Index
+Since performing that formal decision analysis, we have corroborated findings in a study that compared angiographic with non-invasive testing results on 100 consecutive patients with non-healing ulcers and suspected PAD. PAD severity as seen on digital subtraction angiography was quantified independently by two board-certified vascular surgeons using the Society for Vascular Surgery Global Limb Anatomic Staging System (GLASS) classification system. Non-invasive pressure testing was done by registered vascular technicians in an ICAVL-approved vascular lab. Medial artery calcification was quantified on foot radiographs. 
 
 The <u>most important finding</u> of this analysis:
 
-**Toe-brachial index of 0.7 was the single most sensitive testing threshold** to identify GLASS 2 or 3 (moderate/severe) peripheral artery disease. This parameter outperformed absolute pressure thresholds and WIfI ischemia grading. This parameter was also affected far less by medial artery calcification in the foot. 
+**Toe-brachial index of 0.7 was the single most sensitive testing threshold** to identify GLASS 2 or 3 (moderate/severe) PAD. This parameter outperformed absolute pressure thresholds and WIfI ischemia grading. This parameter was also affected far less by medial artery calcification of foot arteries. 
 
-![GLASS 2 and 3 sensitivity rates](https://nealbarshes.github.io/assets/Barshes_SensitivityBarGraphGLASS23_PortraitColor_WM2.jpg)_
+![GLASS 2 and 3 sensitivity rates](https://nealbarshes.github.io/assets/Barshes_SensitivityBarGraphGLASS23_PortraitColor_WM2.jpg)
 
 
 
