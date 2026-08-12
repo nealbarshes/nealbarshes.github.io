@@ -31,10 +31,10 @@ A [formal decision analysis](https://nealbarshes.github.io/_articles/Barshes-PAD
 
 <br>
 Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u> to rule out PAD</span>.
-
+<br>
 <br>
 <blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">text</blockquote>
-
+<br>
 <br>
 
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
