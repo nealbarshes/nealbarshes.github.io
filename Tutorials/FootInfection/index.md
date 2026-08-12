@@ -10,7 +10,7 @@
 </script>
 </head>
 
-## First: Be vigilant in identifying soft tissue
+## Be vigilant in identifying foot infection
 
 Foot infections are a common precursor to the decision for leg amputation. 
 Infection can cause tissue necrosis and systemic illness. It is therefore critical to identify foot infection early.
@@ -32,6 +32,7 @@ Foot infection should be assumed present unless proven otherwise in all patients
 |  |  erythema  |
 |  |  fluctuance  |
 |  |  <i>any</i> drainage (not only purulent) |
+|  |  blisters / bullae  |
 |  |  foot or calf edema  |
 |  |  supranormal laxity of a joint (suggests a joint capsule that isn't intact  |
 |  |  foul odor  |
@@ -50,7 +51,7 @@ Foot infection should be assumed present unless proven otherwise in all patients
 
 
 <blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">
-Suspect infection if <span style="color:red">any</span> of these symptoms/signs/findings are present. These findings are <span style="color:red"><b>specific but <u>not sensitive</u>:</b></span> in other words, <span style="color:red"><b>absence of these findings does <u>NOT</u> rule out infection</b></span>.</blockquote>.
+Suspect infection if <span style="color:red">any</span> of these symptoms/signs/findings are present. These findings are <span style="color:red"><b>specific but <u>not sensitive</u>:</b></span> in other words, <span style="color:red"><b>absence of these findings does <u>NOT</u> rule out infection</b></span>.</blockquote>
 
 
 Here's a brief (5 minute 8 second) video primer on identifying foot infections:
@@ -60,9 +61,34 @@ Here's a brief (5 minute 8 second) video primer on identifying foot infections:
   </a>
 </p>
 
+## Accurately Describing a Foot Infection in Words
+
+#### The Instigating Ulcer
+Foot infections enter the soft tissue plans, joint spaces and bony structures of the foot via a **foot ulcer** (a.k.a. "wound"): a **full-thickness epithelial defect** located **distal to the malleoli**. The first step in describing an infection is therefore describing any ulcers on the foot:
+1. Location: use medial/lateral/plantar/dorsal, toes/forefoot/midfoot/heel, distal/proximal, and/or glabrous/non-glabrous. Also in relation to anatomic structures (ex. "second toe, over the dorsal aspect of the proximal interphalangeal joint)."
+2. Size: in fractions of inches, but centimeters if you must.
+3. Depth/base: expressed as a layer (dermis/fat/fascia/bone) or at least what you see at the base (tendon, debris, etc.) or overlying it (ex. eschar).
+
+
+#### Local/Regional Signs of Infection
+Name any of the aforementioned **exam signs** you see, along with where they are in relation to the instigating ulcer. Most structures in the foot are oriented in a longitudinal direction, and infection often tracks longitudinally along these structures. Note that plantar ulcers sometimes track through the forefoot at the level of the distal metatarsals, sometimes causing fluctuance and drainage on the <i>dorsal</i> side of the foot.
+
+Then describe any abnormal findings or pertinent negatives from the **x-rays**. 
+
+
+#### Systemic Inflammatory/Infection Signs
+The aforementioned **systemic signs** seen on exam, followed by abnormal **lab results**. 
+
+
+
+## Tips to Improve Your Ability to Identify Infection
 
 #### Regarding the Unmerited Focus on Pus
-Please note too that pus is not the <i>sine qua non</i> of infection. First of all, not all infections are purulent. Consider gangrenous cholecystitis, for example. Second, pus is not the problem, but rather a reaction to the problem. Whereas Galen might have been proud to see you squeezing a foot and draining pus to release the excessive humor of phlegm, you -- as a contemporary surgeon in-training -- should know that surgical treatment should drain and treat the underlying infection.
+Please note that pus is not the <i>sine qua non</i> of infection. 
+
+First of all, not all infections are purulent. Consider gangrenous cholecystitis, for example. While MRSA and MSSA have been associated with fluctuance, other organisms -- such as gram negative and anaerobic bacteria -- more often cause a soft tissue necrosis response. 
+
+Second, pus is not the problem, but rather a reaction to the problem. Whereas Galen might have been proud to see you squeezing a foot and draining pus to release the excessive humor of phlegm, you -- as a contemporary surgeon in-training -- should know that surgical treatment should drain and treat the underlying infection.
 
 
 #### Regarding the Unmerited Emphasis on the Neutrophil Count
@@ -78,9 +104,10 @@ Seeing gangrenous tissue (including eschar) that is "dry" does not rule out infe
 
 
 
+## Admission Orders
 
+Patients with systemic signs of infection or concerning local signs should be hospitalized.
 
-### Admission orders
 
 #### Admission Laboratory Studies
 1. Type and SCREEN
