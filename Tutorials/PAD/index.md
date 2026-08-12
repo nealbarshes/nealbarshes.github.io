@@ -10,13 +10,18 @@
 </script>
 </head>
 
-# Why is it Critical to Identify Peripheral Artery Disease (PAD) in Patients with Foot Ulcers?
+# Why is it <i>Critical</i> to Identify Peripheral Artery Disease (PAD) in Patients with Foot Ulcers?
 
 Among patients foot ulcer or foot gangrene, 1-year rates of leg amputation are [50-60% (see review)](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) if peripheral artery disease (PAD) is <i>untreated</i> or <i>unrecognized</i>. In contrast, 1-year leg amputation rates <i>following revascularization</i> are [90%](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf). 
 
 Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcers may be the <b>single most influential factor in amputation prevention</b>. Revascularization is [cost-effective](https://nealbarshes.github.io/__articles/Barshes-BypassLeg_MOVIEanalysis.pdf) and may even provide [cost-savings in frail, elderly patients](https://nealbarshes.github.io/__articles/Barshes-BypassLeg_MarginalPatients.pdf).
 
-# Diagnostic Strategies to Identify  Peripheral Artery Disease (PAD)
+<br>
+<br>
+<br>
+<br>
+
+# An Approach to Testing
 There currently is no non-invasive test that has perfect diagnostic accuracy for PAD. Because of the negative consequences on limb outcomes that occur when PAD is missed, the ideal strategy toward testing should be:
 1. An initial screening test with 100% **sensitivity**.
 2. A confirmatory test with 100% **specificity**.
@@ -25,15 +30,16 @@ This is exactly the same strategy with other high-stakes testing done in health 
 
 <br>
 <br>
+<br>
+<br>
 
 # Evidenced-Based Best Practice in Identifying PAD
 A [formal decision analysis](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) identified these as the two sensitive strategies to identify PAD in patients with foot ulcers.
 
 <br>
-Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u></b>> to rule out PAD</span>.
 <br>
 <br>
-<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">text</blockquote>
+<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u></b>> to rule out PAD</span>.</blockquote>
 <br>
 <br>
 
@@ -43,14 +49,13 @@ Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients
 
 ## The BEST strategy:
 <b><u>Feel for pedal pulses</u>.</b> 
-
-If at least one pedal pulse is **NORMAL/2+ PALPABLE**: confirm with non-invasive testing to corroborate adequate arterial perfusion. **Angiography** if toe-brachial index >0.7 (see below).
-
-If pedal pulses are <b><u>WEAK</u> or <u>ABSENT</u></b>: **angiography** without the need for non-invasive testing.
+1. If at least one pedal pulse is **NORMAL/2+ PALPABLE**: confirm with non-invasive testing to corroborate adequate arterial perfusion. **Angiography** if toe-brachial index >0.7 (see below).
+2. If pedal pulses are <b><u>WEAK</u> or <u>ABSENT</u></b>: **angiography** without the need for non-invasive testing.
 
 This strategy has a <b><u>92%</u> sensitivity</b>  (i.e. misses the diagnosis of PAD in only about <b><u>one out of every 13 patients</u></b> with PAD.
 
 In addition, <b>consider angiography without need for non-invasive testing if any of the following specific situations are present:</b>
+
 | finding |
 |---|
 | foot ulcer in area supplied by single angiosome: **heel**, dorsal foot  |
