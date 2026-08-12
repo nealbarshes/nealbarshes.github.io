@@ -39,7 +39,7 @@ These two [formal decision analysis](https://nealbarshes.github.io/_articles/Bar
 <br>
 <hr>
 
-## The BEST identification strategy:
+## The BEST diagnostic strategy:
 <b><u>Feel for pedal pulses</u>.</b> 
 1. If at least one pedal pulse is **NORMAL/2+ PALPABLE**: confirm with non-invasive testing to corroborate adequate arterial perfusion. **Angiography** if toe-brachial index >0.7 (see below).
 2. If pedal pulses are <b><u>WEAK</u> or <u>ABSENT</u></b>: **angiography** without the need for non-invasive testing.
@@ -58,7 +58,7 @@ In addition, <b>consider angiography without need for non-invasive testing if an
 
 <hr>
 
-## An acceptable alternative:
+## An acceptable diagnostic alternative:
 Non-invasive testing for **all patients**.
 1. **Angiogram** to investigate abnormal results = <b><u>83%</u> sensitivity</b> (i.e. misses the diagnosis of PAD in about <u>one out of every six patients</u> with PAD.
 
@@ -76,7 +76,7 @@ Findings from the decision analysis suggest that reserving non-invasive testing 
 <br>
 <br>
 
-## Preferring the Toe-Brachial Index
+# Support for the Toe-Brachial Index
 Since performing that formal decision analysis, we have corroborated findings in a study that compared angiographic with non-invasive testing results on 100 consecutive patients with non-healing ulcers and suspected PAD. PAD severity as seen on digital subtraction angiography was quantified independently by two board-certified vascular surgeons using the Society for Vascular Surgery Global Limb Anatomic Staging System (GLASS) classification system. Non-invasive pressure testing was done by registered vascular technicians in an ICAVL-approved vascular lab. Medial artery calcification was quantified on foot radiographs. 
 
 The <u>most important finding</u> of this analysis:
@@ -86,6 +86,7 @@ The <u>most important finding</u> of this analysis:
 ![GLASS 2 and 3 sensitivity rates](https://nealbarshes.github.io/assets/Barshes_SensitivityBarGraphGLASS23_PortraitColor_WM2.jpg)
 
 
+# Additional Resources
 
 For some further explanation, consider these brief videos on [bedside evaluation](https://www.youtube.com/watch?v=sKwX3dn4a9U) and [non-invasive lower extremity arterial testing](https://www.youtube.com/watch?v=naiNzIrBhoo) for PAD. For further detail still, read [this chapter](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EU0kSBsRMlhCt5UXggH7WHcBRMuWTh_SWQNNVhLQ7gRenA?e=NCmEfv) on non-invasive testing for peripheral artery disease.
 <br>
