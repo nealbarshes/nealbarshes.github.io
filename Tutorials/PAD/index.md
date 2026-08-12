@@ -12,9 +12,9 @@
 
 # Why is it Critical to Identify Peripheral Artery Disease (PAD) in Patients with Foot Ulcers?
 
-Among patients foot ulcer or foot gangrene, 1-year rates of leg amputation are [50-60% (see review)](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf) if peripheral artery disease (PAD) is <i>untreated</i> or <i>unrecognized</i>. In contrast, 1-year leg amputation rates <i>following revascularization</i> are [90% (see review)](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20framework%20for%20foot%20keeping.pdf). 
+Among patients foot ulcer or foot gangrene, 1-year rates of leg amputation are [50-60% (see review)](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) if peripheral artery disease (PAD) is <i>untreated</i> or <i>unrecognized</i>. In contrast, 1-year leg amputation rates <i>following revascularization</i> are [90%](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf). 
 
-Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcers may be the <b>single most influential factor in amputation prevention</b>. Revascularization is [cost-effective](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20MOVIE%20analysis.pdf) and may even provide [cost-savings in frail, elderly patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20marginal%20patient%20bypass.pdf).
+Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcers may be the <b>single most influential factor in amputation prevention</b>. Revascularization is [cost-effective](https://nealbarshes.github.io/__articles/Barshes-BypassLeg_MOVIEanalysis.pdf) and may even provide [cost-savings in frail, elderly patients](https://nealbarshes.github.io/__articles/Barshes-BypassLeg_MarginalPatients.pdf).
 
 # Diagnostic Strategies to Identify  Peripheral Artery Disease (PAD)
 There currently is no non-invasive test that has perfect diagnostic accuracy for PAD. Because of the negative consequences on limb outcomes that occur when PAD is missed, the ideal strategy toward testing should be:
@@ -30,7 +30,7 @@ This is exactly the same strategy with other high-stakes testing done in health 
 A [formal decision analysis](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) identified these as the two sensitive strategies to identify PAD in patients with foot ulcers.
 
 <blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">
-Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u> to rule out PAD.</blockquote>
+Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u> to rule out PAD</span>.</blockquote>
 
 
 
