@@ -30,8 +30,7 @@ This is exactly the same strategy with other high-stakes testing done in health 
 A [formal decision analysis](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) identified these as the two sensitive strategies to identify PAD in patients with foot ulcers.
 
 <blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">
-Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>
-  <br> Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u> to rule out PAD.</blockquote>.
+Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u> to rule out PAD.</blockquote>.
 
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
 <br>
