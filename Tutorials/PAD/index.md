@@ -10,6 +10,8 @@
 </script>
 </head>
 
+<br>
+<br>
 # Why is it <i>Critical</i> to Identify Peripheral Artery Disease (PAD) in Patients with Foot Ulcers?
 
 Among patients foot ulcer or foot gangrene, 1-year rates of leg amputation are [50-60% (see review)](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) if peripheral artery disease (PAD) is <i>untreated</i> or <i>unrecognized</i>. In contrast, 1-year leg amputation rates <i>following revascularization</i> are [90%](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf). 
@@ -21,27 +23,18 @@ Thus, the <b>identification and treatment of PAD</b> in patients with foot ulcer
 <br>
 <br>
 
-# An Approach to Testing
+# An Evidence-Based Approach to Testing
 There currently is no non-invasive test that has perfect diagnostic accuracy for PAD. Because of the negative consequences on limb outcomes that occur when PAD is missed, the ideal strategy toward testing should be:
 1. An initial screening test with 100% **sensitivity**.
 2. A confirmatory test with 100% **specificity**.
 
 This is exactly the same strategy with other high-stakes testing done in health care (ex. COVID) and in non-health care situations (ex. pre-boarding screening at airports). 
 
-<br>
-<br>
-<br>
-<br>
-
-# Evidenced-Based Best Practice in Identifying PAD
-A [formal decision analysis](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) identified these as the two sensitive strategies to identify PAD in patients with foot ulcers.
+These two [formal decision analysis](https://nealbarshes.github.io/_articles/Barshes-PAD_IdentificationStrategies.pdf) identified these as the two sensitive strategies to identify PAD in patients with foot ulcers.
 
 <br>
 <br>
-<br>
-<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u></b>> to rule out PAD</span>.</blockquote>
-<br>
-<br>
+
 
 ![PAD identification algorithms](/assets/PADalgorithm1.jpg "PAD identification algorithms")
 <br>
@@ -71,19 +64,20 @@ In addition, <b>consider angiography without need for non-invasive testing if an
 1. **Angiogram** to investigate abnormal results = <b><u>83%</u> sensitivity</b> (i.e. misses the diagnosis of PAD in about <b><u>one out of every six patients</u></b> with PAD.
 
 <hr>
+<br>
 
-<br>
-<br>
 Reserving non-invasive testing for patients with weak or absent pedal pulses, then doing angiography only if this is abnormal is associated with a <b>low</b> sensitivity rate in finding PAD. This may be at least partly explained by the poor diagnostic accuracy of palpating for pedal pulses in diabetic feet.
 <br>
+<br>
+
+<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">Simply put, findings suggest that <span style="color:red"><b><u>all</u> patients with foot ulcers</b> should get <b>objective testing</b></span>, either in the form of an <span style="color:red"><b>angiogram</b></span> or <span style="color:red"><b>non-invasive testing</b></span>. Pedal pulse exam alone is <span style="color:red"><b><u>NOT adequate</u></b>> to rule out PAD</span>.</blockquote>
 
 <br>
 <br>
-
-<br>
 <br>
 <br>
 
+## Prioritizing the Toe-Brachial Index of 0.7
 Since performing that formal decision analysis, we have corroborated findings in a study that compared angiographic with non-invasive testing results on 100 consecutive patients with non-healing ulcers and suspected PAD. PAD severity as seen on digital subtraction angiography was quantified independently by two board-certified vascular surgeons using the Society for Vascular Surgery Global Limb Anatomic Staging System [GLASS] classification system. Non-invasive pressure testing was done by registered vascular technicians in an ICAVL-approved vascular lab. Medial artery calcification was quantified on foot radiographs. 
 
 The <u>most important finding</u> of this analysis:
