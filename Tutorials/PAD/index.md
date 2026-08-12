@@ -66,7 +66,9 @@ In addition, <b>consider angiography without need for non-invasive testing if an
 
 <hr>
 
-<b><u>GOOD strategy</u>:</b> non-invasive testing (esp. toe-brachial index or skin perfusion pressure) for <b>everyone</b>, angiogram to investigate abnormal results = <b><u>83%</u> sensitivity</b> (i.e. misses the diagnosis of PAD in about <b><u>one out of every six patients</u></b> with PAD.
+## An acceptable alternative:
+<b><u>Non-invasive testing for all patients</u></b>.
+1. **Angiogram** to investigate abnormal results = <b><u>83%</u> sensitivity</b> (i.e. misses the diagnosis of PAD in about <b><u>one out of every six patients</u></b> with PAD.
 
 <hr>
 
