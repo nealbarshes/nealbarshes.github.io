@@ -21,24 +21,34 @@ Surgery is often an important component to the treatment of infection.
 Foot infection should be assumed present unless proven otherwise in all patients with the following findings.<br> Absence of any of these findings does <i>NOT</i> rule infection.
 
 
-|  <b>finding </b> |
-|  ---  |
-|  nausea  |
-|  anorexia  |
-|  subjective chills or sweats  |
-|  new onset foot pain  |
-|  altered mental status  |
-|  fever  |
-|  tachycardia  |
-|  <i>any</i> drainage (not only purulent) |
-|  foot or calf edema  |
-|  foul odor  |
-|  elevated white blood cell count |
-|  elevated serum procalcitonin |
-|  elevated c-reactive protein |
-|  acute kidney injury  |
-|  criteria for of [SIRS or septic shock](https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria)  |
-|  2+ points on [qSOFA](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis) |
+|  Category:  |  Finding:  |
+|  ---  |  --- |
+|  symptoms  |  nausea  |
+|  |  anorexia  |
+|  |  subjective chills or sweats  |
+|  |  new onset foot pain, <i>especially</i> in patients with baseline sensory neuropathy |
+|  signs  |  altered mental status  |
+|  |  fever  |
+|  |  tachycardia  |
+|  |  <i>any</i> drainage (not only purulent) |
+|  |  foot or calf edema  |
+|  |  foul odor  |
+|  laboratory results  |  leukocytosis: elevated white blood cell count |
+|  |  elevated neutrophil-to-lymphocyte (NLM) ratio |
+|  |  elevated serum procalcitonin |  
+|  |  elevated c-reactive protein |  
+|  |  acute kidney injury  |  
+|  |  hyponatremia  |  
+|  |  bacteremia  |  
+|  summative scoring system  |  criteria for of [SIRS or septic shock](https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria)  |
+|  |  2+ points on [qSOFA](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis) |
+
+
+<blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">
+Suspect infection if <span style="color:red">any</span> of these symptoms/signs/findings are present. These findings are <span style="color:red"><b>specific but <u>not sensitive</u>:</b></span> in other words, <span style="color:red"><b>absence of these findings does <u>NOT</u> rule out infection</b></span>.</blockquote>.
+
+Please note too that pus is not the <i>sine qua non</i> of infection. First of all, not all infections are purulent. Consider gangrenous cholecystitis, for example. Second, pus is not the problem, but rather a reaction to the problem. Whereas Galen might have been proud to see you squeezing a foot and draining pus to release the excessive humor of phlegm, you -- as a contemporary surgeon in-training -- should know that surgical treatment should drain and treat the underlying infection.
+
 
 Here's a brief (5 minute 8 second) video primer on identifying foot infections:
 <p>
@@ -47,7 +57,6 @@ Here's a brief (5 minute 8 second) video primer on identifying foot infections:
   </a>
 </p>
 
-Check out [these videos](https://www.youtube.com/playlist?list=PL65JmypVmSg7gEVB9zfNl-HEbnIUKVoxC) if you would benefit from advice on concise patient presentations.
 
 
 ### Admission orders
@@ -60,6 +69,7 @@ Check out [these videos](https://www.youtube.com/playlist?list=PL65JmypVmSg7gEVB
 5. procalcitonin
 6. brain naturetic peptide (BNP) if new dyspnea/orthopnea, if abnormal EKG or if history of heart failure
 7. PT/PTT/INR only if on anticoagulation
+8. Nares swab for MRSA
 
 ### Medications
 The acronym "SAVE THe LIMB" will help you remember medications that may be important for hospitalized with foot infections:
@@ -80,12 +90,9 @@ B= | Blood pressure meds, baseline + at least one PRN for SBP>140mmHg
 
 ### Empiric antibiotic treatment
 
-Ceftriaxone is the primary empiric antibiotic given to patients who have not yet had operative treatment or whose culture results are pending. 
+<b><u>Ceftriaxone</u></b> is the primary empiric antibiotic given to patients who have not yet had operative treatment or whose culture results are pending. 
 
-Empiric treatment of methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) should be reserved for patients going to the operating room 
+**Vancomycin** for the _empiric_ treatment of methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) should be reserved for patients going to the operating room for incision and drainage of an abscess and/or those patients with MRSA found on nasal swab at admission. The prevalence of MRSA is [22% with either abscess or MRSA+ nasal swab, and 58% with both abscess <i>and</u> MRSA+ nasal swab](https://nealbarshes.github.io/_articles/Ashong&Barshes-MRSAosteomyelitis.pdf). When there is no fluctuance/abscess and negative MRSA nasal swab testing, the prevalence of MRSA is only [5% of our patients].(https://nealbarshes.github.io/_articles/Ashong&Barshes-MRSAosteomyelitis.pdf). 
 
-For those with no fluctuance/abscess and negative MRSA nasal swab testing is negative, MRSA has been found in foot microbiology in only [5% of our patients](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). This increases to [22% with either abscess or MRSA nasal swab findings and to 58% with both](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Ashong%2C%20MRSA%20osteomyelitis%202016.pdf). 
-
-Do not empirically treat for <i>Pseudomonas</i>, as this organism represents [only 3% of isolates at our hospital](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/Barshes%2C%20DFO%20treatment%20failure.pdf). 
-
+Do not empirically use pipercillin-tazobactam (Zosyn©) or cefipime for the _empiric_ treatment of <i>Pseudomonas</i>, as this organism represents [only 3% of isolates at our hospital](https://nealbarshes.github.io/_articles/Barshes-DFO_TreatmentFailure.pdf). 
 
