@@ -86,5 +86,4 @@ The <u>most important finding</u> of this analysis:
 For some further explanation, consider these brief videos on [bedside evaluation](https://www.youtube.com/watch?v=sKwX3dn4a9U) and [non-invasive lower extremity arterial testing](https://www.youtube.com/watch?v=naiNzIrBhoo) for PAD. For further detail still, read [this chapter](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EU0kSBsRMlhCt5UXggH7WHcBRMuWTh_SWQNNVhLQ7gRenA?e=NCmEfv) on non-invasive testing for peripheral artery disease.
 <br>
 <br>
-The <b><i>morning of</i></b> anticipated transition to outpatient care: Remove incisional wound VAC (or post-operative day #5, whichever comes first).
 
