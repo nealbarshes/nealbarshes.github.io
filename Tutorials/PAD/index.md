@@ -79,7 +79,7 @@ The <u>most important finding</u> of this analysis:
 
 **Toe-brachial index of 0.7 was the single most sensitive testing threshold** to identify GLASS 2 or 3 (moderate/severe) peripheral artery disease. This parameter outperformed absolute pressure thresholds and WIfI ischemia grading. This parameter was also affected far less by medial artery calcification in the foot. 
 
-![GLASS 2 and 3 sensitivity rates](assets/Barshes_SensitivityBarGraphGLASS23_PortraitColor_WM2.jpg)_
+![GLASS 2 and 3 sensitivity rates](https://nealbarshes.github.io/assets/Barshes_SensitivityBarGraphGLASS23_PortraitColor_WM2.jpg)_
 
 
 
