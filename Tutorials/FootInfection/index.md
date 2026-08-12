@@ -13,12 +13,11 @@
 ## First: Be vigilant in identifying soft tissue
 
 Foot infections are a common precursor to the decision for leg amputation. 
-Infection can cause systemic illness (including [acute kidney injury](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/AKIosteomyelitis.pdf) and [acute coronary syndrome](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/articles/ACSinDFI.pdf)). 
-Surgery is often an important component to the treatment of infection.
+Infection can cause tissue necrosis and systemic illness. It is therefore critical to identify foot infection early.
 
 ![Foot infections: put out the fire!](/assets/WildfireColor2.png "Foot infections: put out the fire!")
 
-Foot infection should be assumed present unless proven otherwise in all patients with the following findings.<br> Absence of any of these findings does <i>NOT</i> rule infection.
+Foot infection should be assumed present unless proven otherwise in all patients with _any_ of the following findings:
 
 
 |  Category:  |  Finding:  |
@@ -30,8 +29,11 @@ Foot infection should be assumed present unless proven otherwise in all patients
 |  signs  |  altered mental status  |
 |  |  fever  |
 |  |  tachycardia  |
+|  |  erythema  |
+|  |  fluctuance  |
 |  |  <i>any</i> drainage (not only purulent) |
 |  |  foot or calf edema  |
+|  |  supranormal laxity of a joint (suggests a joint capsule that isn't intact  |
 |  |  foul odor  |
 |  laboratory results  |  leukocytosis: elevated white blood cell count |
 |  |  elevated neutrophil-to-lymphocyte (NLM) ratio |
@@ -42,12 +44,13 @@ Foot infection should be assumed present unless proven otherwise in all patients
 |  |  bacteremia  |  
 |  summative scoring system  |  criteria for of [SIRS or septic shock](https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria)  |
 |  |  2+ points on [qSOFA](https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis) |
+|  imaging findings  |  cortical erosions |
+|  |  joint subluxation |
+|  |  soft tissue gas |  
 
 
 <blockquote style="border: 2px solid #A93226; font-style: normal; padding: 60px; font-size:18px; background-color: #FDEDEC;">
 Suspect infection if <span style="color:red">any</span> of these symptoms/signs/findings are present. These findings are <span style="color:red"><b>specific but <u>not sensitive</u>:</b></span> in other words, <span style="color:red"><b>absence of these findings does <u>NOT</u> rule out infection</b></span>.</blockquote>.
-
-Please note too that pus is not the <i>sine qua non</i> of infection. First of all, not all infections are purulent. Consider gangrenous cholecystitis, for example. Second, pus is not the problem, but rather a reaction to the problem. Whereas Galen might have been proud to see you squeezing a foot and draining pus to release the excessive humor of phlegm, you -- as a contemporary surgeon in-training -- should know that surgical treatment should drain and treat the underlying infection.
 
 
 Here's a brief (5 minute 8 second) video primer on identifying foot infections:
@@ -58,10 +61,28 @@ Here's a brief (5 minute 8 second) video primer on identifying foot infections:
 </p>
 
 
+#### Regarding the Unmerited Focus on Pus
+Please note too that pus is not the <i>sine qua non</i> of infection. First of all, not all infections are purulent. Consider gangrenous cholecystitis, for example. Second, pus is not the problem, but rather a reaction to the problem. Whereas Galen might have been proud to see you squeezing a foot and draining pus to release the excessive humor of phlegm, you -- as a contemporary surgeon in-training -- should know that surgical treatment should drain and treat the underlying infection.
+
+
+#### Regarding the Unmerited Emphasis on the Neutrophil Count
+Leukocytosis is has mediocre specificity and poor sensitivity.  In our study of 184 episodes of moderate to severe foot infections, leukocytosis was present in only <b><u>27%</u></b>. You should therefore NOT rely on leukocytosis to indicate the presence of a foot infection. 
+
+
+#### Regarding Osteomyelitis
+Patients do occasionally manifest systemic inflammatory signs due to osteomyelitis alone -- i.e. without any accompanying soft tissue infection. A foot x-ray (ordered as "foot" or "toes") is therefore NECESSARY to rule out infection.
+
+
+#### Regarding Gangrene and Eschars
+Seeing gangrenous tissue (including eschar) that is "dry" does not rule out infection. 
+
+
+
+
 
 ### Admission orders
 
-#### Laboratory studies
+#### Admission Laboratory Studies
 1. Type and SCREEN
 2. CBC with differential
 3. Complete metabolic panel
@@ -71,7 +92,7 @@ Here's a brief (5 minute 8 second) video primer on identifying foot infections:
 7. PT/PTT/INR only if on anticoagulation
 8. Nares swab for MRSA
 
-### Medications
+### Admission Medications
 The acronym "SAVE THe LIMB" will help you remember medications that may be important for hospitalized with foot infections:
 
 Letter | Medication
