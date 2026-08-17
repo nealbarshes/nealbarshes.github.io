@@ -79,12 +79,17 @@ We noted a significant and sustained decrease in our system’s leg amputation r
   <figcaption><b>Figure 3:</b> Major (leg) amputation incidence rates at MEDVAMC among Veterans with diabetes, 2001-2023.</figcaption>
 </figure>
 
+
+
 Temporal trends were even clearer with the ratio of leg amputations to foot ulcer, a metric that focuses on the treatment aspect of care and not fluctuations in the incidence of ulcers or the impact of preventative care (see Figure 3).
+
+
 
 <figure>
   <img src="/assets/Figure_VADecade_Fig3_AmpPerUlcer.jpeg" alt="leg amputation rate">
   <figcaption><b>Figure 4:</b> Ratio of major (leg) amputation to foot ulcers at MEDVAMC among Veterans with diabetes, 2001-2023.</figcaption>
 </figure>
+
 
 The decreased leg amputation rate at MEDVAMC does not seem to be mirroring national or regional trends. During this same period ten-year period, the national VHA annualized amputation rate decreased minimally, from 58 to 54 per 100k (Supplemental Figure C). The leg amputation incidence at non-VHA hospitals in Texas have slightly increased10.
 
