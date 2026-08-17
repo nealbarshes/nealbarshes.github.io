@@ -101,7 +101,7 @@ We noted a significant and sustained decrease in our system’s leg amputation r
 
 
 <figure>
-  <img src="/assets/Figure_VADecade_Fig2_AmpRate.jpg" alt="diabetic foot complications, the disease process">
+  <img src="/assets/Figure_VADecade_Fig2_AmpRate.jpeg" alt="leg amputation rate">
   <figcaption><b>Figure 3:</b> Major (leg) amputation incidence rates at MEDVAMC among Veterans with diabetes, 2001-2023.</figcaption>
 </figure>
 
