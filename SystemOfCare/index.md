@@ -79,9 +79,16 @@ We noted a significant and sustained decrease in our system’s leg amputation r
   <figcaption><b>Figure 3:</b> Major (leg) amputation incidence rates at MEDVAMC among Veterans with diabetes, 2001-2023.</figcaption>
 </figure>
 
+Temporal trends were even clearer with the ratio of leg amputations to foot ulcer, a metric that focuses on the treatment aspect of care and not fluctuations in the incidence of ulcers or the impact of preventative care (see Figure 3).
+
+<figure>
+  <img src="/assets/Figure_VADecade_Fig3_AmpPerUlcer.jpeg" alt="leg amputation rate">
+  <figcaption><b>Figure 4:</b> Ratio of major (leg) amputation to foot ulcers at MEDVAMC among Veterans with diabetes, 2001-2023.</figcaption>
+</figure>
+
+The decreased leg amputation rate at MEDVAMC does not seem to be mirroring national or regional trends. During this same period ten-year period, the national VHA annualized amputation rate decreased minimally, from 58 to 54 per 100k (Supplemental Figure C). The leg amputation incidence at non-VHA hospitals in Texas have slightly increased10.
 
 
-The decreased leg amputation rate at MEDVAMC does not seem to be mirroring national or regional trends. During this same period ten yearten-year period, the national VHA annualized amputation rate decreased minimally, from 58 to 54 per 100k (Supplemental Figure C). The leg amputation incidence at non-VHA hospitals in Texas have slightly increased10.
 
 Value was also reflected in other metrics. We improved safety through a bundled strategy that reduced the risk-adjusted rate of surgical wound infections by 95%11. We prioritized limb salvage in our selection of patients for angiography (Figure 3). We have nearly eliminated our use of stent-grafts and cryopreserved allogenic saphenous vein grafts, expensive surgialsurgical and endovascular implants, respectively that we identified as being more expensive and less effective than other options12–14. Finally, our team achieved a >90% Veterans Signals survey patient trust rating in fiscal years 2021 and 2022.
 
