@@ -52,7 +52,7 @@ People with diabetes are at risk for the development of foot ulcers, or full-thi
 
 <figure>
   <img src="/assets/Figure_VADecade_Fig1_DiseaseState.svg" alt="diabetic foot complications, the disease process">
-  <figcaption>Figure 1: Schematic diagram illustrating the disease spectrum of diabetic foot disease. In brief, at-risk persons with diabetes develop foot ulcers. These foot ulcers provide opportunity for foot infections that can result in leg amputation.</figcaption>
+  <figcaption><b>Figure 1:</b> Schematic diagram illustrating the disease spectrum of diabetic foot disease. In brief, at-risk persons with diabetes develop foot ulcers. These foot ulcers provide opportunity for foot infections that can result in leg amputation.</figcaption>
 </figure>
 
 
@@ -79,9 +79,12 @@ The Michael E. DeBakey Veteran Affairs Medical Center (MEDVAMC) is a 350-bed tea
 Despite this, the leg amputation incidence rate at MEDVAMC in early 2011 was nearly 3-fold higher than the national average within the Veterans’ Health Administration (VHA) system. The inpatient management of Veterans with infected foot ulcers was fragmented, with the general, orthopedic and vascular surgery teams separately providing siloed care. Delays in treatment were common. There was much service- and individual practicionerpractitioner-level practice heterogeneity. No diagnostic or treatment protocols were utilized, and standard treatment components were provided only sporadically.
 
 #### Patient Population
-Characteristics of the MEDVAMC patient population were another challenge. Compared to a 2:1 non-VHA patient cohort matched by diagnosis codes, sex and zip code (Supplemental Table 1), Veterans seen at MEDVAMC for limb salvage at our hospital are older. Nearly half (46%) self-identify as Black race – a characteristic previously associated with a 2-fold higher risk-adjusted rate of leg amputations (see review3). MEDVAMC patients have significantly higher rates of diabetes, chronic kidney disease and systolic heart failure. About one-fifth (22%) travel more than 40 miles for treatment at our hospital, double that of the non-Veteran matched cohort (10.7%). Thirty-five percent currently smoke, and 37% have moderate to severe peripheral artery disease4.
+Characteristics of the MEDVAMC patient population were another challenge. Compared to a 2:1 non-VHA patient cohort matched by diagnosis codes, sex and zip code (Supplemental Table 1), Veterans seen at MEDVAMC for limb salvage at our hospital are older. Nearly half (46%) self-identify as Black race – a characteristic previously associated with a 2-fold higher risk-adjusted rate of leg amputations (see review3). MEDVAMC patients have significantly higher rates of diabetes, chronic kidney disease and systolic heart failure. About one-fifth (22%) travel more than 40 miles for treatment at our hospital (see zip code heatmap, Figure 2), double that of the non-Veteran matched cohort (10.7%). Thirty-five percent currently smoke, and 37% have moderate to severe peripheral artery disease4.
 
-
+<figure>
+  <img src="/assets/Figure_VADecade_Fig_Map.svg" alt="heatmap: patient zip code of residence">
+  <figcaption><b>Figure 2:</b> Heatmap of zip code of residence of Veterans seen at MEDVAMC for limb salvage.</figcaption>
+</figure>
 
 
 ## Program Design
@@ -94,7 +97,15 @@ Throughout the improvement period the vascular surgery team led monthly multidis
 During the study period, our vascular surgery team consisted of 2 to 5 surgeons board-certified in vascular and general surgery, 2 or 3 nurse practicionerspractitioners, and three vascular ultrasound technologists. Associated specialists included: two podiatrists; three geriatricians with with wound care certification; and additional specialists in infectious diseases, vascular medicine, orthopedics and general surgery.
 
 ## PROGRAM ASSESSMENT
-We noted a significant and sustained decrease in our system’s leg amputation rate after the implementation of multidisciplinary meetings and single-team model from early 2012 through 2017 (Figure 2). Specifically, the amputation incidence rate decreased steadily over a five yearfive-year period from a maximum of 160 per 100k per year in February 2012 to a nadir of 66 per 100k per year in April 2017 (an overall 60% decrease). As described above, increases were noted in early 2018, after ceasing the single-team model, and in the summer of 2022, following periods of bed shortages after the onset of the COVID-19 pandemic. Tracking this important metric helped our providers make course corrections.
+We noted a significant and sustained decrease in our system’s leg amputation rate after the implementation of multidisciplinary meetings and single-team model from early 2012 through 2017 (Figure 3). Specifically, the amputation incidence rate decreased steadily over a five yearfive-year period from a maximum of 160 per 100k per year in February 2012 to a nadir of 66 per 100k per year in April 2017 (an overall 60% decrease). As described above, increases were noted in early 2018, after ceasing the single-team model, and in the summer of 2022, following periods of bed shortages after the onset of the COVID-19 pandemic. Tracking this important metric helped our providers make course corrections.
+
+
+<figure>
+  <img src="/assets/Figure_VADecade_Fig2_AmpRate.jpg" alt="diabetic foot complications, the disease process">
+  <figcaption><b>Figure 3:</b> Major (leg) amputation incidence rates at MEDVAMC among Veterans with diabetes, 2001-2023.</figcaption>
+</figure>
+
+
 
 The decreased leg amputation rate at MEDVAMC does not seem to be mirroring national or regional trends. During this same period ten yearten-year period, the national VHA annualized amputation rate decreased minimally, from 58 to 54 per 100k (Supplemental Figure C). The leg amputation incidence at non-VHA hospitals in Texas have slightly increased10.
 
@@ -137,7 +148,7 @@ The introduction of multidisciplinary limb salvage at MEDVAMC in Houston has led
  
 FIGURES LEGENDS
 
-Figure 2: Major (leg) amputation incidence rates at MEDVAMC among Veterans with diabetes, 2001-2023.
+
 Figure 3: Proportion of diagnostic angiography done by the vascular surgery service at MEDVAMC for limb salvage (non-healing foot ulcer or gangrene, with or without infection) versus all other indications.
 
 
