@@ -50,7 +50,12 @@ classes: wide tufte-page
 ## Introduction
 People with diabetes are at risk for the development of foot ulcers, or full-thickness defects in the epithelium of the foot. These defects provide opportunity for bacterial invasion and foot infection, a clinical situation that can lead to leg amputation (Figure 1). Treatment to prevent leg amputation (“limb salvage”) typically requires management across many medical specialties, including podiatry, vascular surgery, infectious diseases. The multidisciplinary team approach to limb salvage was introduced in Boston in 1928{1} and has been the prevailing approach to this cross-specialty medical problem for at least a decade{2}.
 
-![diabetic foot complications, the disease process](/assets/Figure_VADecade_Fig1_DiseaseState.svg)
+<figure>
+  <img src="/assets/Figure_VADecade_Fig1_DiseaseState.svg" alt="diabetic foot complications, the disease process">
+  <figcaption>Figure 1: Schematic diagram illustrating the disease spectrum of diabetic foot disease. In brief, at-risk persons with diabetes develop foot ulcers. These foot ulcers provide opportunity for foot infections that can result in leg amputation.</figcaption>
+</figure>
+
+
 
 Figure 1: Schematic diagram illustrating the disease spectrum of diabetic foot disease. In brief, at-risk persons with diabetes develop foot ulcers. These foot ulcers provide opportunity for foot infections that can result in leg amputation.
 
