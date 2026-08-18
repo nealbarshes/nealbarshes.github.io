@@ -4,7 +4,7 @@ title: "Tutorials"
 permalink: /tutorials/
 description: "Clinical tutorials and practical resources for amputation prevention and limb preservation."
 author_profile: false
-classes: wide tutorial-tech
+classes: wide tutorial-tech tutorial-index
 ---
 
 ## "Limb salvage" 
@@ -27,4 +27,3 @@ Amputation prevention and limb salvage has been challenging because it requires 
 ![PAD and limb loss](/assets/images/tutorials/venndiagram.jpg "PAD and limb loss")
 
 <i>(Venn diagram from our [2013 “System of Care” review paper](/assets/documents/articles/barshes-dfu-systemofcare.pdf))</i>
-

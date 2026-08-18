@@ -22,6 +22,31 @@ body.tutorial-tech .page__content {
   background-color: #ffffff;
 }
 
+/*
+   Match the System of Care reading canvas on tutorial detail pages.
+   The Tutorials landing page keeps its existing index layout.
+*/
+@media (min-width: 901px) {
+  body.tutorial-tech:not(.tutorial-index) #main {
+    width: 80%;
+    max-width: none;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  body.tutorial-tech:not(.tutorial-index) .page {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  body.tutorial-tech:not(.tutorial-index) .page__inner-wrap {
+    width: 100%;
+    max-width: none;
+  }
+}
+
 /* Technical headings, matching the protocols site */
 body.tutorial-tech .page__title,
 body.tutorial-tech .page__content h1,
