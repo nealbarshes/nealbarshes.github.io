@@ -23,7 +23,11 @@
     article.appendChild(content.firstChild);
   }
 
-  var headings = Array.prototype.slice.call(article.querySelectorAll("h2"));
+  var headings = Array.prototype.slice
+    .call(article.querySelectorAll("h2"))
+    .filter(function (heading) {
+      return heading.parentElement === article && heading.textContent.trim();
+    });
   var sections;
 
   if (headings.length) {
