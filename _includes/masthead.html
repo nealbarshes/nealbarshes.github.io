@@ -41,18 +41,10 @@
             </summary>
 
             <ul class="site-menu__list">
-              {%- assign current_path = page.permalink | default: page.url -%}
               {%- for link in site.data.navigation.main -%}
-                {%- assign link_is_active = false -%}
-                {%- if current_path == link.url -%}
-                  {%- assign link_is_active = true -%}
-                {%- elsif link.url != '/' and current_path contains link.url -%}
-                  {%- assign link_is_active = true -%}
-                {%- endif -%}
                 <li class="site-menu__item">
                   <a
                     href="{{ link.url | relative_url }}"
-                    {% if link_is_active %}aria-current="page"{% endif %}
                     {% if link.description %}title="{{ link.description }}"{% endif %}
                     {% if link.target %}target="{{ link.target }}"{% endif %}
                   >
