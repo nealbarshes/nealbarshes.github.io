@@ -7,8 +7,8 @@
      ========================================================== */
 
   .works-index {
-    --works-gap-x: clamp(1.25rem, 2.6vw, 2.75rem);
-    --works-gap-y: clamp(2.25rem, 4vw, 4rem);
+    --works-gap-x: #{unquote("clamp(1.25rem, 2.6vw, 2.75rem)")};
+    --works-gap-y: #{unquote("clamp(2.25rem, 4vw, 4rem)")};
     --works-text: #202124;
     --works-muted: #6f706d;
     --works-frame: #d8d8d4;
@@ -20,12 +20,12 @@
 
   .works-index__intro {
     max-width: 37rem;
-    margin: 0 0 clamp(2.25rem, 5vw, 4.5rem);
+    margin: 0 0 unquote("clamp(2.25rem, 5vw, 4.5rem)");
   }
 
   .works-index__intro p {
     margin: 0;
-    font-size: clamp(1rem, 1.3vw, 1.2rem);
+    font-size: unquote("clamp(1rem, 1.3vw, 1.2rem)");
     line-height: 1.5;
   }
 
@@ -91,7 +91,7 @@
   .works-card__title {
     margin: 0;
     color: var(--works-text);
-    font-size: clamp(0.92rem, 1.2vw, 1.05rem);
+    font-size: unquote("clamp(0.92rem, 1.2vw, 1.05rem)");
     font-weight: 600;
     line-height: 1.2;
     transition: color 220ms ease;
@@ -100,7 +100,7 @@
   .works-card__description {
     margin: 0.16rem 0 0;
     color: var(--works-muted);
-    font-size: clamp(0.68rem, 0.8vw, 0.76rem);
+    font-size: unquote("clamp(0.68rem, 0.8vw, 0.76rem)");
     line-height: 1.35;
   }
 

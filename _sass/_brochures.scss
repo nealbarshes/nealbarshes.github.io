@@ -24,9 +24,9 @@
 .brochure-hero {
   display: grid;
   grid-template-columns: minmax(0, 1.08fr) minmax(20rem, 0.92fr);
-  gap: clamp(2.5rem, 6vw, 5rem);
+  gap: unquote("clamp(2.5rem, 6vw, 5rem)");
   align-items: center;
-  padding: clamp(2.75rem, 6vw, 5rem) 0 clamp(3.5rem, 7vw, 5.5rem);
+  padding: unquote("clamp(2.75rem, 6vw, 5rem)") 0 unquote("clamp(3.5rem, 7vw, 5.5rem)");
 }
 
 .brochure-hero__copy {
@@ -48,7 +48,7 @@
   margin: 0 0 1.25rem;
   color: #17365f;
   font-family: $font-display;
-  font-size: clamp(3rem, 6vw, 5.25rem);
+  font-size: unquote("clamp(3rem, 6vw, 5.25rem)");
   font-weight: 700;
   letter-spacing: -0.055em;
   line-height: 0.92;
@@ -172,7 +172,7 @@
 }
 
 .brochure-translations {
-  padding: clamp(2.5rem, 5vw, 4rem) 0 1rem;
+  padding: unquote("clamp(2.5rem, 5vw, 4rem)") 0 1rem;
   border-top: 1px solid #d8d5cd;
 }
 
@@ -188,7 +188,7 @@
 .brochure-translations__header h2 {
   margin: 0;
   font-family: $font-display;
-  font-size: clamp(1.8rem, 3vw, 2.5rem);
+  font-size: unquote("clamp(1.8rem, 3vw, 2.5rem)");
   font-weight: 600;
   letter-spacing: -0.035em;
   line-height: 1;
@@ -288,4 +288,3 @@
     transform: none;
   }
 }
-

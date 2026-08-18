@@ -46,7 +46,7 @@ body.home {
 
   // Large mobile type that uses most of the available width.
 
-  font-size: clamp(3rem, 12vw, 4.15rem);
+  font-size: unquote("clamp(3rem, 12vw, 4.15rem)");
   line-height: 0.95;
   letter-spacing: -0.03em;
   color: $hero-text;
@@ -183,7 +183,7 @@ body.home {
 
 .home-section-label {
   font-family: $font-display;
-  font-size: clamp(1.35rem, 6.4vw, 1.8rem);
+  font-size: unquote("clamp(1.35rem, 6.4vw, 1.8rem)");
   font-weight: 800;
   line-height: 1;
   letter-spacing: -0.025em;
@@ -230,7 +230,7 @@ body.home {
   // This retains the large illustration while keeping all of it
   // visible within the mobile composition.
 
-  width: min(62vw, 20rem);
+  width: unquote("min(62vw, 20rem)");
   margin: 0;
   padding: 0;
 
@@ -311,7 +311,7 @@ body.home {
     // The desktop hero is deliberately smaller than the mobile
     // version, producing a calmer two- or three-line composition.
 
-    font-size: clamp(2.7rem, 6.25vw, 3.6rem);
+    font-size: unquote("clamp(2.7rem, 6.25vw, 3.6rem)");
     line-height: 0.98;
     letter-spacing: -0.025em;
   }
@@ -329,7 +329,7 @@ body.home {
   .home-sections {
     width: 55%;
     gap: 0.8rem;
-    padding-left: clamp(3rem, 6vw, 6rem);
+    padding-left: unquote("clamp(3rem, 6vw, 6rem)");
   }
 
   .home-section-link {
@@ -349,7 +349,7 @@ body.home {
   }
 
   .home-section-label {
-    font-size: clamp(2.3rem, 3.2vw, 3.3rem);
+    font-size: unquote("clamp(2.3rem, 3.2vw, 3.3rem)");
   }
 
 
@@ -358,7 +358,7 @@ body.home {
      ------------------------------------------------------- */
 
   .home-index-image {
-    width: min(60%, 44rem);
+    width: unquote("min(60%, 44rem)");
 
     // Shift the foot left so the right side of the navigation
     // tiles crosses over the illustration.
