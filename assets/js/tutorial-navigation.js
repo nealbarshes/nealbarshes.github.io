@@ -168,6 +168,13 @@
       }
     });
 
+    if (
+      window.innerHeight + window.scrollY >=
+      document.documentElement.scrollHeight - 2
+    ) {
+      index = sections.length - 1;
+    }
+
     updateNavigation(index);
     ticking = false;
   }
