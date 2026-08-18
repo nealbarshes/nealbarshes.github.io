@@ -17,6 +17,7 @@ repository: "nealbarshes/nealbarshes.github.io"
 search: true
 
 plugins:
+  - jekyll-feed
   - jekyll-include-cache
 
 markdown: kramdown
