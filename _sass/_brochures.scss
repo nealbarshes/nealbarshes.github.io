@@ -1,4 +1,4 @@
-// Page-specific styles for /Brochures/.
+// Page-specific styles for /brochures/.
 // Import this partial after your other custom styles in assets/css/main.scss:
 // @import "brochures";
 
@@ -36,7 +36,7 @@
 .brochure-eyebrow {
   margin: 0 0 0.8rem;
   color: #68645e;
-  font-family: "League Spartan", system-ui, sans-serif;
+  font-family: $font-display;
   font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.13em;
@@ -47,7 +47,7 @@
 .brochure-title {
   margin: 0 0 1.25rem;
   color: #17365f;
-  font-family: "League Spartan", system-ui, sans-serif;
+  font-family: $font-display;
   font-size: clamp(3rem, 6vw, 5.25rem);
   font-weight: 700;
   letter-spacing: -0.055em;
@@ -75,7 +75,7 @@
 
 .brochure-impact strong {
   color: #17365f;
-  font-family: "League Spartan", system-ui, sans-serif;
+  font-family: $font-display;
   font-size: 1.15rem;
   font-weight: 700;
   line-height: 1.1;
@@ -99,7 +99,7 @@
   justify-content: center;
   min-height: 2.8rem;
   padding: 0.65rem 1.15rem;
-  font-family: "League Spartan", system-ui, sans-serif;
+  font-family: $font-display;
   font-size: 0.9rem;
   font-weight: 600;
   line-height: 1;
@@ -187,7 +187,7 @@
 
 .brochure-translations__header h2 {
   margin: 0;
-  font-family: "League Spartan", system-ui, sans-serif;
+  font-family: $font-display;
   font-size: clamp(1.8rem, 3vw, 2.5rem);
   font-weight: 600;
   letter-spacing: -0.035em;
@@ -221,7 +221,7 @@
 
 .brochure-language__name {
   color: #34312d;
-  font-family: "League Spartan", system-ui, sans-serif;
+  font-family: $font-display;
   font-size: 1rem;
   font-weight: 600;
   line-height: 1.35;

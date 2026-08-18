@@ -7,6 +7,8 @@ title_separator: "-"
 subtitle: "vascular surgeon"
 name: "Neal Ryan Barshes, MD, MPH"
 description: "Vascular surgeon focused on limb preservation, outcomes research, education, and health systems improvement."
+logo: "/assets/images/brand/footgoldonlynooutline.png"
+og_image: "/assets/images/home/feetforgithub2.jpg"
 
 url: "https://nealbarshes.github.io"
 baseurl: ""
@@ -38,8 +40,9 @@ defaults:
       layout: single
       author_profile: false
   - scope:
-      path: "Tutorials"
+      path: "tutorials"
       type: "pages"
     values:
       classes:
-        - tutorial-tech    
+        - tutorial-tech
+      breadcrumbs: true

@@ -7,60 +7,31 @@ classes: wide home
 ---
 
 <section class="home-hero-text">
-  <p>
+  <h1>
     Developing cost&#x2011;effective strategies to prevent leg&nbsp;amputations.
-  </p>
+  </h1>
 </section>
 
 <div class="home-index-layout">
 
   <nav class="home-sections" aria-label="Homepage sections">
-
-    <h2 class="home-section-item">
-      <a class="home-section-link" href="/Tutorials/">
-        <span class="home-section-number">01</span>
-        <span class="home-section-divider" aria-hidden="true"></span>
-        <span class="home-section-label">Tutorials</span>
-      </a>
-    </h2>
-
-    <h2 class="home-section-item">
-      <a class="home-section-link" href="/Works/">
-        <span class="home-section-number">02</span>
-        <span class="home-section-divider" aria-hidden="true"></span>
-        <span class="home-section-label">Works</span>
-      </a>
-    </h2>
-
-    <h2 class="home-section-item">
-      <a class="home-section-link" href="/Improvement/">
-        <span class="home-section-number">03</span>
-        <span class="home-section-divider" aria-hidden="true"></span>
-        <span class="home-section-label">System of Care</span>
-      </a>
-    </h2>
-
-    <h2 class="home-section-item">
-      <a class="home-section-link" href="/Brochures/">
-        <span class="home-section-number">04</span>
-        <span class="home-section-divider" aria-hidden="true"></span>
-        <span class="home-section-label">Brochure</span>
-      </a>
-    </h2>
-
-    <h2 class="home-section-item">
-      <a class="home-section-link" href="/About/">
-        <span class="home-section-number">05</span>
-        <span class="home-section-divider" aria-hidden="true"></span>
-        <span class="home-section-label">About</span>
-      </a>
-    </h2>
+    {%- for link in site.data.navigation.main -%}
+      {%- unless link.navigation_only -%}
+        <h2 class="home-section-item">
+          <a class="home-section-link" href="{{ link.url | relative_url }}">
+            <span class="home-section-number">{{ link.number }}</span>
+            <span class="home-section-divider" aria-hidden="true"></span>
+            <span class="home-section-label">{{ link.title }}</span>
+          </a>
+        </h2>
+      {%- endunless -%}
+    {%- endfor -%}
 
   </nav>
 
   <figure class="home-index-image">
     <img
-      src="/assets/FootGoldOnlyNoOutline.png"
+      src="{{ '/assets/images/brand/footgoldonlynooutline.png' | relative_url }}"
       alt="Keep the Foot emblem"
     >
   </figure>

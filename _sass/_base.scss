@@ -1,0 +1,158 @@
+/* =========================================================
+   GLOBAL COLORS
+   ========================================================= */
+
+// Apply the paper color to the primary page surfaces.
+
+html,
+body,
+.initial-content,
+.page,
+.page__inner-wrap,
+.page__content,
+.masthead,
+.custom-masthead-nav {
+  background-color: $paper;
+}
+
+body {
+  color: $text-primary;
+}
+
+:focus-visible {
+  outline: $focus-ring;
+  outline-offset: 3px;
+}
+
+img {
+  height: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+
+/* =========================================================
+   GLOBAL TYPOGRAPHY
+   ========================================================= */
+
+// Source Serif 4 is used for body text and the homepage hero.
+// League Spartan is used for headings, navigation, and titles.
+
+body {
+  font-family: $font-body;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  font-variant-ligatures: common-ligatures;
+  font-feature-settings: "liga" 1, "clig" 1;
+}
+
+
+// Preserve the heading-size hierarchy supplied by Minimal Mistakes.
+// These rules change the typeface, weight, and tracking—not the
+// relative sizes of h1, h2, h3, and the other heading levels.
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page__title,
+.archive__item-title,
+.site-title,
+.masthead__menu-item {
+  font-family: $font-display;
+  letter-spacing: -0.02em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
+
+.archive__item-title,
+.masthead__menu-item {
+  font-weight: 400;
+}
+
+.site-title,
+.page__title {
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+
+// The homepage has a custom hero statement, so its ordinary
+// Minimal Mistakes page title is hidden.
+
+.home .page__title {
+  display: none;
+}
+
+
+/* =========================================================
+   LANGUAGE-SPECIFIC TYPOGRAPHY
+   ========================================================= */
+
+// These fonts are used when the corresponding language attribute
+// appears in translated content.
+
+:lang(ja) {
+  font-family: "Noto Sans JP", system-ui, sans-serif;
+}
+
+:lang(ar),
+:lang(fa),
+:lang(ur) {
+  font-family: "Noto Sans Arabic", system-ui, sans-serif;
+}
+
+:lang(ko) {
+  font-family: "Noto Sans KR", system-ui, sans-serif;
+}
+
+:lang(zh),
+:lang(zh-CN) {
+  font-family: "Noto Sans SC", system-ui, sans-serif;
+}
+
+
+/* =========================================================
+   WIDE SINGLE-PAGE LAYOUT
+   ========================================================= */
+
+// Applies to pages whose front matter contains:
+//
+// classes: wide
+//
+// This removes the narrower standard page column and centers the
+// content inside a 980-pixel working canvas.
+
+.layout--single.wide .page {
+  float: none;
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.layout--single.wide .page__inner-wrap {
+  max-width: $content-wide;
+  margin-right: auto;
+  margin-left: auto;
+}
