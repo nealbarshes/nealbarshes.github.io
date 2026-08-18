@@ -14,6 +14,11 @@ html_files.each do |file|
   ids = html.scan(/\bid=["']([^"']+)["']/i).flatten
   ids.group_by(&:itself).each { |id, values| errors << "#{relative}: duplicate id ##{id}" if values.length > 1 }
 
+  headings = html.scan(/<h1\b[^>]*>(.*?)<\/h1>/im).flatten
+  heading_text = headings.map { |heading| heading.gsub(/<[^>]+>/, "").gsub(/&nbsp;|&#160;/i, " ").strip }
+  errors << "#{relative}: expected one H1, found #{headings.length}" unless headings.length == 1
+  errors << "#{relative}: H1 must not be empty" if heading_text.any?(&:empty?)
+
   html.scan(/<img\b([^>]*)>/i).each do |attrs|
     errors << "#{relative}: image missing alt text" unless attrs.first.match?(/\balt=["'][^"']*["']/i)
   end
@@ -51,4 +56,3 @@ else
   warn errors.sort.join("\n")
   abort("#{errors.length} site check(s) failed.")
 end
-

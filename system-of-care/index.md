@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: content-only
 title: ""
 permalink: /system-of-care/
 description: "A decade of interdisciplinary amputation prevention and health systems improvement."
@@ -133,4 +133,110 @@ Value was also reflected in other metrics. We improved safety through a bundled 
 
 
 <h2 id="challenges" data-system-care-section data-section-label="Challenges">Challenges</h2>
-Our first challenge was a significant increase in the patient-physician ratio, occurring about 5 years into our efforts. Among other providers, two vascular surgeons left MEDVAMC in 2016 for higher-paying non-VHA employment. A planned renovation of one of the two vascular surgery-assigned hybrid operatingworking began also in 2016. Additionally, the number of MEDVAMC patient with diabetes had grown 120% (from 89,400 to 107
+Our first challenge was a significant increase in the patient-physician ratio, occurring about 5 years into our efforts. Among other providers, two vascular surgeons left MEDVAMC in 2016 for higher-paying non-VHA employment. A planned renovation of one of the two vascular surgery-assigned hybrid operatingworking began also in 2016. Additionally, the number of MEDVAMC patient with diabetes had grown 120% (from 89,400 to 107,746 between 2010 and 2016), and the MEDVAMC foot ulcer incidence rate had grown 300% (from 392 to 1183 per 100,000). The net result was a higher clinical work loadworkload among the remaining vascular surgeons with less operating room availability.
+
+To stabilize surgeon retention, we reverted from the “single team” model back to inpatient care being distributed among the general surgery, orthopedic surgery and vascular surgery. After noting an increase in the leg amputation incidence rate (Figure 2), we used our meetings to pivot our focus on multidisciplinary to a focus on interdisciplinary care (i.e.i.e., majority of limb salvage clinical care can be provided by providers of any involved specialties). We worked to establish a local, written interdisciplinary consensus on evaluation and management of Veterans with non-healing foot ulcers (see Supplement) to mitigate the loss of a consolidated inpatient careapproach. Despite much provider turnover, at least one physician or surgeon from the core specialties of vascular surgery, podiatry, and infectious diseases remained throughout the study decade.
+
+An additional hurdle occurred in 2020 when the COVID pandemic initiated a shortage of hospital beds available for non-COVID conditions. This was followed by additionalmore bed shortages due to decreased nursing staff. Our health care system also had a period of restricted outpatient encounters early during the COVID pandemic. We noted Veterans with advanced infections presenting in a delayed fashion during this period, and we noted another increase in the leg amputation incidence rate (Figure 2).
+
+Like many health systems, we pivoted to telephone- and video-based outpatient encounters. We also used publicly-availablepublicly available Texas hospitalization data to identify zip codes with particularly high leg amputation incidence rates, and we sent more than 3,500 educational mailings to Veterans categorized as moderate and high risk for leg amputation who lived in these zip codes. These mailings taught how to recognize foot ulcers and infection, emphasized timely evaluation, and identified named our vascular surgery team as a point-of-contact. We have since seen a further decrease in the MEDVAMC leg amputation incidence to its lowest rate in more than 20 years.
+
+<h2 id="discussion" data-system-care-section data-section-label="Discussion">Discussion</h2>
+A learning organization whose research is directed by clinical observations and whose clinical care is informed by research findings can produce palpable improvements in outcome. Understanding the disease process (Figure 1), then trying to better understand management across the entire range of this disease process has allowed our team to make changes in care that have been systematic in their scope and consistent in their rate. Consolidating inpatient care in a single team model seems to have been effective in reducing amputation rates among diabetic Veterans. That our vascular surgery team served as the hub for limb salvage patients may have been particularly beneficial because of the large impact untreated or unidentified PAD can have and because of the high prevalence of PAD among the limb salvage population seen in our hospital system. To be sustainable, though, a single-team model needs resources. A multi-team model can also be effective in as long as: (1) the degree of multidisciplinary involvement for any given Veteran is appropriate to the individual clinical needs; (2) teams are engaged and willing to contribute in a define role within their specialty; and (3) lines of communication remain open.
+
+Our primary challenge has been and will continue to be retention of our physicians and surgeons. Our main hospital has excellent leadership and a collegial working environment, but the better OR availability, clinical staff support, and salary at non-VA positions has been the basis for many of our physicians – especially surgeons – leaving for other jobs. Despite much staff attrition and a constant flow of resident and fellow trainees, we have been able to keep our clinical approach relatively consistent because of (a) at least one physician or surgeon from each of our four main teams that has fostered a large clinical experience and remained engaged with limb salvage throughout the entire 10- year- period described here; and (b) written local protocols.
+Going forward we will work to ensure all requirements of the 2022 Prevention of Amputation in Veterans Everywhere directive7 are incorporated into care. We hope to standardize local management algorithms further still, both to streamline care and to reduce the opportunity for disparities in treatment. More prophylactic podiatric procedures, surgical forms of offloading, and a shared multidisciplinary clinic space may also further help our patients.
+
+<h2 id="conclusions" data-system-care-section data-section-label="Conclusions">Conclusions</h2>
+The introduction of multidisciplinary limb salvage at MEDVAMC in Houston has led to significant and sustained reductions in leg amputation incidence. These reductions do not seem dependent upon a specific team structure for inpatient care. Efforts to improve patient outcomes should focus on making improvements across the disease spectrum; in the case of limb salvage, this includes primary prevention of foot ulcers, the treatment of foot infection, identification and management of PAD, surgical reconstruction / optimal wound healing, and care for patients who do undergo leg amputation.
+
+<h2 id="references" data-system-care-section data-section-label="References">References</h2>
+1. 	Sanders LJ, Robbins JM, Edmonds ME. History of the team approach to amputation prevention: Pioneers and milestones. Journal of the American Podiatric Medical Association 2010;100(5):317–34.
+2. 	Sumpio BE, Armstrong DG, Lavery LA, Andros G. The role of interdisciplinary team approach in the management of the diabetic foot: A joint statement from the society for vascular surgery and the american podiatric medical association. Journal of the American Podiatric Medical Association 2010;100(4):309–11.
+3. 	Barshes NR, Minc SD. Healthcare disparities in vascular surgery: A critical review. Journal of vascular surgery 2021;74(2):6S–14S.
+4. 	Barshes NR, Mindru C, Ashong C, Rodriguez-Barradas M, Trautner BW. Treatment failure and leg amputation among patients with foot osteomyelitis. The International Journal of Lower Extremity Wounds 2016;15(4):303–12. https://journals.sagepub.com/doi/abs/10.1177/1534734616661058. 10.1177/1534734616661058
+5. 	Barshes NR, Flores E, Belkin M, Kougias P, Armstrong DG, Mills Sr JL. The accuracy and cost-effectiveness of strategies used to identify peripheral artery disease among patients with diabetic foot ulcers. Journal of Vascular Surgery 2016;64(6):1682–90. https://www.sciencedirect.com/science/article/pii/S0741521416303342. 10.1016/j.jvs.2016.04.056
+6. 	Choi JC-B, Miranda J, Greenleaf E, et al. Lower-extremity pressure, staging, and grading thresholds to identify chronic limb-threatening ischemia. Vascular Medicine 2023;28(1):45–53. https://journals.sagepub.com/doi/abs/10.1177/1358863X221147945. 10.1177/1358863X221147945
+7. 	Barshes NR, Chambers JD, Cohen J, Belkin M, Model To Optimize Healthcare Value in Ischemic Extremities (MOVIE) Study Collaborators. Cost-effectiveness in the contemporary management of critical limb ischemia with tissue loss. Journal of vascular surgery 2012;56(4):1015–24. https://www.sciencedirect.com/science/article/pii/S0741521412004843. 10.1016/j.jvs.2012.02.069
+8. 	Barshes NR, Bechara CF, Pisimisis G, Kougias P. Preliminary experiences with early primary closure of foot wounds after lower extremity revascularization. Annals of Vascular Surgery 2014;28(1):48–52. https://www.sciencedirect.com/science/article/pii/S0890509613003828. https://doi.org/10.1016/j.avsg.2013.06.012
+9. 	Barshes NR, Gold B, Garcia A, Bechara CF, Pisimisis G, Kougias P. Minor amputation and palliative wound care as a strategy to avoid major amputation in patients with foot infections and severe peripheral arterial disease. The International Journal of Lower Extremity Wounds 2014;13(3):211–9. https://journals.sagepub.com/doi/abs/10.1177/1534734614543663. 10.1177/1534734614543663
+10. 	Garcia M, Hernandez B, Ellington TG, et al. A lack of decline in major nontraumatic amputations in texas: Contemporary trends, risk factor associations, and impact of revascularization. Diabetes Care 2019;42(6):1061–6.
+11. 	Zamani N, Sharath SE, Vo E, Awad SS, Kougias P, Barshes NR. A multi-component strategy to decrease wound complications after open infra-inguinal re-vascularization. Surgical Infections 2018;19(1):87–94.
+12. 	Barshes NR, Ozaki CK, Kougias P, Belkin M. A cost-effectiveness analysis of infrainguinal bypass in the absence of great saphenous vein conduit. Journal of Vascular Surgery 2013;57(6):1466–70.
+13. 	Zamani N, Sharath S, Browder R, et al. PC158 long-term outcomes after endovascular stent placement for symptomatic, long-segment superficial femoral artery lesions. Journal of Vascular Surgery 2017;65(6):182S–183S.
+14. 	Zamani N, Sharath SE, Browder RC, et al. Outcomes after endovascular stent placement for long-segment superficial femoral artery lesions. Annals of Vascular Surgery 2021;71:298–307.
+
+FIGURES LEGENDS
+
+
+Figure 3: Proportion of diagnostic angiography done by the vascular surgery service at MEDVAMC for limb salvage (non-healing foot ulcer or gangrene, with or without infection) versus all other indications.
+
+
+Neal R. Barshes, M.D., M.P.H.1,2, Aimee D. Garcia, M.D. 1,3, Cezarina Mindru, M.D. 1,4,
+Maria Rodriguez-Barradas, M.D., Ph.D. 1,4, Panos Kougias, M.D., M.S. 5,
+David M. Green, M.D., M.S. 1,6, Samir S. Awad, M.D., M.P.H. 1,7
+
+
+1 Michael E. DeBakey Veterans Affairs Medical Center
+2002 Holcombe Boulevard
+Houston, Texas 77030
+
+2 Division of Vascular Surgery and Endovascular Therapy
+Michael E. DeBakey Department of Surgery
+Baylor College of Medicine
+Houston, Texas 77030
+
+3 Section of Geriatric Medicine
+Department of Medicine
+Baylor College of Medicine
+Houston, Texas 77030
+
+4 Section of Infectious Disease
+Department of Medicine
+Baylor College of Medicine
+Houston, Texas 77030
+
+5 Department of Surgery
+State University of New York (SUNY) Downstate
+Brooklyn, NY 11203
+
+6 Department of Orthopedic Surgery
+Baylor College of Medicine
+Houston, Texas 77030
+
+7 Division of Acute Care Surgery
+Michael E. DeBakey Department of Surgery
+Baylor College of Medicine
+Houston, Texas 77030
+
+
+
+4 Please address correspondence to:
+Neal R. Barshes, M.D., M.P.H.
+Associate Professor of Surgery
+Division of Vascular and Endovascular Surgery
+Michael E. Debakey Department of Surgery
+Baylor College of Medicine / Michael E. DeBakey Veterans Affairs Medical Center
+2002 Holcombe Boulevard (OCL 112)
+Houston, Texas 77030
+
+Phone: 713.791.1414
+E-mail: neal.barshes@va.gov
+
+
+Abstract word count: 211.
+Text word count: 2,191.
+Tables and Figures: five.
+References: seven.
+Potential conflicts of interest: None of the authors has any relationships with industry or other conflicts of interest to disclose. .
+Keywords: amputation prevention; foot ulcer; foot infection; osteomyelitis; peripheral artery disease; femorotibial bypass; evidence-based; interdisciplinary; multidisciplinary.
+
+#### Abbreviations:
+MEDVAMC, Michael E. DeBakey Veteran Affairs Medical Center
+PAD, peripheral artery disease
+VHA, Veterans Healthcare Administration
+
+  </article>
+</div>
+
+<script defer src="{{ '/assets/js/system-of-care-nav.js' | relative_url }}"></script>
