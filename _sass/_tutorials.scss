@@ -45,6 +45,19 @@ body.tutorial-tech .page__content {
     width: 100%;
     max-width: none;
   }
+
+  body.tutorial-tech:not(.tutorial-index) .page__header {
+    margin-left: calc(12rem + clamp(2rem, 3vw, 3rem));
+  }
+}
+
+/* Tutorial navigation reuses the established long-form reading components. */
+body.tutorial-tech .system-care-article h2 {
+  border-top: 0;
+}
+
+body.tutorial-tech .system-care-mobile-nav {
+  background: rgba(255, 255, 255, 0.96);
 }
 
 /* Technical headings, matching the protocols site */
