@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: content-only
 title: ""
 permalink: /brochures/
 description: "Free patient education brochures about diabetes, foot ulcers, infection, and limb preservation in 27 languages."
@@ -158,4 +158,3 @@ classes: wide brochures-page
     </div>
   </div>
 </section>
-

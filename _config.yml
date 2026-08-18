@@ -27,6 +27,10 @@ kramdown:
 include:
   - _pages
 
+exclude:
+  - assets/README.md
+  - assets/documents/articles/README.md
+
 analytics:
   provider: "google-gtag"
   google:
