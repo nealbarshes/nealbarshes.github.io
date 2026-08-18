@@ -909,7 +909,8 @@ $system-care-muted: #6b665e;
 $system-care-rule: #d8d2c7;
 $system-care-track: #e7e1d7;
 
-.system-care-page .page__inner-wrap {
+.layout--single.wide.system-care-page .page__inner-wrap {
+  width: 100%;
   max-width: 1280px;
 }
 
@@ -920,8 +921,8 @@ $system-care-track: #e7e1d7;
 
 .system-care-shell {
   display: grid;
-  grid-template-columns: minmax(13rem, 16rem) minmax(0, 46rem);
-  gap: clamp(3rem, 6vw, 6.5rem);
+  grid-template-columns: 15rem minmax(0, 1fr);
+  gap: clamp(2.5rem, 4vw, 4.5rem);
   align-items: start;
   justify-content: center;
 }
