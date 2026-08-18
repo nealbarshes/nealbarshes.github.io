@@ -15,9 +15,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
+          ruby-version: "3.3"
           bundler-cache: true
       - name: Build site
         run: bundle exec jekyll build
       - name: Check links, assets, IDs, alt text, and filenames
         run: ruby script/check_site.rb
-
