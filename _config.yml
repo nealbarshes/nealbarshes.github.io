@@ -18,7 +18,7 @@ search: true
 
 after_footer_scripts:
   - /assets/js/site-navigation.js
-  - /assets/js/tutorial-navigation.js
+  - /assets/js/tutorial-navigation.js?v=20260817-2
 
 plugins:
   - jekyll-feed
