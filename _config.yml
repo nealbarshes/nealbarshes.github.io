@@ -16,6 +16,9 @@ repository: "nealbarshes/nealbarshes.github.io"
 
 search: true
 
+after_footer_scripts:
+  - /assets/js/site-navigation.js
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
