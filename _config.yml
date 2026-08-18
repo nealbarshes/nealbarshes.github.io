@@ -27,6 +27,18 @@ kramdown:
 include:
   - _pages
 
+exclude:
+  - .bundle
+  - .jekyll-cache
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - assets/README.md
+  - assets/documents/articles/README.md
+  - node_modules
+  - vendor
+
 analytics:
   provider: "google-gtag"
   google:
