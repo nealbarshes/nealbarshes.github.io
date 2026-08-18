@@ -20,7 +20,7 @@ $system-care-track: #e7e1d7;
 .system-care-shell {
   display: grid;
   grid-template-columns: 15rem minmax(0, 1fr);
-  gap: clamp(2.5rem, 4vw, 4.5rem);
+  gap: unquote("clamp(2.5rem, 4vw, 4.5rem)");
   align-items: start;
   justify-content: center;
 }
@@ -129,7 +129,7 @@ $system-care-track: #e7e1d7;
   border: 0;
   color: $system-care-ink;
   font-family: $font-display;
-  font-size: clamp(1.55rem, 2vw, 2.1rem);
+  font-size: unquote("clamp(1.55rem, 2vw, 2.1rem)");
   font-weight: 600;
   line-height: 1.08;
   letter-spacing: -0.025em;

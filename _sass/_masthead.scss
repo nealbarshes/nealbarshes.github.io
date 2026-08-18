@@ -202,7 +202,7 @@
   right: 0;
   z-index: 10000;
 
-  width: min(18rem, calc(100vw - 2rem));
+  width: unquote("min(18rem, calc(100vw - 2rem))");
   margin: 0;
   padding: 0.4rem;
 
