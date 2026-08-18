@@ -7,9 +7,24 @@ $system-care-muted: #6b665e;
 $system-care-rule: #d8d2c7;
 $system-care-track: #e7e1d7;
 
-.layout--single.wide.system-care-page .page__inner-wrap {
-  width: 100%;
-  max-width: 1280px;
+@media (min-width: 901px) {
+  .system-care-page #main {
+    width: 80%;
+    max-width: none;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .system-care-page .page {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+  }
+
+  .system-care-page .page__inner-wrap {
+    width: 100%;
+    max-width: none;
+  }
 }
 
 .system-care-page .page__title {
