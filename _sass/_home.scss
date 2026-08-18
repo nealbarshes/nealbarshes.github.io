@@ -373,27 +373,6 @@ body.home {
 
 
 /* =========================================================
-   HOMEPAGE — WIDE DESKTOP BLEED
-   ========================================================= */
-
-// On a larger desktop, extend the composition beyond the ordinary
-// content canvas. This lets the image approach or cross the right
-// edge of the page without affecting tablet-sized screens.
-
-@media (min-width: $breakpoint-wide) {
-
-  .home-index-layout {
-    width: calc(100% + 8rem);
-    margin-right: -8rem;
-  }
-
-  .home-index-image {
-    transform: translate(-2.5rem, -2rem);
-  }
-}
-
-
-/* =========================================================
    REDUCED-MOTION ACCESSIBILITY
    ========================================================= */
 
