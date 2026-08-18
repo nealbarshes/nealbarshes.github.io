@@ -1,0 +1,132 @@
+---
+layout: single
+title: "Leg Amputation"
+permalink: /tutorials/leg-amputation/
+description: "Clinical planning and operative considerations for leg amputation."
+author_profile: false
+classes: wide tutorial-tech
+---
+
+## Ensuring this is the best option
+
+Is the patient a candidate for [palliative foot care](/assets/documents/articles/barshes-palliativefootwoundcare.pdf)? Most patients with foot ulcers, foot infections, or foot gangrene benefit from [revascularization and limb salvage efforts](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EaZETgbUS39Ej_P1nh1NsqcBuokEIEbrWStGWvLsMuQEOg?e=RD5J43). Amputation is [more costly](/assets/documents/articles/barshes-bypassleg-movieanalysis.pdf) and may have [higher perioperative risks](/assets/documents/articles/barshes-amputation-vs-bypassrisk.pdf). Nonetheless, amputation can be best for patients who have the potential to be [better off than they would be with wound palliation alone](https://bcmedu-my.sharepoint.com/:b:/g/personal/nbarshes_bcm_edu/EUpMUsEJlMxJpm53IojsUcABJKiZndxMNy9ncJxunwhy5g?e=IAGKrs).  
+
+## Pre-operative planning
+
+In addition to all the standard pre-operative requirements, patients scheduled for leg amputation should be evaluated by our vascular medicine collegues prior to surgery. There are two reasons for this. First, patients with PAD who have leg amputations have [very high rates of coronary and cerebrovascular events, even compared to other PAD subgroups](https://pubmed.ncbi.nlm.nih.gov/32997098/). Second, while the overall perioperative mortality rate of leg amputation is low, it is higher than for most vascular operations and [is significantly higher than the perioperative mortality for limb salvage operations](https://pubmed.ncbi.nlm.nih.gov/21292432/).
+
+Ask about baseline mobility, stairs leading to or inside the patient's home, and the patient's mode of transportation to and from the medical center for scheduled appointments. Consider referral to the amputee clinic to discuss post-operative rehabilitation. Consider connecting the patient with our team's social worker and/or case manager to discuss the possible need for assistance of various forms after the operation.
+
+## Operative details
+<blockquote class="clinical-callout clinical-callout--protocol">
+  <b>Equipment and supplies for all amputations of the leg (open or formalized):</b><br>
+1.  amputation instrument tray<br>
+2.  ortho suction tip<br>
+3.  stockinette and 4" Coban (if foot/ankle is intact) vs. Ioban (if prior disarticulation at the ankle)<br>
+4.  sterile tourniquet: usually 18” (red) or 24” (brown)<br>
+5.  “soft” knee immobilizer (transtibial only)<br>
+6.  4-0 Prolene on SH needle x2<br>
+
+<b>Additional quipment and supplies for all leg amputations with <u>closure</u>:</b><br>
+7.  Zimmer oscillating saw w 25mm width blade<br>
+8.  2-0 Vicryl on CT1 needle x6 for thin calf transtibial, x8 for large thigh transfemoral<br>
+9.  2-0 Nylon on FSLX needle x4<br>
+10. skin stapler<br>
+11. KCI wound VAC with medium black sponge<br>
+12. Adaptec x1<br>
+13. Mastisol x2<br>
+14. 4" ACE wrap x2<br>
+15. 4" Webril (NOT Kerlix) x2<br>
+16. Cysto tubing and 1 liter normal saline<br>
+16. TWO sets of everyone’s gloves<br>
+17. Coviden smoke evacuator Bovie<br>
+18. 50-50 mix of 1% lidocaine and 0.25% marcaine (no epinephrine)<br>
+19. Hibiclens soap for skin prep of open surfaces.<br>
+20. ChloraPrep™ for intact skin surfaces, to groin or level of nerve catheters.<br>
+
+Bovie settings of 30 pure for cut, 65 spray for coagulation.<br>
+Suction on Neptune to high, smoke evacuator option at 100%. 
+</blockquote>
+
+<b>Pre-op preparation:</b>
+Before day of surgery: x-ray of planned level of amputation (look for hardware).
+Day of surgery: Check laterality. Then double check it. Then triple check it.
+Tizanidine (Zanaflex) 4mg PO once NOW for pre-op holding (one hour before procedure)
+
+<b>First part of a two-stage leg ampuation:</b>
+Done as an ankle disarticulation through the tibiotalar joint. See this plastic surgeon Dr. Attinger's [description of ankle disarticulation technique](https://pubmed.ncbi.nlm.nih.gov/32600566/) for details. Tissue ±fluid from removed specimen sent in sterile saline for microbiology. 
+
+<b>Transtibial amputation with closure:</b>
+Talk to me about the posterior-first approach to protect the gastrocnemius and posterior flap. We will also utilize many of the [principles described by orthopedic surgeon Dr. Michael Pinzur](https://pubmed.ncbi.nlm.nih.gov/21200297/) and many of the [technical details described by plastic surgeon Dr. Christopher Attinger](https://pubmed.ncbi.nlm.nih.gov/24510319/).
+
+1. Prepare: Mark the anterior aspect of the incision 13-19cm from tuberosity. Mark the medial and lateral apices to create a posterior flap that is 1/3rd of the calf circumference. Elevate and use Esmark, then upper calf or thigh tourniquet to 250 mmHg.
+2. Divide soft tissue: Use posterior-first approach to protect the gastrocnemius muscle early on. Local anesthetic mixture for five nerves prior to transection: superficial & deep peroneal (lateral and anterior compartments, respectively), tibial (deep posterior compartment), saphenous and sural nerves. Control vascular structures (silk ligature, then stick-tie with 4-0 Prolene). Traction neurectomy vs. nerve implantation with plastic surgery.
+3. Divide bone: Use electrical saw. Bevel anterior 1cm at smooth 45 degree angle with power saw also. No rasp, no bone wax. Irrigate the wound with 3L saline on cystoscopy tubing set.
+4. “Clean” closure: New gloves, needle drivers and forceps. Possible myodesis, then tenodesis, tension-free with interrupted Vicryl in fascia, not muscle. Interrupted [Allgöwer-Donati suture technique](https://pubmed.ncbi.nlm.nih.gov/28129268/) (modification of vertical mattress, with one half staying within dermis) for reapproximating skin.
+5. Dressing: Place an incisional negative pressure wound therapy dressing using Mastisol and thin transparent strips on skin along the incision, then Adaptec over incision, then black sponge and more transparent dressings, then connector. Follow this with a [tidy leg wrap](https://www.youtube.com/watch?v=yUizOiWBvs8) using 4" Webrils (cast padding, NOT Kerlix) x2 and 4" ACE wrap x2. Soft knee immobilizer for transtibial amputations.
+
+<b>Knee disarticulations:</b>
+Please see this plastic surgeon Dr. Attinger's [excellent description of a knee disarticulation technique](https://pubmed.ncbi.nlm.nih.gov/25276650/). I am transition to this technique from [this technique](https://bcmedu-my.sharepoint.com/:u:/g/personal/nbarshes_bcm_edu/ESC67cPk0N9Kl7-D9jh4OhsB-77w1X-BjGlM-8jUnn5YFg?e=scQG3X) and the [modifed Gritti-Stokes technique](https://pubmed.ncbi.nlm.nih.gov/11097446/).
+
+<b>Post-operative orders:</b>
+
+(Thank you to pharmacy resident Tiffany Dinh for contributing information on medications for muscle spasms!)
+
+<blockquote class="clinical-callout clinical-callout--protocol">
+<b>SCHEDULED components of the multimodal analgesia bundle (adapted from the UT Houston trauma group):</b><br>
+1. Acetaminophen 1 gram IV q6h (scheduled) x24 hours, followed by 500 milligrams PO q6h (scheduled) thereafter.<br>
+2. Pregabalin 100mg PO q8h x 48 hours, followed by gabapentin 300mg (--> up to 1200mg) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).<br>
+3. Tizanidine (Zanaflex) 2mg PO every 8 hours scheduled x48 hours. Avoid if advanced CKD (GFR<30) or any liver disease.<br>
+4. Lidocaine 5% topical patches (up to three) x12 hours on adjacent and proximal to surgical site, then 12 hours off.<br>
+5. Docusate 50 mg/ Sennosides 8.6mg combination tablet PO every 12 hours.<br><br>
+<b>AS NEEDED components of the multimodal analgesia bundle:</b><br>
+6. Tramadol 50 or 100 mg PO q6h PRN. For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.<br>
+7. Tylenol #3 one tablet q6h PRN severe pain.<br>
+9. Bisacodyl suppository 10 mg rectally daily PRN for no bowel movement.<br>
+8. Polyethylene glycol 3350 17 g PO every 12 hours.<br><br>
+<b>The "SAVE THe LIMB" bundle that we've been using for foot infection patients</b>:<br>
+9. <i>S = S</i>tatin medication.<br>
+10. <i>A= A</i>spirin 81mg and possibly <i>A</i>ntibiotic: ceftriaxone 1gm IV q24h.<br>
+11. <i>V= V</i>itamin C 500mg PO BID. <br>
+12. <i>E= ”E</i>nsure” BID (use Glucerna SR, however, as it has lower added sugar).<br>
+13. <i>T= T</i>ylenol PRN for pain or temperature >100.4&deg;F (38&deg;C)<br>
+14. <i>He= H</i>eparin subcutaneous q8h. Do not hold for OR.<br>
+15. <i>L= L</i>actobacillus 2 caps PO BID.<br>
+16. <i>I= I</i>nsulin: 50% of long-acting insulin home dose + medium-dose sliding scale.<br>
+17. <i>M= M</i>ultivitamin 1 cap daily.<br>
+18. <i>B= B</i>lood pressure meds, baseline + at least one PRN for SBP>140mmHg.<br><br>
+<b>Other orders:</b><br>
+19. NS @ ~0.5mL/kg/hr x12 hours.<br>
+20. Solid food diet.<br>
+21. Labs upon arrival: blood count, basic metabolic panel and PT/PTT/INR.<br>
+22. Labs for AM POD#1: hemoglobin and basic metabolic panel in morning. Add baseline brain naturetic peptide (BNP) if known CHF.<br>
+23. Consult physical therapy, occupational therapy.
+24. <i>Text order</i>: "Out of bed to chair in AM."<br>
+25. <i>Text order</i>: "Do not manipulate leg wrap. Leave knee immobilizer in place most of day."<br>
+26. <i>Text order</i>: "Incisional wound VAC to -75 mmHg continuous suction, low intensity."<br>
+27. <i>Text order</i>: "Keep overhead lights on and curtains open during daytime hours (7A-9PM)".<br> 
+</blockquote>
+
+Do NOT use non-steroidal anti-inflammatory (NSAID) medications because of the high incidence of chronic kidney disease and acute kidney injury among our inpatients.
+
+Options if still not controlled: morphine 15-30mg PO q4h or fentanyl patch. Consider ibuprofen, ketorolac or other NSAIDs ONLY if eGFR>60, age <60, and no/minimal contrast load. <br><br>
+MINIMIZE or AVOID oxycodone (Percocet), hydromorphone (Dilaudid), and benzodiazepines.
+
+<b>Post-Operative Day #1:</b> Main goals are generally out of bed to chair. Ensure this has happened by afternoon rounds.
+<blockquote class="clinical-callout clinical-callout--protocol">
+<b>Additional orders, post-operative day #1:</b><br>
+1. Out of bed to chair by 9AM.<br>
+2. If present: Foley out / condom catheter off.<br>
+3. Saline (<i>not</i> heparin) lock IV.<br>
+4. Consider furosemide if edema present.<br>
+5. Resume home insulin regimen.<br>
+6. Determine eligibility for transition to post-op ward in afternoon. If so, PT consult in transfer orders.<br>
+7. Order hemoglobin for AM of POD #2 only if severe anemia was present prior to the operation.<br>
+8. Consult vascular medicine for best medical management.<br>
+</blockquote>
+
+<b>POD#2:</b> CHANGE WRAP on POD#2, replace with Webril and ACE. Text order for nurses to weigh patient and document weight in the chart. <b>Start planning discharge disposition.</b>
+
+<b>POD#3:</b> Ask anesthesiology block team to remove nerve block catheter. If the amputation was done for foot infection, ensure a 7 total days operative culture-specific antibiotics. Start rivaroxaban 2.5mg PO BID, as [patients with a history of leg amputation have a rate of cerebrovascular and coronary events that is higher than any other subgroup with peripheral artery disease](https://pubmed.ncbi.nlm.nih.gov/32997098/). The patient is not ready for discharge until pain is controlled for 24 hours (no higher than level 5) with oral pain medications only (i.e. no intravenous PRN pain medications). 
+
+Incisional wound VAC off no later than day 5. Discharge with 25 tablets of tramadol or 15 tablets of Tylenol #3.

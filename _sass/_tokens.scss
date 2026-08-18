@@ -1,0 +1,34 @@
+/* =========================================================
+   DESIGN TOKENS
+   ========================================================= */
+
+// Centralized colors make the palette easier to maintain.
+// Change a value here rather than searching the entire file.
+
+$paper: #f8f7f3;
+$text-primary: #1a1a1a;
+$text-secondary: #55524d;
+$hero-text: #111111;
+$border-subtle: #d8d5cd;
+$gold-accent: #a87528;
+$font-body: $font-body;
+$font-display: $font-display;
+$font-technical: "Space Grotesk", system-ui, sans-serif;
+$font-mono: "JetBrains Mono", ui-monospace, monospace;
+$content-wide: 61.25rem;
+$breakpoint-narrow: 360px;
+$breakpoint-mobile: 700px;
+$breakpoint-desktop: 701px;
+$breakpoint-reading: 800px;
+$breakpoint-wide: 1024px;
+$focus-ring: 3px solid rgba($gold-accent, 0.45);
+
+// Homepage tile colors.
+//
+// The tile fill is intentionally faint so that the gold foot remains
+// visible underneath without making the tiles look like opaque buttons.
+
+$tile-fill: rgba(255, 255, 255, 0.15);
+$tile-fill-hover: rgba(255, 255, 255, 0.23);
+$tile-border: rgba(91, 76, 55, 0.16);
+$tile-border-hover: rgba(91, 76, 55, 0.25);
