@@ -1,18 +1,24 @@
 main:
   - title: "Home"
     url: /
+    navigation_only: true
 
   - title: "Tutorials"
-    url: /Tutorials/
+    url: /tutorials/
+    number: "01"
 
   - title: "Works"
-    url: /Works/
+    url: /works/
+    number: "02"
 
   - title: "System of Care"
-    url: /Improvement/
+    url: /system-of-care/
+    number: "03"
 
-  - title: "Brochure"
-    url: /Brochures/
+  - title: "Brochures"
+    url: /brochures/
+    number: "04"
 
   - title: "About"
-    url: /About/
+    url: /about/
+    number: "05"

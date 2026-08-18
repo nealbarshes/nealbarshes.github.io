@@ -1,0 +1,30 @@
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+// Keep the footer continuous with the paper background.
+// A thin rule separates it without creating a colored panel.
+
+.page__footer {
+  background-color: $paper;
+  color: $text-secondary;
+  border-top: 1px solid $border-subtle;
+}
+
+.page__footer a,
+.page__footer-copyright {
+  color: $text-secondary;
+}
+
+.license-icons {
+  display: inline-flex;
+  gap: 0.2em;
+  margin-left: 0.35em;
+  vertical-align: text-bottom;
+}
+
+.license-icons img {
+  width: 1em;
+  height: 1em;
+  margin: 0;
+}
