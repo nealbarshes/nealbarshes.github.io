@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: content-only
 title: ""
 permalink: /system-of-care/
 description: "A decade of interdisciplinary amputation prevention and health systems improvement."

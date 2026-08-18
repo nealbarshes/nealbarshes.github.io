@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: content-only
 title: ""
 permalink: /
 author_profile: false
