@@ -7,8 +7,6 @@ author_profile: false
 classes: wide tutorial-tech
 ---
 
-Thank you to Dr. Aimee Garcia, Dr. Delma Jara, Dr. Ana Macias, Dr. Cezarina Mindru, Dr. Maria Rodriguez-Barradas, and Dr. David Green for working together to create [our local consensus approach](/assets/documents/clinical-tools/nhfuconsensus.pdf) to foot ulcer healing.
-
 ## Provide proper offloading to all patients
 
 All patients should receive offloading footwear: 
@@ -23,7 +21,7 @@ The Ossur® DH OffLoading Walker™ with customized offloading insert (or, if un
 
 Some patients should be evaluated for surgical forms of offloading. Specifically, gastrocnemius recession or tendon Achilles lengthening should be considered for all patients who cannot dorsiflex past neutral position (90° angle between foot and calf) or who are undergoing forefoot amputation. 
 
-## Provide advanced contemporary wound care to all patients
+## Provide contemporary wound care to all patients
 
 I have no relationships to industry -- the producers of these or any other medical products. Items list are components of our consensus approach because of availability on our hospital formulary/inventory list.
 
@@ -152,3 +150,6 @@ Includes diabetes management that is largely concordant with recommendations fro
 1. Prosthetics consult for foot molding and custom orthotic shoe.
 2. Prosthetics consult for temperature sensing mat for secondary prevention of additional foot ulcers (ask staff surgeon).  
 3. Return to clinic in another month to ensure durable wound healing, follow-up on above.
+
+Thank you to Dr. Aimee Garcia, Dr. Delma Jara, Dr. Ana Macias, Dr. Cezarina Mindru, Dr. Maria Rodriguez-Barradas, and Dr. David Green for working together to create [our local consensus approach](/assets/documents/clinical-tools/nhfuconsensus.pdf) to foot ulcer healing.
+
