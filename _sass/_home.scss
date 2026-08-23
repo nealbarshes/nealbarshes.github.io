@@ -300,7 +300,7 @@ body.home {
      ------------------------------------------------------- */
 
   .home-hero-text {
-    margin: 4rem 0 3rem;
+    margin: unquote("clamp(2.25rem, 5vh, 4rem)") 0 unquote("clamp(0.75rem, 2.5vh, 3rem)");
   }
 
   .home-hero-text h1 {
@@ -310,7 +310,7 @@ body.home {
     // The desktop hero is deliberately smaller than the mobile
     // version, producing a calmer two- or three-line composition.
 
-    font-size: unquote("clamp(2.7rem, 6.25vw, 3.6rem)");
+    font-size: unquote("clamp(2.1rem, min(4.5vw, 6vh), 3.6rem)");
     line-height: 0.98;
     letter-spacing: -0.025em;
   }
@@ -322,21 +322,31 @@ body.home {
 
   .home-index-layout {
     width: 100%;
-    margin: 4.5rem 0 7rem;
+    margin: unquote("clamp(1rem, 3vh, 4.5rem)") 0 unquote("clamp(4rem, 8vh, 7rem)");
   }
 
   .home-sections {
     width: 55%;
-    gap: 0.8rem;
+    gap: unquote("clamp(0.25rem, 0.8vh, 0.8rem)");
     padding-left: unquote("clamp(3rem, 6vw, 6rem)");
+  }
+
+  // Minimal Mistakes gives content h2 elements a top margin. Remove that
+  // theme spacing from the navigation headings so the explicit grid gap can
+  // respond cleanly to viewport height.
+
+  body.home .page__content .home-section-item {
+    margin: 0;
+    padding: 0;
+    border: 0;
   }
 
   .home-section-link {
     grid-template-columns: 3.25rem 1px minmax(0, 1fr);
     column-gap: 1.15rem;
 
-    min-height: 6.25rem;
-    padding: 1rem 1.4rem;
+    min-height: unquote("clamp(3rem, 9vh, 6.25rem)");
+    padding: unquote("clamp(0.4rem, 1vh, 1rem)") 1.4rem;
   }
 
   .home-section-number {
@@ -348,7 +358,7 @@ body.home {
   }
 
   .home-section-label {
-    font-size: unquote("clamp(2.3rem, 3.2vw, 3.3rem)");
+    font-size: unquote("clamp(1.6rem, min(3.2vw, 4.5vh), 3.3rem)");
   }
 
 
@@ -357,7 +367,7 @@ body.home {
      ------------------------------------------------------- */
 
   .home-index-image {
-    width: unquote("min(60%, 44rem)");
+    width: unquote("min(60%, 44rem, 55vh)");
     margin-left: 0;
 
     // Shift the foot left so the right side of the navigation
@@ -434,9 +444,10 @@ body.home {
   }
 
   .home-index-image {
-    justify-self: start;
-    width: 36.75rem;
-    margin-left: calc(80vw - 36.75rem);
+    justify-self: end;
+    width: unquote("min(36.75rem, 55vh)");
+    margin-right: 20vw;
+    margin-left: 0;
     transform: translateY(-2rem);
   }
 }
