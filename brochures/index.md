@@ -1,6 +1,6 @@
 ---
 layout: content-only
-title: ""
+title: "Patient Education"
 permalink: /brochures/
 description: "Free patient education brochures about diabetes, foot ulcers, infection, and limb preservation in 27 languages."
 author_profile: false
