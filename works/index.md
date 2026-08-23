@@ -35,5 +35,28 @@ classes: wide
         </figure>
       </a>
     </article>
+
+    <article class="works-card works-card--landscape">
+      <a class="works-card__link" href="{{ '/works/diagnostic-accuracy-noninvasive-pad-testing/' | relative_url }}">
+        <figure class="works-card__figure">
+          <div class="works-card__image-frame">
+            <img
+              class="works-card__image works-card__image--contain"
+              src="{{ '/assets/images/works/choi-diagnostic/noninvasive-pad-testing-thumbnail.webp' | relative_url }}"
+              alt="Ranked green bars showing the sensitivity of clinical and noninvasive parameters for detecting advanced lower-extremity arterial disease"
+              width="1200"
+              height="960"
+              loading="lazy"
+              decoding="async"
+            >
+          </div>
+          <figcaption class="works-card__caption">
+            <h2 class="works-card__title">Diagnostic accuracy of non-invasive PAD testing</h2>
+            <p class="works-card__published-title">Lower-extremity pressure, staging, and grading thresholds to identify chronic limb-threatening ischemia</p>
+            <p class="works-card__meta">Original research <span aria-hidden="true">&middot;</span> 2023</p>
+          </figcaption>
+        </figure>
+      </a>
+    </article>
   </div>
 </div>
