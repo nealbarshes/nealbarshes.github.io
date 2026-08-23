@@ -43,13 +43,8 @@ classes: wide
       <dd>vascular surgery</dd>
 
       <dt>Open Researcher and Contributor Identification (ORCID) number</dt>
-      <dd>[0000-0003-1019-8930](https://orcid.org/0000-0003-1019-8930)</dd>
+      <dd>0000-0003-1019-8930</dd>
 
-      <dt>PubMed author search</dt>
-      <dd>[PubMed Neal Barshes](https://pubmed.ncbi.nlm.nih.gov/?term=neal+barshes%5BAuthor%5D&sort=)</dd>
-
-      <dt>Google Scholar</dt>
-      <dd>[Neal Barshes on Google Scholar](https://scholar.google.com/citations?user=9jX_p7UAAAAJ&hl=en&oi=ao)</dd>
     </dl>
   </section>
 
