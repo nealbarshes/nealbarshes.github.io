@@ -19,6 +19,33 @@ body.home {
   }
 }
 
+// The generic `wide` page canvas stops at 980 pixels. That works well for
+// reading pages, but makes the homepage composition look undersized on a
+// large desktop display. Let the homepage alone use the same 80%-of-window
+// canvas as the long-form System of Care layout.
+
+@media (min-width: 901px) {
+
+  body.home #main {
+    width: 80%;
+    max-width: none;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  body.home .page {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  body.home .page__inner-wrap {
+    width: 100%;
+    max-width: none;
+  }
+}
+
 
 /* =========================================================
    HOMEPAGE HERO — MOBILE-FIRST
@@ -306,12 +333,12 @@ body.home {
 
   .home-hero-text h1 {
     width: auto;
-    max-width: 20ch;
+    max-width: 22ch;
 
-    // The desktop hero is deliberately smaller than the mobile
-    // version, producing a calmer two- or three-line composition.
+    // Scale with the enlarged desktop canvas while preserving a readable
+    // two- or three-line composition.
 
-    font-size: unquote("clamp(2.7rem, 6.25vw, 3.6rem)");
+    font-size: unquote("clamp(3.25rem, 4.2vw, 5.25rem)");
     line-height: 0.98;
     letter-spacing: -0.025em;
   }
@@ -327,9 +354,10 @@ body.home {
   }
 
   .home-sections {
-    width: 55%;
+    box-sizing: border-box;
+    width: unquote("min(60%, 60rem)");
     gap: 0.8rem;
-    padding-left: unquote("clamp(3rem, 6vw, 6rem)");
+    padding-left: unquote("clamp(1rem, 2.5vw, 3rem)");
   }
 
   .home-section-link {
@@ -358,12 +386,15 @@ body.home {
      ------------------------------------------------------- */
 
   .home-index-image {
-    width: unquote("min(60%, 44rem)");
+    justify-self: start;
+    width: unquote("min(44%, 44rem)");
+    margin-left: 21%;
 
-    // Shift the foot left so the right side of the navigation
-    // tiles crosses over the illustration.
+    // Anchor the foot to the navigation rather than the right edge of the
+    // viewport. Across wide screens, this keeps just the rightmost portion
+    // of the second and third labels crossing the illustration.
 
-    transform: translate(-1.75rem, -2rem);
+    transform: translateY(-2rem);
   }
 
   .home-index-image img {
