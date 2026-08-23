@@ -15,7 +15,7 @@ classes: wide
 
   <div class="about-page__biography">
     <p>
-      My clinical practice is based at the Michael E. DeBakey Veterans Affairs Medical Center in Houston, where I care primarily for patients with advanced peripheral artery disease / critical limb-threatening ischemia. Over the course of my career, I have performed nearly 4,000 operations, with a particular emphasis on limb salvage bypass operations
+      My clinical practice is based at the Michael E. DeBakey Veterans Affairs Medical Center in Houston, where I care primarily for patients with advanced peripheral artery disease / critical limb-threatening ischemia. Over the course of my career, I have performed nearly 4,000 operations, with a particular emphasis on limb salvage bypass operations.
     </p>
 
     <figure class="about-page__portrait">
@@ -27,7 +27,11 @@ classes: wide
     </p>
 
     <p>
-      My academic work includes more than 150 peer-reviewed publications spanning limb salvage, vascular outcomes, health economics, clinical trials, and the organization of vascular care. Across these roles, I am most interested in turning evidence into systems that remain effective under the constraints of real clinical practice..
+      My academic work includes more than 150 peer-reviewed publications spanning limb salvage, vascular outcomes, health economics, clinical trials, and the organization of vascular care. I ask practical research questions that will have impact on my own daily clinical practice.
+    </p>
+
+    <p>
+      All illustrations and scientific figures on this site are my original work. Illustrations were created using open-source vector and raster graphics tools, while scientific figures were produced using statistical programming and analysis software. No generative AI was used in their creation.
     </p>
 
   </div>
