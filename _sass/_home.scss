@@ -19,34 +19,6 @@ body.home {
   }
 }
 
-// The generic `wide` page canvas stops at 980 pixels. That works well for
-// reading pages, but makes the homepage composition look undersized on a
-// large desktop display. Let the homepage alone use the same 80%-of-window
-// canvas as the long-form System of Care layout.
-
-@media (min-width: 901px) {
-
-  body.home #main {
-    width: 80%;
-    max-width: none;
-    padding-right: 0;
-    padding-left: 0;
-  }
-
-  body.home .page {
-    float: none;
-    width: 100%;
-    padding-right: 0;
-    padding-left: 0;
-  }
-
-  body.home .page__inner-wrap {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-
 /* =========================================================
    HOMEPAGE HERO — MOBILE-FIRST
    ========================================================= */
@@ -333,12 +305,12 @@ body.home {
 
   .home-hero-text h1 {
     width: auto;
-    max-width: 22ch;
+    max-width: 20ch;
 
-    // Scale with the enlarged desktop canvas while preserving a readable
-    // two- or three-line composition.
+    // The desktop hero is deliberately smaller than the mobile
+    // version, producing a calmer two- or three-line composition.
 
-    font-size: unquote("clamp(3.25rem, 4.2vw, 5.25rem)");
+    font-size: unquote("clamp(2.7rem, 6.25vw, 3.6rem)");
     line-height: 0.98;
     letter-spacing: -0.025em;
   }
@@ -354,10 +326,9 @@ body.home {
   }
 
   .home-sections {
-    box-sizing: border-box;
-    width: unquote("min(60%, 60rem)");
+    width: 55%;
     gap: 0.8rem;
-    padding-left: unquote("clamp(1rem, 2.5vw, 3rem)");
+    padding-left: unquote("clamp(3rem, 6vw, 6rem)");
   }
 
   .home-section-link {
@@ -386,19 +357,87 @@ body.home {
      ------------------------------------------------------- */
 
   .home-index-image {
-    justify-self: start;
-    width: unquote("min(44%, 44rem)");
-    margin-left: 21%;
+    width: unquote("min(60%, 44rem)");
+    margin-left: 0;
 
-    // Anchor the foot to the navigation rather than the right edge of the
-    // viewport. Across wide screens, this keeps just the rightmost portion
-    // of the second and third labels crossing the illustration.
+    // Shift the foot left so the right side of the navigation
+    // tiles crosses over the illustration.
 
-    transform: translateY(-2rem);
+    transform: translate(-1.75rem, -2rem);
   }
 
   .home-index-image img {
     opacity: 0.9;
+  }
+}
+
+
+/* =========================================================
+   HOMEPAGE — EXTRA-WIDE DESKTOP POSITIONING
+   ========================================================= */
+
+// On genuinely wide windows, keep the original element sizes and distribute
+// them horizontally using viewport anchors. The composition begins with the
+// wordmark at 20%, steps to the hero at 25%, and places the button/foot group
+// between 30% and 80% of the viewport.
+
+@media (min-width: 1500px) {
+
+  body.home .masthead__inner-wrap {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: none;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 20vw;
+    padding-left: 20vw;
+  }
+
+  body.home .site-wordmark {
+    width: 496px;
+  }
+
+  body.home #main {
+    width: 100%;
+    max-width: none;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  body.home .page {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  body.home .page__inner-wrap {
+    width: 100%;
+    max-width: none;
+  }
+
+  .home-hero-text {
+    box-sizing: border-box;
+    width: auto;
+    margin-left: 25vw;
+  }
+
+  .home-index-layout {
+    width: 100%;
+  }
+
+  .home-sections {
+    box-sizing: border-box;
+    width: 33.6875rem;
+    margin-left: 30vw;
+    padding-left: 0;
+  }
+
+  .home-index-image {
+    justify-self: start;
+    width: 36.75rem;
+    margin-left: calc(80vw - 36.75rem);
+    transform: translateY(-2rem);
   }
 }
 
