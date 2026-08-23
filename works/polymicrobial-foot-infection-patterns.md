@@ -25,8 +25,8 @@ classes: wide
     </figcaption>
   </figure>
 
-  <div class="work-detail__metadata" aria-labelledby="work-details-heading">
-    <h2 id="work-details-heading">Work details</h2>
+  <div class="work-detail__metadata" aria-labelledby="publication-details-heading">
+    <h2 id="publication-details-heading">Publication details</h2>
     <div class="work-detail__table-wrap">
       <table class="work-detail__table">
         <tbody>
@@ -40,7 +40,7 @@ classes: wide
           </tr>
           <tr>
             <th scope="row">Authors</th>
-            <td>Neal R. Barshes, MD, MPH; Nicholas J. Clark, PhD; Deeksha Bidare, BS; J. H. Dudenhoeffer, PhD; Cezarina Mindru, MD; and Maria C. Rodriguez-Barradas, MD, PhD</td>
+            <td>Neal R. Barshes; Nicholas J. Clark; Deeksha Bidare; J. H. Dudenhoeffer; Cezarina Mindru; and Maria C. Rodriguez-Barradas</td>
           </tr>
           <tr>
             <th scope="row">Publication</th>
@@ -51,11 +51,12 @@ classes: wide
             <td>October 2022</td>
           </tr>
           <tr>
-            <th scope="row">DOI and records</th>
-            <td class="work-detail__links">
-              <a href="https://doi.org/10.1093/ofid/ofac475" target="_blank" rel="noopener noreferrer">10.1093/ofid/ofac475</a>
-              <a href="https://pubmed.ncbi.nlm.nih.gov/36267251/" target="_blank" rel="noopener noreferrer">PubMed 36267251</a>
-            </td>
+            <th scope="row">DOI</th>
+            <td><a href="https://doi.org/10.1093/ofid/ofac475" target="_blank" rel="noopener noreferrer">10.1093/ofid/ofac475</a></td>
+          </tr>
+          <tr>
+            <th scope="row">PubMed identification (PMID) number</th>
+            <td><a href="https://pubmed.ncbi.nlm.nih.gov/36267251/" target="_blank" rel="noopener noreferrer">362-67-251</a></td>
           </tr>
           <tr>
             <th scope="row">Intended audience</th>

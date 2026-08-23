@@ -25,8 +25,8 @@ classes: wide
     </figcaption>
   </figure>
 
-  <div class="work-detail__metadata" aria-labelledby="work-details-heading">
-    <h2 id="work-details-heading">Work details</h2>
+  <div class="work-detail__metadata" aria-labelledby="publication-details-heading">
+    <h2 id="publication-details-heading">Publication details</h2>
     <div class="work-detail__table-wrap">
       <table class="work-detail__table">
         <tbody>
@@ -51,11 +51,12 @@ classes: wide
             <td>February 2023</td>
           </tr>
           <tr>
-            <th scope="row">DOI and records</th>
-            <td class="work-detail__links">
-              <a href="https://doi.org/10.1177/1358863X221147945" target="_blank" rel="noopener noreferrer">10.1177/1358863X221147945</a>
-              <a href="https://pubmed.ncbi.nlm.nih.gov/36759932/" target="_blank" rel="noopener noreferrer">PubMed 36759932</a>
-            </td>
+            <th scope="row">DOI</th>
+            <td><a href="https://doi.org/10.1177/1358863X221147945" target="_blank" rel="noopener noreferrer">10.1177/1358863X221147945</a></td>
+          </tr>
+          <tr>
+            <th scope="row">PubMed identification (PMID) number</th>
+            <td><a href="https://pubmed.ncbi.nlm.nih.gov/36759932/" target="_blank" rel="noopener noreferrer">367-59-932</a></td>
           </tr>
           <tr>
             <th scope="row">Intended audience</th>
