@@ -39,13 +39,13 @@ classes: wide
   <section class="about-page__current-work" aria-labelledby="current-work-heading">
     <h2 id="current-work-heading">Professional Details</h2>
     <dl>
-      <dt>Field</dt>
+      <dt>Field:</dt>
       <dd>vascular surgery</dd>
 
-      <dt>Open Researcher and Contributor Identification (ORCID) number</dt>
+      <dt>ORCID number:</dt>
       <dd>0000-0003-1019-8930</dd>
 
-      <dt>Email address</dt>
+      <dt>Email address:</dt>
       <dd><a href="mailto:nbarshes@bcm.edu">nbarshes@bcm.edu</a></dd>
 
 
