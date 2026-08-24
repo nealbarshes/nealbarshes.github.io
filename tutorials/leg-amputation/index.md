@@ -68,7 +68,8 @@ Talk to me about the posterior-first approach to protect the gastrocnemius and p
 <b>Knee disarticulations:</b>
 Please see this plastic surgeon Dr. Attinger's [excellent description of a knee disarticulation technique](https://pubmed.ncbi.nlm.nih.gov/25276650/). I am transition to this technique from [this technique](https://bcmedu-my.sharepoint.com/:u:/g/personal/nbarshes_bcm_edu/ESC67cPk0N9Kl7-D9jh4OhsB-77w1X-BjGlM-8jUnn5YFg?e=scQG3X) and the [modifed Gritti-Stokes technique](https://pubmed.ncbi.nlm.nih.gov/11097446/).
 
-<b>Post-operative orders:</b>
+
+## Post-operative orders:
 
 (Thank you to pharmacy resident Tiffany Dinh for contributing information on medications for muscle spasms!)
 
