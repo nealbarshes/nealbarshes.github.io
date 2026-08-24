@@ -58,5 +58,28 @@ classes: wide
         </figure>
       </a>
     </article>
+
+    <article class="works-card works-card--portrait">
+      <a class="works-card__link" href="{{ '/works/remote-amputation-care/' | relative_url }}">
+        <figure class="works-card__figure">
+          <div class="works-card__image-frame">
+            <img
+              class="works-card__image"
+              src="{{ '/assets/images/works/remote-amputees/texas-remote-amputees-thumbnail.webp' | relative_url }}"
+              alt="Detail of a Texas density map showing clusters of patients and experienced medical centers"
+              width="1040"
+              height="1300"
+              loading="lazy"
+              decoding="async"
+            >
+          </div>
+          <figcaption class="works-card__caption">
+            <h2 class="works-card__title">Leg amputees who live far from experienced medical centers</h2>
+            <p class="works-card__published-title">Leg amputations among Texans remote from experienced surgical care</p>
+            <p class="works-card__meta">original research <span aria-hidden="true">&middot;</span> 2020</p>
+          </figcaption>
+        </figure>
+      </a>
+    </article>
   </div>
 </div>
