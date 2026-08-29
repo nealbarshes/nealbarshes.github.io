@@ -105,6 +105,27 @@ body.tutorial-index .tutorial-topic__figure img {
   object-fit: cover;
 }
 
+body.tutorial-index .tutorial-topic__figure-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body.tutorial-index .tutorial-topic__figure-link img {
+  transition: transform 180ms ease;
+}
+
+body.tutorial-index .tutorial-topic__figure-link:hover img,
+body.tutorial-index .tutorial-topic__figure-link:focus-visible img {
+  transform: scale(1.025);
+}
+
+body.tutorial-index .tutorial-topic__figure-link:focus-visible {
+  outline: 3px solid #174a7c;
+  outline-offset: -3px;
+}
+
 body.tutorial-index .tutorial-topic__content {
   min-width: 0;
 }
@@ -121,6 +142,25 @@ body.tutorial-index .tutorial-topic__content ol {
 
 body.tutorial-index .tutorial-topic__content li:last-child {
   margin-bottom: 0;
+}
+
+body.tutorial-tech .tutorial-detail-figure {
+  max-width: 78ch;
+  margin: 1.5rem 0 2.5rem;
+}
+
+body.tutorial-tech .tutorial-detail-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid $border-subtle;
+}
+
+body.tutorial-tech .tutorial-detail-figure figcaption {
+  margin-top: 0.65rem;
+  color: #66707a;
+  font-size: 0.78rem;
+  line-height: 1.5;
 }
 
 @media (max-width: $breakpoint-mobile) {
