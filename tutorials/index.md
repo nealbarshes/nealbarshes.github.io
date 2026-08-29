@@ -49,22 +49,36 @@ Limb salvage typically consists of these three components:
       </ol>
     </div>
   </section>
+
+  <section class="tutorial-topic">
+    <figure class="tutorial-topic__figure">
+      <img src="/assets/images/tutorials/tutorial-palliative-wound-care.webp" alt="Anatomical illustration of a lower extremity with a force field protecting a great-toe wound from bacteria" width="1200" height="800" loading="lazy" decoding="async">
+    </figure>
+    <div class="tutorial-topic__content">
+      <h3>Palliative wound care</h3>
+      <p>Provide palliative wound care for patients who won't benefit from limb salvage efforts. We have defined palliative wound care as <strong>wound care done without the expectation of wound healing</strong>.</p>
+    </div>
+  </section>
+
+  <section class="tutorial-topic">
+    <figure class="tutorial-topic__figure">
+      <img src="/assets/images/tutorials/tutorial-leg-amputation.webp" alt="Anatomical illustration of an intact lower extremity with a proposed mid-calf amputation level" width="1200" height="800" loading="lazy" decoding="async">
+    </figure>
+    <div class="tutorial-topic__content">
+      <h3>Leg amputation</h3>
+      <p>In selected patients, perform <a href="/tutorials/leg-amputation/">leg amputation</a> <em>if</em> this would <strong>improve</strong> quality of life and/or function.</p>
+    </div>
+  </section>
+
+  <section class="tutorial-topic tutorial-topic--linked">
+    <figure class="tutorial-topic__figure">
+      <a class="tutorial-topic__figure-link" href="/tutorials/interdisciplinary-care/" aria-label="Explore interdisciplinary care">
+        <img src="/assets/images/tutorials/tutorial-interdisciplinary-care.webp" alt="Venn diagram relating diabetes, peripheral neuropathy, peripheral artery disease, foot ulcers, critical limb ischemia, and limb loss" width="1200" height="800" loading="lazy" decoding="async">
+      </a>
+    </figure>
+    <div class="tutorial-topic__content">
+      <h3><a href="/tutorials/interdisciplinary-care/">Interdisciplinary care</a></h3>
+      <p>Amputation prevention and limb salvage require interdisciplinary or multidisciplinary care. The system of care must be <strong>cohesive</strong> and coordinated for reliably good outcomes.</p>
+    </div>
+  </section>
 </div>
-
-## Palliative wound care
-
-Provide palliative wound care for patients who won't benefit from limb salvage efforts. We have defined palliative wound care as **wound care done without the expectation of wound healing**.
-
-## Leg amputation
-
-In selected patients, perform [leg amputation](/tutorials/leg-amputation/) _if_ this would **improve** quality of life and/or function. 
-
----
-
-## The disease process and interdisciplinary–multidisciplinary care
-
-Amputation prevention and limb salvage has been challenging because it requires interdisciplinary or multidisciplinary care. All health care providers should understand all these above-described components of limb salvage management -- even the components he/she is not directly providing. The system of care must be **cohesive** and coordinated for reliably-good outcomes.
-
-![PAD and limb loss](/assets/images/tutorials/venndiagram.jpg "PAD and limb loss")
-
-<i>(Venn diagram from our [2013 “System of Care” review paper](/assets/documents/articles/barshes-dfu-systemofcare.pdf))</i>
