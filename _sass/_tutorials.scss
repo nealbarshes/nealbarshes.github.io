@@ -67,8 +67,18 @@ body.tutorial-tech .system-care-mobile-nav {
 
 body.tutorial-index .tutorial-topic-list {
   max-width: $content-wide;
-  margin: 1.75rem 0 3.25rem;
+  margin: 1.25rem 0 3.25rem;
   border-top: 1px solid $border-subtle;
+}
+
+body.tutorial-index .page__content > h2:first-child {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+body.tutorial-index .page__content > h2:first-child + p {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 body.tutorial-index .tutorial-topic {
@@ -114,8 +124,13 @@ body.tutorial-index .tutorial-topic__content li:last-child {
 }
 
 @media (max-width: $breakpoint-mobile) {
-  body.tutorial-index .tutorial-topic-list {
+  body.tutorial-index .page__content > h2:first-child {
     margin-top: 1.25rem;
+    margin-bottom: 0.65rem;
+  }
+
+  body.tutorial-index .tutorial-topic-list {
+    margin-top: 1rem;
   }
 
   body.tutorial-index .tutorial-topic {
