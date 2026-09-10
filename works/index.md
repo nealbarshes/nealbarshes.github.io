@@ -81,5 +81,28 @@ classes: wide
         </figure>
       </a>
     </article>
+
+    <article class="works-card works-card--feature works-card--landscape">
+      <a class="works-card__link" href="{{ '/works/texas-amputation-disparities/' | relative_url }}">
+        <figure class="works-card__figure">
+          <div class="works-card__image-frame">
+            <img
+              class="works-card__image"
+              src="{{ '/assets/images/works/texas-disparities/texas-amputation-volume-thumbnail.webp' | relative_url }}"
+              alt="Detail of a scatter plot showing hospital procedure volume, amputation percentage, and a nonlinear fitted curve"
+              width="1500"
+              height="1000"
+              loading="lazy"
+              decoding="async"
+            >
+          </div>
+          <figcaption class="works-card__caption">
+            <h2 class="works-card__title">Racial and geographic disparities in Texas leg amputations</h2>
+            <p class="works-card__published-title">Racial and geographic variation in leg amputations among Texans</p>
+            <p class="works-card__meta">original research <span aria-hidden="true">&middot;</span> 2018</p>
+          </figcaption>
+        </figure>
+      </a>
+    </article>
   </div>
 </div>
