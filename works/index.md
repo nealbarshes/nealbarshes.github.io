@@ -104,5 +104,28 @@ classes: wide
         </figure>
       </a>
     </article>
+
+    <article class="works-card works-card--feature works-card--panoramic">
+      <a class="works-card__link" href="{{ '/works/aaa-screening-disparities/' | relative_url }}">
+        <figure class="works-card__figure">
+          <div class="works-card__image-frame">
+            <img
+              class="works-card__image"
+              src="{{ '/assets/images/works/aaa-disparities/aaa-disparities-thumbnail.webp' | relative_url }}"
+              alt="Detail of a bubble plot comparing intact and ruptured abdominal aortic aneurysm procedure rates across Texas regions"
+              width="1800"
+              height="900"
+              loading="lazy"
+              decoding="async"
+            >
+          </div>
+          <figcaption class="works-card__caption">
+            <h2 class="works-card__title">Racial and ethnic AAA disparities</h2>
+            <p class="works-card__published-title">Racial and ethnic disparities in abdominal aortic aneurysm evaluation and treatment rates in Texas</p>
+            <p class="works-card__meta">original research <span aria-hidden="true">&middot;</span> 2022</p>
+          </figcaption>
+        </figure>
+      </a>
+    </article>
   </div>
 </div>
