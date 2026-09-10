@@ -127,5 +127,28 @@ classes: wide
         </figure>
       </a>
     </article>
+
+    <article class="works-card works-card--square">
+      <a class="works-card__link" href="{{ '/works/femoropopliteal-bypass-technique/' | relative_url }}">
+        <figure class="works-card__figure">
+          <div class="works-card__image-frame">
+            <img
+              class="works-card__image"
+              src="{{ '/assets/images/works/fempop-bypass/distal-anastomosis-thumbnail.webp' | relative_url }}"
+              alt="Close view of a vein bypass graft being sutured to an artery"
+              width="1200"
+              height="1200"
+              loading="lazy"
+              decoding="async"
+            >
+          </div>
+          <figcaption class="works-card__caption">
+            <h2 class="works-card__title">Femoropopliteal bypass technique</h2>
+            <p class="works-card__published-title">Femoropopliteal bypass using prosthetic or vein</p>
+            <p class="works-card__meta">book chapter <span aria-hidden="true">&middot;</span> 2016</p>
+          </figcaption>
+        </figure>
+      </a>
+    </article>
   </div>
 </div>
