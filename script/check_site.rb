@@ -48,6 +48,8 @@ source_paths.select { |path| File.file?(path) }.each do |path|
   relative = path.delete_prefix(root + "/")
   next if File.basename(relative) == "README.md"
   segments = relative.split("/")
+  # Preserve the explicitly requested public chapter URL. Assets remain lowercase.
+  segments[2] = "pedal-bypass" if relative.start_with?("tutorials/peripheral-artery-disease/PedalBypass/")
   next if segments.all? { |segment| segment == "index.md" || segment.match?(/\A[a-z0-9][a-z0-9.-]*\z/) }
   errors << "#{relative}: published paths must use lowercase kebab-case"
 end

@@ -34,6 +34,7 @@ Limb salvage typically consists of these three components:
       <ol start="3">
         <li><a href="/tutorials/peripheral-artery-disease/">Identify peripheral artery disease (PAD)</a>.</li>
         <li>Perform <a href="/tutorials/peripheral-artery-disease/treatment/">revascularization</a>.</li>
+        <li><a href="/tutorials/peripheral-artery-disease/PedalBypass/">Author’s version of a previously published chapter on pedal bypass</a>.</li>
       </ol>
     </div>
   </section>
