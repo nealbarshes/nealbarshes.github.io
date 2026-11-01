@@ -33,9 +33,10 @@ Limb salvage typically consists of these three components:
       <h3>Peripheral artery disease</h3>
       <ol start="3">
         <li><a href="/tutorials/peripheral-artery-disease/">Identify peripheral artery disease (PAD)</a>.</li>
-        <li>Perform <a href="/tutorials/peripheral-artery-disease/treatment/">revascularization</a>.</li>
-        <li><a href="/tutorials/peripheral-artery-disease/distal-vein-patches/">Author's version of a chapter on distal vein patches and cuffs for distal popliteal and tibial artery bypasses</a>.</li>
-        <li><a href="/tutorials/peripheral-artery-disease/PedalBypass/">Author’s version of a chapter on pedal bypass</a>.</li>
+        <li>Perform <a href="/tutorials/peripheral-artery-disease/endovascular-interventions/">endovascular intervention</a>.</li>
+        <li>Perform <a href="/tutorials/peripheral-artery-disease/surgical-bypass/">surgical bypass</a>, including:</li>
+        <li><a href="/tutorials/peripheral-artery-disease/distal-vein-patches/">prosthetic bypass using a distal vein patch or cuff</a>; or</li>
+        <li><a href="/tutorials/peripheral-artery-disease/PedalBypass/">pedal bypass</a>.</li>
       </ol>
     </div>
   </section>
@@ -46,7 +47,7 @@ Limb salvage typically consists of these three components:
     </figure>
     <div class="tutorial-topic__content">
       <h3>Wound healing and reconstruction</h3>
-      <ol start="5">
+      <ol start="8">
         <li>Ensure <a href="/tutorials/foot-healing/">wound healing / foot reconstruction</a> to restore an intact epithelial surface.</li>
       </ol>
     </div>
