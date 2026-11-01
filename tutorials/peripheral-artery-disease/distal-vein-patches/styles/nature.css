@@ -1,0 +1,91 @@
+/* Web reading layout adapted from nealbarshes.github.io/system-of-care/.
+   PDF typography remains in nature.typ. Fonts are stored locally. */
+@font-face { font-family: "Source Serif 4"; src: url("../fonts/sourceserif4.ttf"); font-weight: 200 900; font-display: swap; }
+@font-face { font-family: "League Spartan"; src: url("../fonts/leaguespartan.ttf"); font-weight: 100 900; font-display: swap; }
+@font-face { font-family: "Space Grotesk"; src: url("../fonts/spacegrotesk.ttf"); font-weight: 300 700; font-display: swap; }
+@font-face { font-family: "Source Sans 3"; src: url("../fonts/sourcesans3-it.ttf"); font-style: italic; font-weight: 400; font-display: swap; }
+@font-face { font-family: "Source Sans 3"; src: url("../fonts/sourcesans3-boldit.ttf"); font-style: italic; font-weight: 700; font-display: swap; }
+:root { --ink: #20201e; --muted: #6b665e; --gold: #a87528; --rule: #d8d2c7; --blue: #191970; }
+* { box-sizing: border-box; }
+html { background: #f8f7f3; font-size: 18px; scroll-behavior: smooth; }
+body { position: relative; max-width: 1240px; margin: 0 auto; padding: 3rem 2rem 4rem 17rem; color: var(--ink); font-family: "Source Serif 4", Georgia, serif; font-weight: 400; font-size: 1rem; line-height: 1.65; letter-spacing: -0.005em; }
+#title-block-header { margin-bottom: 3rem; padding: 3rem 2.5rem; background: #07182b; color: #f5f1e9; border-top: 3px solid var(--gold); }
+#title-block-header::before { content: "Techniques in Vascular Surgery · Chapter reprint"; display: block; margin-bottom: 1.3rem; color: #d98242; font: 600 0.72rem/1.4 "League Spartan", sans-serif; letter-spacing: 0.14em; text-transform: uppercase; }
+h1,h2,h3,h4,h5,h6 { font-family: "League Spartan", sans-serif; font-weight: 600; letter-spacing: -0.025em; line-height: 1.15; text-wrap: balance; }
+h1.title { margin: 0; color: inherit; font-size: clamp(2.25rem, 4vw, 3.8rem); letter-spacing: -0.045em; }
+h2:not(#toc-title) { margin: 3.5rem 0 1rem; padding-top: 0.8rem; border-top: 1px solid var(--rule); font-size: 1.9rem; scroll-margin-top: 1.5rem; }
+h3 { font-size: 1.4rem; margin: 2.5rem 0 0.8rem; }
+h4,h5,h6 { font-size: 1.15rem; margin: 2rem 0 0.7rem; }
+p { margin: 0; text-align: left; text-indent: 0; overflow-wrap: break-word; }
+p + p, section > p + p { margin-top: 0.5lh; }
+a { color: var(--gold); text-decoration-thickness: 1px; text-underline-offset: 0.15em; }
+a:hover { color: #20201e; }
+#TOC { position: fixed; top: 2rem; left: max(2rem, calc((100vw - 1240px) / 2 + 2rem)); width: 12rem; max-height: calc(100vh - 4rem); overflow-y: auto; padding: 0.4rem 1.2rem 0.4rem 0; border-right: 1px solid var(--rule); font-family: "League Spartan", sans-serif; scrollbar-width: thin; }
+#TOC h2 { margin: 0 0 1rem; color: var(--muted); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; }
+#TOC ul { margin: 0; padding: 0; list-style: none; counter-reset: contents; }
+#TOC > ul > li { counter-increment: contents; }
+#TOC a { display: block; padding: 0.45rem 0 0.45rem 0.9rem; border-left: 1px solid var(--rule); color: var(--muted); font-size: 0.95rem; line-height: 1.2; text-decoration: none; }
+#TOC > ul > li > a::before { content: counter(contents, decimal-leading-zero) "  "; color: var(--gold); font-size: 0.7rem; }
+#TOC a:hover, #TOC a:focus { color: var(--ink); border-left-color: var(--gold); }
+#TOC ul ul { padding-left: 0.8rem; }
+figure { margin: 2rem 0; break-inside: avoid; }
+.angiography-pair { width: 100%; clear: both; margin: 2rem 0; }
+.angiography-pair > img { display: block; max-width: 100%; height: auto; }
+.angiography-images { display: grid; grid-template-columns: minmax(0,760fr) minmax(0,645.098fr); gap: 3mm; align-items: start; }
+.angiography-images img { display: block; width: 100%; height: auto; border: 0.5pt solid black; }
+.figure-three-images { grid-template-columns: 0.75fr 0.75fr 0.792051fr; }
+.figure-four-images { grid-template-columns: 1.333333fr 1.136905fr; }
+.figure-six-images { grid-template-columns: 1.555556fr 1.315445fr; }
+figcaption, .figure-caption, table caption { margin: 4pt 0 16pt; font-family: "Source Sans 3", sans-serif; font-style: italic; font-size: 1rem; line-height: 1.4; color: #44423e; text-align: left; }
+figcaption strong { font-weight: 700; }
+blockquote { margin: 1.75rem 0; padding: 1rem 1.3rem; border-left: 3px solid var(--gold); background: #efede7; }
+#refs { margin-top: 2rem; padding: 1.3rem; background: #f1f0eb; border-top: 2px solid var(--rule); font-family: "Space Grotesk", sans-serif; font-size: 0.8rem; line-height: 1.55; overflow-wrap: anywhere; }
+#refs p + p { margin-top: 0.9rem; }
+.license-footer { margin-top: 3rem; padding-top: 0.7rem; border-top: 1px solid var(--rule); font: 0.8rem/1.5 "Space Grotesk", sans-serif; }
+.license-footer img { display: inline-block; width: 12pt; height: 12pt; vertical-align: middle; margin-right: 3pt; }
+table { width: 100%; border-collapse: collapse; } th,td { padding: 0.6rem; border-bottom: 1px solid var(--rule); text-align: left; }
+@media (max-width: 900px) {
+ html { font-size: 17px; }
+ body { padding: 1.5rem max(1rem, 5vw) 3rem; max-width: 850px; }
+ #TOC { position: static; width: 100%; max-height: 18rem; padding: 1rem; margin-bottom: 2rem; border: 1px solid var(--rule); background: #efede7; }
+ #title-block-header { padding: 2rem 1.5rem; margin-bottom: 1.5rem; }
+ h2:not(#toc-title) { font-size: 1.65rem; margin-top: 2.75rem; }
+ .angiography-images { gap: 6px; }
+}
+@media print { html { background: white; font-size: 11pt; } body { max-width: none; padding: 0; } #TOC { position: static; width: 100%; max-height: none; } #title-block-header { color: #20201e; background: white; padding: 1rem 0; } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Print download callout, matching the System of Care introductory box. */
+.print-download {
+  margin: 0 0 3rem;
+  padding: clamp(1.1rem, 2.2vw, 1.6rem);
+  border-left: 0.22rem solid var(--gold);
+  background: #efede7;
+  color: #44423e;
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+.print-download p { margin: 0; }
+.print-download a { font-weight: 600; }
+
+.figure-eight-images { grid-template-columns: 1.333333fr 0.75fr 1.332198fr; }
+
+.figure-seven-images { grid-template-columns: 1.625fr 1.654804fr; }
+
+.panel-row { display: grid; gap: 3mm; align-items: start; margin-bottom: 3mm; }
+.panel img { width: 100%; height: auto; display:block; border: 0.5pt solid black; }
+.panel-label { display:block; font: bold 0.8rem "Source Sans 3", sans-serif; }
+.table-scroll { overflow-x: auto; margin: 2rem 0; }
+.table-scroll table { min-width: 700px; font-size: 0.8rem; }
+.table-scroll td { vertical-align: top; }
+
+.abbreviations-box { background: #f2f2f2; border: 0.4pt solid #929292; padding: 0.8rem; margin: 1.5rem 0; break-inside: avoid; }
+.abbreviations-box h3 { margin-top: 0; }
+
+/* Four panels: two columns on wide screens, one column on narrow screens. */
+@media screen and (max-width: 600px) {
+  #fig-3 .panel-row, #fig-4 .panel-row { grid-template-columns: minmax(0, 1fr) !important; }
+  #fig-3, #fig-4 { break-inside: auto; }
+  #fig-3 .panel, #fig-4 .panel { min-width: 0; break-inside: avoid; }
+}

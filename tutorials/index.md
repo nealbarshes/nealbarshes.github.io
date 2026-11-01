@@ -35,6 +35,7 @@ Limb salvage typically consists of these three components:
         <li><a href="/tutorials/peripheral-artery-disease/">Identify peripheral artery disease (PAD)</a>.</li>
         <li>Perform <a href="/tutorials/peripheral-artery-disease/treatment/">revascularization</a>.</li>
         <li><a href="/tutorials/peripheral-artery-disease/PedalBypass/">Author’s version of a previously published chapter on pedal bypass</a>.</li>
+        <li>Zamani N, Barshes NR. <a href="/tutorials/peripheral-artery-disease/distal-vein-patches/">Distal Vein Patches/Cuffs for Distal Popliteal and Tibial Artery Bypasses using Prosthetic Conduits</a>. Author’s revised chapter. <a href="https://doi.org/10.5281/zenodo.23867715">doi:10.5281/zenodo.23867715</a>.</li>
       </ol>
     </div>
   </section>
