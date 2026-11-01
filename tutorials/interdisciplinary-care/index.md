@@ -2,7 +2,7 @@
 layout: single
 title: "Interdisciplinary Care"
 permalink: /tutorials/interdisciplinary-care/
-description: "A working outline for interdisciplinary care in amputation prevention and limb preservation."
+description: "Integrating specialties, treatment plans, and shared clinical capabilities for interdisciplinary limb salvage."
 author_profile: false
 classes: wide tutorial-tech
 ---
@@ -12,18 +12,12 @@ classes: wide tutorial-tech
   <figcaption>PAD and limb loss. Original figure from our <a href="/assets/documents/articles/barshes-dfu-systemofcare.pdf">2013 “System of Care” review paper</a>.</figcaption>
 </figure>
 
-Interdisciplinary care connects the clinical components of amputation prevention and limb preservation into a cohesive system.
+Interdisciplinary care describes health care providers from multiple specialties that integrate and coordinate efforts into one shared treatment plan.
 
-## Core concepts
+Interdisciplinary limb salvage is not about going solo or limiting the number of specialties that are involved in a given patient's care. Interdisciplinary care describes overlap between providers in different specialties rather than groups working in parallel or in separate "silos".
 
-1. Establish shared goals for the patient, limb, wound, and care episode.
-2. Define the responsibilities of each participating discipline.
-3. Coordinate communication, handoffs, and escalation plans.
-4. Use consistent clinical pathways while allowing patient-specific decisions.
-5. Measure outcomes across the full care pathway and use them for continuous improvement.
+Patients seeing multiple specialists often have multiple (and sometimes discordant) treatment plans, one from each specialty team. Interdisciplinary care aims to avoid multiple or discordant plans.
 
-## Additional concepts
+Additionally, interdisciplinary limb salvage transitions from the traditional firm boundaries between the domains of specialties to overlapping capabilities across specialties. In limb salvage, providers outside of infectious diseases are able to initiate appropriate outpatient oral and inpatient parenteral regimens to initiate empiric antibiotic treatment of a foot ulcer with infection. Providers outside of vascular surgery are able to understand the significance of findings reported on non-invasive vascular testing. Providers outside of wound care or podiatry are able to select an appropriate wound care / dressing regimen and offloading footwear.
 
-- Add supporting concepts here.
-- Link to related tutorials, protocols, publications, or presentations.
-- Add practical examples of interdisciplinary or multidisciplinary care.
+Our interdisciplinary approach began with frequent communication between specialties, first to discuss the treatment plans of individual patients, then to more generally discuss treatment strategies and preferences. We consolidated our own specialty and clinic-specific management protocols, then shared with teams in other specialties. To do this, we taught each other some of the aforementioned basics within our respective specialties. In doing so, comprehensive care can be initiated when a limb salvage patient is seen in any of our specialty clinics, then refined as more specialty teams get involved.
