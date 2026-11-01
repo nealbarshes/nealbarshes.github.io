@@ -80,8 +80,8 @@ Limb salvage typically consists of these three components:
       </a>
     </figure>
     <div class="tutorial-topic__content">
-      <h3><a href="/tutorials/interdisciplinary-care/">Interdisciplinary care</a></h3>
-      <p>Amputation prevention and limb salvage require interdisciplinary or multidisciplinary care. The system of care must be <strong>cohesive</strong> and coordinated for reliably good outcomes.</p>
+      <h3>Interdisciplinary care</h3>
+      <p>Amputation prevention and limb salvage require <a href="/tutorials/interdisciplinary-care/">interdisciplinary or multidisciplinary care</a>. The system of care must be <strong>cohesive</strong> and coordinated for reliably good outcomes.</p>
     </div>
   </section>
 </div>
