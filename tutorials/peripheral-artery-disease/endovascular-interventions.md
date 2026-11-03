@@ -7,9 +7,7 @@ author_profile: false
 classes: wide tutorial-tech
 ---
 
-# Infrainguinal endovascular interventions
-
-This page describes practice advice for endovascular interventions done for limb salvage. For open revascularization, see [surgical bypass](/tutorials/peripheral-artery-disease/surgical-bypass/).
+This page describes practice advice for infrainguinal endovascular interventions done for limb salvage. For open revascularization, see [surgical bypass](/tutorials/peripheral-artery-disease/surgical-bypass/).
 
 
 ## Pre-operative considerations
